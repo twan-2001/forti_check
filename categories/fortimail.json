@@ -1,0 +1,352 @@
+[
+  {
+    "title": "FortiMail 200D",
+    "guid": "fe87a783c93edc2451eca5deeffe6e014fa4c058dc57be5de9dba0a14192e66b",
+    "pubDate": "Thu, 22 Jun 2017 00:00:00 -0700",
+    "category": "FortiMail",
+    "End of Order": "2016-12-14",
+    "Last Service Extension": "2020-12-14",
+    "End of Support": "2021-12-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail 5002B",
+    "guid": "fe87a783c93edc2451eca5deeffe6e014fa4c058dc57be5de9dba0a14192e66b",
+    "pubDate": "Thu, 22 Jun 2017 00:00:00 -0700",
+    "category": "FortiMail",
+    "End of Order": "2016-12-14",
+    "Last Service Extension": "2020-12-14",
+    "End of Support": "2021-12-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail Cloud -  Gateway",
+    "guid": "ee56a4013515c2b3dcca9a5b042a3c7403faa6e62e7c2ff115a5db9257e00bb6",
+    "pubDate": "Fri, 13 Aug 2021 06:15:23 -0700",
+    "category": "FortiMail",
+    "End of Order": "2021-11-11",
+    "Last Service Extension": "2025-11-11",
+    "End of Support": "2026-11-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail Cloud MSSP",
+    "guid": "39c4350e83f5e01e49d124f4e658246e23f8938d62c772e8bba58b77f94c7ce5",
+    "pubDate": "Mon, 03 Nov 2025 00:11:01 -0800",
+    "category": "FortiMail",
+    "End of Order": "2026-02-01",
+    "Last Service Extension": "2030-02-01",
+    "End of Support": "2031-02-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-100",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-1000D",
+    "guid": "653a2baf1d2ea9373cbdcda0e48cf4f693bdfe845d4998098cbdb7ff40b64ee0",
+    "pubDate": "Tue, 27 Jun 2023 21:13:15 -0700",
+    "category": "FortiMail",
+    "End of Order": "2019-05-11",
+    "Last Service Extension": "2023-05-11",
+    "End of Support": "2024-05-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-1000D-USG",
+    "guid": "705e785e690fc6f47f2781ef32bf717b60c4c3e2af5d9e94b200991292193761",
+    "pubDate": "Wed, 16 Oct 2019 06:15:12 -0700",
+    "category": "FortiMail",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-100C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2012-10-25",
+    "Last Service Extension": "2016-10-25",
+    "End of Support": "2017-10-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-100C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-2000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2007-11-29",
+    "Last Service Extension": "2011-11-29",
+    "End of Support": "2013-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-2000A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2011-04-21",
+    "Last Service Extension": "2015-04-21",
+    "End of Support": "2016-04-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-2000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2015-04-01",
+    "Last Service Extension": "2019-04-01",
+    "End of Support": "2020-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-2000B-G",
+    "guid": "925c3c4823fec671942c20a0734962019bc5ac860ea044109e669160ccbcc78a",
+    "pubDate": "Thu, 31 Aug 2017 06:15:29 -0700",
+    "category": "FortiMail",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-2000E",
+    "guid": "f8a8266a3e90296b61f8450b6871483665a3bf910ac2c04ba529c98522e4e2c9",
+    "pubDate": "Wed, 01 Dec 2021 06:15:38 -0800",
+    "category": "FortiMail",
+    "End of Order": "2022-03-01",
+    "Last Service Extension": "2026-03-01",
+    "End of Support": "2027-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-200D-G",
+    "guid": "285742da43abf6dff08540cb282d4aeb75e189191671f11523c6214af063d3bb",
+    "pubDate": "Thu, 31 Aug 2017 06:15:26 -0700",
+    "category": "FortiMail",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-200E",
+    "guid": "641ea16550b69335fd2c35bcdc8ca960caefa21507421c6318ef2216d5f91971",
+    "pubDate": "Fri, 08 Feb 2019 06:14:59 -0800",
+    "category": "FortiMail",
+    "End of Order": "2019-05-09",
+    "Last Service Extension": "2023-05-09",
+    "End of Support": "2024-05-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-3000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-3000C-G",
+    "guid": "146bcc67505dafba5bca3eb7168bcb8a387001c73a84abb574772df9bb560993",
+    "pubDate": "Sat, 15 Apr 2017 06:15:30 -0700",
+    "category": "FortiMail",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-3000D",
+    "guid": "9a46e211dcad80d01195822fb5761da59c48811dcf825755fb5954b708293270",
+    "pubDate": "Mon, 30 Jan 2017 13:18:04 -0800",
+    "category": "FortiMail",
+    "End of Order": "2017-01-30",
+    "Last Service Extension": "2021-01-30",
+    "End of Support": "2022-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-3000D-G",
+    "guid": "3c405146ca5fbcbacedae1a1c4fb1f1a6debfbac7e715ba16126791018806ad0",
+    "pubDate": "Mon, 30 Jan 2017 13:20:32 -0800",
+    "category": "FortiMail",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-3000E",
+    "guid": "a44952e595ba2b7e5896f21967ee3a977c7326a825f170ca61bef343e0dfbb40",
+    "pubDate": "Fri, 04 Feb 2022 06:15:58 -0800",
+    "category": "FortiMail",
+    "End of Order": "2022-05-05",
+    "Last Service Extension": "2026-05-05",
+    "End of Support": "2027-05-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-3200E",
+    "guid": "33067699832e7aed6aa82be2447c7591c26ad5b4bbc44921bf4c34960950d987",
+    "pubDate": "Fri, 04 Feb 2022 06:15:59 -0800",
+    "category": "FortiMail",
+    "End of Order": "2022-05-05",
+    "Last Service Extension": "2026-05-05",
+    "End of Support": "2027-05-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-400",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-4000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2007-03-01",
+    "Last Service Extension": "2009-03-01",
+    "End of Support": "2012-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-4000A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2010-12-26",
+    "Last Service Extension": "2014-12-26",
+    "End of Support": "2015-12-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-400B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2012-06-13",
+    "Last Service Extension": "2016-06-13",
+    "End of Support": "2017-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-400C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-400C-G",
+    "guid": "567f9d1c5c90f80c69972c0891eb5f6d4ca730f147412d129f4350b1a9886c4a",
+    "pubDate": "Thu, 31 Aug 2017 06:15:28 -0700",
+    "category": "FortiMail",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-400E",
+    "guid": "641ea16550b69335fd2c35bcdc8ca960caefa21507421c6318ef2216d5f91971",
+    "pubDate": "Fri, 08 Feb 2019 06:14:59 -0800",
+    "category": "FortiMail",
+    "End of Order": "2019-05-09",
+    "Last Service Extension": "2023-05-09",
+    "End of Support": "2024-05-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-5001A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiMail",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-60D",
+    "guid": "37cc4a23b8d28bffe81469dea8e740d152350ae03d28fa7b77e110410c621178",
+    "pubDate": "Fri, 10 Jan 2020 10:54:51 -0800",
+    "category": "FortiMail",
+    "End of Order": "2019-09-04",
+    "Last Service Extension": "2023-09-04",
+    "End of Support": "2024-09-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-900F",
+    "guid": "fef5d34a8c7c5cfed1adc4efe8555cba1c87fb2fc185622d36524cf70afcfbad",
+    "pubDate": "Fri, 03 Oct 2025 00:10:20 -0700",
+    "category": "FortiMail",
+    "End of Order": "2026-01-01",
+    "Last Service Extension": "2030-01-01",
+    "End of Support": "2031-01-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-VM (Hypervisor-specific SKUs)",
+    "guid": "cb953dd99a23ac85fb2bc2d2b6d748979f61e5bd4e954fee2a8c18e9b0e56812",
+    "pubDate": "Sun, 01 Jul 2018 06:15:03 -0700",
+    "category": "FortiMail",
+    "End of Order": "2018-09-29",
+    "Last Service Extension": "2022-09-29",
+    "End of Support": "2023-09-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-VM-S Enterprise ATP reissue",
+    "guid": "39c4350e83f5e01e49d124f4e658246e23f8938d62c772e8bba58b77f94c7ce5",
+    "pubDate": "Mon, 03 Nov 2025 00:11:01 -0800",
+    "category": "FortiMail",
+    "End of Order": "2026-02-01",
+    "Last Service Extension": "2030-02-01",
+    "End of Support": "2031-02-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMail-VM00",
+    "guid": "c82b4e613a2a16c8d9c94a8c67f96d970bd965e055d9fddcf65183aa59b437ad",
+    "pubDate": "Fri, 02 Oct 2020 09:02:14 -0700",
+    "category": "FortiMail",
+    "End of Order": "2020-12-29",
+    "Last Service Extension": "2024-12-29",
+    "End of Support": "2025-12-29",
+    "Last Supported Software Version": "N/A"
+  }
+]

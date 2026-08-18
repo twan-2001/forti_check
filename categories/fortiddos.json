@@ -1,0 +1,182 @@
+[
+  {
+    "title": "FortiDDOS Central Manager",
+    "guid": "4dcf885c81cd52cd08e53d966fb5f168472d60f9948ce055b38ff6211911e1ae",
+    "pubDate": "Mon, 15 Jan 2024 06:15:30 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2024-04-14",
+    "Last Service Extension": "2028-04-14",
+    "End of Support": "2029-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDos-1000B",
+    "guid": "291ebdeffcd9e165135f855d96087de6ba809ae3e8f86b459e9640edc51050d3",
+    "pubDate": "Sat, 16 Jan 2021 06:15:07 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDos-1000B-DC",
+    "guid": "ac11bdc5fb0a415c7b2420f9ae38c62df3d25bbc7f7791ecfea16919eaddb885",
+    "pubDate": "Tue, 15 Oct 2019 06:15:27 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2020-01-13",
+    "Last Service Extension": "2024-01-13",
+    "End of Support": "2025-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-100A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-100A-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDos-1200B",
+    "guid": "97dab146a62947adb078367e2af57d1e8dfad4958b05f90a7c60def23d103a97",
+    "pubDate": "Thu, 15 Jul 2021 06:15:16 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2021-10-13",
+    "Last Service Extension": "2025-10-13",
+    "End of Support": "2026-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-1500E",
+    "guid": "88524fd4eb0bc9f907eac65e854ffa4e4b9f7857469b443f07fa96e15f69a869",
+    "pubDate": "Mon, 01 Jun 2026 00:10:59 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2026-08-30",
+    "Last Service Extension": "2030-08-30",
+    "End of Support": "2031-08-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-2000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2016-07-16",
+    "Last Service Extension": "2020-07-16",
+    "End of Support": "2021-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDos-2000B-USG",
+    "guid": "e9a1491652fb4a81178fa8665d05f42fcb0697a4f09296440169c249401a4e50",
+    "pubDate": "Sat, 15 Apr 2017 06:15:26 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-2000E",
+    "guid": "6c617c207f702e24c7436799ce645996305cbef5a83cb1d326e477da3ecf05a2",
+    "pubDate": "Thu, 15 Jan 2026 00:10:37 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2026-04-15",
+    "Last Service Extension": "2030-04-15",
+    "End of Support": "2031-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-200A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-200A-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-200B",
+    "guid": "2034cb88d732316f6429aecd7e9c6332724f23efbf28bae9fa641f2008a77708",
+    "pubDate": "Tue, 15 Oct 2019 06:15:28 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2020-01-13",
+    "Last Service Extension": "2024-01-13",
+    "End of Support": "2025-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-300A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-400B",
+    "guid": "f48abdf0c4955f5bb008ac220192423a6f68ffee3ab1b9a94e1e266e6e44bbb2",
+    "pubDate": "Thu, 15 Jul 2021 06:15:15 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2021-10-13",
+    "Last Service Extension": "2025-10-13",
+    "End of Support": "2026-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDOS-600B",
+    "guid": "bd1460bdc33594f6a96903192b5dacbac0ee882f0e3af0d1afd6e75c5610b76e",
+    "pubDate": "Wed, 15 Jul 2020 06:15:24 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2020-10-13",
+    "Last Service Extension": "2024-10-13",
+    "End of Support": "2025-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDoS-800B",
+    "guid": "0b914afdacda5ed7b8c843e6531225aff2a67768a4969521a5a3db99623843cf",
+    "pubDate": "Tue, 15 Sep 2020 06:17:49 -0700",
+    "category": "FortiDDoS",
+    "End of Order": "2020-12-14",
+    "Last Service Extension": "2024-12-14",
+    "End of Support": "2025-12-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDDOS-900B",
+    "guid": "54a250b01ca8618f5e5669f475604a4600fbadd29848807716c0c203cf3d15c7",
+    "pubDate": "Fri, 21 Feb 2020 06:15:33 -0800",
+    "category": "FortiDDoS",
+    "End of Order": "2020-05-21",
+    "Last Service Extension": "2024-05-21",
+    "End of Support": "2025-05-21",
+    "Last Supported Software Version": "N/A"
+  }
+]

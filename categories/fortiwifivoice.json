@@ -1,0 +1,22 @@
+[
+  {
+    "title": "FortiWiFiVoice-80CS",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWiFiVoice",
+    "End of Order": "2013-01-27",
+    "Last Service Extension": "2017-01-27",
+    "End of Support": "2018-01-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFiVoice-80CS-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWiFiVoice",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "title": "AP1010",
+    "guid": "fa566de062be30e6b016c452cb081a848ffa0fe501ab6d16509f9ddecc8d6ba3",
+    "pubDate": "Mon, 16 Apr 2018 06:15:27 -0700",
+    "category": "Meru",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP1014",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2015-01-16",
+    "Last Service Extension": "2016-12-01",
+    "End of Support": "2020-01-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP1020",
+    "guid": "1304bea49e8d767010ce9bafc932d042da9238f940421a97a1bf9abedd1d62be",
+    "pubDate": "Mon, 16 Apr 2018 06:15:28 -0700",
+    "category": "Meru",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP110",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2014-12-01",
+    "Last Service Extension": "2016-12-01",
+    "End of Support": "2019-12-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP150",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2011-06-30",
+    "Last Service Extension": "2013-06-30",
+    "End of Support": "2015-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP201",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2010-06-30",
+    "Last Service Extension": "2012-06-30",
+    "End of Support": "2015-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP208",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2010-06-30",
+    "Last Service Extension": "2012-06-30",
+    "End of Support": "2015-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP301",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2012-06-30",
+    "Last Service Extension": "2016-02-15",
+    "End of Support": "2017-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP302",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2012-06-30",
+    "Last Service Extension": "2016-02-15",
+    "End of Support": "2017-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP310",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2012-06-30",
+    "Last Service Extension": "2016-02-15",
+    "End of Support": "2017-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP311",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2012-06-30",
+    "Last Service Extension": "2016-02-15",
+    "End of Support": "2017-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP320",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2014-02-15",
+    "Last Service Extension": "2016-02-15",
+    "End of Support": "2019-02-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP320i",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2014-02-15",
+    "Last Service Extension": "2016-02-15",
+    "End of Support": "2019-02-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP332e",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2015-10-01",
+    "Last Service Extension": "2018-10-01",
+    "End of Support": "2020-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP332i",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2015-10-01",
+    "Last Service Extension": "2018-10-01",
+    "End of Support": "2020-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP433",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2016-05-01",
+    "Last Service Extension": "2017-05-01",
+    "End of Support": "2021-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ESS-PRO",
+    "guid": "c0c6627256c2e87cc47beea9aed4b955ba37f6faf434818ded81ed4ae0ee08e2",
+    "pubDate": "Wed, 08 Feb 2017 06:15:04 -0800",
+    "category": "Meru",
+    "End of Order": "2017-05-09",
+    "Last Service Extension": "2021-05-09",
+    "End of Support": "2022-05-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC-VE Virtual Controller",
+    "guid": "31d7ada1d04669f8392aed3a34c727e276f8f3e4af139de2c0b0c8ef3d3a5be2",
+    "pubDate": "Wed, 31 May 2017 06:16:25 -0700",
+    "category": "Meru",
+    "End of Order": "2017-08-29",
+    "Last Service Extension": "2021-08-29",
+    "End of Support": "2022-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC1000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2009-09-30",
+    "Last Service Extension": "2011-09-30",
+    "End of Support": "2012-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC1500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2013-04-01",
+    "Last Service Extension": "2015-04-01",
+    "End of Support": "2016-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC1550",
+    "guid": "8c923cec6fe95189ea7b7704e5dd078072e19b8ecf80af2862ca313bd4d7f278",
+    "pubDate": "Mon, 17 Apr 2017 12:37:20 -0700",
+    "category": "Meru",
+    "End of Order": "2017-05-10",
+    "Last Service Extension": "2021-05-10",
+    "End of Support": "2022-05-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC3000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2011-10-31",
+    "Last Service Extension": "2014-03-31",
+    "End of Support": "2015-03-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC3200",
+    "guid": "82a500124ae7f51bf145e50c0bfca483600b6e1f6e4639cf40b2d367618a73fe",
+    "pubDate": "Wed, 17 Oct 2018 13:06:41 -0700",
+    "category": "Meru",
+    "End of Order": "2018-11-15",
+    "Last Service Extension": "2022-11-15",
+    "End of Support": "2023-11-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC4100",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2012-03-31",
+    "Last Service Extension": "2014-03-31",
+    "End of Support": "2015-03-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC4200",
+    "guid": "47dcaacb7aa7ef67cc210f3cb5a542eea44116150d526c4bab97d68a37342b9c",
+    "pubDate": "Mon, 17 Apr 2017 12:45:30 -0700",
+    "category": "Meru",
+    "End of Order": "2017-05-10",
+    "Last Service Extension": "2021-05-10",
+    "End of Support": "2022-05-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2009-09-30",
+    "Last Service Extension": "2011-09-30",
+    "End of Support": "2012-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC5000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2013-01-15",
+    "Last Service Extension": "2015-01-15",
+    "End of Support": "2016-01-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC6000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "OAP180",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2012-04-01",
+    "Last Service Extension": "2014-04-01",
+    "End of Support": "2016-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "OAP340",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2013-10-31",
+    "Last Service Extension": "2015-10-31",
+    "End of Support": "2018-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "OAP380",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2013-10-31",
+    "Last Service Extension": "2015-10-31",
+    "End of Support": "2018-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "OAP433",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Meru",
+    "End of Order": "2016-05-01",
+    "Last Service Extension": "2017-05-01",
+    "End of Support": "2021-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "PSM3X Spectrum Sensor",
+    "guid": "628c4ab2e715423d69d68705d6a50fc630e76967f2c864735c9f167146b86d22",
+    "pubDate": "Wed, 31 May 2017 06:16:24 -0700",
+    "category": "Meru",
+    "End of Order": "2017-08-29",
+    "Last Service Extension": "2021-08-29",
+    "End of Support": "2022-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "Sa-EzRF-Licenses-NM-WIPS-SM-SAM",
+    "guid": "640d918009df475821f1568517d66d0ea1efe15f349ad44a964414d804ba25b3",
+    "pubDate": "Tue, 30 May 2017 06:16:23 -0700",
+    "category": "Meru",
+    "End of Order": "2017-08-28",
+    "Last Service Extension": "2021-08-28",
+    "End of Support": "2022-08-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SA2000",
+    "guid": "13bb8803573725ad7601405e63818111b7a92f418584939d8adf7157740f7074",
+    "pubDate": "Fri, 03 Mar 2017 16:18:36 -0800",
+    "category": "Meru",
+    "End of Order": "2017-05-18",
+    "Last Service Extension": "2021-05-18",
+    "End of Support": "2022-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SA250",
+    "guid": "571be6f99f35a413d04e079d55975730bf998027c11a8ccd421392d39953a059",
+    "pubDate": "Fri, 03 Mar 2017 16:18:24 -0800",
+    "category": "Meru",
+    "End of Order": "2017-05-18",
+    "Last Service Extension": "2021-05-18",
+    "End of Support": "2022-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "Virtual Services Appliance for Meru Center",
+    "guid": "1cdddb9ddc31afd45ad9430f2aec48c18c7a68872a190bc48f7b73e334b6fd24",
+    "pubDate": "Fri, 07 Dec 2018 13:07:10 -0800",
+    "category": "Meru",
+    "End of Order": "2018-07-24",
+    "Last Service Extension": "2022-07-24",
+    "End of Support": "2023-07-24",
+    "Last Supported Software Version": "N/A"
+  }
+]

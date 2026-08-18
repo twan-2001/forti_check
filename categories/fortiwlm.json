@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FortiWLM-1000D",
+    "guid": "cdbe9d9617942fa8ca6a88364b15b614deebbad4b0c5b3bf8e71ffbd13d7e5e3",
+    "pubDate": "Mon, 05 Jun 2023 06:15:37 -0700",
+    "category": "FortiWLM",
+    "End of Order": "2023-09-03",
+    "Last Service Extension": "2027-09-03",
+    "End of Support": "2028-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLM-100D",
+    "guid": "080365fe5ae34dc17e6e8e4ae9bf863e42d900a9df9034ebd8c63814b797c931",
+    "pubDate": "Mon, 05 Jun 2023 06:15:38 -0700",
+    "category": "FortiWLM",
+    "End of Order": "2023-09-03",
+    "Last Service Extension": "2027-09-03",
+    "End of Support": "2028-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLM-VM",
+    "guid": "6bcedca16c15cdb47eb1f4a484317a3c7a496dd628b4e0f6e6a49777f7045df4",
+    "pubDate": "Mon, 05 Jun 2023 06:15:39 -0700",
+    "category": "FortiWLM",
+    "End of Order": "2023-09-03",
+    "Last Service Extension": "2027-09-03",
+    "End of Support": "2028-09-03",
+    "Last Supported Software Version": "N/A"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "EOL-FortiGuard-Premier-Services",
+    "guid": "763bd16949463edf040053faf5c22b67da695eb005cc310049fc0b5534caab19",
+    "pubDate": "Tue, 17 Jan 2017 06:15:03 -0800",
+    "category": "LicensesAndServices",
+    "End of Order": "2017-04-17",
+    "Last Service Extension": "2021-04-17",
+    "End of Support": "2022-04-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "EOL_FG-VM_Fabric_Monthly_Program",
+    "guid": "75f773a147db364de388022520cda72c8cc40bb4eeafa24836e81deeca3f01e7",
+    "pubDate": "Sun, 31 Mar 2024 06:16:04 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2024-06-29",
+    "Last Service Extension": "2028-06-29",
+    "End of Support": "2029-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FNDN - FortiGuard Add-ons",
+    "guid": "63485da1d5abb43200eebc4a969f7385aa8ef140507121b5a7e932276cdae55d",
+    "pubDate": "Wed, 20 Sep 2017 16:10:12 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2021-12-14",
+    "End of Support": "2022-12-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FNDN-Toolkit-Licenses",
+    "guid": "45bbbc89e2719c1efac0365d827769db1ce59c508c62635933424fbe59b9d2c6",
+    "pubDate": "Thu, 29 Mar 2018 11:31:08 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2018-06-26",
+    "Last Service Extension": "2022-06-26",
+    "End of Support": "2023-06-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer Management License",
+    "guid": "09fee5470ad61c66891e7b17159fdcb301d69b6ec42c879aa0f10c356c63c417",
+    "pubDate": "Fri, 30 Nov 2018 06:15:30 -0800",
+    "category": "LicensesAndServices",
+    "End of Order": "2019-02-28",
+    "Last Service Extension": "2023-02-28",
+    "End of Support": "2024-02-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCare 360",
+    "guid": "7cb2c5fc3734d04715cc45783aaca7d244766e61df15fced9d081d9b1e7528c6",
+    "pubDate": "Wed, 03 Apr 2019 10:13:17 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2019-06-30",
+    "Last Service Extension": "2019-06-30",
+    "End of Support": "2020-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiConnect",
+    "guid": "51585fc06921313f44f04eb02ac9e4a06c032376e9dc211fd47c60db72dd8bcd",
+    "pubDate": "Fri, 01 Jul 2022 06:15:58 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2022-09-29",
+    "Last Service Extension": "2026-09-29",
+    "End of Support": "2027-09-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDeceptor Windows Combined Add On for EOL",
+    "guid": "edda03d92ed797406b58c396a9104dcd523ffbe46fc141cfa482e0d3a7345d69",
+    "pubDate": "Fri, 24 May 2019 06:17:49 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGuard Threat Intelligence Service",
+    "guid": "855f20be6a4e36300b66fc466c4547315f971c4751dbe1f664ce15f03b6ff324",
+    "pubDate": "Fri, 05 Apr 2019 14:19:09 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2019-04-15",
+    "Last Service Extension": "2019-04-15",
+    "End of Support": "2020-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiPenTest VM version",
+    "guid": "c23da886e21a7aaa225fecd19c26d29ba73cf99f00571bc7603d165f1e145541",
+    "pubDate": "Mon, 07 Oct 2024 06:15:07 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2025-01-05",
+    "Last Service Extension": "2029-01-05",
+    "End of Support": "2030-01-05",
+    "Last Supported Software Version": "N/A"
+  }
+]

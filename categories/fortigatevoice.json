@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FortiGateVoice-40D2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGateVoice",
+    "End of Order": "2016-05-18",
+    "Last Service Extension": "2020-05-18",
+    "End of Support": "2021-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateVoice-70D4",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGateVoice",
+    "End of Order": "2016-05-18",
+    "Last Service Extension": "2020-05-18",
+    "End of Support": "2021-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateVoice-80C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGateVoice",
+    "End of Order": "2013-01-27",
+    "Last Service Extension": "2017-01-27",
+    "End of Support": "2018-01-27",
+    "Last Supported Software Version": "N/A"
+  }
+]

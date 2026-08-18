@@ -1,0 +1,82 @@
+[
+  {
+    "title": "FortiController-5103B",
+    "guid": "a7224eab4a199ee0f0d251a667e04a7ecce6890c2454cdc119bf605bc712485d",
+    "pubDate": "Fri, 20 Jul 2018 06:15:03 -0700",
+    "category": "FortiSwitch5000",
+    "End of Order": "2018-10-18",
+    "Last Service Extension": "2022-10-18",
+    "End of Support": "2023-10-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiController-5103B-G",
+    "guid": "2c6beb056138e64561e334be59562315a45d1d4d7e06a27c0357e80ce1fed40b",
+    "pubDate": "Sat, 15 Apr 2017 06:15:19 -0700",
+    "category": "FortiSwitch5000",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiController-5903C",
+    "guid": "cac882fd6ec8f3085b050116513cda2fd891b12878573a56bc06b69fc5b57282",
+    "pubDate": "Sun, 16 Jan 2022 06:15:32 -0800",
+    "category": "FortiSwitch5000",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiController-5913C",
+    "guid": "cac882fd6ec8f3085b050116513cda2fd891b12878573a56bc06b69fc5b57282",
+    "pubDate": "Sun, 16 Jan 2022 06:15:32 -0800",
+    "category": "FortiSwitch5000",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-5003A",
+    "guid": "7c436c80c536e66c8539fe0d755735c8269bbf2931a41a4c1ba1a8a7a688089d",
+    "pubDate": "Tue, 16 Jan 2018 06:15:19 -0800",
+    "category": "FortiSwitch5000",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-5003A-G",
+    "guid": "b74673f83fde5b877f8e9f9db98f5a9d0067ce7b5c7abd5deee5cad63c538c4f",
+    "pubDate": "Tue, 16 Jan 2018 06:15:13 -0800",
+    "category": "FortiSwitch5000",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-5003B",
+    "guid": "64c61502ff65b7ed3e4e465e88f4d04e38c2c4ec443afab8dc6e4e50c67dc99d",
+    "pubDate": "Tue, 16 Jan 2018 06:15:20 -0800",
+    "category": "FortiSwitch5000",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-5003B-G",
+    "guid": "e13f1270165d149e595c92e401472a6abebe8adf98c8ebd60aa0deb1fde7127a",
+    "pubDate": "Tue, 16 Jan 2018 06:15:14 -0800",
+    "category": "FortiSwitch5000",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  }
+]

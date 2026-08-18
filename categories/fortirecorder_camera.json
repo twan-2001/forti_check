@@ -1,0 +1,312 @@
+[
+  {
+    "title": "FCM-SD2-CPM",
+    "guid": "dd25dfbd5f68a711faba03cc497c0626264662056f7ba55551b5602ff6e9e37f",
+    "pubDate": "Fri, 14 Oct 2022 06:15:42 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2023-01-12",
+    "Last Service Extension": "2027-01-12",
+    "End of Support": "2028-01-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FCM-SD2-PDT",
+    "guid": "3ecfa42f297cd533cc318506cd1d2925b31b5714f96c3b42c6a3e16f872d0447",
+    "pubDate": "Fri, 14 Oct 2022 06:15:43 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2023-01-12",
+    "Last Service Extension": "2027-01-12",
+    "End of Support": "2028-01-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FCM-SD2-ST25",
+    "guid": "cf7299322eddb5d4b6a6f4bf41303490ad4d2ab4028689e5188166695ff75b8c",
+    "pubDate": "Fri, 14 Oct 2022 06:15:44 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2023-01-12",
+    "Last Service Extension": "2027-01-12",
+    "End of Support": "2028-01-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FCM-SD2-TDM",
+    "guid": "f26d413243e6a062ca38a5aa4312dfecdfd66d64a98995d2cb3d4e4ed577bf59",
+    "pubDate": "Fri, 14 Oct 2022 06:15:45 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2023-01-12",
+    "Last Service Extension": "2027-01-12",
+    "End of Support": "2028-01-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-CB20",
+    "guid": "022e7142287567bb47a1b30265ffa2e996c7e9fbdc578d2f4a110d4d95eaa166",
+    "pubDate": "Mon, 09 Sep 2019 06:19:14 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-12-08",
+    "Last Service Extension": "2023-12-08",
+    "End of Support": "2024-12-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-CD5-Mount-PCP",
+    "guid": "47b09f0c1041a19fe0b708e045e7f669d19e237209e1c175c1310dce23e697ae",
+    "pubDate": "Fri, 14 Oct 2022 06:15:47 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2023-01-12",
+    "Last Service Extension": "2027-01-12",
+    "End of Support": "2028-01-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FD20",
+    "guid": "ae80d68e7917589e916f739a349972229b788397aa48bae5cc4b9209c1c81c97",
+    "pubDate": "Fri, 30 Nov 2018 06:15:27 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-02-28",
+    "Last Service Extension": "2023-02-28",
+    "End of Support": "2024-02-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FD20B",
+    "guid": "93ebe086a29a1836b340dfa8a57b545a0e6a89273f43f815a67a37ccaae1a33c",
+    "pubDate": "Mon, 09 Sep 2019 06:19:15 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-12-08",
+    "Last Service Extension": "2023-12-08",
+    "End of Support": "2024-12-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FD40",
+    "guid": "829cae5af6f306ba3f500a22340b21764359d5dbea8cbb30b20d86aee951f8ea",
+    "pubDate": "Tue, 08 Sep 2020 06:17:02 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-12-07",
+    "Last Service Extension": "2024-12-07",
+    "End of Support": "2025-12-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FD40-Mount-ICM",
+    "guid": "eacc82e2ee9e637caa49ac009473ecec47ab8163e87041b3b1832335f3ec360c",
+    "pubDate": "Thu, 17 Sep 2020 06:18:03 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-12-16",
+    "Last Service Extension": "2024-12-16",
+    "End of Support": "2025-12-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FD40-Mount-PCP",
+    "guid": "c324aea3089095f5d3d83c1367e3357087842aa8eba81223b569e99425c759f0",
+    "pubDate": "Thu, 17 Sep 2020 06:18:04 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-12-16",
+    "Last Service Extension": "2024-12-16",
+    "End of Support": "2025-12-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FD40-Mount-WMB",
+    "guid": "c324aea3089095f5d3d83c1367e3357087842aa8eba81223b569e99425c759f0",
+    "pubDate": "Thu, 17 Sep 2020 06:18:04 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-12-16",
+    "Last Service Extension": "2024-12-16",
+    "End of Support": "2025-12-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FE120",
+    "guid": "2606eb9642f9da9db6438873892a73823a0f516ae07049b2eb152a8d89b3f9d2",
+    "pubDate": "Mon, 09 Sep 2019 06:19:16 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-12-08",
+    "Last Service Extension": "2023-12-08",
+    "End of Support": "2024-12-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-FE120-Mount-JBX",
+    "guid": "270fa7370f073a8cd113d08bc5078ff306a763ff82b333d1487c6c60d61a8e27",
+    "pubDate": "Mon, 16 Dec 2019 06:15:58 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-03-15",
+    "Last Service Extension": "2024-03-15",
+    "End of Support": "2025-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-MB40",
+    "guid": "89298e22d3df22a749c1118243684e03a98aba02189b0cb8a6d990fbb626b129",
+    "pubDate": "Thu, 15 Jul 2021 06:15:17 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2021-10-13",
+    "Last Service Extension": "2025-10-13",
+    "End of Support": "2026-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-MD40",
+    "guid": "021c1394400a9252eac7154baff66eb315266f97700338d9976749948f5d400b",
+    "pubDate": "Mon, 03 Jun 2019 06:18:54 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-09-01",
+    "Last Service Extension": "2023-09-01",
+    "End of Support": "2024-09-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-MD40-Mount-JBX",
+    "guid": "f66cb44e2eed3397a0668c50c87b0652ddc5b42c8ee4dbd5242594d621b4b841",
+    "pubDate": "Mon, 16 Dec 2019 06:15:59 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-03-15",
+    "Last Service Extension": "2024-03-15",
+    "End of Support": "2025-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-MD40-Mount-WMT",
+    "guid": "f66cb44e2eed3397a0668c50c87b0652ddc5b42c8ee4dbd5242594d621b4b841",
+    "pubDate": "Mon, 16 Dec 2019 06:15:59 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-03-15",
+    "Last Service Extension": "2024-03-15",
+    "End of Support": "2025-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-MD50",
+    "guid": "93ebe086a29a1836b340dfa8a57b545a0e6a89273f43f815a67a37ccaae1a33c",
+    "pubDate": "Mon, 09 Sep 2019 06:19:15 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-12-08",
+    "Last Service Extension": "2023-12-08",
+    "End of Support": "2024-12-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-MD50B",
+    "guid": "c79f47cc630be30c88e11e54e7a1ec338e17e09c427f6d6dda753744c1fb4e45",
+    "pubDate": "Thu, 02 Dec 2021 22:04:53 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2022-03-01",
+    "Last Service Extension": "2026-03-01",
+    "End of Support": "2027-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-OB30",
+    "guid": "9e3f157af8dedb8c3520ae2f821fec5d91696fe9691359fc3b077c1198be342a",
+    "pubDate": "Fri, 20 Sep 2019 06:15:20 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-12-19",
+    "Last Service Extension": "2023-12-19",
+    "End of Support": "2024-12-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-SD20",
+    "guid": "48f0eebc281b4d59c0c14d973af6ba947e6393689dcaa782b077c8bf946ffbc9",
+    "pubDate": "Mon, 24 Dec 2018 06:15:40 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-03-24",
+    "Last Service Extension": "2023-03-24",
+    "End of Support": "2024-03-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCam-SD20B",
+    "guid": "ae248d758ba4c57bf96b358267eda7566267d1248c0c2ddc588d5fa6780c4b28",
+    "pubDate": "Mon, 30 May 2022 06:15:39 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2022-08-28",
+    "Last Service Extension": "2026-08-28",
+    "End of Support": "2027-08-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCamera-CB50",
+    "guid": "5da961a83faefa0420d333605f4a89e3bb2a79253bc887ff23bea8a9a27f5517",
+    "pubDate": "Fri, 26 Aug 2022 06:15:31 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2022-11-24",
+    "Last Service Extension": "2026-11-24",
+    "End of Support": "2027-11-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCamera-FB50",
+    "guid": "6af912bda36fc5d6f88e69ab45f8cc332898d56ae6fea819a58cf2a95a6bd3d4",
+    "pubDate": "Wed, 01 Oct 2025 00:10:37 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2025-12-30",
+    "Last Service Extension": "2029-12-30",
+    "End of Support": "2030-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCamera-PD50",
+    "guid": "ca714dcee15296e7915d8902fbfb654b88163dae7e44004caae88ad8af0f6625",
+    "pubDate": "Mon, 24 Jan 2022 06:15:39 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2022-04-24",
+    "Last Service Extension": "2026-04-24",
+    "End of Support": "2027-04-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCamera-PD50-Mount-WMT",
+    "guid": "51dfed05d35d8a270bf32774aa43d74ad72cd1a534f4c55033527c720aa3d871",
+    "pubDate": "Fri, 14 Oct 2022 06:15:46 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2023-01-12",
+    "Last Service Extension": "2027-01-12",
+    "End of Support": "2028-01-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiRecorder-100D",
+    "guid": "265ba738a61b3104bc7460fe38c6b2a231262ca5c65c56fd3479ee326cc28f42",
+    "pubDate": "Wed, 04 May 2022 06:15:57 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2022-08-02",
+    "Last Service Extension": "2026-08-02",
+    "End of Support": "2027-08-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiRecorder-200D",
+    "guid": "010cd35463b9bdced46a942b46531050c9c0d67625577be7ca69ee1ba5b43df7",
+    "pubDate": "Tue, 16 Mar 2021 10:25:00 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiRecorder-400D",
+    "guid": "677cf2382452ca38f94dae099ce8cf7ff3bfa788d89a8bfbc6b3136327e6d450",
+    "pubDate": "Thu, 01 Aug 2019 06:16:11 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2019-10-30",
+    "Last Service Extension": "2023-10-30",
+    "End of Support": "2024-10-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiRecorder-VM-USG",
+    "guid": "951d6b4cce013f33c44403847be29fd4beda30488223ee4ca369d8d546200f7f",
+    "pubDate": "Wed, 04 Dec 2019 06:15:26 -0800",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2020-03-03",
+    "Last Service Extension": "2024-03-03",
+    "End of Support": "2025-03-03",
+    "Last Supported Software Version": "N/A"
+  }
+]

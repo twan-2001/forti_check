@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FortiDDoS Cloud Monitoring",
+    "guid": "b8e86943a22e0322a59bc29f58ad6ba2aee63cfdb7b08166063f041636da7ba2",
+    "pubDate": "Fri, 17 Mar 2017 06:15:04 -0700",
+    "category": "FortiDirector",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2017-04-15",
+    "End of Support": "2017-08-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDirector",
+    "guid": "01d70a0fcfd978598773287098998ad915992f6feba95a36de9dd8bd91c81083",
+    "pubDate": "Tue, 07 Mar 2017 06:15:03 -0800",
+    "category": "FortiDirector",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2017-04-15",
+    "End of Support": "2017-08-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDirector Monitoring Service",
+    "guid": "1805519b596b4511375c9070f5e1787d0b6b30554bc61c30f834bc28e8c678c7",
+    "pubDate": "Tue, 07 Mar 2017 06:15:06 -0800",
+    "category": "FortiDirector",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2017-04-15",
+    "End of Support": "2017-08-15",
+    "Last Supported Software Version": "N/A"
+  }
+]

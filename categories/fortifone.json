@@ -1,0 +1,302 @@
+[
+  {
+    "title": "FortiFone-100",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2011-04-21",
+    "Last Service Extension": "2015-04-21",
+    "End of Support": "2016-04-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-110",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-175",
+    "guid": "c03f88d9114e67b2993ede8f8b4f926fdc34c4d1544b160034ee6baa0bdf2537",
+    "pubDate": "Tue, 20 Feb 2024 17:57:21 -0800",
+    "category": "FortiFone",
+    "End of Order": "2023-03-22",
+    "Last Service Extension": "2027-03-22",
+    "End of Support": "2028-03-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-210",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-260i",
+    "guid": "301f02219d493c54803458e4ced8c4cf31c0be0e07bca2434f49d6c91b3ef40d",
+    "pubDate": "Mon, 30 Jan 2017 13:13:53 -0800",
+    "category": "FortiFone",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-360i",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2016-07-20",
+    "Last Service Extension": "2020-07-20",
+    "End of Support": "2021-07-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-370i",
+    "guid": "004339bda960cfd6d82195beb496a2fe06b57aba355f7de182db488a4220d20f",
+    "pubDate": "Mon, 10 Jul 2017 06:15:09 -0700",
+    "category": "FortiFone",
+    "End of Order": "2017-10-08",
+    "Last Service Extension": "2021-10-08",
+    "End of Support": "2022-10-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-375",
+    "guid": "2161e86dfc585ef068edcfd13a99654b29efdf3e74006df8468a18554df2fc63",
+    "pubDate": "Tue, 15 Dec 2020 06:15:04 -0800",
+    "category": "FortiFone",
+    "End of Order": "2021-03-15",
+    "Last Service Extension": "2025-03-15",
+    "End of Support": "2026-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-460i",
+    "guid": "f0bdfd4881b502fdb24456f8b97905f06f1986cc59190cd4d5a70d783448897c",
+    "pubDate": "Mon, 30 Jan 2017 13:14:00 -0800",
+    "category": "FortiFone",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-470i",
+    "guid": "2d5564f39f75e86ed794e1785fe4460c4c6876f9a665e079b09a41e0c1d3d508",
+    "pubDate": "Tue, 20 Mar 2018 06:15:12 -0700",
+    "category": "FortiFone",
+    "End of Order": "2018-06-18",
+    "Last Service Extension": "2022-06-18",
+    "End of Support": "2023-06-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-475",
+    "guid": "db0a15bbd63242aa888eca930e7f4d1b1d3ecd9c8f9ab627cc88050b5bb17f6f",
+    "pubDate": "Tue, 15 Dec 2020 06:15:05 -0800",
+    "category": "FortiFone",
+    "End of Order": "2021-03-15",
+    "Last Service Extension": "2025-03-15",
+    "End of Support": "2026-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-480",
+    "guid": "c79e4f5618f96a8d40816023b8ffebc48b1667d7e5bcf46b5658e0a8ba28c14b",
+    "pubDate": "Thu, 08 Jun 2023 06:15:21 -0700",
+    "category": "FortiFone",
+    "End of Order": "2023-09-06",
+    "Last Service Extension": "2027-09-06",
+    "End of Support": "2028-09-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-560i",
+    "guid": "876a17621783e1aab46f3aacf8abaaee3240cba3541d2ce2667e927cb1054f9a",
+    "pubDate": "Mon, 30 Jan 2017 13:14:07 -0800",
+    "category": "FortiFone",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-570",
+    "guid": "cc6f2e116acd150294498bd16b25946292f5f6236b52a6fe57991e3131da7a5b",
+    "pubDate": "Tue, 20 Feb 2024 17:58:26 -0800",
+    "category": "FortiFone",
+    "End of Order": "2022-07-03",
+    "Last Service Extension": "2026-07-03",
+    "End of Support": "2027-07-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-575",
+    "guid": "9bc9ae48b7b22cd5d1b34df2536869b8a80f62f3c5c56b878451d0c764f67988",
+    "pubDate": "Tue, 31 Aug 2021 06:15:26 -0700",
+    "category": "FortiFone",
+    "End of Order": "2021-11-29",
+    "Last Service Extension": "2025-11-29",
+    "End of Support": "2026-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-580",
+    "guid": "3ebbce966590dbf46111576c7a4e731f70da4e45340232641fb584326f1a6458",
+    "pubDate": "Fri, 01 Dec 2023 06:15:23 -0800",
+    "category": "FortiFone",
+    "End of Order": "2024-02-29",
+    "Last Service Extension": "2028-02-29",
+    "End of Support": "2029-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-610",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-670i",
+    "guid": "83e297543967692507f0d02dcad4089c4a2a30f6aafc6bd16a85438f2c5f43c2",
+    "pubDate": "Mon, 17 Jun 2019 06:15:35 -0700",
+    "category": "FortiFone",
+    "End of Order": "2019-09-15",
+    "Last Service Extension": "2023-09-15",
+    "End of Support": "2024-09-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-675i",
+    "guid": "c79a7b7e5b5d0c9384bbfc9e3fcd209939eef4862b82895bf9d662d9571bf731",
+    "pubDate": "Tue, 31 Aug 2021 06:15:27 -0700",
+    "category": "FortiFone",
+    "End of Order": "2021-11-29",
+    "Last Service Extension": "2025-11-29",
+    "End of Support": "2026-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-70e",
+    "guid": "d8bc73733a17441af7525ca4753cb0dd7faedee8b7a0905f54818e4185dded74",
+    "pubDate": "Tue, 20 Feb 2024 17:55:30 -0800",
+    "category": "FortiFone",
+    "End of Order": "2018-09-25",
+    "Last Service Extension": "2022-09-25",
+    "End of Support": "2023-09-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-860i",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-860i-H",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiFone",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-870i-E",
+    "guid": "665aaa9a4b7e7420e9b4fd9d9bc1ae9e03b93845c637c96372ae44914b6d40be",
+    "pubDate": "Wed, 27 May 2020 06:20:17 -0700",
+    "category": "FortiFone",
+    "End of Order": "2020-08-25",
+    "Last Service Extension": "2024-08-25",
+    "End of Support": "2025-08-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-C71",
+    "guid": "ae840dc9d594bbe7e6a9b263469de31000f25901a615a0d1cc2c4e5576fe2f20",
+    "pubDate": "Fri, 05 May 2023 08:55:59 -0700",
+    "category": "FortiFone",
+    "End of Order": "2023-07-04",
+    "Last Service Extension": "2027-07-04",
+    "End of Support": "2028-07-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-D71 Handset-EU",
+    "guid": "df420bb8704661d7ceeeb6caa7778ea61a5a424208335dec935cfdd6b4872ec1",
+    "pubDate": "Thu, 01 Aug 2024 06:15:59 -0700",
+    "category": "FortiFone",
+    "End of Order": "2024-10-30",
+    "Last Service Extension": "2028-10-30",
+    "End of Support": "2029-10-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-E570",
+    "guid": "2b01a7a225a8dc368f455342f01643cc9d714b75a67f93a4bc87f021243f51ba",
+    "pubDate": "Tue, 15 Dec 2020 06:15:03 -0800",
+    "category": "FortiFone",
+    "End of Order": "2021-03-15",
+    "Last Service Extension": "2025-03-15",
+    "End of Support": "2026-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-H25-DCL",
+    "guid": "7300f6aae6a6987087a1963ef1312b7a77e42fc58fabaf330bc8e9145d051f00",
+    "pubDate": "Fri, 06 Sep 2024 06:15:11 -0700",
+    "category": "FortiFone",
+    "End of Order": "2024-12-05",
+    "Last Service Extension": "2028-12-05",
+    "End of Support": "2029-12-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiFone-H35",
+    "guid": "7f77ec837f44574707a00abed024de3f44f5d96eb88a151e5a0b76de9d33f0dd",
+    "pubDate": "Tue, 01 Jun 2021 06:15:27 -0700",
+    "category": "FortiFone",
+    "End of Order": "2021-08-30",
+    "Last Service Extension": "2025-08-30",
+    "End of Support": "2026-08-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiPhone-C70",
+    "guid": "1301a4ced5eb1e624e2f84b2bdbb62c900f98e9763f83175266d8c9e202fecf6",
+    "pubDate": "Tue, 10 Jul 2018 06:15:03 -0700",
+    "category": "FortiFone",
+    "End of Order": "2018-10-08",
+    "Last Service Extension": "2022-10-08",
+    "End of Support": "2023-10-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiPhone-M70",
+    "guid": "521e807429d83ce4231ed755c869a41b99690e14ce799c79eb4c809054e975c8",
+    "pubDate": "Wed, 27 Jun 2018 06:15:03 -0700",
+    "category": "FortiFone",
+    "End of Order": "2018-09-25",
+    "Last Service Extension": "2022-09-25",
+    "End of Support": "2023-09-25",
+    "Last Supported Software Version": "N/A"
+  }
+]

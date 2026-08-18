@@ -1,0 +1,72 @@
+[
+  {
+    "title": "FortiAnalyzer BigData Virtual Appliance",
+    "guid": "9cadc860753f77a0e8c9347046103a147597148cf3fb2663ef0c294bc2019843",
+    "pubDate": "Thu, 19 Dec 2024 06:15:02 -0800",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2025-03-19",
+    "Last Service Extension": "2029-03-19",
+    "End of Support": "2030-03-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-BigData-4000D",
+    "guid": "e7c7f8a25bb2363c287849bd716833d0f024c7510f7ef621262b4598a6fd6ba4",
+    "pubDate": "Fri, 08 Feb 2019 06:14:58 -0800",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2019-05-09",
+    "Last Service Extension": "2023-05-09",
+    "End of Support": "2024-05-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-BigData-4100D",
+    "guid": "14a5f62f7bdd65878796bb8b9b268411b109c9d97a6352dec5c7fec9c610e599",
+    "pubDate": "Mon, 10 Apr 2017 06:15:05 -0700",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2017-07-09",
+    "Last Service Extension": "2021-07-09",
+    "End of Support": "2022-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-BigData-4500F",
+    "guid": "528fa1677418e0120e4960ec0823a3c6ff38aa42388bf36c66022ad6f17cc4ef",
+    "pubDate": "Tue, 16 Jan 2024 06:15:31 -0800",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-BigData-4500F-USG",
+    "guid": "8d1fbb7da547d3d98f46441145b37d4c2d96c628a6ce516c4dc47ff684c1bd4b",
+    "pubDate": "Wed, 12 Mar 2025 16:16:39 -0700",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2025-05-30",
+    "Last Service Extension": "2029-05-30",
+    "End of Support": "2030-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-BigData-4500G-TAA-FGDUS",
+    "guid": "0e041145125576a4c6a7b9e46f4a4ca019154b1fcf124ce32ba043cb85116d99",
+    "pubDate": "Fri, 05 Jun 2026 00:10:31 -0700",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2026-09-03",
+    "Last Service Extension": "2030-09-03",
+    "End of Support": "2031-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiMonitor-3000D",
+    "guid": "d83d9d4cab4708ab653047b9af7375a7ae3f80d388d854324b7310f2b0128098",
+    "pubDate": "Fri, 08 Mar 2019 06:14:55 -0800",
+    "category": "FortiAnalyzerBigData",
+    "End of Order": "2019-06-06",
+    "Last Service Extension": "2023-06-06",
+    "End of Support": "2024-06-06",
+    "Last Supported Software Version": "N/A"
+  }
+]

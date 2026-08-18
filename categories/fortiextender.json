@@ -1,0 +1,172 @@
+[
+  {
+    "title": "FortiExtender-100A-VZW",
+    "guid": "a3a2b2d59f6d30540ff4b64d614a06c86d85344f30c3e1ebf7405dd2aef604d2",
+    "pubDate": "Mon, 30 Jan 2017 13:17:20 -0800",
+    "category": "FortiExtender",
+    "End of Order": "2017-01-25",
+    "Last Service Extension": "2021-01-25",
+    "End of Support": "2022-01-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-100B",
+    "guid": "54364ce28a06e5641756e672ce05a4886cfbb2fef047edadd1c87656c1b28829",
+    "pubDate": "Fri, 29 Mar 2019 06:17:18 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2019-06-27",
+    "Last Service Extension": "2023-06-27",
+    "End of Support": "2024-06-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-101F-AM",
+    "guid": "7982c440cf965dca93c81a9593c338f564d4defe0e6c6bf0438fbb3377c317f9",
+    "pubDate": "Fri, 02 Aug 2024 06:15:55 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2024-10-31",
+    "Last Service Extension": "2028-10-31",
+    "End of Support": "2029-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-101F-EA",
+    "guid": "48968744f52fa7141bc188930e245e535744dca9ff39711b996503ec6bb024aa",
+    "pubDate": "Fri, 30 May 2025 00:10:40 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2025-08-28",
+    "Last Service Extension": "2029-08-28",
+    "End of Support": "2030-08-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-201E",
+    "guid": "bfc972383338e1e3d1ea95457552f61c8c5b62e36db85986c08f50f5b5e9d5d4",
+    "pubDate": "Mon, 01 Aug 2022 06:15:47 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2022-10-30",
+    "Last Service Extension": "2026-10-30",
+    "End of Support": "2027-10-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-201F-AM",
+    "guid": "e9aa4634f154750d726e19db966c3dc90fb074ff3b1993409a7036839057bdfc",
+    "pubDate": "Tue, 02 Sep 2025 00:10:33 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2025-12-01",
+    "Last Service Extension": "2029-12-01",
+    "End of Support": "2030-12-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-202F-EA",
+    "guid": "18364dbb40455f171cd506f450e0e0fbf1fbf0ceabd50a3cf44d018a045c346a",
+    "pubDate": "Mon, 09 Mar 2026 11:46:40 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2026-03-15",
+    "Last Service Extension": "2030-03-15",
+    "End of Support": "2031-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-20B",
+    "guid": "f4cb9643fa1fbce41a519ab3e3f7cf07d8202543e4e3fe632a16aa8c67e5c247",
+    "pubDate": "Wed, 22 Mar 2017 08:27:23 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2017-01-05",
+    "Last Service Extension": "2021-01-05",
+    "End of Support": "2022-01-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-20D",
+    "guid": "a91a7c2ab18084f070d9efb7db8099a049a90eda7899b941634ec4fe92f8d9ba",
+    "pubDate": "Fri, 29 Mar 2019 06:17:19 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2019-06-27",
+    "Last Service Extension": "2023-06-27",
+    "End of Support": "2024-06-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-211E",
+    "guid": "2caada1bf4adb67563d54bee05dae60578221da848c9b17c3a0501b084c84dd8",
+    "pubDate": "Wed, 17 Apr 2024 06:15:31 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2024-07-16",
+    "Last Service Extension": "2028-07-16",
+    "End of Support": "2029-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-212F",
+    "guid": "95c3aa815be6e709b06b928790b0d72cb4f06ce63946fd0ffd787e0255539830",
+    "pubDate": "Fri, 10 Jan 2025 06:15:09 -0800",
+    "category": "FortiExtender",
+    "End of Order": "2025-04-10",
+    "Last Service Extension": "2029-04-10",
+    "End of Support": "2030-04-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-212F-TAA",
+    "guid": "95c3aa815be6e709b06b928790b0d72cb4f06ce63946fd0ffd787e0255539830",
+    "pubDate": "Fri, 10 Jan 2025 06:15:09 -0800",
+    "category": "FortiExtender",
+    "End of Order": "2025-04-10",
+    "Last Service Extension": "2029-04-10",
+    "End of Support": "2030-04-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-311F",
+    "guid": "32a3a61f398122051265a2b4e50ab8a6bd3626a581952caa3a0f52132a7aba49",
+    "pubDate": "Wed, 22 Apr 2026 11:01:06 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2026-04-14",
+    "Last Service Extension": "2030-04-14",
+    "End of Support": "2031-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-40D-AMEU",
+    "guid": "2034cb88d732316f6429aecd7e9c6332724f23efbf28bae9fa641f2008a77708",
+    "pubDate": "Tue, 15 Oct 2019 06:15:28 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2020-01-13",
+    "Last Service Extension": "2024-01-13",
+    "End of Support": "2025-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-40D-INTL",
+    "guid": "73740d9c02f11c90995287bc7d982bb678056ff0a185f1db2f36a8b9869c9184",
+    "pubDate": "Fri, 03 May 2019 06:15:30 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2019-08-01",
+    "Last Service Extension": "2023-08-01",
+    "End of Support": "2024-08-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-40D-NAM",
+    "guid": "f9bdf29f9d67355e9f76688e95bcd6ce611fb1557f80c5f7d0a739e33ed25737",
+    "pubDate": "Fri, 03 May 2019 06:15:31 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2019-08-01",
+    "Last Service Extension": "2023-08-01",
+    "End of Support": "2024-08-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiExtender-511F",
+    "guid": "9a6cb6bb2393062d8bccc78d058bc4aa4818633e2c5d503feb1de9dafd34369a",
+    "pubDate": "Wed, 22 Apr 2026 10:58:06 -0700",
+    "category": "FortiExtender",
+    "End of Order": "2026-05-25",
+    "Last Service Extension": "2030-05-25",
+    "End of Support": "2031-05-25",
+    "Last Supported Software Version": "N/A"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "FortiSandbox-1000D",
+    "guid": "a891897abef6264254ff858a7831f27ee83a71cd4aea1f7dfdb6f0bd3b668c8c",
+    "pubDate": "Wed, 02 Jan 2019 06:15:45 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2019-04-02",
+    "Last Service Extension": "2023-04-02",
+    "End of Support": "2024-04-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-1000D-USG",
+    "guid": "bf5525f18e5096aac1b2216a51ddf651f800049015e8e91690d95882903054cd",
+    "pubDate": "Wed, 16 Oct 2019 06:15:06 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-1000F",
+    "guid": "226c07daae7ffe828ad24529f626ef2c423bdf82bbfe5b5720d87622628e2460",
+    "pubDate": "Mon, 08 Jan 2024 06:15:36 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2024-04-07",
+    "Last Service Extension": "2028-04-07",
+    "End of Support": "2029-04-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-1000F-DC",
+    "guid": "fb97c11d5438f8abd250269ba92253f23eb60a3577a700079b5c070b3bfcd6ea",
+    "pubDate": "Mon, 05 Feb 2024 06:15:29 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2024-05-05",
+    "Last Service Extension": "2028-05-05",
+    "End of Support": "2029-05-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-2000E",
+    "guid": "5c786949482331bb46962058c3d7f63771ad0d36982fd351f496ba4601716de0",
+    "pubDate": "Mon, 08 Jan 2024 06:15:37 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2024-04-07",
+    "Last Service Extension": "2028-04-07",
+    "End of Support": "2029-04-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3000D",
+    "guid": "3e67463df3f2fea3d473efd68f89e72500ce6e9c2a9008bf7ab7546d10e09925",
+    "pubDate": "Mon, 30 Jan 2017 13:16:21 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3000D-USG",
+    "guid": "d5a4ac2a825ac6eb77b765840be2eb6415a12f67f9d90234d16d52fc35f3bbf1",
+    "pubDate": "Wed, 28 Jun 2017 06:15:32 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3000E",
+    "guid": "5a0591a3a59cb3f94a3876922e0121356f1f353c829d7cd857a4c35b7efd6e8c",
+    "pubDate": "Wed, 03 Nov 2021 11:48:45 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2022-01-30",
+    "Last Service Extension": "2026-01-30",
+    "End of Support": "2027-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3000E-USG",
+    "guid": "4f2961d2b39b91503c57b168d5d44993158d74601827993a66626c50095d3d07",
+    "pubDate": "Wed, 28 Jun 2017 06:15:33 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3000F",
+    "guid": "41b52aa4f38966abf15153fda1e8bf263ddf0305c32eea00cd9b4967b2af0343",
+    "pubDate": "Mon, 21 Jul 2025 13:14:29 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2025-10-05",
+    "Last Service Extension": "2029-10-05",
+    "End of Support": "2030-10-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3000F-USG",
+    "guid": "0427a403bbfe8cf4aac2b6fa30a8ca2bfd67b81a084bd8c326f42c37f7fb06f8",
+    "pubDate": "Mon, 28 Jul 2025 00:10:31 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2025-10-26",
+    "Last Service Extension": "2029-10-26",
+    "End of Support": "2030-10-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-3500D",
+    "guid": "e7c7f8a25bb2363c287849bd716833d0f024c7510f7ef621262b4598a6fd6ba4",
+    "pubDate": "Fri, 08 Feb 2019 06:14:58 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2019-05-09",
+    "Last Service Extension": "2023-05-09",
+    "End of Support": "2024-05-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-500F",
+    "guid": "9b47e450b16fdf6ec1e71006dceba6b67b3f60ca8e4d7a769540757041f531b2",
+    "pubDate": "Mon, 08 Jan 2024 06:15:35 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2024-04-07",
+    "Last Service Extension": "2028-04-07",
+    "End of Support": "2029-04-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-500F-TAA-FGDUS",
+    "guid": "f3e2b248bb99e8c872b046f61344593405dc7c16e57d84092ab43059664b0189",
+    "pubDate": "Thu, 20 Mar 2025 09:56:45 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2025-05-30",
+    "Last Service Extension": "2029-05-30",
+    "End of Support": "2030-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-VM",
+    "guid": "67302fe26ed022e0ee393427bb21b58fc7c2dee852ced40639d39cbb34506b13",
+    "pubDate": "Fri, 18 Jul 2025 13:47:58 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2025-10-05",
+    "Last Service Extension": "2029-10-05",
+    "End of Support": "2030-10-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-VM-USG",
+    "guid": "e88c1694e18d447883c593d1188b5ac517ebc951ee0241a51a42cd34c7972690",
+    "pubDate": "Wed, 28 Jun 2017 06:15:30 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSandbox-VM64",
+    "guid": "14165a443dfb80e61caf1de6606c4e12439423aed252919c0cd8f451e2ca6d07",
+    "pubDate": "Mon, 03 Jul 2017 06:15:28 -0700",
+    "category": "FortiSandbox",
+    "End of Order": "2017-10-01",
+    "Last Service Extension": "2021-10-01",
+    "End of Support": "2022-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SandboxModule-3500D",
+    "guid": "c6a50ed0a7c42f53659fd2a5e0cb45d08629ac42f08c49af945c345a63eb919a",
+    "pubDate": "Thu, 31 Jan 2019 06:15:01 -0800",
+    "category": "FortiSandbox",
+    "End of Order": "2019-05-01",
+    "Last Service Extension": "2023-05-01",
+    "End of Support": "2024-05-01",
+    "Last Supported Software Version": "N/A"
+  }
+]

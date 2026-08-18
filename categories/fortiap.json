@@ -1,0 +1,692 @@
+[
+  {
+    "title": "FAP-224E",
+    "guid": "601493557d98639c66c0440e45aa06190063b794ea934cd47fd559eb1be89038",
+    "pubDate": "Tue, 16 Mar 2021 10:25:11 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-421E",
+    "guid": "749ce188954fafeaca58fa03b3cfd402b157cd8a3f809a9d6e15e9f60e880c80",
+    "pubDate": "Tue, 16 Mar 2021 10:25:20 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-423E",
+    "guid": "cd0cd9c4dcc91e53ffa81ba75bbf047e95490e553af14d148a99684ac668ee12",
+    "pubDate": "Tue, 16 Mar 2021 10:25:28 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-431G",
+    "guid": "742173d0f3888d2f4a663d400f763593fd476f0a34f6ba19851431afef6b9353",
+    "pubDate": "Wed, 18 Feb 2026 15:33:35 -0800",
+    "category": "FortiAP",
+    "End of Order": "2026-04-09",
+    "Last Service Extension": "2030-04-09",
+    "End of Support": "2031-04-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-S421E",
+    "guid": "0173cff5e084ed94ef084789d628447ea8f3eea2fa17898c3f1e0203a1b3ffbe",
+    "pubDate": "Wed, 01 May 2019 06:15:27 -0700",
+    "category": "FortiAP",
+    "End of Order": "2019-07-30",
+    "Last Service Extension": "2023-07-30",
+    "End of Support": "2024-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-S422E",
+    "guid": "735c6aa5856a587272e9e3186100233d4291b69842886ac369fafcf61351e5ad",
+    "pubDate": "Fri, 24 Aug 2018 06:15:14 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-11-22",
+    "Last Service Extension": "2022-11-22",
+    "End of Support": "2023-11-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-S423E",
+    "guid": "735c6aa5856a587272e9e3186100233d4291b69842886ac369fafcf61351e5ad",
+    "pubDate": "Fri, 24 Aug 2018 06:15:14 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-11-22",
+    "Last Service Extension": "2022-11-22",
+    "End of Support": "2023-11-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAntenna-614R",
+    "guid": "ccfef0d3945f3483dd5147d4a50a7731026f06931e5e4bbbee6482dd74a827cd",
+    "pubDate": "Tue, 05 Oct 2021 09:59:02 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-12-30",
+    "Last Service Extension": "2025-12-30",
+    "End of Support": "2026-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAntenna-664R",
+    "guid": "60794f6412aa849bd8f680115e51fae53882706d21f31ee68fa6b3fd1f576d7b",
+    "pubDate": "Mon, 02 Aug 2021 06:15:14 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-10-31",
+    "Last Service Extension": "2025-10-31",
+    "End of Support": "2026-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-112B",
+    "guid": "16e0ef3394389d4642a25fa7c292f7c2a64af773d14f051ed957c4c409870a3b",
+    "pubDate": "Mon, 30 Jan 2017 13:17:12 -0800",
+    "category": "FortiAP",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-112D",
+    "guid": "8632df692cea9758abd7d201dd7c1c3a783771682a4d035f2c3269ef58d41ffe",
+    "pubDate": "Wed, 28 Feb 2018 06:15:14 -0800",
+    "category": "FortiAP",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-11C",
+    "guid": "510bfd53aa52bab830b726d1d7650cb99b82b72d915afbd2072348ca8388885e",
+    "pubDate": "Wed, 28 Feb 2018 06:15:15 -0800",
+    "category": "FortiAP",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-14C",
+    "guid": "40245774a517c114d2335029bcd8791e43afd491122953515002ce791b27bdc4",
+    "pubDate": "Mon, 16 Jul 2018 06:15:04 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-210B",
+    "guid": "a670260ef25581862a18f455ca9c1edf8702cd03ee8a3af4b32b9c32520bcabe",
+    "pubDate": "Mon, 16 Apr 2018 06:15:43 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-21D",
+    "guid": "be16f28b8aa5980802db2e5fa5f82aebcbf17d09e1ce66068d0929c4a9d3d5e3",
+    "pubDate": "Fri, 06 Sep 2019 06:18:55 -0700",
+    "category": "FortiAP",
+    "End of Order": "2019-12-05",
+    "Last Service Extension": "2023-12-05",
+    "End of Support": "2024-12-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-220A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAP",
+    "End of Order": "2011-02-15",
+    "Last Service Extension": "2015-02-15",
+    "End of Support": "2016-02-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-220B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAP",
+    "End of Order": "2013-10-06",
+    "Last Service Extension": "2017-10-06",
+    "End of Support": "2018-10-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-221B",
+    "guid": "5b79a0b48a0b582473cb9a842d64ee9134d4cc450aecce24fa686ca1c7de8ffa",
+    "pubDate": "Mon, 16 Apr 2018 06:15:42 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-221B-A-G",
+    "guid": "e59fcd8caa3984462eccb86ff125cd0c44bb1501a418a854552d275028750588",
+    "pubDate": "Thu, 31 Aug 2017 06:15:13 -0700",
+    "category": "FortiAP",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-221C",
+    "guid": "8599960f3690afabc08a23a6212bfe4504f73e0aed1d7db231b0351521e97b10",
+    "pubDate": "Mon, 16 Jul 2018 06:15:05 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-221E",
+    "guid": "2668bc419e5c8f51f4961e0b488b2efae71fdeda45751800272cb1a45449821b",
+    "pubDate": "Mon, 17 Nov 2025 17:37:48 -0800",
+    "category": "FortiAP",
+    "End of Order": "2025-12-30",
+    "Last Service Extension": "2029-12-30",
+    "End of Support": "2030-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-222B",
+    "guid": "b491b82c9b932968619d27ba341294dc228a7717c182b298e4f352e8c2b19a6d",
+    "pubDate": "Mon, 30 Jan 2017 13:06:13 -0800",
+    "category": "FortiAP",
+    "End of Order": "2017-01-04",
+    "Last Service Extension": "2021-01-04",
+    "End of Support": "2022-01-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-222C",
+    "guid": "7cbff1f18b3ff4b2494b4578589ddc37525a0dd3c7cfec820c61793e13cad33c",
+    "pubDate": "Wed, 16 Oct 2019 06:15:11 -0700",
+    "category": "FortiAP",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-222E",
+    "guid": "ea388a1af053cd9a46105cc9e8aa2680b5fdcf42f489bb4689dfd869a6d57d4e",
+    "pubDate": "Tue, 16 Mar 2021 10:25:36 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-223B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAP",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-223C",
+    "guid": "147e7cc4920c277e5a306fe07f2750a1b8b0bfb712bbbfadac369122effe6dfd",
+    "pubDate": "Thu, 19 Jul 2018 15:02:14 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-223E",
+    "guid": "842ae494f39d284686dd9f8d9a1e1b29fe04a8edc5d8fb6333530b880725e8e6",
+    "pubDate": "Mon, 17 Nov 2025 17:38:57 -0800",
+    "category": "FortiAP",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-224D",
+    "guid": "4c418ef266337c5707c9815cabfd8f3eff1f10c356853dc2e68cc80bd3104284",
+    "pubDate": "Wed, 16 Jan 2019 06:15:55 -0800",
+    "category": "FortiAP",
+    "End of Order": "2019-04-16",
+    "Last Service Extension": "2023-04-16",
+    "End of Support": "2024-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-231E",
+    "guid": "d84ef35d8c2013e917739c8780daf7266f1b765737632b3572ff232c18dae709",
+    "pubDate": "Tue, 20 Feb 2024 17:47:34 -0800",
+    "category": "FortiAP",
+    "End of Order": "2021-05-18",
+    "Last Service Extension": "2025-05-18",
+    "End of Support": "2026-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-231F",
+    "guid": "04021de67f48a6de08511c028febb0ef86b2f7c9d775527ef7eaa9cb8a18a992",
+    "pubDate": "Fri, 23 Aug 2024 14:36:03 -0700",
+    "category": "FortiAP",
+    "End of Order": "2024-10-24",
+    "Last Service Extension": "2028-10-24",
+    "End of Support": "2029-10-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-231F-TAA",
+    "guid": "edecd38bc1de1489a4663c7682f99710dc5daa44f7568a7caee9867f5d4db974",
+    "pubDate": "Fri, 26 Jul 2024 06:15:29 -0700",
+    "category": "FortiAP",
+    "End of Order": "2024-10-24",
+    "Last Service Extension": "2028-10-24",
+    "End of Support": "2029-10-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-231G",
+    "guid": "a03bcf1f8f1d064b6856ac39d7c82dfa44123ade097aab4b8229e92456a053af",
+    "pubDate": "Mon, 07 Apr 2025 00:11:16 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-07-06",
+    "Last Service Extension": "2029-07-06",
+    "End of Support": "2030-07-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-231G-TAA",
+    "guid": "6ef72b28484bee5aaeda9d9131ec10be54a3a48318bd7e5bd493ddef3b0747ee",
+    "pubDate": "Fri, 05 Sep 2025 16:17:07 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-07-06",
+    "Last Service Extension": "2029-07-06",
+    "End of Support": "2030-07-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-233G",
+    "guid": "87778bbc57e7296dbd31f628ca48c358482fdd52bc1b67766ec3aa0ba36e5005",
+    "pubDate": "Fri, 19 Sep 2025 14:49:31 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-06-29",
+    "Last Service Extension": "2029-06-29",
+    "End of Support": "2030-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-234F",
+    "guid": "742173d0f3888d2f4a663d400f763593fd476f0a34f6ba19851431afef6b9353",
+    "pubDate": "Wed, 18 Feb 2026 15:33:35 -0800",
+    "category": "FortiAP",
+    "End of Order": "2026-04-09",
+    "Last Service Extension": "2030-04-09",
+    "End of Support": "2031-04-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-234F-TAA",
+    "guid": "742173d0f3888d2f4a663d400f763593fd476f0a34f6ba19851431afef6b9353",
+    "pubDate": "Wed, 18 Feb 2026 15:33:35 -0800",
+    "category": "FortiAP",
+    "End of Order": "2026-04-09",
+    "Last Service Extension": "2030-04-09",
+    "End of Support": "2031-04-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-24D",
+    "guid": "3cb38c7e78e5e45f7e8f7cb2c1a04b993209430a3c4172a850410ca67bd7dbe3",
+    "pubDate": "Wed, 16 Jan 2019 06:15:53 -0800",
+    "category": "FortiAP",
+    "End of Order": "2019-04-16",
+    "Last Service Extension": "2023-04-16",
+    "End of Support": "2024-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-25D",
+    "guid": "c3455e8c06e4c11fe988fa2dfe02ebd8e5638f18396096fe0502d952e21d00bc",
+    "pubDate": "Mon, 16 Jul 2018 06:15:06 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-28C",
+    "guid": "c3455e8c06e4c11fe988fa2dfe02ebd8e5638f18396096fe0502d952e21d00bc",
+    "pubDate": "Mon, 16 Jul 2018 06:15:06 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-320B",
+    "guid": "5b1202c45fac790351bf630d1829534bec40958a6fb5ea9612093c18d338683a",
+    "pubDate": "Mon, 30 Jan 2017 13:09:15 -0800",
+    "category": "FortiAP",
+    "End of Order": "2017-04-25",
+    "Last Service Extension": "2021-04-25",
+    "End of Support": "2022-04-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-320C",
+    "guid": "d100c950a388b2a5faec329df73bca7a49ef964f56f67036a60eeeb692f9fb3c",
+    "pubDate": "Fri, 05 Jun 2020 06:15:09 -0700",
+    "category": "FortiAP",
+    "End of Order": "2020-09-03",
+    "Last Service Extension": "2024-09-03",
+    "End of Support": "2025-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-321C",
+    "guid": "1c2789eb927041ed2770788de15cbce77c40ef96cad2039d420691bed9a85c1e",
+    "pubDate": "Fri, 04 Oct 2019 06:15:12 -0700",
+    "category": "FortiAP",
+    "End of Order": "2020-01-02",
+    "Last Service Extension": "2024-01-02",
+    "End of Support": "2025-01-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-321E",
+    "guid": "eb4cf87e6d65ed4de567ff17adfc23a366d0e00922aa58498af9ff8a5a6dd0d4",
+    "pubDate": "Fri, 19 Mar 2021 17:23:36 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-431F",
+    "guid": "7743da2714077d2d380c396a7f11df5a6724b7a2c71eb76f4e0b11fdb81909ba",
+    "pubDate": "Fri, 19 Sep 2025 14:48:38 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-08-29",
+    "Last Service Extension": "2029-08-29",
+    "End of Support": "2030-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-431F-TAA",
+    "guid": "f5b07fba16f4bc2d094ba3cc67f317b72ab0506382fdc725446a83b901f1d316",
+    "pubDate": "Fri, 05 Sep 2025 16:30:16 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-08-29",
+    "Last Service Extension": "2029-08-29",
+    "End of Support": "2030-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-431G-TAA",
+    "guid": "742173d0f3888d2f4a663d400f763593fd476f0a34f6ba19851431afef6b9353",
+    "pubDate": "Wed, 18 Feb 2026 15:33:35 -0800",
+    "category": "FortiAP",
+    "End of Order": "2026-04-09",
+    "Last Service Extension": "2030-04-09",
+    "End of Support": "2031-04-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-432F",
+    "guid": "1e8d3e71d9e95d325098e7ac932e7039764140a6c8728a1c9fef519ca6ec80fe",
+    "pubDate": "Fri, 15 Nov 2024 06:15:35 -0800",
+    "category": "FortiAP",
+    "End of Order": "2025-02-13",
+    "Last Service Extension": "2029-02-13",
+    "End of Support": "2030-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-432F-TAA",
+    "guid": "39a9036c696622f5c464513841df31a0c940c9fca383c288813bc69faa7c48ad",
+    "pubDate": "Fri, 15 Nov 2024 06:15:36 -0800",
+    "category": "FortiAP",
+    "End of Order": "2025-02-13",
+    "Last Service Extension": "2029-02-13",
+    "End of Support": "2030-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-433F",
+    "guid": "8aea8cbfe346102d80caf12a4662b9f4df1fdcf1e8386011ecfc3f959d28c39e",
+    "pubDate": "Fri, 19 Sep 2025 14:49:09 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-06-29",
+    "Last Service Extension": "2029-06-29",
+    "End of Support": "2030-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-433F-TAA",
+    "guid": "95719620bbf53dbb9681b5fff71b7b9ee31771abb0d4d41ada96161868a4d6c3",
+    "pubDate": "Fri, 05 Sep 2025 16:30:29 -0700",
+    "category": "FortiAP",
+    "End of Order": "2025-06-29",
+    "Last Service Extension": "2029-06-29",
+    "End of Support": "2030-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-433G",
+    "guid": "828688c21f1eae527670647f1e566f332083ab43d0d4323f5d7888b3ea88873b",
+    "pubDate": "Tue, 18 Nov 2025 14:09:29 -0800",
+    "category": "FortiAP",
+    "End of Order": "2025-12-30",
+    "Last Service Extension": "2029-12-30",
+    "End of Support": "2030-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-Antenna-612R",
+    "guid": "9b5b996160aa5cdf41e215e50ea3b6b70766bfda5c125125582ca7124585ec29",
+    "pubDate": "Wed, 19 May 2021 15:27:39 -0700",
+    "category": "FortiAP",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-C220C",
+    "guid": "3aa1f2482ebd704c060f4b94daa2ebc5502df0262bf751b3df9d6dc7b81ebe1e",
+    "pubDate": "Wed, 15 Nov 2017 06:15:10 -0800",
+    "category": "FortiAP",
+    "End of Order": "2018-02-13",
+    "Last Service Extension": "2022-02-13",
+    "End of Support": "2023-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-C225C",
+    "guid": "fbe31411d0e0182552d078843f6903379dde1c5c1ffa2c6e774ccd311664fd27",
+    "pubDate": "Wed, 15 Nov 2017 06:15:11 -0800",
+    "category": "FortiAP",
+    "End of Order": "2018-02-13",
+    "Last Service Extension": "2022-02-13",
+    "End of Support": "2023-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-C23JD",
+    "guid": "8d02088e2931e3f074fab6c7d308c73b7561b9a62bbdaabc9c9a8612dc2e795d",
+    "pubDate": "Wed, 28 Feb 2018 06:15:16 -0800",
+    "category": "FortiAP",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-C24JE",
+    "guid": "eed9e9315afc85dde3d348790eff745a52bb57e79d6fa3b273ff8d369bc5b8fb",
+    "pubDate": "Mon, 31 Oct 2022 06:15:48 -0700",
+    "category": "FortiAP",
+    "End of Order": "2023-01-29",
+    "Last Service Extension": "2027-01-29",
+    "End of Support": "2028-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S221E",
+    "guid": "8601c5f528af298c6682276f246a6c2842c5c4b33dc133f3add852defae18d76",
+    "pubDate": "Mon, 03 Aug 2020 06:17:50 -0700",
+    "category": "FortiAP",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S223E",
+    "guid": "7d49ac5ce88209770363ad4c2cf244f3424db53f001b22b694c529f987a219ca",
+    "pubDate": "Mon, 03 Aug 2020 06:17:51 -0700",
+    "category": "FortiAP",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S311C",
+    "guid": "3f5faf9259253936af88129ac0695aa168399086e1dd0480c79d70077a6c13f8",
+    "pubDate": "Mon, 16 Apr 2018 06:15:29 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S313C",
+    "guid": "6f4e820a8c38eb99e2e06511ef3ebe300c128970579efa96210c93cf0d51e7a5",
+    "pubDate": "Mon, 16 Apr 2018 06:15:31 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S321C",
+    "guid": "be902f7d3fa602dce47dc8b4f5a006b92e296d17085491a4b233f3688e9cf50e",
+    "pubDate": "Mon, 16 Apr 2018 06:15:34 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S321CR",
+    "guid": "f618a4304c599a660dee53d914c85a934610287e94e9636bc7c0e46bf9f9cc49",
+    "pubDate": "Mon, 16 Apr 2018 06:15:36 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S322C",
+    "guid": "3d8886e5c2fa6ea5f6cede3a44cdb68df8bb7320e33ec2f4092867fd4911805a",
+    "pubDate": "Mon, 16 Apr 2018 06:15:32 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S322CR",
+    "guid": "b52141080dbc0023184549b6904a1c2fff0e6924388d9863840a8607b120deaf",
+    "pubDate": "Mon, 16 Apr 2018 06:15:33 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S323C",
+    "guid": "584fab0b727e10247dde6bc93b0f0bbfb4be44b33274772dac1259668d591c16",
+    "pubDate": "Mon, 16 Apr 2018 06:15:37 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-S323CR",
+    "guid": "bbc080146ea5e613354fc098883fe65df0a4dbbef301c1853234658510b6dcce",
+    "pubDate": "Mon, 16 Apr 2018 06:15:38 -0700",
+    "category": "FortiAP",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiPlanner",
+    "guid": "96e9d7536ce60269b7430d1856cc086444286b0c6ebb0c855357e427b6e621cf",
+    "pubDate": "Wed, 31 May 2017 06:16:22 -0700",
+    "category": "FortiAP",
+    "End of Order": "2017-08-29",
+    "Last Service Extension": "2021-08-29",
+    "End of Support": "2022-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiPresence",
+    "guid": "e66d98bece4612710737b4e9d98ee9faa4ee7669948cafe988679ef56968e8cc",
+    "pubDate": "Fri, 12 Aug 2022 06:15:26 -0700",
+    "category": "FortiAP",
+    "End of Order": "2022-11-10",
+    "Last Service Extension": "2026-11-10",
+    "End of Support": "2027-11-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "OAP832E",
+    "guid": "5baf367ee96984d47ddb06e5df23a5a21b4c46aa6f78c46dcbe655238489ef4a",
+    "pubDate": "Mon, 03 Aug 2020 06:17:47 -0700",
+    "category": "FortiAP",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  }
+]

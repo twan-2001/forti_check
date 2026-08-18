@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FortiCore-3600E",
+    "guid": "2f58cebbb18fe629f55e180ce06db14d4a273e25f603080e5ed8bb47cb5f4c82",
+    "pubDate": "Fri, 26 May 2017 06:16:22 -0700",
+    "category": "FortiCore",
+    "End of Order": "2017-08-24",
+    "Last Service Extension": "2021-08-24",
+    "End of Support": "2022-08-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCore-3700E",
+    "guid": "bd640bb4e7619213f5022b2a8a7bcabcfb3163920136b19e6d85e864be77b781",
+    "pubDate": "Fri, 26 May 2017 06:16:23 -0700",
+    "category": "FortiCore",
+    "End of Order": "2017-08-24",
+    "Last Service Extension": "2021-08-24",
+    "End of Support": "2022-08-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCore-3800E",
+    "guid": "85e2a5935257e3a5123882bb56634f87caeb8809c2ed3fd43d6f2545bec8a8a3",
+    "pubDate": "Fri, 26 May 2017 06:16:25 -0700",
+    "category": "FortiCore",
+    "End of Order": "2017-08-24",
+    "Last Service Extension": "2021-08-24",
+    "End of Support": "2022-08-24",
+    "Last Supported Software Version": "N/A"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "FortiDB-1000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDB",
+    "End of Order": "2011-02-28",
+    "Last Service Extension": "2015-02-28",
+    "End of Support": "2016-02-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDB",
+    "End of Order": "2014-03-11",
+    "Last Service Extension": "2018-03-11",
+    "End of Support": "2019-03-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-1000D",
+    "guid": "89a6efa2544611ddae59f73bfcc78598e816c75b910081cbcb7e01a9a7e3e60e",
+    "pubDate": "Wed, 01 Feb 2017 06:15:07 -0800",
+    "category": "FortiDB",
+    "End of Order": "2017-05-02",
+    "Last Service Extension": "2021-05-02",
+    "End of Support": "2022-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-2000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDB",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-3000D",
+    "guid": "34a999e161a7c395aca8705fb28bb3985dfa599efe08eb541a264f4d6c5da9c6",
+    "pubDate": "Mon, 30 Jan 2017 13:19:32 -0800",
+    "category": "FortiDB",
+    "End of Order": "2017-04-02",
+    "Last Service Extension": "2021-04-02",
+    "End of Support": "2022-04-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-400B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDB",
+    "End of Order": "2012-10-25",
+    "Last Service Extension": "2016-10-25",
+    "End of Support": "2017-10-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-400C",
+    "guid": "0085e56a4967faab8bbc20b8c4d7fdf38295a7bab93605275db48f06c70082d1",
+    "pubDate": "Thu, 29 Oct 2020 18:31:53 -0700",
+    "category": "FortiDB",
+    "End of Order": "2016-10-13",
+    "Last Service Extension": "2020-10-13",
+    "End of Support": "2021-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDB-500D",
+    "guid": "760f8d3864b4f926e5ce7900b078cdab45ad97253870cf3267eb03eb81230e00",
+    "pubDate": "Wed, 01 Feb 2017 06:15:05 -0800",
+    "category": "FortiDB",
+    "End of Order": "2017-05-02",
+    "Last Service Extension": "2021-05-02",
+    "End of Support": "2022-05-02",
+    "Last Supported Software Version": "N/A"
+  }
+]

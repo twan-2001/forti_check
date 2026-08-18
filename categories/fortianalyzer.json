@@ -1,0 +1,702 @@
+[
+  {
+    "title": "FL-400D2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2014-08-16",
+    "Last Service Extension": "N/A",
+    "End of Support": "2019-08-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2010-11-29",
+    "Last Service Extension": "2014-11-29",
+    "End of Support": "2015-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2014-01-08",
+    "Last Service Extension": "2018-01-08",
+    "End of Support": "2019-01-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000D",
+    "guid": "17d975b0fa87c079892515a30d48550550fc46c842e01bb54adc2dbc0d206982",
+    "pubDate": "Mon, 30 Jan 2017 13:14:30 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000D-USG",
+    "guid": "c463d4039dff9c299cbec1ab2c90dfeb71a2b77bca7a851a7e648087c9c986e9",
+    "pubDate": "Mon, 30 Jan 2017 13:16:12 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000E",
+    "guid": "02af0882237a4988c4096cba5f272475e309f60e9b39212242e89f11cbb2fe10",
+    "pubDate": "Mon, 23 Dec 2019 06:16:19 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2020-03-22",
+    "Last Service Extension": "2024-03-22",
+    "End of Support": "2025-03-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000E-USG",
+    "guid": "17477a7998ab746d41b216dab30034fbcb2de7511140d2b56c085ae45d3e37bd",
+    "pubDate": "Mon, 16 Apr 2018 06:15:23 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000F",
+    "guid": "c4b047157834b237d89500f7b1fc35119177a6e73435810a2ea9ef4e735f909b",
+    "pubDate": "Fri, 01 Dec 2023 06:15:22 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2024-02-29",
+    "Last Service Extension": "2028-02-29",
+    "End of Support": "2029-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-1000F-USG",
+    "guid": "a3231487be8887fca353a399c28c048b225c83832183533979d65a1ff5506896",
+    "pubDate": "Tue, 16 Jan 2024 06:15:30 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-100A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2007-03-01",
+    "Last Service Extension": "2009-03-01",
+    "End of Support": "2012-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-100B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-100C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-25",
+    "Last Service Extension": "2016-10-25",
+    "End of Support": "2017-10-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2008-12-14",
+    "Last Service Extension": "2012-12-14",
+    "End of Support": "2013-12-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2009-09-17",
+    "Last Service Extension": "2013-09-17",
+    "End of Support": "2014-09-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000A-HD500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2009-09-16",
+    "Last Service Extension": "2013-09-16",
+    "End of Support": "2014-09-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000B",
+    "guid": "126405905851e1ef320582d1f0609150ba9d746f348391d87e8e4afa8cb0cca4",
+    "pubDate": "Mon, 30 Jan 2017 13:12:45 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000B-USG",
+    "guid": "d9d8aebd2ec36aebb559b0cd6ba09b92f1a41c415fe79daa8f2d0782dfb27690",
+    "pubDate": "Mon, 30 Jan 2017 13:16:29 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000E",
+    "guid": "856f00543eaaf2f6075a60b7028b8e22f6d690f803282f2e5062388718e239c0",
+    "pubDate": "Sat, 03 Jul 2021 06:15:12 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-10-01",
+    "Last Service Extension": "2025-10-01",
+    "End of Support": "2026-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-2000E-USG",
+    "guid": "b43149b433d102e4957d26ed1597313511fd3293ac4538648a1bb5e8aa48dc71",
+    "pubDate": "Mon, 16 Apr 2018 06:15:24 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-200D",
+    "guid": "9cb15be323178d39694d0f3842364e1c9be4230cac7a808e8b703c26403a6dd0",
+    "pubDate": "Wed, 22 Mar 2017 08:28:03 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-200F",
+    "guid": "ff858e5b34aa7da9202b3107cfd63c90145227c338630818862aceca8269e6b4",
+    "pubDate": "Fri, 04 Jun 2021 12:36:48 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-07-01",
+    "Last Service Extension": "2025-07-01",
+    "End of Support": "2026-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000D",
+    "guid": "f3b184a66028a576071d49fcd5e5228e35d31bcc9cbe03b0da9d8cbfadeccb24",
+    "pubDate": "Tue, 28 Mar 2017 11:39:40 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-02-02",
+    "Last Service Extension": "2021-02-02",
+    "End of Support": "2022-02-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000D-USG",
+    "guid": "47d7e2b74f7fc080db5c4f101ec0b365600a69d85638644ac116f40e7d5476db",
+    "pubDate": "Mon, 30 Jan 2017 13:14:48 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000E",
+    "guid": "11da77b2a6e8e574f4bb9b23c35d249d99ce1d46c438adb7750f57bf7a70d6e5",
+    "pubDate": "Mon, 30 Jan 2017 13:15:04 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000E-USG",
+    "guid": "94ff0758bac5ca19b842a7922fb383e022866942d923bdeb46df1992ef0b4ab1",
+    "pubDate": "Mon, 30 Jan 2017 13:15:54 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000F",
+    "guid": "4c32ec07d99bb5407f252f02a81c9ef7167d5bf0bee1fe8d1ef4221ce1c4a653",
+    "pubDate": "Fri, 01 Oct 2021 06:15:03 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-12-30",
+    "Last Service Extension": "2025-12-30",
+    "End of Support": "2026-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000F-USG",
+    "guid": "ac1ac68c86f0eb8fe609772e5c56643c38d0185747572c8bc0dfc253d26b6f12",
+    "pubDate": "Sun, 16 Oct 2022 06:15:38 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000G",
+    "guid": "29b85b99c8273f0f17f4d0fea204c01326ad6a7acefc19bcd5ec062374990450",
+    "pubDate": "Fri, 01 Mar 2024 06:15:13 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2024-05-30",
+    "Last Service Extension": "2028-05-30",
+    "End of Support": "2029-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3000G-USG",
+    "guid": "630ec247866b7af30f9b57d711a56691ac16563173458c14fd9c7705a636a0da",
+    "pubDate": "Fri, 01 Mar 2024 06:15:14 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2024-05-30",
+    "Last Service Extension": "2028-05-30",
+    "End of Support": "2029-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-300D",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2016-09-01",
+    "Last Service Extension": "2020-09-01",
+    "End of Support": "2021-09-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-300D-USG",
+    "guid": "d527a39732b8dd905164c7abf2448614eb6b71c633e1c65a9b42318502f47b64",
+    "pubDate": "Mon, 30 Jan 2017 13:18:14 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-02-02",
+    "Last Service Extension": "2021-02-02",
+    "End of Support": "2022-02-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-300F",
+    "guid": "8144198e61d8e208888e63a836cba12f444df5a331b2fa6183909bf92dcef464",
+    "pubDate": "Fri, 02 Apr 2021 06:15:07 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-07-01",
+    "Last Service Extension": "2025-07-01",
+    "End of Support": "2026-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-300G",
+    "guid": "5794b73e0ba9b8e986ddfacba0f040942f1bc9556a1479bc5394ed85944279f8",
+    "pubDate": "Mon, 03 Aug 2026 00:10:06 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2026-11-01",
+    "Last Service Extension": "2030-11-01",
+    "End of Support": "2031-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3500E",
+    "guid": "ae4997ff49a32a3c191c0d710dc0ba8a56c735a4f2453a233953f19406f7027c",
+    "pubDate": "Mon, 30 Jan 2017 13:14:14 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3500E-USG",
+    "guid": "90c59fe4068db9e51913abe48358e32c5b2259207a9ff2354adc3cf193faf087",
+    "pubDate": "Mon, 30 Jan 2017 13:16:03 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3500F",
+    "guid": "bb00aa9d81456b3e31def7d5d38808983155ddedb09d33565005e8a144707cb7",
+    "pubDate": "Wed, 08 Aug 2018 06:15:06 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2018-11-06",
+    "Last Service Extension": "2022-11-06",
+    "End of Support": "2023-11-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3500F-USG",
+    "guid": "f811dea48e50bf22e1812051e7121ce4d336897b2ceb3df7c9c1d76fb9603482",
+    "pubDate": "Mon, 16 Apr 2018 06:15:25 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3500G",
+    "guid": "7f8bf31b1baf5ddb587959541240560aa6dd92246259c1d49a12049ca9c4b9f4",
+    "pubDate": "Fri, 28 Apr 2023 06:15:44 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2023-07-27",
+    "Last Service Extension": "2027-07-27",
+    "End of Support": "2028-07-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3510G",
+    "guid": "cbcc1e0d632a9fe5fdcd475d22697734a774e7d87e07232a7e5d3b7f03a3a144",
+    "pubDate": "Fri, 13 Mar 2026 00:10:24 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2026-06-11",
+    "Last Service Extension": "2030-06-11",
+    "End of Support": "2031-06-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3700F",
+    "guid": "acf8bd95a9feaa25c2872f294f6d326d8b435634eb0fa1ceccef7d2bea036be6",
+    "pubDate": "Thu, 21 Mar 2024 12:49:09 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-08-30",
+    "Last Service Extension": "2025-08-30",
+    "End of Support": "2026-08-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3700F-USG",
+    "guid": "11f706e6116e0ec1b671dc5671ad0e5636a71f6b447fbfe79690eafc9d980542",
+    "pubDate": "Thu, 21 Mar 2024 19:25:02 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3700G",
+    "guid": "9a16e347e86f131a84b6dfbedc56bbe4a43fe48fa614a853309177613f6f0f41",
+    "pubDate": "Fri, 30 Jan 2026 00:10:36 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2026-04-30",
+    "Last Service Extension": "2030-04-30",
+    "End of Support": "2031-04-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3700G-TAA-FGDUS",
+    "guid": "71bc1ad39bb09ae7681fa8d1196e940c9df982b9dbed9c331ea30f7da5036b90",
+    "pubDate": "Fri, 23 Jan 2026 00:10:30 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2026-04-23",
+    "Last Service Extension": "2030-04-23",
+    "End of Support": "2031-04-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-3900E",
+    "guid": "f2646eed3d5ab0afc322b97683af4e9603136109c2d8f09885be6898c4dc2c58",
+    "pubDate": "Wed, 28 Mar 2018 06:15:15 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2018-06-26",
+    "Last Service Extension": "2022-06-26",
+    "End of Support": "2023-06-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-400",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2007-07-17",
+    "Last Service Extension": "2009-07-17",
+    "End of Support": "2012-07-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-4000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2007-03-01",
+    "Last Service Extension": "2009-03-01",
+    "End of Support": "2012-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-4000A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2008-06-13",
+    "Last Service Extension": "2012-06-13",
+    "End of Support": "2013-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-4000A-HD500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2010-12-26",
+    "Last Service Extension": "2014-12-26",
+    "End of Support": "2015-12-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-4000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-4000B-USG",
+    "guid": "418036690cc17a4a7917bba63391ec37f2fba23f364a60388528633f3c7a5fa7",
+    "pubDate": "Mon, 30 Jan 2017 13:16:37 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-400B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-06-13",
+    "Last Service Extension": "2016-06-13",
+    "End of Support": "2017-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-400C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-400E",
+    "guid": "37c8801a57e456f82b116e31edcdd9ebdbb065bd1352c7269c626e88a5381a1c",
+    "pubDate": "Thu, 15 Apr 2021 06:15:11 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-07-14",
+    "Last Service Extension": "2025-07-14",
+    "End of Support": "2026-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-800",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2007-10-16",
+    "Last Service Extension": "2011-10-16",
+    "End of Support": "2012-10-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-800B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAnalyzer",
+    "End of Order": "2009-04-28",
+    "Last Service Extension": "2013-04-28",
+    "End of Support": "2014-04-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-800F",
+    "guid": "da782ca5f3766b70d7d0c984eec5103dabfa6a3ae54c0521a170bd34d84ba188",
+    "pubDate": "Fri, 01 Oct 2021 06:15:04 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2021-12-30",
+    "Last Service Extension": "2025-12-30",
+    "End of Support": "2026-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-800F-USG",
+    "guid": "6a71ee36f5df95db2e41864b45df5bcbded316949fa9c5b79df062443883f17e",
+    "pubDate": "Thu, 21 Mar 2024 19:28:17 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-800G",
+    "guid": "09cae8613bc706f8b58ccf73152d161f197db0c43e88594b75b9a9157069b78d",
+    "pubDate": "Mon, 24 Jun 2024 10:03:59 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2024-06-30",
+    "Last Service Extension": "2028-06-30",
+    "End of Support": "2029-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-as-a-Service",
+    "guid": "14043b58ce52e7f0caa55891e1109aaf0d2ec5832b267f860c27b849daebeed2",
+    "pubDate": "Mon, 03 Aug 2026 00:10:07 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2026-11-01",
+    "Last Service Extension": "2030-11-01",
+    "End of Support": "2031-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM (Hypervisor-specific SKUs)",
+    "guid": "72193168bb0146a19bca6e79e12ee8bdbadd5afd3604d0b236403006983599ac",
+    "pubDate": "Fri, 30 Mar 2018 06:15:14 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2018-06-28",
+    "Last Service Extension": "2022-06-28",
+    "End of Support": "2023-06-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM-AWS-USG",
+    "guid": "199b2378221f213a2d3b6e7ab15297c2f5573c4061428f209ab6e5a8cf51d21a",
+    "pubDate": "Wed, 28 Jun 2017 06:15:29 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM-IOC-Service-Update",
+    "guid": "c9ee3f33051da960f1164578f8fc6496f6e966f8c04fb33e514f3ec920c7e45f",
+    "pubDate": "Sat, 01 Apr 2023 06:15:17 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2023-06-30",
+    "Last Service Extension": "2027-06-30",
+    "End of Support": "2028-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM-USG",
+    "guid": "435fcbc9df88b75b94b6b66db11807af9bb982cd4d60d0459f9f48a6fd15bafb",
+    "pubDate": "Wed, 28 Jun 2017 06:15:28 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM100",
+    "guid": "94632c6fac17403673b43ce5f73b818041af973142a7f7632dff1ead2974e29f",
+    "pubDate": "Fri, 13 Sep 2019 09:36:27 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-01",
+    "Last Service Extension": "2016-10-01",
+    "End of Support": "2017-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM1000",
+    "guid": "f28185727c325d5a8de91ede20be8b01b5476daec79dd93499cb3e80c874f8dd",
+    "pubDate": "Fri, 13 Sep 2019 09:36:44 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-01",
+    "Last Service Extension": "2016-10-01",
+    "End of Support": "2017-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM2000",
+    "guid": "84ca83686cb30a35a14834756cecde2d24f71b6f3aab52a0d46a6032b422b710",
+    "pubDate": "Fri, 13 Sep 2019 09:36:53 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-01",
+    "Last Service Extension": "2016-10-01",
+    "End of Support": "2017-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM400",
+    "guid": "a0da62ac417c1cd233cac858a245313d3b76a88ee3d2ec8ca9a7f50799acd2ff",
+    "pubDate": "Fri, 13 Sep 2019 09:37:33 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-01",
+    "Last Service Extension": "2016-10-01",
+    "End of Support": "2017-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VM4000",
+    "guid": "007a72ae95f48dc079135efded0021b5556b00ad1a0bb5fdb3af21e478e6468f",
+    "pubDate": "Fri, 13 Sep 2019 09:38:01 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-01",
+    "Last Service Extension": "2016-10-01",
+    "End of Support": "2017-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAnalyzer-VMUNL",
+    "guid": "3915e941e4a180fe8dbdea1798b445cd919922982e882f69256c545bd3c57506",
+    "pubDate": "Fri, 13 Sep 2019 09:39:07 -0700",
+    "category": "FortiAnalyzer",
+    "End of Order": "2012-10-01",
+    "Last Service Extension": "2016-10-01",
+    "End of Support": "2017-10-01",
+    "Last Supported Software Version": "N/A"
+  }
+]

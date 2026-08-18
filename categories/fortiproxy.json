@@ -1,0 +1,62 @@
+[
+  {
+    "title": "FortiProxy-2000E",
+    "guid": "81efea8fe56ff34ffaa92b0f5c5cdbd9edf25f9ff958efa2245703f849ad965e",
+    "pubDate": "Tue, 04 Jul 2023 06:15:04 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2023-10-02",
+    "Last Service Extension": "2027-10-02",
+    "End of Support": "2028-10-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiProxy-2000G-TAA-FGDUS",
+    "guid": "f4826dce61a9c75d5fedbbfb2aea0a7a9007ec919c8a65c9acf0517683b2e80c",
+    "pubDate": "Tue, 31 Oct 2023 06:15:23 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2024-01-29",
+    "Last Service Extension": "2028-01-29",
+    "End of Support": "2029-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiProxy-4000E",
+    "guid": "6f43bd7cd6e3f54e3c1dff1ade7537ab99c15457659e1ca4a1aa27e7248c1b3d",
+    "pubDate": "Mon, 05 Jun 2023 06:15:40 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2023-09-03",
+    "Last Service Extension": "2027-09-03",
+    "End of Support": "2028-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiProxy-400E",
+    "guid": "6f43bd7cd6e3f54e3c1dff1ade7537ab99c15457659e1ca4a1aa27e7248c1b3d",
+    "pubDate": "Mon, 05 Jun 2023 06:15:40 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2023-09-03",
+    "Last Service Extension": "2027-09-03",
+    "End of Support": "2028-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiProxy-400E-TAA-FGDUS",
+    "guid": "e9c19a16bdd02ba9bac630161e16d81986a8c1db4dd62bd5bec02d9a26f4e348",
+    "pubDate": "Tue, 31 Oct 2023 06:15:22 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2024-01-29",
+    "Last Service Extension": "2028-01-29",
+    "End of Support": "2029-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "LIC-FPRXY-VM01",
+    "guid": "0514229512f9f07500403908d2e31c11be83735a577812f5297dcc03be3b9bb0",
+    "pubDate": "Mon, 01 Aug 2022 06:15:46 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2022-10-30",
+    "Last Service Extension": "2026-10-30",
+    "End of Support": "2027-10-30",
+    "Last Supported Software Version": "N/A"
+  }
+]

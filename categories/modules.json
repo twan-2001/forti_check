@@ -1,0 +1,62 @@
+[
+  {
+    "title": "ASM-ET4 Module",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Modules",
+    "End of Order": "2011-06-19",
+    "Last Service Extension": "2015-06-19",
+    "End of Support": "2016-06-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-FB4",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Modules",
+    "End of Order": "2015-05-18",
+    "Last Service Extension": "2019-05-18",
+    "End of Support": "2020-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-FB4-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Modules",
+    "End of Order": "2015-05-18",
+    "Last Service Extension": "2019-05-18",
+    "End of Support": "2020-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-FG-1 Module",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Modules",
+    "End of Order": "2010-10-06",
+    "Last Service Extension": "2014-10-06",
+    "End of Support": "2015-10-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-S08",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Modules",
+    "End of Order": "2014-09-12",
+    "Last Service Extension": "2018-09-12",
+    "End of Support": "2019-09-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-SO8-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Modules",
+    "End of Order": "2014-09-12",
+    "Last Service Extension": "2018-09-12",
+    "End of Support": "2019-09-12",
+    "Last Supported Software Version": "N/A"
+  }
+]

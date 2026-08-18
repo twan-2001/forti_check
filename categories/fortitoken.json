@@ -1,0 +1,112 @@
+[
+  {
+    "title": "FortiToken-200",
+    "guid": "f62661be4a89f71680ae3db8fbe9c312df40678c8925d3874b5f9a2858e353e8",
+    "pubDate": "Wed, 01 Sep 2021 06:15:16 -0700",
+    "category": "FortiToken",
+    "End of Order": "2021-11-30",
+    "Last Service Extension": "2025-11-30",
+    "End of Support": "2026-11-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-200B",
+    "guid": "f6f7a456fdb9b3d0ff1f525ca9ea5a9020a7e840e321fce77bfc9eb18f4363fe",
+    "pubDate": "Thu, 08 Feb 2024 06:15:02 -0800",
+    "category": "FortiToken",
+    "End of Order": "2024-05-08",
+    "Last Service Extension": "2028-05-08",
+    "End of Support": "2029-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-200B-Custom",
+    "guid": "b6f18f92d83832b32ac48a830c3a52a01ca77cbdd8057345edddfc1a6ffecea2",
+    "pubDate": "Wed, 12 Mar 2025 16:14:01 -0700",
+    "category": "FortiToken",
+    "End of Order": "2025-05-29",
+    "Last Service Extension": "2029-05-29",
+    "End of Support": "2030-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-200BCD",
+    "guid": "5af893c506b71344231e16a67272230bec8ce2767222f02597f1d35c80b6efea",
+    "pubDate": "Mon, 07 Aug 2023 06:15:40 -0700",
+    "category": "FortiToken",
+    "End of Order": "2023-11-05",
+    "Last Service Extension": "2027-11-05",
+    "End of Support": "2028-11-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-200CD",
+    "guid": "ed42e7af1ce9fcc7f467a41270d9da7789a788c4883985898f75b263016a759b",
+    "pubDate": "Wed, 01 Sep 2021 06:15:17 -0700",
+    "category": "FortiToken",
+    "End of Order": "2021-11-30",
+    "Last Service Extension": "2025-11-30",
+    "End of Support": "2026-11-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-300",
+    "guid": "a973da9328fb8f6c0c46c4b4f0e043427d89be9e6a56c1bb7584de0b36c7e4ad",
+    "pubDate": "Mon, 29 Jan 2024 06:15:27 -0800",
+    "category": "FortiToken",
+    "End of Order": "2024-04-28",
+    "Last Service Extension": "2028-04-28",
+    "End of Support": "2029-04-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-400",
+    "guid": "fb27403e835852f5684f72a1adac9dcfd72475ed38518cbbd9177a4bd92621ad",
+    "pubDate": "Tue, 05 Dec 2023 06:15:43 -0800",
+    "category": "FortiToken",
+    "End of Order": "2024-03-04",
+    "Last Service Extension": "2028-03-04",
+    "End of Support": "2029-03-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-410",
+    "guid": "5794b73e0ba9b8e986ddfacba0f040942f1bc9556a1479bc5394ed85944279f8",
+    "pubDate": "Mon, 03 Aug 2026 00:10:06 -0700",
+    "category": "FortiToken",
+    "End of Order": "2026-11-01",
+    "Last Service Extension": "2030-11-01",
+    "End of Support": "2031-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-Cloud",
+    "guid": "b48d54d2552cd8862a8f95e6433aa1a842d5b2838ddaf399d3da9db71ad606e6",
+    "pubDate": "Wed, 19 May 2021 06:15:27 -0700",
+    "category": "FortiToken",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiToken-Edge",
+    "guid": "091e18b312fdf72d1f31083431fd1a440883d31739eda464abbd6c202053260e",
+    "pubDate": "Mon, 03 Apr 2023 06:15:10 -0700",
+    "category": "FortiToken",
+    "End of Order": "2023-07-02",
+    "Last Service Extension": "2027-07-02",
+    "End of Support": "2028-07-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiTokenMobile-LIC-20",
+    "guid": "79b1d6f2a5e4e170e8b8bc85eda930c244935a429c190a3548e14cf31716b639",
+    "pubDate": "Wed, 24 Mar 2021 06:15:52 -0700",
+    "category": "FortiToken",
+    "End of Order": "2021-06-22",
+    "Last Service Extension": "2025-06-22",
+    "End of Support": "2026-06-22",
+    "Last Supported Software Version": "N/A"
+  }
+]

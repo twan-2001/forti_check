@@ -1,0 +1,142 @@
+[
+  {
+    "title": "FortiCache-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCache",
+    "End of Order": "2014-03-11",
+    "Last Service Extension": "2018-03-11",
+    "End of Support": "2019-03-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-1000D",
+    "guid": "caaf13687a150b1dec2023cc3d8790468b4672c5b604f581c2b1c6d2a36d73ae",
+    "pubDate": "Thu, 04 Apr 2019 13:05:18 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-25",
+    "Last Service Extension": "2023-06-25",
+    "End of Support": "2024-06-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-3000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCache",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-3000D",
+    "guid": "025b703acc9f502bf4917f4a108e455a8cd75ec2ce7aea8a956108cf0f2fcbf4",
+    "pubDate": "Tue, 31 Jan 2017 06:15:05 -0800",
+    "category": "FortiCache",
+    "End of Order": "2017-05-01",
+    "Last Service Extension": "2021-05-01",
+    "End of Support": "2022-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-3000D-LENC",
+    "guid": "cd7261eed1fad5d7ad7ab4f702ef2096a9be547b23e8ef29c7656f8e889d855a",
+    "pubDate": "Tue, 31 Jan 2017 06:15:03 -0800",
+    "category": "FortiCache",
+    "End of Order": "2017-05-01",
+    "Last Service Extension": "2021-05-01",
+    "End of Support": "2022-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-3000E",
+    "guid": "4e688aeabcb62436304d3b481b10026a5a353d86de6f8fc585477224c8ee8f6e",
+    "pubDate": "Thu, 04 Apr 2019 13:07:00 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-25",
+    "Last Service Extension": "2023-06-25",
+    "End of Support": "2024-06-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-3000E-LENC",
+    "guid": "c831d1cbda0e01feb9c54baf1d3ed0a6d11ee6462bb188ad54897505042e615f",
+    "pubDate": "Mon, 09 May 2022 18:26:22 -0700",
+    "category": "FortiCache",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-3900E",
+    "guid": "a1501553e32deed0ac825d26825eb9a681c44eca5ba81a4f62d554883326bbdf",
+    "pubDate": "Fri, 30 Nov 2018 06:15:28 -0800",
+    "category": "FortiCache",
+    "End of Order": "2019-02-28",
+    "Last Service Extension": "2023-02-28",
+    "End of Support": "2024-02-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-400C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCache",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-400E",
+    "guid": "1c8b2a24f2a77b4e6e713e8876dc997226c15eea6a03e114ac0fa1f400f8d85f",
+    "pubDate": "Thu, 04 Apr 2019 13:05:07 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-25",
+    "Last Service Extension": "2023-06-25",
+    "End of Support": "2024-06-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-VM01",
+    "guid": "6ed58c7fa7009de28b00a065f4d3f3500a0732ada8ad113f1918cc2f157e91c8",
+    "pubDate": "Thu, 04 Apr 2019 13:01:46 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-11",
+    "Last Service Extension": "2023-06-11",
+    "End of Support": "2024-06-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-VM02",
+    "guid": "0f4e4ee5b0d27f63c819dbd6f5b13a22c621977b767dbe23c39bb577745e924d",
+    "pubDate": "Thu, 04 Apr 2019 13:04:24 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-11",
+    "Last Service Extension": "2023-06-11",
+    "End of Support": "2024-06-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-VM04",
+    "guid": "5710c451d4f6b0e82570d3be5c89c40bbaed87da01d85db842604417d45b658c",
+    "pubDate": "Thu, 04 Apr 2019 13:04:30 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-11",
+    "Last Service Extension": "2023-06-11",
+    "End of Support": "2024-06-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCache-VM08",
+    "guid": "ba590a2f87b5725bcf565e5052330108e71a77f61192275f38d07dd951c9fd3f",
+    "pubDate": "Thu, 04 Apr 2019 13:04:56 -0700",
+    "category": "FortiCache",
+    "End of Order": "2019-06-11",
+    "Last Service Extension": "2023-06-11",
+    "End of Support": "2024-06-11",
+    "Last Supported Software Version": "N/A"
+  }
+]

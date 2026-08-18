@@ -1,0 +1,172 @@
+[
+  {
+    "title": "FortiAuthenticator-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2014-03-11",
+    "Last Service Extension": "2018-03-11",
+    "End of Support": "2019-03-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-1000D",
+    "guid": "52ae4aee121e32b6de50e92266c4dc0f28ec2fcd9a60bd83d89989e935c32cdf",
+    "pubDate": "Sun, 25 Oct 2020 06:15:41 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2021-01-23",
+    "Last Service Extension": "2025-01-23",
+    "End of Support": "2026-01-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-2000E",
+    "guid": "91ee946b3d253f616b1a77ea455109092a18fb3f2f28d04515755ec58550d081",
+    "pubDate": "Mon, 02 Aug 2021 06:15:09 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2021-10-31",
+    "Last Service Extension": "2025-10-31",
+    "End of Support": "2026-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-200D",
+    "guid": "6113566a946853d58b728616a1610d98f26eecbe33c342affdb94dd42cafd170",
+    "pubDate": "Mon, 25 Nov 2019 06:15:25 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2020-02-23",
+    "Last Service Extension": "2024-02-23",
+    "End of Support": "2025-02-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-200E",
+    "guid": "fd18688f70c61bfafab4395e24298a1a55f1b24fb115b9dafa974e87ad5e2f08",
+    "pubDate": "Mon, 04 Jan 2021 06:15:05 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2021-04-04",
+    "Last Service Extension": "2025-04-04",
+    "End of Support": "2026-04-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-3000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-3000D",
+    "guid": "5e12e02fc8d51c6c3bd1d85f38f19069c6775a0fd701ca6fad754fe85e112b5a",
+    "pubDate": "Mon, 30 Jan 2017 13:18:57 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2017-03-07",
+    "Last Service Extension": "2021-03-07",
+    "End of Support": "2022-03-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-3000E",
+    "guid": "809fc4a3c28a7928055af7abb00f45410b7bdcdd294fbcbc36d74fba29e68a0e",
+    "pubDate": "Mon, 02 Aug 2021 06:15:10 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2021-10-31",
+    "Last Service Extension": "2025-10-31",
+    "End of Support": "2026-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-3000F-TAA",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-300F",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-300F-TAA",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-400C",
+    "guid": "1bbbe2aa3ea4ba4b82920056a42654c457fffec07e129cd72eec57913bc2cb33",
+    "pubDate": "Mon, 30 Jan 2017 13:19:16 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2017-03-07",
+    "Last Service Extension": "2021-03-07",
+    "End of Support": "2022-03-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-400C-G",
+    "guid": "9dc2e7c4917d37a1beb26c1e64df528a35810f26672e3d3c6fd0e4287689db41",
+    "pubDate": "Thu, 31 Aug 2017 06:15:14 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-400E",
+    "guid": "fd18688f70c61bfafab4395e24298a1a55f1b24fb115b9dafa974e87ad5e2f08",
+    "pubDate": "Mon, 04 Jan 2021 06:15:05 -0800",
+    "category": "FortiAuthenticator",
+    "End of Order": "2021-04-04",
+    "Last Service Extension": "2025-04-04",
+    "End of Support": "2026-04-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-800F",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-800F-TAA",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAuthenticator-VM50K",
+    "guid": "6bc5856dcb7024e36c261b35bce41e25bc6d127b8e6b795ac748253aeadc8562",
+    "pubDate": "Thu, 01 Aug 2019 06:16:12 -0700",
+    "category": "FortiAuthenticator",
+    "End of Order": "2019-10-30",
+    "Last Service Extension": "2023-10-30",
+    "End of Support": "2024-10-30",
+    "Last Supported Software Version": "N/A"
+  }
+]

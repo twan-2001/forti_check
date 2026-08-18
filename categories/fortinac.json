@@ -1,0 +1,182 @@
+[
+  {
+    "title": "FortiNAC Application VM",
+    "guid": "936adf408d94d423c11459ea86a600057845287d09131701f7ac833c206a1798",
+    "pubDate": "Fri, 26 Apr 2019 06:20:24 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-07-25",
+    "Last Service Extension": "2023-07-25",
+    "End of Support": "2024-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC Control and Application VM",
+    "guid": "52323f88262eefd93ad325deed5b15ce057b337b04a4933ac3ff01a71873e0cd",
+    "pubDate": "Wed, 15 Nov 2023 06:15:36 -0800",
+    "category": "FortiNAC",
+    "End of Order": "2024-02-13",
+    "Last Service Extension": "2028-02-13",
+    "End of Support": "2029-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC Control VM",
+    "guid": "038577f78d4ff000ec80bf0b67b596e732f53e44e6ca65cf4796982e5ca43fe9",
+    "pubDate": "Fri, 26 Apr 2019 06:20:25 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-07-25",
+    "Last Service Extension": "2023-07-25",
+    "End of Support": "2024-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC Manager VM",
+    "guid": "081127ab08ea9afbd358f988260ccfdf66ec369eac6d6a53cd89ec4193772024",
+    "pubDate": "Wed, 15 Nov 2023 06:15:37 -0800",
+    "category": "FortiNAC",
+    "End of Order": "2024-02-13",
+    "Last Service Extension": "2028-02-13",
+    "End of Support": "2029-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC Reporting VM",
+    "guid": "89576b1eb047261e16a0f6680161a6913faaf4792a2f61ea47d552cbd7d23b7b",
+    "pubDate": "Fri, 06 Sep 2019 06:18:56 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-12-05",
+    "Last Service Extension": "2023-12-05",
+    "End of Support": "2024-12-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC Subscription PRO 500",
+    "guid": "ab08b3d5cd1cd92edf95dc4f26af4a0aba0e2440f4824e0c4832e08db833e1e2",
+    "pubDate": "Mon, 03 Aug 2020 06:17:52 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-A-1000C",
+    "guid": "eaa048d733d16f2e42ce317da18f14ae7508c29c6a2e2324630cc4639a4b598a",
+    "pubDate": "Fri, 17 May 2019 06:17:03 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-08-15",
+    "Last Service Extension": "2023-08-15",
+    "End of Support": "2024-08-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-A-2000C",
+    "guid": "8d247cf3b47be09d883d99a052828ecb8b32fea174590adfc32b5e00ff13d05c",
+    "pubDate": "Fri, 17 May 2019 06:17:04 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-08-15",
+    "Last Service Extension": "2023-08-15",
+    "End of Support": "2024-08-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-C-1000C",
+    "guid": "99f6a62ec0cfee87f9f4cb890130459f72d6eafd65019459f5a85bf76e8a3008",
+    "pubDate": "Fri, 17 May 2019 06:17:05 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-08-15",
+    "Last Service Extension": "2023-08-15",
+    "End of Support": "2024-08-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-C-2000C",
+    "guid": "99f6a62ec0cfee87f9f4cb890130459f72d6eafd65019459f5a85bf76e8a3008",
+    "pubDate": "Fri, 17 May 2019 06:17:05 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-08-15",
+    "Last Service Extension": "2023-08-15",
+    "End of Support": "2024-08-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-CA-500C",
+    "guid": "c6290c82ac5321cee39d0e64f1acdb27c88dd1f007df2755378c3b14e5267cb3",
+    "pubDate": "Fri, 18 Aug 2023 06:15:15 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2023-11-16",
+    "Last Service Extension": "2027-11-16",
+    "End of Support": "2028-11-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-CA-600C",
+    "guid": "643dc39952db117443e5ed10a0f03888d1bbfdc9c7e89994831323515af5d474",
+    "pubDate": "Fri, 28 Jul 2023 06:15:50 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2023-10-26",
+    "Last Service Extension": "2027-10-26",
+    "End of Support": "2028-10-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-CA-600C-USG",
+    "guid": "874f2e17cd62e61acdd34e7329c5fa2434982344e77d8f612743cd585c12ebaf",
+    "pubDate": "Tue, 31 Oct 2023 06:15:20 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2024-01-29",
+    "Last Service Extension": "2028-01-29",
+    "End of Support": "2029-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-CA-700C",
+    "guid": "f6e80d3cd95c49b360bf50c74f6fcaa87de0192f77493b07019d8eda2e7f010d",
+    "pubDate": "Fri, 28 Jul 2023 06:15:49 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2023-10-26",
+    "Last Service Extension": "2027-10-26",
+    "End of Support": "2028-10-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-CA-700C-USG",
+    "guid": "61429337988c03c6ca53446c6ca1583c63014a35e625ca6a71a226a74d49098e",
+    "pubDate": "Tue, 31 Oct 2023 06:15:21 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2024-01-29",
+    "Last Service Extension": "2028-01-29",
+    "End of Support": "2029-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-M-550C",
+    "guid": "560ba59b53cfa59b6ca5320ed9d72c7fb48d91daa0bde57cb068f3d8f8cba38d",
+    "pubDate": "Fri, 21 Jul 2023 06:15:51 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2023-10-19",
+    "Last Service Extension": "2027-10-19",
+    "End of Support": "2028-10-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-M-550C-USG",
+    "guid": "e9c19a16bdd02ba9bac630161e16d81986a8c1db4dd62bd5bec02d9a26f4e348",
+    "pubDate": "Tue, 31 Oct 2023 06:15:22 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2024-01-29",
+    "Last Service Extension": "2028-01-29",
+    "End of Support": "2029-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiNAC-R-650C",
+    "guid": "be16f28b8aa5980802db2e5fa5f82aebcbf17d09e1ce66068d0929c4a9d3d5e3",
+    "pubDate": "Fri, 06 Sep 2019 06:18:55 -0700",
+    "category": "FortiNAC",
+    "End of Order": "2019-12-05",
+    "Last Service Extension": "2023-12-05",
+    "End of Support": "2024-12-05",
+    "Last Supported Software Version": "N/A"
+  }
+]

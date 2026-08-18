@@ -1,0 +1,612 @@
+[
+  {
+    "title": "FortiSwitch-100",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2011-01-26",
+    "Last Service Extension": "2015-01-26",
+    "End of Support": "2016-01-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-1000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2011-02-01",
+    "Last Service Extension": "2015-02-01",
+    "End of Support": "2016-02-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-1024D",
+    "guid": "907756b4963ace32f8d7cc209a7f1ee95052cc15fc52f6522f9e954334a2fa26",
+    "pubDate": "Wed, 20 Mar 2024 06:15:51 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-06-18",
+    "Last Service Extension": "2028-06-18",
+    "End of Support": "2029-06-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-1048D",
+    "guid": "e7919351c1428af6effe99e768e981b9d019ca8ecc2bdb42fdc7ae2a6538768e",
+    "pubDate": "Wed, 31 Jul 2019 06:16:08 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2019-10-29",
+    "Last Service Extension": "2023-10-29",
+    "End of Support": "2024-10-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-1048E",
+    "guid": "71bc1ad39bb09ae7681fa8d1196e940c9df982b9dbed9c331ea30f7da5036b90",
+    "pubDate": "Fri, 23 Jan 2026 00:10:30 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2026-04-23",
+    "Last Service Extension": "2030-04-23",
+    "End of Support": "2031-04-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-1048E-USG",
+    "guid": "71bc1ad39bb09ae7681fa8d1196e940c9df982b9dbed9c331ea30f7da5036b90",
+    "pubDate": "Fri, 23 Jan 2026 00:10:30 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2026-04-23",
+    "Last Service Extension": "2030-04-23",
+    "End of Support": "2031-04-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-108D-POE",
+    "guid": "77cd6f2d4a149c94ea83fe71e500d146d6174e5f98aa6ebb92f0046ce30c89c0",
+    "pubDate": "Fri, 19 Jan 2018 06:15:11 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2018-04-19",
+    "Last Service Extension": "2022-04-19",
+    "End of Support": "2023-04-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-108D-POE-USG",
+    "guid": "50ed60a720a72c5fd1d4a4f4581204cc331695da4aa90fcb6535b10a0b3ae0b8",
+    "pubDate": "Tue, 08 Aug 2017 06:15:06 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2017-11-06",
+    "Last Service Extension": "2021-11-06",
+    "End of Support": "2022-11-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-108E",
+    "guid": "02b7bf3c9dcbb9fc5b23de9dfff7287c556a5a47e63b6b4a7eb4b1b1969e73e8",
+    "pubDate": "Fri, 01 Jul 2022 06:15:59 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2022-09-29",
+    "Last Service Extension": "2026-09-29",
+    "End of Support": "2027-09-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-108E-FPOE",
+    "guid": "98c86cea3817cd74a8c4ba8c87d7a165dd52031c5a68cbdd61d59a7db3bbfb94",
+    "pubDate": "Fri, 27 Oct 2023 06:15:53 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-01-25",
+    "Last Service Extension": "2028-01-25",
+    "End of Support": "2029-01-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-108E-POE",
+    "guid": "3bf0cd5fee99467f5e6741a04475e6da6040068ab8d210400fd44152e14e220f",
+    "pubDate": "Fri, 27 Oct 2023 06:15:54 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-01-25",
+    "Last Service Extension": "2028-01-25",
+    "End of Support": "2029-01-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-124B-POE",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2016-01-22",
+    "Last Service Extension": "2020-01-22",
+    "End of Support": "2021-01-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-124D",
+    "guid": "cebb321196f4c9aa32f7bd4be18abfbd6605eeea8758d4ddd1bb4f86eb6bdca4",
+    "pubDate": "Fri, 19 Jan 2018 06:15:13 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2018-04-19",
+    "Last Service Extension": "2022-04-19",
+    "End of Support": "2023-04-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-124D-POE",
+    "guid": "fb0467253de32cc8f984e2a0b9c178c46215465621febed9a9e2da172d2b2d19",
+    "pubDate": "Fri, 09 Feb 2018 06:15:11 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2018-05-10",
+    "Last Service Extension": "2022-05-10",
+    "End of Support": "2023-05-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-124E",
+    "guid": "bb95ad1f620d0b6a53579d69225bda9f7bbf517965d98b1c502bbf57d6321435",
+    "pubDate": "Mon, 05 Aug 2024 06:15:40 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-11-03",
+    "Last Service Extension": "2028-11-03",
+    "End of Support": "2029-11-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-124E-FPOE",
+    "guid": "18f0157f6d5cf61bfc0aa00286c305ae63827863ce53f1f6ddeb63c41eae3e7e",
+    "pubDate": "Mon, 05 Aug 2024 06:15:41 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-11-03",
+    "Last Service Extension": "2028-11-03",
+    "End of Support": "2029-11-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-124E-POE",
+    "guid": "50c59350a4fd62671af6b58984683b13fb604eefac982d4bd43ad7d4caf38672",
+    "pubDate": "Fri, 01 Nov 2024 06:15:54 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2025-01-30",
+    "Last Service Extension": "2029-01-30",
+    "End of Support": "2030-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-148E",
+    "guid": "2a30b5729d5b0fb41c5524e613e941f498e92ca0bba4c4c809ff737ba8e1b5ed",
+    "pubDate": "Fri, 13 Dec 2024 06:15:07 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2025-03-13",
+    "Last Service Extension": "2029-03-13",
+    "End of Support": "2030-03-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-148E-POE",
+    "guid": "941cb22674ec13cfd020becec19e11b4a2d5e59385d2f45cd3509b8833bd73df",
+    "pubDate": "Fri, 05 Jul 2024 06:15:51 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-10-03",
+    "Last Service Extension": "2028-10-03",
+    "End of Support": "2029-10-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-224B-POE",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2016-01-16",
+    "Last Service Extension": "2020-01-16",
+    "End of Support": "2021-01-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-224D-POE",
+    "guid": "8ed763f8263f018ea7cf460f416a5e2c91210da37d932a874869d11c04ff0535",
+    "pubDate": "Wed, 15 Nov 2017 06:15:07 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2018-02-13",
+    "Last Service Extension": "2022-02-13",
+    "End of Support": "2023-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-224D-POE-USG",
+    "guid": "c8e3c6f04fc4f1a7459ae8280324e1d53cf238b282903fe78af0f0941bd52f4c",
+    "pubDate": "Tue, 08 Aug 2017 06:15:04 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2017-11-06",
+    "Last Service Extension": "2021-11-06",
+    "End of Support": "2022-11-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-248B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-248B-DPS",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2014-12-31",
+    "Last Service Extension": "2018-12-31",
+    "End of Support": "2019-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-248D-FPOE",
+    "guid": "7661a5e0cd738a515ce171dd26bdb730e071c91300f3082c13c45af74ec8195d",
+    "pubDate": "Wed, 15 Nov 2017 06:15:09 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2018-02-13",
+    "Last Service Extension": "2022-02-13",
+    "End of Support": "2023-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-248D-POE",
+    "guid": "c4b8ac0d16793741eb9442698739b16af1b72fef3b66cf76263a440346d56906",
+    "pubDate": "Fri, 29 Dec 2017 06:15:09 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2018-03-29",
+    "Last Service Extension": "2022-03-29",
+    "End of Support": "2023-03-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-28C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2016-04-01",
+    "Last Service Extension": "2020-04-01",
+    "End of Support": "2021-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-3032D",
+    "guid": "4d5d8933599b295fddc6932c25a48d9cbf9209d8441dc8cae8997b172de7ce65",
+    "pubDate": "Wed, 19 May 2021 06:15:25 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-3032E",
+    "guid": "7239b01f123a49af1b69dff7d05bcd3358f7034a07fdaafebaaffa9f5252a600",
+    "pubDate": "Fri, 31 Oct 2025 00:11:01 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-01-29",
+    "Last Service Extension": "2030-01-29",
+    "End of Support": "2031-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-3032E-USG",
+    "guid": "7239b01f123a49af1b69dff7d05bcd3358f7034a07fdaafebaaffa9f5252a600",
+    "pubDate": "Fri, 31 Oct 2025 00:11:01 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-01-29",
+    "Last Service Extension": "2030-01-29",
+    "End of Support": "2031-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-324B-POE",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2016-04-15",
+    "Last Service Extension": "2020-04-15",
+    "End of Support": "2021-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-324B-POE-G",
+    "guid": "e559cdb8708a73b7e8783f98d0669754675be210185cee0f2f57fa0872b3feb7",
+    "pubDate": "Fri, 25 Aug 2017 06:15:11 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-348B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2016-04-15",
+    "Last Service Extension": "2020-04-15",
+    "End of Support": "2021-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424D",
+    "guid": "c84550870962593b8e064ca2d73cbb9ab5505c37088c37954acc2f2ba5d5483b",
+    "pubDate": "Fri, 21 Aug 2020 06:18:06 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2020-11-19",
+    "Last Service Extension": "2024-11-19",
+    "End of Support": "2025-11-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424D-FPOE",
+    "guid": "6cd8dbf7c620286fb0abc931bff597db191547b516b1994d50df801094872553",
+    "pubDate": "Mon, 24 Aug 2020 11:55:20 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2020-11-19",
+    "Last Service Extension": "2024-11-19",
+    "End of Support": "2025-11-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424D-POE",
+    "guid": "34a5069e79481311309319bb74d7f84c9fa424729cb42c2a9264201fbed22256",
+    "pubDate": "Mon, 24 Aug 2020 16:31:08 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2020-11-19",
+    "Last Service Extension": "2024-11-19",
+    "End of Support": "2025-11-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E",
+    "guid": "508e413726e43f32eb953329d8bb66397316636439c5293a59c8152f1bc369b7",
+    "pubDate": "Fri, 26 Jun 2026 00:10:27 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-24",
+    "Last Service Extension": "2030-09-24",
+    "End of Support": "2031-09-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E-FPOE",
+    "guid": "01789ba842a8e9ca1324c853999e858ae08f025025d70fb33d68655b5d1b388d",
+    "pubDate": "Fri, 31 Jul 2026 00:10:37 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-10-29",
+    "Last Service Extension": "2030-10-29",
+    "End of Support": "2031-10-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E-FPOE-TAA",
+    "guid": "01789ba842a8e9ca1324c853999e858ae08f025025d70fb33d68655b5d1b388d",
+    "pubDate": "Fri, 31 Jul 2026 00:10:37 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-10-29",
+    "Last Service Extension": "2030-10-29",
+    "End of Support": "2031-10-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E-POE",
+    "guid": "508e413726e43f32eb953329d8bb66397316636439c5293a59c8152f1bc369b7",
+    "pubDate": "Fri, 26 Jun 2026 00:10:27 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-24",
+    "Last Service Extension": "2030-09-24",
+    "End of Support": "2031-09-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E-POE-TAA",
+    "guid": "508e413726e43f32eb953329d8bb66397316636439c5293a59c8152f1bc369b7",
+    "pubDate": "Fri, 26 Jun 2026 00:10:27 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-24",
+    "Last Service Extension": "2030-09-24",
+    "End of Support": "2031-09-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E-TAA",
+    "guid": "508e413726e43f32eb953329d8bb66397316636439c5293a59c8152f1bc369b7",
+    "pubDate": "Fri, 26 Jun 2026 00:10:27 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-24",
+    "Last Service Extension": "2030-09-24",
+    "End of Support": "2031-09-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2016-04-15",
+    "Last Service Extension": "2020-04-15",
+    "End of Support": "2021-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448D",
+    "guid": "763ee2cfd5a363a7cdd1923688f86c88090f10c716f45636409cc50f1edad6c8",
+    "pubDate": "Tue, 16 Mar 2021 10:25:52 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448D-FPOE",
+    "guid": "3f39e80c5521f15709ddef5d55dffad3267bd846622f84026a481e4f971a0814",
+    "pubDate": "Tue, 16 Mar 2021 10:26:01 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448D-POE",
+    "guid": "886a3aecd8a7d904635a8608495158197e4a71b320bb4a05ea0c9b11015ab3df",
+    "pubDate": "Tue, 16 Mar 2021 10:25:58 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2021-06-14",
+    "Last Service Extension": "2025-06-14",
+    "End of Support": "2026-06-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448E",
+    "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
+    "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-13",
+    "Last Service Extension": "2030-09-13",
+    "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448E-FPOE",
+    "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
+    "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-13",
+    "Last Service Extension": "2030-09-13",
+    "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448E-POE",
+    "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
+    "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-09-13",
+    "Last Service Extension": "2030-09-13",
+    "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2011-02-01",
+    "Last Service Extension": "2015-02-01",
+    "End of Support": "2016-02-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-5003",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-524D",
+    "guid": "01576fd6c988917ea57ace904657fa07edc7742680c80edfb43f6ec6739b4f94",
+    "pubDate": "Fri, 14 Jun 2024 06:15:12 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-09-12",
+    "Last Service Extension": "2028-09-12",
+    "End of Support": "2029-09-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-524D-FPOE",
+    "guid": "29084764d8bf096fa9d642ac24a573a32dda68857720e3277aef44416ebf5ed8",
+    "pubDate": "Fri, 14 Jun 2024 06:15:11 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2024-09-12",
+    "Last Service Extension": "2028-09-12",
+    "End of Support": "2029-09-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-524D-TAA",
+    "guid": "a19da08c500e6cb8e5b51f7ce99c7ad634e2016182bc00717cf2344bd80bfa4c",
+    "pubDate": "Thu, 20 Mar 2025 09:57:05 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2025-05-30",
+    "Last Service Extension": "2029-05-30",
+    "End of Support": "2030-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-548B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2014-09-30",
+    "Last Service Extension": "2018-09-30",
+    "End of Support": "2019-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-548D",
+    "guid": "0ff97b085d4b7f73d32319f8114c597d8fbc16c3d7bb4a2039a94e790b821dc9",
+    "pubDate": "Fri, 31 Jan 2025 06:15:31 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2025-05-01",
+    "Last Service Extension": "2029-05-01",
+    "End of Support": "2030-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-548D-FPOE",
+    "guid": "45c45d809adc1bd8c88223d47ffca38742a2d259b2dfeea385ac9b87ddb971cd",
+    "pubDate": "Thu, 30 Apr 2026 00:10:59 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-07-29",
+    "Last Service Extension": "2030-07-29",
+    "End of Support": "2031-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-80-POE",
+    "guid": "26a6f195ab34bcd5a2705a5b6ac7a217a502585b72f0e493d46ac52ba94e62a5",
+    "pubDate": "Sat, 30 Sep 2017 06:15:07 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2017-12-29",
+    "Last Service Extension": "2021-12-29",
+    "End of Support": "2022-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitchManager",
+    "guid": "01789ba842a8e9ca1324c853999e858ae08f025025d70fb33d68655b5d1b388d",
+    "pubDate": "Fri, 31 Jul 2026 00:10:37 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-10-29",
+    "Last Service Extension": "2030-10-29",
+    "End of Support": "2031-10-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitchRugged-112D-POE",
+    "guid": "e34887bada60040a0b767c3e884868c00815ada3fcd9187136fd588d0d975633",
+    "pubDate": "Wed, 30 Apr 2025 00:10:05 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2025-07-29",
+    "Last Service Extension": "2029-07-29",
+    "End of Support": "2030-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitchRugged-124D",
+    "guid": "3ec37c86c3f1f62aa81a39c1025fa6ad37632c4c68e0c9c8024b25959a9a38d4",
+    "pubDate": "Fri, 18 Mar 2022 06:15:12 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2022-06-16",
+    "Last Service Extension": "2026-06-16",
+    "End of Support": "2027-06-16",
+    "Last Supported Software Version": "N/A"
+  }
+]

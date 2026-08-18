@@ -1,0 +1,22 @@
+[
+  {
+    "title": "FortiIsolator VM",
+    "guid": "13b00fff783ce5d6ae88c29a542069898cfed509bfa69872484cb0bc28bfba4e",
+    "pubDate": "Mon, 09 Feb 2026 00:10:20 -0800",
+    "category": "FortiIsolator",
+    "End of Order": "2026-05-10",
+    "Last Service Extension": "2030-05-10",
+    "End of Support": "2031-05-10",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiIsolator-1000F",
+    "guid": "c78c7c03f1344c59f6004945aaccbf8088db16cbc7980717f3e6cb1bd202fd68",
+    "pubDate": "Mon, 06 May 2024 06:15:10 -0700",
+    "category": "FortiIsolator",
+    "End of Order": "2024-08-04",
+    "Last Service Extension": "2028-08-04",
+    "End of Support": "2029-08-04",
+    "Last Supported Software Version": "N/A"
+  }
+]

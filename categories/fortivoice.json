@@ -1,0 +1,332 @@
+[
+  {
+    "title": "FortiVoice Enterprise VM",
+    "guid": "26a6f195ab34bcd5a2705a5b6ac7a217a502585b72f0e493d46ac52ba94e62a5",
+    "pubDate": "Sat, 30 Sep 2017 06:15:07 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-12-29",
+    "Last Service Extension": "2021-12-29",
+    "End of Support": "2022-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice Enterprise VM-1000",
+    "guid": "a5c92c87c16c2e5594590ad4cb40f7fb5268fcd0683faad1f460c7599eb03a00",
+    "pubDate": "Thu, 31 Aug 2017 06:15:37 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice Enterprise VM-3000",
+    "guid": "1ab9dff361c5061663fc8207cd522d4201bc4bde8a902d2fc7cc6bb98e316f99",
+    "pubDate": "Thu, 31 Aug 2017 06:15:39 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice Enterprise VM-50",
+    "guid": "fc214c9a4118d2a2997eb89410f1d7d719cdab45de88f8abad155f37e5d5a727",
+    "pubDate": "Fri, 27 Sep 2024 06:15:09 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2024-12-26",
+    "Last Service Extension": "2028-12-26",
+    "End of Support": "2029-12-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-100D8",
+    "guid": "637198c0c7e9118166971ddd2c72d4f81a3b6e88d0426781204f71dad48402cd",
+    "pubDate": "Mon, 03 Apr 2017 06:15:09 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-07-02",
+    "Last Service Extension": "2021-07-02",
+    "End of Support": "2022-07-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-100DT",
+    "guid": "78083b598464d5ee3df4d296a292a6c436c3d4d71a16871c3f8c01f74d67c407",
+    "pubDate": "Mon, 03 Apr 2017 06:15:07 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-07-02",
+    "Last Service Extension": "2021-07-02",
+    "End of Support": "2022-07-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-100T",
+    "guid": "3f4c12b0663dbe6322973823d81e59792d0a4bf0123893df67a96ce3417b402b",
+    "pubDate": "Mon, 30 Jan 2017 13:13:47 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-180D8",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2016-06-15",
+    "Last Service Extension": "2020-06-15",
+    "End of Support": "2021-06-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-180DT",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2016-06-15",
+    "Last Service Extension": "2020-06-15",
+    "End of Support": "2021-06-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-2000F",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-200D",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2016-06-15",
+    "Last Service Extension": "2020-06-15",
+    "End of Support": "2021-06-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-200DT",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2016-06-15",
+    "Last Service Extension": "2020-06-15",
+    "End of Support": "2021-06-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-24",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2012-11-11",
+    "Last Service Extension": "2016-11-11",
+    "End of Support": "2017-11-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-300DT",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2016-06-15",
+    "Last Service Extension": "2020-06-15",
+    "End of Support": "2021-06-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-40",
+    "guid": "076644f75e68abbe85e0faa63d041778e9ca90431dbaa47142e52c60c25ab6ec",
+    "pubDate": "Fri, 26 May 2017 06:16:21 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-08-24",
+    "Last Service Extension": "2021-08-24",
+    "End of Support": "2022-08-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-40D2",
+    "guid": "d56b76f91cc9b28a89ccc49c4d7238453bc881ffb8523d95a1d5c92002b8f6ad",
+    "pubDate": "Mon, 03 Apr 2017 06:15:04 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-07-02",
+    "Last Service Extension": "2021-07-02",
+    "End of Support": "2022-07-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-40S",
+    "guid": "a5979cc59f33cb311b1553f94162f3dac3a42c392ea1555083ee860270c2d5f9",
+    "pubDate": "Mon, 30 Jan 2017 13:13:39 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-48",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2012-11-11",
+    "Last Service Extension": "2016-11-11",
+    "End of Support": "2017-11-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-5000F",
+    "guid": "01789ba842a8e9ca1324c853999e858ae08f025025d70fb33d68655b5d1b388d",
+    "pubDate": "Fri, 31 Jul 2026 00:10:37 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2026-10-29",
+    "Last Service Extension": "2030-10-29",
+    "End of Support": "2031-10-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-500DT2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2016-06-15",
+    "Last Service Extension": "2020-06-15",
+    "End of Support": "2021-06-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-70",
+    "guid": "47f7c04c629d2e56d3d4f743f5860dac51516c7fab7c58537bfeee60c7d73b77",
+    "pubDate": "Fri, 26 May 2017 06:16:19 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-08-24",
+    "Last Service Extension": "2021-08-24",
+    "End of Support": "2022-08-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-70D4",
+    "guid": "c4b07b0c6ed634d1e7392abf253fa0a80738aca2063b0529891ec684b94b2fad",
+    "pubDate": "Mon, 03 Apr 2017 06:15:06 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2017-07-02",
+    "Last Service Extension": "2021-07-02",
+    "End of Support": "2022-07-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoice-84",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiVoice",
+    "End of Order": "2012-11-11",
+    "Last Service Extension": "2016-11-11",
+    "End of Support": "2017-11-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterpirse-1000E",
+    "guid": "dbb86dd2d4d64b86e1512ad9c34b238f0c31e3a1ceb1743f5bb46b650fca3d8d",
+    "pubDate": "Tue, 25 Jun 2019 06:16:30 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2019-09-23",
+    "Last Service Extension": "2023-09-23",
+    "End of Support": "2024-09-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-1000E-T",
+    "guid": "dbb86dd2d4d64b86e1512ad9c34b238f0c31e3a1ceb1743f5bb46b650fca3d8d",
+    "pubDate": "Tue, 25 Jun 2019 06:16:30 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2019-09-23",
+    "Last Service Extension": "2023-09-23",
+    "End of Support": "2024-09-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-100E",
+    "guid": "14d8ff29b2a24671812a468e6ccc4b61768ad971e3c6d2581511f73056ba7c59",
+    "pubDate": "Wed, 18 May 2022 06:15:34 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2022-08-16",
+    "Last Service Extension": "2026-08-16",
+    "End of Support": "2027-08-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-2000E-T2",
+    "guid": "b670023333284989b63222f57c5b52f6e5ff4ec830862f6ff3ae8f2597020513",
+    "pubDate": "Tue, 25 Jun 2019 06:16:31 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2019-09-23",
+    "Last Service Extension": "2023-09-23",
+    "End of Support": "2024-09-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-3000E",
+    "guid": "a027652791a1573f172953be6657bd8816b97b47b022bf74d70337668cc7cb5f",
+    "pubDate": "Tue, 25 Jun 2019 06:16:32 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2019-09-23",
+    "Last Service Extension": "2023-09-23",
+    "End of Support": "2024-09-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-300E-T",
+    "guid": "67961b912546b212772e9ec14ec769fafcc2ffff2cff278ca930d302f1919f3c",
+    "pubDate": "Sat, 01 Jun 2024 06:15:18 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2024-08-30",
+    "Last Service Extension": "2028-08-30",
+    "End of Support": "2029-08-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-500E-T2",
+    "guid": "4119fa8926cb8635d95183650b8cae84308bd8c8d3bc9eccd6e6af903cadd33b",
+    "pubDate": "Tue, 25 Jun 2019 06:16:29 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2019-09-23",
+    "Last Service Extension": "2023-09-23",
+    "End of Support": "2024-09-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-500E-T4",
+    "guid": "80f84e8c895022450129b4ea6c7f0c7040cda530699177403ad4a87c6d0aa7a6",
+    "pubDate": "Mon, 08 Apr 2019 06:18:23 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2019-07-07",
+    "Last Service Extension": "2023-07-07",
+    "End of Support": "2024-07-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceEnterprise-50E6",
+    "guid": "010b54ca059d13272bf2964a4647c61566a96429e2cb184322167a59a646d999",
+    "pubDate": "Thu, 20 Mar 2025 00:11:04 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2025-06-18",
+    "Last Service Extension": "2029-06-18",
+    "End of Support": "2030-06-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiVoiceGateway-GO08",
+    "guid": "4c58f9a1287a4be686ed64708fadb3f899542a8da2116358c3fca8f77796abdf",
+    "pubDate": "Fri, 21 Mar 2025 00:11:00 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2025-06-19",
+    "Last Service Extension": "2029-06-19",
+    "End of Support": "2030-06-19",
+    "Last Supported Software Version": "N/A"
+  }
+]

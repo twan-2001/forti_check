@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FortiCarrier-3600E",
+    "guid": "19e6182e7305bb5ebb55fb65cdeedd9bf5a4764a1a208e267cdbcbd8e635d2ca",
+    "pubDate": "Fri, 16 Jul 2021 06:15:05 -0700",
+    "category": "FortiCarrier",
+    "End of Order": "2021-10-14",
+    "Last Service Extension": "2025-10-14",
+    "End of Support": "2026-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3800E",
+    "guid": "63df41b03599cca7a4ad578e2ecd4de7802b4371aec66058c9a3106e8b0dbf0f",
+    "pubDate": "Fri, 16 Jul 2021 06:15:06 -0700",
+    "category": "FortiCarrier",
+    "End of Order": "2021-10-14",
+    "Last Service Extension": "2025-10-14",
+    "End of Support": "2026-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3800E-DC",
+    "guid": "bcf6290297e929f3d7085c6035a1e75274a4216d783fe3b1e0ef1894914e4cc6",
+    "pubDate": "Fri, 16 Jul 2021 06:15:07 -0700",
+    "category": "FortiCarrier",
+    "End of Order": "2021-10-14",
+    "Last Service Extension": "2025-10-14",
+    "End of Support": "2026-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3810A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3810A-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3950B",
+    "guid": "ba63eb9458ab3717c7d1293df8a03d355a2662d2a2772ac8100553862d424646",
+    "pubDate": "Mon, 30 Jan 2017 13:20:22 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3950B-DC",
+    "guid": "38277fe174fe83de0348612d55d749f3b45039a73f642b4c444d10d6b28f03e0",
+    "pubDate": "Mon, 30 Jan 2017 13:20:05 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3951B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-3951B-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-5001A-DW",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-5001A-DW-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-5001A-DW-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiCarrier",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiCarrier-5001B-G",
+    "guid": "a6f290a4b56e62b83af4091fb5d932bd17caef8fa183f81828fa6dc30bbb3f3a",
+    "pubDate": "Sat, 15 Apr 2017 06:15:24 -0700",
+    "category": "FortiCarrier",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  }
+]

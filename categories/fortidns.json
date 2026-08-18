@@ -1,0 +1,52 @@
+[
+  {
+    "title": "FortiDNS-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDNS",
+    "End of Order": "2014-03-11",
+    "Last Service Extension": "2018-03-11",
+    "End of Support": "2019-03-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDNS-1000C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDNS",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDNS-3000D",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDNS",
+    "End of Order": "2015-07-27",
+    "Last Service Extension": "2019-07-27",
+    "End of Support": "2020-07-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDNS-400C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiDNS",
+    "End of Order": "2015-07-27",
+    "Last Service Extension": "2019-07-27",
+    "End of Support": "2020-07-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDNS-400C-G",
+    "guid": "78c04941f077ad1c43e411bd105df96dccd2de1f43aefec13d1734775690fe03",
+    "pubDate": "Sat, 15 Apr 2017 06:15:23 -0700",
+    "category": "FortiDNS",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  }
+]

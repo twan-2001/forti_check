@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Endpoint Telemetry & Compliance License for FortiGate",
+    "guid": "26052f961b0088f870e43533949a0d6026d33d1bbf573a5fc3b635264f1f3efd",
+    "pubDate": "Fri, 05 Jan 2018 06:15:09 -0800",
+    "category": "FortiClient",
+    "End of Order": "2018-04-05",
+    "Last Service Extension": "2022-04-05",
+    "End of Support": "2023-04-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiClient-10K",
+    "guid": "5da27fbe77669d2137f9475ad82f003962e2ae27817735c20099e25f3717ec9f",
+    "pubDate": "Fri, 23 Jul 2021 06:15:55 -0700",
+    "category": "FortiClient",
+    "End of Order": "2021-10-21",
+    "Last Service Extension": "2025-10-21",
+    "End of Support": "2026-10-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiClient-2000",
+    "guid": "59321ae5b5f1c1d69261e0e9dcd5e0090f8c4e6b650713277f98643890b6cb6a",
+    "pubDate": "Fri, 23 Jul 2021 06:15:54 -0700",
+    "category": "FortiClient",
+    "End of Order": "2021-10-21",
+    "Last Service Extension": "2025-10-21",
+    "End of Support": "2026-10-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiClient-500",
+    "guid": "f223ee487dbfda97c2ae99327fe5957de88a3a560375211f398d0eb8648a2a9d",
+    "pubDate": "Fri, 23 Jul 2021 06:15:53 -0700",
+    "category": "FortiClient",
+    "End of Order": "2021-10-21",
+    "Last Service Extension": "2025-10-21",
+    "End of Support": "2026-10-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiClient-USG",
+    "guid": "6640765d790ca02104eba97facb6a888b41143a476ad93a4d14dbfde6cfecfc2",
+    "pubDate": "Mon, 02 Oct 2023 06:15:32 -0700",
+    "category": "FortiClient",
+    "End of Order": "2023-12-31",
+    "Last Service Extension": "2027-12-31",
+    "End of Support": "2028-12-31",
+    "Last Supported Software Version": "N/A"
+  }
+]

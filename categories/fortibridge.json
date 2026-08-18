@@ -1,0 +1,192 @@
+[
+  {
+    "title": "FortiBridge-1000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiBridge",
+    "End of Order": "2008-10-16",
+    "Last Service Extension": "2012-10-16",
+    "End of Support": "2013-10-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-1000F",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiBridge",
+    "End of Order": "2007-10-16",
+    "Last Service Extension": "2009-10-16",
+    "End of Support": "2012-10-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2001",
+    "guid": "d9aa3d15cd2f31d33c171e9b26e16ace9588ac8b26235c04288423d6b9bb0452",
+    "pubDate": "Fri, 20 Oct 2017 06:15:05 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2001-G",
+    "guid": "bc3d676e6f933ed1bc342bd14172eb2e68606c72b014508960b0317407fe23db",
+    "pubDate": "Thu, 31 Aug 2017 06:15:16 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2001F",
+    "guid": "6265526271043859384df0caa589c6330b0e462b4165bf3d04e24920397c0c92",
+    "pubDate": "Fri, 20 Oct 2017 06:15:07 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2001F-G",
+    "guid": "21314f1cc9089220dbdc5c14fcd5f6123500758ffd09adab26e8f2eb1bb5c47c",
+    "pubDate": "Thu, 31 Aug 2017 06:15:17 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2002",
+    "guid": "9f2613bee16ccc6b6cbe630863ca3ec021ad3b9946260df7dadadbde38ef1a14",
+    "pubDate": "Fri, 20 Oct 2017 06:15:09 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2002-G",
+    "guid": "6562bb09786bfc94b642b064de6ace209fa31e421feb78d9cdeb7b21737db70a",
+    "pubDate": "Thu, 31 Aug 2017 06:15:19 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2002F",
+    "guid": "729dc376c8eb514ae7ee867025661316e40bf1231ffdb227358f2bbbe8e7b161",
+    "pubDate": "Wed, 07 Feb 2018 06:15:15 -0800",
+    "category": "FortiBridge",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2002F-G",
+    "guid": "4fdae3a0721c9f4ecc26d60148d49dd26f4b852b845989731f446573e163e3b0",
+    "pubDate": "Thu, 31 Aug 2017 06:15:20 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2002X",
+    "guid": "33e566e7e313bb9431cf1acf8a6d1731e4c4e80adcd91bee5a319dea900c3b30",
+    "pubDate": "Fri, 20 Oct 2017 06:15:11 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-2002X-G",
+    "guid": "ac3a325fb42951f2f4fdca958c46a3cde843c99d4fd5d32df820f3bd2603055e",
+    "pubDate": "Thu, 31 Aug 2017 06:15:22 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3002L",
+    "guid": "dca1a52eada17ba5e8a967d88f11a292041713c960d410192a0afb796a6fd88f",
+    "pubDate": "Fri, 20 Oct 2017 06:15:12 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3002S",
+    "guid": "69c632f00ccbb514dffb65cc640cc42345c79dbb201fd7f812aafe6f55bfba03",
+    "pubDate": "Fri, 20 Oct 2017 06:15:14 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3004L",
+    "guid": "27f91b5a644fb027b2fd6eba2676f0d587ce57bed3366b09d19c6e673ef927ff",
+    "pubDate": "Fri, 20 Oct 2017 06:15:15 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3004S",
+    "guid": "f072fc6665c02ab29b8691b3d5bdb888677eb598d95f7c966363035d1e67aef4",
+    "pubDate": "Fri, 20 Oct 2017 06:15:17 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3004SL",
+    "guid": "a8e50f295bf00bef488478c9a54fe8360a3d8512b2e39f426a3fb63e20fffc46",
+    "pubDate": "Fri, 20 Oct 2017 06:15:18 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3041S",
+    "guid": "83c744bcf7db99a719cf9224a2ffd6d6ede30dd300b29a1879b03b6a4813780d",
+    "pubDate": "Fri, 20 Oct 2017 06:15:20 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiBridge-3042S",
+    "guid": "e4e68d9ca32af7e501fb813992a1664fcd100e15277c44a8b014706ddbe4dc8e",
+    "pubDate": "Fri, 20 Oct 2017 06:15:21 -0700",
+    "category": "FortiBridge",
+    "End of Order": "2018-01-18",
+    "Last Service Extension": "2022-01-18",
+    "End of Support": "2023-01-18",
+    "Last Supported Software Version": "N/A"
+  }
+]

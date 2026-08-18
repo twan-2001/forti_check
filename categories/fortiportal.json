@@ -1,0 +1,22 @@
+[
+  {
+    "title": "FortiPortal Subscription Licenses",
+    "guid": "692f55ab26d6d43acc163e961dfc16a2fda1b072316370828b23a963dfa85dcf",
+    "pubDate": "Fri, 09 Sep 2022 06:15:47 -0700",
+    "category": "FortiPortal",
+    "End of Order": "2022-12-08",
+    "Last Service Extension": "2026-12-08",
+    "End of Support": "2027-12-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiPortal-VM-USG",
+    "guid": "5533928cbc4718d15771544998cc29282c4bb0a9bcd470ac2e4221ef52a02826",
+    "pubDate": "Mon, 16 Dec 2019 06:16:01 -0800",
+    "category": "FortiPortal",
+    "End of Order": "2020-03-15",
+    "Last Service Extension": "2024-03-15",
+    "End of Support": "2025-03-15",
+    "Last Supported Software Version": "N/A"
+  }
+]

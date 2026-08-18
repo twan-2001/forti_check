@@ -1,0 +1,362 @@
+[
+  {
+    "title": "FortiADC-1000E",
+    "guid": "9c3e4b68cc714fc8885e8bcc6e13c59bd33b7484ec9388e43fcbaf390153f47e",
+    "pubDate": "Fri, 31 Mar 2017 06:15:12 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-06-29",
+    "Last Service Extension": "2021-06-29",
+    "End of Support": "2022-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-1000F",
+    "guid": "e31aa0ce909ffc7c4c3c0d7a2fccc816084c126f2b572a6599d4f8124c5fa7a2",
+    "pubDate": "Fri, 16 Dec 2022 11:33:51 -0800",
+    "category": "FortiADC",
+    "End of Order": "2021-04-01",
+    "Last Service Extension": "2025-04-01",
+    "End of Support": "2026-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-100E",
+    "guid": "48dbd046d097e76ebfddc86ebf5d4f202fc49630691c8bc42025ea6fb546ee92",
+    "pubDate": "Fri, 31 Mar 2017 06:15:04 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-06-29",
+    "Last Service Extension": "2021-06-29",
+    "End of Support": "2022-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-100F",
+    "guid": "3e639ed14e1d2840f288a2911ceb09a2ca3b910e1c0abafbe4cbf1b21d60d7ea",
+    "pubDate": "Fri, 16 Dec 2022 11:39:19 -0800",
+    "category": "FortiADC",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-1200F",
+    "guid": "4933a1ef7e89c2cc946670e651771ba9a2040cc46055073bf12d677b2fa8483b",
+    "pubDate": "Mon, 02 Feb 2026 00:10:07 -0800",
+    "category": "FortiADC",
+    "End of Order": "2026-05-03",
+    "Last Service Extension": "2030-05-03",
+    "End of Support": "2031-05-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-1200F-DC",
+    "guid": "45c45d809adc1bd8c88223d47ffca38742a2d259b2dfeea385ac9b87ddb971cd",
+    "pubDate": "Thu, 30 Apr 2026 00:10:59 -0700",
+    "category": "FortiADC",
+    "End of Order": "2026-07-29",
+    "Last Service Extension": "2030-07-29",
+    "End of Support": "2031-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-120F",
+    "guid": "41c0076519e286cf4146ccbdd0b4800051d178bb7ee28e0629eeacc19021e4d5",
+    "pubDate": "Wed, 01 Nov 2023 06:15:13 -0700",
+    "category": "FortiADC",
+    "End of Order": "2024-01-30",
+    "Last Service Extension": "2028-01-30",
+    "End of Support": "2029-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-1500D",
+    "guid": "ea684786d5ffb1a35f5c0db5ab794d940786397b902d8d938622a757fd3c65ab",
+    "pubDate": "Mon, 02 Oct 2017 06:15:07 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-12-31",
+    "Last Service Extension": "2021-12-31",
+    "End of Support": "2022-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-2000D",
+    "guid": "ea684786d5ffb1a35f5c0db5ab794d940786397b902d8d938622a757fd3c65ab",
+    "pubDate": "Mon, 02 Oct 2017 06:15:07 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-12-31",
+    "Last Service Extension": "2021-12-31",
+    "End of Support": "2022-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-2000F",
+    "guid": "7f30f49680defa88dbb8753e3af0767c5bc3eb8c3ab95cd108e0d1cee6fe66f0",
+    "pubDate": "Fri, 01 Jan 2021 06:15:05 -0800",
+    "category": "FortiADC",
+    "End of Order": "2021-04-01",
+    "Last Service Extension": "2025-04-01",
+    "End of Support": "2026-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-2000F-USG",
+    "guid": "e619ef6201bbe762d534bf4a5593ba505123de7629401ec1cd06e1a4d6669a3d",
+    "pubDate": "Mon, 16 Oct 2023 06:15:17 -0700",
+    "category": "FortiADC",
+    "End of Order": "2024-01-14",
+    "Last Service Extension": "2028-01-14",
+    "End of Support": "2029-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-200D",
+    "guid": "f43c03a635d9406af99ac2df5e62437444c7a4d661f2ba2d6cbd49d82c3e5b5a",
+    "pubDate": "Mon, 02 Oct 2017 06:15:08 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-12-31",
+    "Last Service Extension": "2021-12-31",
+    "End of Support": "2022-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-200E",
+    "guid": "c9525d90960ee2c0e991f07e3281db3942356fa59fdc0162c75a758c9614694d",
+    "pubDate": "Fri, 31 Mar 2017 06:15:07 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-06-29",
+    "Last Service Extension": "2021-06-29",
+    "End of Support": "2022-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-200F",
+    "guid": "b3e685343fb3ef4bf84c87575401cd0ba700906f2873c6154a19bb3b267ae296",
+    "pubDate": "Fri, 01 Oct 2021 15:22:32 -0700",
+    "category": "FortiADC",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-2200F",
+    "guid": "9b42eac62caddba1080476171af3f4fec058bf928d0cb8d771b6119f3faf36a2",
+    "pubDate": "Mon, 02 Feb 2026 00:10:05 -0800",
+    "category": "FortiADC",
+    "End of Order": "2026-05-03",
+    "Last Service Extension": "2030-05-03",
+    "End of Support": "2031-05-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-2200F-DC",
+    "guid": "45c45d809adc1bd8c88223d47ffca38742a2d259b2dfeea385ac9b87ddb971cd",
+    "pubDate": "Thu, 30 Apr 2026 00:10:59 -0700",
+    "category": "FortiADC",
+    "End of Order": "2026-07-29",
+    "Last Service Extension": "2030-07-29",
+    "End of Support": "2031-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-220F",
+    "guid": "5794b73e0ba9b8e986ddfacba0f040942f1bc9556a1479bc5394ed85944279f8",
+    "pubDate": "Mon, 03 Aug 2026 00:10:06 -0700",
+    "category": "FortiADC",
+    "End of Order": "2026-11-01",
+    "Last Service Extension": "2030-11-01",
+    "End of Support": "2031-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-300D",
+    "guid": "d950176dccb90f5bc957271e2276deeb69a3d536cff59a9cf463b5ece813b501",
+    "pubDate": "Wed, 19 May 2021 06:15:26 -0700",
+    "category": "FortiADC",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-300E",
+    "guid": "fe38ac94f6a30b45575d8acaf8bdf7bd086503a03972548683519941640f77a8",
+    "pubDate": "Tue, 24 Oct 2023 21:20:43 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-06-29",
+    "Last Service Extension": "2021-06-29",
+    "End of Support": "2022-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-300F",
+    "guid": "517b5e524af812ac5a8f5bd7ff4c2823a8d2e3188943220d69563d33bc8a0983",
+    "pubDate": "Wed, 01 May 2024 06:15:52 -0700",
+    "category": "FortiADC",
+    "End of Order": "2024-07-30",
+    "Last Service Extension": "2028-07-30",
+    "End of Support": "2029-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-4000D",
+    "guid": "aab2bda4ca86cfcf5d89288193049bca7ebc6d8965d1d1fc9f98fdbb9e2c53be",
+    "pubDate": "Mon, 02 Oct 2017 06:15:09 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-12-31",
+    "Last Service Extension": "2021-12-31",
+    "End of Support": "2022-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-4000F",
+    "guid": "7f30f49680defa88dbb8753e3af0767c5bc3eb8c3ab95cd108e0d1cee6fe66f0",
+    "pubDate": "Fri, 01 Jan 2021 06:15:05 -0800",
+    "category": "FortiADC",
+    "End of Order": "2021-04-01",
+    "Last Service Extension": "2025-04-01",
+    "End of Support": "2026-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-400D",
+    "guid": "73a1c2a2f5a579cc4d2795bb1cfde3f6fa459ff801dd612beaa0bc440b0d9ee6",
+    "pubDate": "Thu, 11 Jul 2019 09:56:35 -0700",
+    "category": "FortiADC",
+    "End of Order": "2019-10-06",
+    "Last Service Extension": "2023-10-06",
+    "End of Support": "2024-10-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-400E",
+    "guid": "fe02bb5abbeaf6ac7bc74b96ed06eddc66e0ed5d7ab1b33bb1a393d83d057c2c",
+    "pubDate": "Fri, 31 Mar 2017 06:15:09 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-06-29",
+    "Last Service Extension": "2021-06-29",
+    "End of Support": "2022-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-400F",
+    "guid": "24efe1df056e17feca192af9fbed9badd0cbf232080956a7dc68a974871f6558",
+    "pubDate": "Tue, 30 Apr 2024 06:15:58 -0700",
+    "category": "FortiADC",
+    "End of Order": "2024-07-29",
+    "Last Service Extension": "2028-07-29",
+    "End of Support": "2029-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-4200F",
+    "guid": "9b42eac62caddba1080476171af3f4fec058bf928d0cb8d771b6119f3faf36a2",
+    "pubDate": "Mon, 02 Feb 2026 00:10:05 -0800",
+    "category": "FortiADC",
+    "End of Order": "2026-05-03",
+    "Last Service Extension": "2030-05-03",
+    "End of Support": "2031-05-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-4200F -DC",
+    "guid": "45c45d809adc1bd8c88223d47ffca38742a2d259b2dfeea385ac9b87ddb971cd",
+    "pubDate": "Thu, 30 Apr 2026 00:10:59 -0700",
+    "category": "FortiADC",
+    "End of Order": "2026-07-29",
+    "Last Service Extension": "2030-07-29",
+    "End of Support": "2031-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-5000F",
+    "guid": "40289e006c70cfd21f77611a81083390c3839ec63fd4c3d18198e8e17c6b1ebb",
+    "pubDate": "Mon, 01 Dec 2025 00:10:53 -0800",
+    "category": "FortiADC",
+    "End of Order": "2026-03-01",
+    "Last Service Extension": "2030-03-01",
+    "End of Support": "2031-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-600E",
+    "guid": "7004046f5f6a56200b074f61f434ab097cc6e94491852414157392f18d5eea73",
+    "pubDate": "Fri, 31 Mar 2017 06:15:11 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-06-29",
+    "Last Service Extension": "2021-06-29",
+    "End of Support": "2022-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-60F",
+    "guid": "90b9cebe9aab243d038d5d198d47a2bd000b048a00c17e3f4e4b7551619a7990",
+    "pubDate": "Thu, 16 Jan 2020 06:17:26 -0800",
+    "category": "FortiADC",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-700D",
+    "guid": "f43c03a635d9406af99ac2df5e62437444c7a4d661f2ba2d6cbd49d82c3e5b5a",
+    "pubDate": "Mon, 02 Oct 2017 06:15:08 -0700",
+    "category": "FortiADC",
+    "End of Order": "2017-12-31",
+    "Last Service Extension": "2021-12-31",
+    "End of Support": "2022-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-VM01-USG",
+    "guid": "1b8a9d6717c83dbc716a26ee7b8fb893adb7859c9fdd3993cce211b47f7e07dd",
+    "pubDate": "Fri, 10 Jan 2020 10:55:15 -0800",
+    "category": "FortiADC",
+    "End of Order": "2020-02-19",
+    "Last Service Extension": "2024-02-19",
+    "End of Support": "2025-02-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-VM02-USG",
+    "guid": "95ead32e402e430f153bfb08267244728beef9e60ab785383ab694253d4a66a7",
+    "pubDate": "Fri, 10 Jan 2020 10:55:22 -0800",
+    "category": "FortiADC",
+    "End of Order": "2020-02-18",
+    "Last Service Extension": "2024-02-18",
+    "End of Support": "2025-02-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-VM04-USG",
+    "guid": "4907e87b0e862a58c13d11aed44975be7aeee37433c683cc7ab3143e7ef1b60b",
+    "pubDate": "Fri, 10 Jan 2020 10:55:31 -0800",
+    "category": "FortiADC",
+    "End of Order": "2020-02-18",
+    "Last Service Extension": "2024-02-18",
+    "End of Support": "2025-02-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-VM08-USG",
+    "guid": "8302163f81316ab9be8040225ac29e340b5f8fb46adf530ed72c515493935399",
+    "pubDate": "Fri, 10 Jan 2020 10:55:40 -0800",
+    "category": "FortiADC",
+    "End of Order": "2020-02-18",
+    "Last Service Extension": "2024-02-18",
+    "End of Support": "2025-02-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiADC-VME",
+    "guid": "3489dcdfc810d6ca19925b8bfe3ce1a473736458b89ef734bcfe2130e85038eb",
+    "pubDate": "Tue, 30 Sep 2025 00:10:45 -0700",
+    "category": "FortiADC",
+    "End of Order": "2025-12-29",
+    "Last Service Extension": "2029-12-29",
+    "End of Support": "2030-12-29",
+    "Last Supported Software Version": "N/A"
+  }
+]

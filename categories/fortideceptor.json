@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FortiDeceptor-1000F",
+    "guid": "6e34ddf24d2457d4213ab83f7bf0b85135410447910121b3f1b9b142a137ff23",
+    "pubDate": "Sat, 31 Jul 2021 06:15:30 -0700",
+    "category": "FortiDeceptor",
+    "End of Order": "2021-10-29",
+    "Last Service Extension": "2025-10-29",
+    "End of Support": "2026-10-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDeceptor-1000F-USG",
+    "guid": "8c2efa277338c5573c1c910d9b5703d4adb26630c772b7752c0d12008e739e3f",
+    "pubDate": "Tue, 31 Oct 2023 06:15:24 -0700",
+    "category": "FortiDeceptor",
+    "End of Order": "2024-01-29",
+    "Last Service Extension": "2028-01-29",
+    "End of Support": "2029-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiDeceptor-VM",
+    "guid": "46785544a80bb45db11ce814d2fbddf6000ea4d1a72eabd449d57ef88964d27f",
+    "pubDate": "Sat, 31 Jul 2021 06:15:31 -0700",
+    "category": "FortiDeceptor",
+    "End of Order": "2021-10-29",
+    "Last Service Extension": "2025-10-29",
+    "End of Support": "2026-10-29",
+    "Last Supported Software Version": "N/A"
+  }
+]

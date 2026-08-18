@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FortiHypervisor-2500E",
+    "guid": "cbe231df7ed0f11f411b5f693510c98ce3da7d92a5aa9c899cf9aee80ad2a2cf",
+    "pubDate": "Thu, 02 Nov 2017 06:15:09 -0700",
+    "category": "FortiHypervisor",
+    "End of Order": "2018-01-31",
+    "Last Service Extension": "2022-01-31",
+    "End of Support": "2023-01-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiHypervisor-500D",
+    "guid": "6dda8ff19c1f09f18ca3b883d2c1a6ca314fd815542248c31467141348de9b5a",
+    "pubDate": "Thu, 02 Nov 2017 06:15:08 -0700",
+    "category": "FortiHypervisor",
+    "End of Order": "2018-01-31",
+    "Last Service Extension": "2022-01-31",
+    "End of Support": "2023-01-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiHypervisor-90E",
+    "guid": "7620bcbd4d2921fd8450f7f9de6ac54287cc963300162da38e33f903edb7c4e2",
+    "pubDate": "Thu, 02 Nov 2017 06:15:06 -0700",
+    "category": "FortiHypervisor",
+    "End of Order": "2018-01-31",
+    "Last Service Extension": "2022-01-31",
+    "End of Support": "2023-01-31",
+    "Last Supported Software Version": "N/A"
+  }
+]

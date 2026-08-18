@@ -1,0 +1,292 @@
+[
+  {
+    "title": "FG-5060FA",
+    "guid": "161174c5038fb20149a1ec642b325f5c0416f9b4e3e2b64f3bdf6f7ca5d1303d",
+    "pubDate": "Sun, 16 Jan 2022 06:15:39 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5060SAP",
+    "guid": "556d4a66e54058b4551715a4deb1565bb4eb6e8a6ff57419f4c574eb3dee9374",
+    "pubDate": "Sun, 16 Jan 2022 06:15:40 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5060SM",
+    "guid": "1fcfaeae6735b46511cb0d1b0921549b8af6a8a0952c158be4e9b40ac11f973c",
+    "pubDate": "Sun, 16 Jan 2022 06:15:41 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-ABF",
+    "guid": "1d7bf561c7995c2cf32d7ce4d2ca9aa4cfb0e2f567179df2aa38738c41456643",
+    "pubDate": "Sun, 16 Jan 2022 06:15:35 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-ABR",
+    "guid": "fb4db9ec9a381a88d7ce8f02cba9dbf5c63ca1ac4cab36c74c30cb9a52cda0c9",
+    "pubDate": "Sun, 16 Jan 2022 06:15:37 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-AF",
+    "guid": "effb6ec45cafe3d3838a8605a5b5c01b85379d4abc16106ccfd95d7120f36f2c",
+    "pubDate": "Sun, 16 Jan 2022 06:15:36 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-FAN",
+    "guid": "16f9a154adaa1bb1d0207bbf235e2ce79ae31d9eac73db934ed0000c1f6252eb",
+    "pubDate": "Sun, 16 Jan 2022 06:15:42 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-PEM",
+    "guid": "3b9258e563ec0ccb22c6fb06781e382dd3131cd885dae2420ddc036028214aee",
+    "pubDate": "Sun, 16 Jan 2022 06:15:43 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-SFRU",
+    "guid": "02f06e72ebf393276c18f069f67252116d4ec2289dc6eea33628dd20521db175",
+    "pubDate": "Sun, 16 Jan 2022 06:15:44 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-5144C-SM",
+    "guid": "02f06e72ebf393276c18f069f67252116d4ec2289dc6eea33628dd20521db175",
+    "pubDate": "Sun, 16 Jan 2022 06:15:44 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate 5053 Power converter tray",
+    "guid": "91c2b9304329c7a285d98dfa366b881e0a6c1b6c6a069a93aaab07f5792e4705",
+    "pubDate": "Wed, 16 Oct 2019 06:15:07 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate 5053B  Power converter tray",
+    "guid": "4f8167126280a2a863d471ac6e0a474f68c010131ded7c52816c5dd886907462",
+    "pubDate": "Sun, 16 Jan 2022 06:15:33 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5020",
+    "guid": "17b4edd5c2ed5eaddc9e27ac853973e5db281919b1932b70a75673af27b9be0e",
+    "pubDate": "Fri, 25 Aug 2017 06:15:08 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5020-Fan-Tray",
+    "guid": "d1440ad3c6ed4fd41ca1d6ae2a882fd489b90b0da91c7dae7cee577f96481a90",
+    "pubDate": "Fri, 25 Aug 2017 06:15:18 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5020-Fan-Tray-G",
+    "guid": "35d0070b1c06319c1f2672e04fba480b86df1fe61172921a1c859c76c52fe541",
+    "pubDate": "Thu, 31 Aug 2017 06:15:36 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5020-G",
+    "guid": "ef4fb094b6bb0e17cb9c1ab556b1a0de9125a8eef88490c25157bffc1f4734d6",
+    "pubDate": "Sat, 15 Apr 2017 06:15:20 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5020-Power-Supply",
+    "guid": "2cc59b8c345b438ee882b9a935861727c81ea383d57243b205bceb0bce5ae459",
+    "pubDate": "Fri, 25 Aug 2017 06:15:20 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5020AC",
+    "guid": "2c11b006c08a8dc97d643878f14220f1ab25380f03cec1f52bfa360ab5565d5f",
+    "pubDate": "Sun, 16 Jan 2022 06:15:45 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5050-Shelf-Manager-G",
+    "guid": "e756d8f8f02c79f84a9932fe7e536ce018f3a8442d00195a65768587c8c712b2",
+    "pubDate": "Sat, 15 Apr 2017 06:15:14 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5060",
+    "guid": "d59522eb94013e9b0bbe56558ee914af9ac8559ef8033b1fb95a0d2eed2edf19",
+    "pubDate": "Sun, 16 Jan 2022 06:15:29 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5060-DC-G",
+    "guid": "5af9a8db9b3a5615e8664f9d926027074fff3c37928100a81c75c6b781ab6591",
+    "pubDate": "Sat, 15 Apr 2017 06:15:16 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5140-Shelf-Manager-G",
+    "guid": "9f2bed49b2ef95da67275cb9357f42887919189625add09980f16f846f157f2b",
+    "pubDate": "Fri, 25 Aug 2017 06:15:23 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5140B Chassis",
+    "guid": "05d4ff1be091ad5582e301a7b74a7b965760b135082a60d158891bc6d6377e6b",
+    "pubDate": "Wed, 16 Oct 2019 06:15:13 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5140SM",
+    "guid": "dc4df805ec85c06912f57431c9d81085bfe8b87fb1d1e8494e81c73fd2dc7b3e",
+    "pubDate": "Fri, 25 Aug 2017 06:15:21 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5144C-DC",
+    "guid": "45b420bca3a31d2dcc47169d6e26d203dd91aa28a1bb2e2329b9cf59398c9db3",
+    "pubDate": "Sun, 16 Jan 2022 06:15:38 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5144C-DC-NEBS",
+    "guid": "45b420bca3a31d2dcc47169d6e26d203dd91aa28a1bb2e2329b9cf59398c9db3",
+    "pubDate": "Sun, 16 Jan 2022 06:15:38 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5144C-HW-Bundle",
+    "guid": "1bdd76ad4b86b44647c5b2e6639527f33d7d915790e0e84e065ed8f20670b403",
+    "pubDate": "Thu, 16 Jul 2020 06:15:31 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2020-10-14",
+    "Last Service Extension": "2024-10-14",
+    "End of Support": "2025-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5K-Rear-Slot-Filler-Panel",
+    "guid": "3d451928ddb33e10abb8629a1e19c2d2d0430a3abc8648dd0268d2d7efdca98e",
+    "pubDate": "Fri, 25 Aug 2017 06:15:24 -0700",
+    "category": "FortiChassis",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "PSU-5000B",
+    "guid": "1d7bf561c7995c2cf32d7ce4d2ca9aa4cfb0e2f567179df2aa38738c41456643",
+    "pubDate": "Sun, 16 Jan 2022 06:15:35 -0800",
+    "category": "FortiChassis",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "N/A"
+  }
+]

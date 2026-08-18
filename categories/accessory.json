@@ -1,0 +1,722 @@
+[
+  {
+    "title": "FAN-336R-60F-60",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FANT-3IN1-RND-5M",
+    "guid": "2f61bd118fb96d9333ecc85f7b7f2b2a5d9558184f712aa63f07509a03f42852",
+    "pubDate": "Fri, 30 Jan 2026 11:10:15 -0800",
+    "category": "Accessory",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FANT-5IN1-RND-5M",
+    "guid": "73db5dd41aba510f17c35ee4a82d14d01fd39c8943f3935beda7c3a013577f10",
+    "pubDate": "Fri, 30 Jan 2026 11:10:01 -0800",
+    "category": "Accessory",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FANT-7IN1-RND-5M",
+    "guid": "7380d10781214372f529de4c7aa54d48432f0d3d8254799fc54672ce1099a9da",
+    "pubDate": "Fri, 30 Jan 2026 11:09:34 -0800",
+    "category": "Accessory",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-60C-PDC",
+    "guid": "821dd3f21190293ba32d4effdbbedb831c83c255a95079abd830bcd199bad481",
+    "pubDate": "Tue, 19 Jan 2021 13:39:31 -0800",
+    "category": "Accessory",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-CFP2-SR10",
+    "guid": "c853e848133d55f4e4098e7bad11235b29e2498df886bf54d5c171fa430f8734",
+    "pubDate": "Fri, 20 Jun 2025 00:10:12 -0700",
+    "category": "Accessory",
+    "End of Order": "2025-09-18",
+    "Last Service Extension": "2029-09-18",
+    "End of Support": "2030-09-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-GC",
+    "guid": "93b994840f0f888566a923d73d4a2b6d1e4ec074ccf98584eb6882bfa84a4eeb",
+    "pubDate": "Fri, 09 Oct 2020 06:17:03 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-LX",
+    "guid": "0c7c7808110a6085d1b0f5bc3e32225780f2b8c14a4e38b52844e8116a08fdc7",
+    "pubDate": "Fri, 09 Oct 2020 06:17:04 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-QSFP+SR-BIDI",
+    "guid": "7239b01f123a49af1b69dff7d05bcd3358f7034a07fdaafebaaffa9f5252a600",
+    "pubDate": "Fri, 31 Oct 2025 00:11:01 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-01-29",
+    "Last Service Extension": "2030-01-29",
+    "End of Support": "2031-01-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-QSFP-SR",
+    "guid": "457c9c27fe8c91b5b8c824ee5ccba1e833029aff4c4ce3a0fdb784e2d93e79c9",
+    "pubDate": "Mon, 20 Jul 2020 06:15:38 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-10-18",
+    "Last Service Extension": "2024-10-18",
+    "End of Support": "2025-10-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-QSFP28-LR4",
+    "guid": "86985e099cc453c726f88208e8b73b3bb5f8e52bf581e1dff2476ef64a5879ae",
+    "pubDate": "Thu, 01 Jun 2023 14:36:48 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-12-29",
+    "Last Service Extension": "2024-12-29",
+    "End of Support": "2025-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-QSFP28-SR4",
+    "guid": "957331307aceff9e58c65804069f0c9dc4eb1304ca95ace5d6f41b85febf7d04",
+    "pubDate": "Thu, 01 Jun 2023 14:45:51 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-07-29",
+    "Last Service Extension": "2024-07-29",
+    "End of Support": "2025-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-SFP-LR",
+    "guid": "6043fb6afb3c18b19eb88c945eb4e5985ced0e9c33ba2a2ca4bba2836ef544ae",
+    "pubDate": "Fri, 09 Oct 2020 06:17:06 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-SFP-SR",
+    "guid": "7dfa8834f925a5a4a02908d8f222ff43a94ce0b315d1fdedf7b11fff91a10a44",
+    "pubDate": "Fri, 09 Oct 2020 06:17:05 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-SFP28-LR",
+    "guid": "baf6d8bf0db43dd07acad424cff8614ffddd46ee34ca310c00a1d8950931ea80",
+    "pubDate": "Mon, 31 May 2021 06:15:35 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-08-29",
+    "Last Service Extension": "2025-08-29",
+    "End of Support": "2026-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-SFP28-SR",
+    "guid": "9db67dd5834906e75b212dc560255f18939a805ff23016d20f4012c1b336cea6",
+    "pubDate": "Thu, 30 Apr 2020 06:17:13 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-07-29",
+    "Last Service Extension": "2024-07-29",
+    "End of Support": "2025-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-SX",
+    "guid": "93b994840f0f888566a923d73d4a2b6d1e4ec074ccf98584eb6882bfa84a4eeb",
+    "pubDate": "Fri, 09 Oct 2020 06:17:03 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FG-TRAN-XFP",
+    "guid": "568d879fa8a51ef10a53ad21802f69701acb86ce2cf13fc3b7decb1ab944fc81",
+    "pubDate": "Wed, 16 Oct 2019 06:15:15 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FN-TRAN-DSL",
+    "guid": "1096f6a71959b5b5694863cbaee551d6b979974b487b1b008146878c62d6bbe4",
+    "pubDate": "Fri, 26 Jan 2024 06:15:55 -0800",
+    "category": "Accessory",
+    "End of Order": "2024-04-25",
+    "Last Service Extension": "2028-04-25",
+    "End of Support": "2029-04-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FN-TRAN-SFP+ER",
+    "guid": "0e041145125576a4c6a7b9e46f4a4ca019154b1fcf124ce32ba043cb85116d99",
+    "pubDate": "Fri, 05 Jun 2026 00:10:31 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-09-03",
+    "Last Service Extension": "2030-09-03",
+    "End of Support": "2031-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FN-TRAN-SFP+ZR",
+    "guid": "0e041145125576a4c6a7b9e46f4a4ca019154b1fcf124ce32ba043cb85116d99",
+    "pubDate": "Fri, 05 Jun 2026 00:10:31 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-09-03",
+    "Last Service Extension": "2030-09-03",
+    "End of Support": "2031-09-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FON-PSC71",
+    "guid": "22a3bcaaae6ee3d3a93b8a79f36aee23ed2079ae1f9daddaba3757bd19e9d728",
+    "pubDate": "Fri, 06 Sep 2024 06:15:12 -0700",
+    "category": "Accessory",
+    "End of Order": "2024-12-05",
+    "Last Service Extension": "2028-12-05",
+    "End of Support": "2029-12-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5140-Accessories",
+    "guid": "ac16a2e6956111d16c0367e701b4e98d6271c038172b1c75314e2fb73ec6244d",
+    "pubDate": "Wed, 16 Oct 2019 06:15:19 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiRPS-100",
+    "guid": "2af7653f02b3b3d1abdd46ba8e6b1ef8337215ed9f4806e7071a93f7fee3f666",
+    "pubDate": "Fri, 16 Oct 2020 06:15:17 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FR-TRAN-LX",
+    "guid": "7dfa8834f925a5a4a02908d8f222ff43a94ce0b315d1fdedf7b11fff91a10a44",
+    "pubDate": "Fri, 09 Oct 2020 06:17:05 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FR-TRAN-SX",
+    "guid": "508e413726e43f32eb953329d8bb66397316636439c5293a59c8152f1bc369b7",
+    "pubDate": "Fri, 26 Jun 2026 00:10:27 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-09-24",
+    "Last Service Extension": "2030-09-24",
+    "End of Support": "2031-09-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FR-TRAN-ZX",
+    "guid": "508e413726e43f32eb953329d8bb66397316636439c5293a59c8152f1bc369b7",
+    "pubDate": "Fri, 26 Jun 2026 00:10:27 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-09-24",
+    "Last Service Extension": "2030-09-24",
+    "End of Support": "2031-09-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FS-TRAN-FX",
+    "guid": "c07998afb383456018e97c41ed8c90cc3a950b62108d0b76d5a879943604aef6",
+    "pubDate": "Mon, 29 Apr 2024 06:15:07 -0700",
+    "category": "Accessory",
+    "End of Order": "2024-07-28",
+    "Last Service Extension": "2028-07-28",
+    "End of Support": "2029-07-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FS-TRAN-GC",
+    "guid": "9d8c9cf2437b0ffe101b9ac7f70690b6508a6044a69848b6cbdd8578fd2f8f41",
+    "pubDate": "Wed, 05 Apr 2023 22:01:31 -0700",
+    "category": "Accessory",
+    "End of Order": "2023-06-29",
+    "Last Service Extension": "2027-06-29",
+    "End of Support": "2028-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FS-TRAN-SFP+SR",
+    "guid": "af04bce654666745864120012e601771eced7587b951e40685b28d9cfd268e41",
+    "pubDate": "Wed, 05 Apr 2023 12:12:16 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-07-29",
+    "Last Service Extension": "2024-07-29",
+    "End of Support": "2025-07-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FS-TRAN-SFP-ER",
+    "guid": "b4ad73bcd312ebf77a23a480bf63371e7dd4f14ec7d0dda7233f5e6928d8183a",
+    "pubDate": "Fri, 09 Oct 2020 06:17:07 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-01-07",
+    "Last Service Extension": "2025-01-07",
+    "End of Support": "2026-01-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MNT-SCRMKIT-03",
+    "guid": "6860f51f9dc7a556de7184b5a394d33f8d1060562da50ec64a314cc719c8a86f",
+    "pubDate": "Fri, 01 Nov 2024 06:15:56 -0700",
+    "category": "Accessory",
+    "End of Order": "2025-01-30",
+    "Last Service Extension": "2029-01-30",
+    "End of Support": "2030-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "Power_Supplies",
+    "guid": "185e967c1c15cdb78b03a1f245ba76b11573e3f67a4361347d96a5388aacf311",
+    "pubDate": "Fri, 01 Nov 2024 06:15:55 -0700",
+    "category": "Accessory",
+    "End of Order": "2025-01-30",
+    "Last Service Extension": "2029-01-30",
+    "End of Support": "2030-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "QSFP+_LR_Transceivers",
+    "guid": "f61457c652409371cf50ebc360a82540c18161dded314ef698f9c13d5905d9e8",
+    "pubDate": "Mon, 20 Jul 2020 06:15:37 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-10-18",
+    "Last Service Extension": "2024-10-18",
+    "End of Support": "2025-10-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "Rack_mount_tray",
+    "guid": "87d885ac6f376e39a72ab887316df0f3160a787fd31eb9c7199b87e7a3790b44",
+    "pubDate": "Wed, 15 Mar 2017 06:15:05 -0700",
+    "category": "Accessory",
+    "End of Order": "2017-06-13",
+    "Last Service Extension": "2021-06-13",
+    "End of Support": "2022-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-ADAPTORPLUG-01",
+    "guid": "94b4f654863f55d5955f2b7ce7628ec1d8a04245125ddf6ea62201676d34cf24",
+    "pubDate": "Mon, 30 Sep 2024 06:15:55 -0700",
+    "category": "Accessory",
+    "End of Order": "2024-12-29",
+    "Last Service Extension": "2028-12-29",
+    "End of Support": "2029-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-CABLE-FS-QSFP+",
+    "guid": "4d909ef8e28f54d4ab8b4abc7c3509963c5b9ba031dd089da1341c8012de96fb",
+    "pubDate": "Mon, 09 Sep 2024 06:15:56 -0700",
+    "category": "Accessory",
+    "End of Order": "2024-12-08",
+    "Last Service Extension": "2028-12-08",
+    "End of Support": "2029-12-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-CABLE-FS-SFP+",
+    "guid": "c7c929aa0af4db623c8511c4cdd878f7de366a0e83b8d7baa868af38f7b995d7",
+    "pubDate": "Fri, 20 Oct 2023 06:15:38 -0700",
+    "category": "Accessory",
+    "End of Order": "2024-01-18",
+    "Last Service Extension": "2028-01-18",
+    "End of Support": "2029-01-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-CABLE-FS-SFP+7",
+    "guid": "65066eecf2d088c88007b0ff8507c96b95dadf00220ec365a900af6c5f9807f5",
+    "pubDate": "Fri, 18 Nov 2022 06:15:57 -0800",
+    "category": "Accessory",
+    "End of Order": "2023-02-16",
+    "Last Service Extension": "2027-02-16",
+    "End of Support": "2028-02-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-CABLE-KVM1",
+    "guid": "20f69081f9ffded3871d85ab0442e28f71882a976616336d01377013b8a892a7",
+    "pubDate": "Fri, 16 Apr 2021 06:15:05 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-Cable-RJ48",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Accessory",
+    "End of Order": "2014-09-12",
+    "Last Service Extension": "2018-09-12",
+    "End of Support": "2019-09-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-Cable-SAS",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Accessory",
+    "End of Order": "2014-09-12",
+    "Last Service Extension": "2018-09-12",
+    "End of Support": "2019-09-12",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-D1TB",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Accessory",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "N/A",
+    "End of Support": "N/A",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-D1TC",
+    "guid": "ad6d7ecd9fb23e5eefff59784e761375aea44c8fbfde766c0924db48b05ffdc7",
+    "pubDate": "Sun, 01 Dec 2024 06:15:19 -0800",
+    "category": "Accessory",
+    "End of Order": "2025-03-01",
+    "Last Service Extension": "2029-03-01",
+    "End of Support": "2030-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-D2000",
+    "guid": "a981cc0ea8fa7d9fbbda6366af6e8aebb15e76761b3c681fb2ffc63dbe8332b1",
+    "pubDate": "Sun, 01 Dec 2024 06:15:20 -0800",
+    "category": "Accessory",
+    "End of Order": "2025-03-01",
+    "Last Service Extension": "2029-03-01",
+    "End of Support": "2030-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-D2TE",
+    "guid": "ec74883ab995235519d0933dd537c4ee97f8660f5cf355c69be5a2c38098903e",
+    "pubDate": "Wed, 15 Jul 2026 00:10:35 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-D500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "Accessory",
+    "End of Order": "2012-07-05",
+    "Last Service Extension": "N/A",
+    "End of Support": "N/A",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-DFAI-3T",
+    "guid": "ec74883ab995235519d0933dd537c4ee97f8660f5cf355c69be5a2c38098903e",
+    "pubDate": "Wed, 15 Jul 2026 00:10:35 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-DFWB2T",
+    "guid": "ec74883ab995235519d0933dd537c4ee97f8660f5cf355c69be5a2c38098903e",
+    "pubDate": "Wed, 15 Jul 2026 00:10:35 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-EAR-FG310B",
+    "guid": "998805bb69b4ea07ed8033c45a0501d903436cc015d07d3d78a6cecabd61266b",
+    "pubDate": "Fri, 22 Jun 2018 06:15:03 -0700",
+    "category": "Accessory",
+    "End of Order": "2018-09-20",
+    "Last Service Extension": "2022-09-20",
+    "End of Support": "2023-09-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FAD1000F-PS",
+    "guid": "cd7f57fb993c994ebb6381a55a1d49fb7c2dc880a71d048cb4b7bd8d2443dad1",
+    "pubDate": "Fri, 07 Aug 2020 06:16:15 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-11-05",
+    "Last Service Extension": "2024-11-05",
+    "End of Support": "2025-11-05",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FAD5000F-SSD",
+    "guid": "dfd1c5a3f8875880c822a239fe061d87c7814974ea5b56ca0a33b0968c391286",
+    "pubDate": "Fri, 22 May 2026 00:10:16 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-08-20",
+    "Last Service Extension": "2030-08-20",
+    "End of Support": "2031-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FAP221B-PA",
+    "guid": "a981cc0ea8fa7d9fbbda6366af6e8aebb15e76761b3c681fb2ffc63dbe8332b1",
+    "pubDate": "Sun, 01 Dec 2024 06:15:20 -0800",
+    "category": "Accessory",
+    "End of Order": "2025-03-01",
+    "Last Service Extension": "2029-03-01",
+    "End of Support": "2030-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FAZ3500E-PS",
+    "guid": "1df54284a184af721b489bbabf8e4ff2cf2ec50123312c7b8ff3216bccebe156",
+    "pubDate": "Fri, 16 Apr 2021 06:15:06 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FAZ3500E-RAIL",
+    "guid": "993635709526038f8e2cc06305467fb8f4bdb995b0065be380a509fdaaf287eb",
+    "pubDate": "Sat, 16 Jan 2021 06:15:09 -0800",
+    "category": "Accessory",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FCR3800E-PS",
+    "guid": "98fe9f77a8871eb3c72fd2fde23d3baf431824ab281677d62093df4b8201e9f9",
+    "pubDate": "Fri, 16 Jul 2021 06:15:08 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-10-14",
+    "Last Service Extension": "2025-10-14",
+    "End of Support": "2026-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG1200D-PS",
+    "guid": "c5490f4050cf040410c958b1f28b7366e849304151aeada629c0161af74c646c",
+    "pubDate": "Fri, 11 Nov 2022 06:15:24 -0800",
+    "category": "Accessory",
+    "End of Order": "2023-02-09",
+    "Last Service Extension": "2027-02-09",
+    "End of Support": "2028-02-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG1500D-DC-PS",
+    "guid": "951d6b4cce013f33c44403847be29fd4beda30488223ee4ca369d8d546200f7f",
+    "pubDate": "Wed, 04 Dec 2019 06:15:26 -0800",
+    "category": "Accessory",
+    "End of Order": "2020-03-03",
+    "Last Service Extension": "2024-03-03",
+    "End of Support": "2025-03-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG2000E-PS",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG20C-PA",
+    "guid": "77186c7003454c6fb8834e029ca9c834c05706d9dab05e4105397c40315d5157",
+    "pubDate": "Sun, 01 Dec 2024 06:15:18 -0800",
+    "category": "Accessory",
+    "End of Order": "2025-03-01",
+    "Last Service Extension": "2029-03-01",
+    "End of Support": "2030-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG3000D-PS",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "Accessory",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG30D-POE-PDC",
+    "guid": "ad6d7ecd9fb23e5eefff59784e761375aea44c8fbfde766c0924db48b05ffdc7",
+    "pubDate": "Sun, 01 Dec 2024 06:15:19 -0800",
+    "category": "Accessory",
+    "End of Order": "2025-03-01",
+    "Last Service Extension": "2029-03-01",
+    "End of Support": "2030-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG3600C-PS",
+    "guid": "a6394e132cab7b118eb9d9fbba1eff18c57ca26885f21bdfd913dadde6e87d7d",
+    "pubDate": "Fri, 16 Apr 2021 06:15:07 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG3700D-PS",
+    "guid": "a6394e132cab7b118eb9d9fbba1eff18c57ca26885f21bdfd913dadde6e87d7d",
+    "pubDate": "Fri, 16 Apr 2021 06:15:07 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG3950B-DC-PS",
+    "guid": "3d090031d97574175e0754ec099128c5da9e4605a93e58a4b2df60d3e0cd3b2c",
+    "pubDate": "Thu, 16 Apr 2020 06:15:38 -0700",
+    "category": "Accessory",
+    "End of Order": "2020-07-15",
+    "Last Service Extension": "2024-07-15",
+    "End of Support": "2025-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG600C-PS",
+    "guid": "6e89e481c182604999ba79ec518f5d16e0017681b4540757a3e5d163f3bcde40",
+    "pubDate": "Fri, 15 Oct 2021 06:15:58 -0700",
+    "category": "Accessory",
+    "End of Order": "2022-01-13",
+    "Last Service Extension": "2026-01-13",
+    "End of Support": "2027-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG60D-POE-PDC",
+    "guid": "6c58203e5e6699388b1a99e1b7b86d25ed181254b0a2f7c980bfc316fd49b955",
+    "pubDate": "Mon, 16 Jan 2023 06:16:00 -0800",
+    "category": "Accessory",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG90D-POE-PDC",
+    "guid": "48968744f52fa7141bc188930e245e535744dca9ff39711b996503ec6bb024aa",
+    "pubDate": "Fri, 30 May 2025 00:10:40 -0700",
+    "category": "Accessory",
+    "End of Order": "2025-08-28",
+    "Last Service Extension": "2029-08-28",
+    "End of Support": "2030-08-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FG92D-PDC",
+    "guid": "f705c04bb5772eb599ffcedcac5eda18ffe4a51882b22c219a29027cc638153b",
+    "pubDate": "Sun, 01 Nov 2020 06:16:04 -0800",
+    "category": "Accessory",
+    "End of Order": "2021-01-30",
+    "Last Service Extension": "2025-01-30",
+    "End of Support": "2026-01-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FMG1KF-HDD",
+    "guid": "ec74883ab995235519d0933dd537c4ee97f8660f5cf355c69be5a2c38098903e",
+    "pubDate": "Wed, 15 Jul 2026 00:10:35 -0700",
+    "category": "Accessory",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FSA2000E-PS",
+    "guid": "de638dc6170a5634d84ac0355ab2578b1cf452934af900988a7974a4cd11a8b1",
+    "pubDate": "Fri, 16 Jul 2021 06:15:09 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-10-14",
+    "Last Service Extension": "2025-10-14",
+    "End of Support": "2026-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "SP-FWB3000-PS",
+    "guid": "69703c007244a3e2f103cf137000833a2424e29e3d5880a7ecca86993a101e13",
+    "pubDate": "Fri, 16 Apr 2021 06:15:08 -0700",
+    "category": "Accessory",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  }
+]

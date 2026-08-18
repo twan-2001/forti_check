@@ -1,0 +1,252 @@
+[
+  {
+    "title": "ADM-FB8 Module",
+    "guid": "d50d111b8740378ab2516dfc5d66d7c6e7e1e2526d41d678f53a0ff45622ebf7",
+    "pubDate": "Sat, 15 Apr 2017 06:15:05 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-FB8-G",
+    "guid": "2ff3da858d10c2f274f514978e8629f0c218ed1e60af7ba224879dc81bccd5fe",
+    "pubDate": "Sat, 15 Apr 2017 06:15:27 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-FE8 Module",
+    "guid": "069d4b48a645369545bbe61eb0da3c5e905ee4e7b337ff37efb581793a0acd98",
+    "pubDate": "Mon, 30 Jan 2017 13:22:02 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-FE8-G",
+    "guid": "b2bb256c1c61519570290f857ce859ee0a96cfaded0c5f70f90fc1fa194ad845",
+    "pubDate": "Fri, 25 Aug 2017 06:15:26 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-XB2 Module",
+    "guid": "8e23fedbe65b2f20cb04507d917f900a7c3df966889c6a56941b969545251bad",
+    "pubDate": "Mon, 30 Jan 2017 13:20:56 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-XB2-G",
+    "guid": "fa579c427caf4a5b30017fa6cc3bb577a96b6a77376e5e1c83e3634e84730b03",
+    "pubDate": "Fri, 25 Aug 2017 06:15:13 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-XD4 Module",
+    "guid": "06dc8da08358f4d4ee099edeef81a82d30623ed50240e1e0892ea47b827411a6",
+    "pubDate": "Sat, 15 Apr 2017 06:15:07 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-XD4-G",
+    "guid": "a10c5d151931c71a88c1bb1dabb02d95a7953c48f6aa4705fb6916a4101e9ac7",
+    "pubDate": "Sat, 15 Apr 2017 06:15:29 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ADM-XE2 Module",
+    "guid": "b7e5f45a1a66780b71813bb356d6267cf99945d162cfa4a9861e1e92a3bfbdd0",
+    "pubDate": "Mon, 30 Jan 2017 13:21:45 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-CE4 Module",
+    "guid": "5a14e5cfa9da8441f7dd539972b4ee9eca9a01f3663a1f9514dd6038c15bd510",
+    "pubDate": "Mon, 30 Jan 2017 13:22:07 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-CX4 Module",
+    "guid": "97129ae993d2b492e0f756cd02ab9ece06b2e63c5fb7456b73609fc8ec5c99fb",
+    "pubDate": "Mon, 30 Jan 2017 13:20:49 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-CX4-G",
+    "guid": "f9d6000a448b11c5d1fb7078ce848014ca316003b89f7f6bced3d0ac6036bd10",
+    "pubDate": "Fri, 25 Aug 2017 06:15:14 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-FX2 Module",
+    "guid": "d256ba316ad56443f1971c7ca69eaf5ab82983096ee192fc2fd3cfa558d566ec",
+    "pubDate": "Mon, 30 Jan 2017 13:21:55 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ASM-FX2-G",
+    "guid": "0aaa58cc0a734d1b4babb62a18c188d470b02cd45a3070b5acb3b8a65e973d55",
+    "pubDate": "Fri, 25 Aug 2017 06:15:15 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-C20 Module",
+    "guid": "2aec56e28a530fa30948ef879e4593688e00df15bfffafc2a1fbd20fa9fec74a",
+    "pubDate": "Mon, 30 Jan 2017 13:21:30 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-C20-G",
+    "guid": "3b0dfef2d1c017b496181692ce9c85cbe2b5177981366fb5740f77b3940ae623",
+    "pubDate": "Fri, 25 Aug 2017 06:15:17 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-F20 Module",
+    "guid": "e3ab3a462ae36aa2350f2fab4326a3ad32908c28f398fcc079e54ead6d9b8f5a",
+    "pubDate": "Fri, 10 May 2019 06:16:18 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2019-08-08",
+    "Last Service Extension": "2023-08-08",
+    "End of Support": "2024-08-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-F20-G",
+    "guid": "ebf5af615e989910ab61c4dafc452a0419475c2d03820906f960930dd6326b51",
+    "pubDate": "Thu, 31 Aug 2017 06:15:23 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-XD2 Module",
+    "guid": "269686a38b5da01882cca20bb3a5330409533abc67f81d04b98cfb50bc2e5603",
+    "pubDate": "Mon, 30 Jan 2017 13:21:37 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-XG2 Module",
+    "guid": "595014661ce8214feee4d8ac16a4dc6df43c92ccface3ea73d2e669d19d00b25",
+    "pubDate": "Fri, 10 May 2019 06:16:17 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2019-08-08",
+    "Last Service Extension": "2023-08-08",
+    "End of Support": "2024-08-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-XG2-G",
+    "guid": "2366928e878793d476abc91cbf33b1c31ceeb0ce1d028f45ba743c3ca8be4d14",
+    "pubDate": "Thu, 31 Aug 2017 06:15:25 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FMC-XH0 Module",
+    "guid": "1efda371a5c24dee6cc79e9af71953ae1613590fe80e73831b353b7b7c383bcf",
+    "pubDate": "Fri, 10 May 2019 06:16:19 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2019-08-08",
+    "Last Service Extension": "2023-08-08",
+    "End of Support": "2024-08-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FSM-064 Module",
+    "guid": "8323f68c55b064935114be1816e487ac299aa3c738cb9d10e8dc9060ebc4d6a8",
+    "pubDate": "Tue, 14 May 2019 13:55:00 -0700",
+    "category": "FortiGateModule",
+    "End of Order": "2019-08-08",
+    "Last Service Extension": "2023-08-08",
+    "End of Support": "2024-08-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "RTM-XB2 Module",
+    "guid": "403e2f1a2355d4547679f5c0ae5afdcd8547e9cd991e9714cab35ebeafbfb119",
+    "pubDate": "Mon, 30 Jan 2017 13:21:04 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "RTM-XD2 Module",
+    "guid": "0969b0971eea1788707329dcf1709ae97cc880a0cfeef230fd2b7e37c255a8d5",
+    "pubDate": "Mon, 30 Jan 2017 13:21:22 -0800",
+    "category": "FortiGateModule",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "FortiSIEM-2000F",
+    "guid": "244d46534e9b4a74b15eafacde7e400a1a959ba7541b4d8818fcdfeb2c2a2b7a",
+    "pubDate": "Sun, 31 Mar 2024 06:16:01 -0700",
+    "category": "FortiSIEM",
+    "End of Order": "2024-06-29",
+    "Last Service Extension": "2028-06-29",
+    "End of Support": "2029-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSIEM-2000G",
+    "guid": "afa10dde666e0280e1b017b1854f70dddcf24c9c082e67f54a416917c1898e86",
+    "pubDate": "Fri, 01 Mar 2024 06:15:11 -0800",
+    "category": "FortiSIEM",
+    "End of Order": "2024-05-30",
+    "Last Service Extension": "2028-05-30",
+    "End of Support": "2029-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSIEM-3500F",
+    "guid": "6e6c2047b93d0191e77dc8baaf4674f80e5a198e362b4d543e36716d7f38fa30",
+    "pubDate": "Tue, 01 Sep 2020 06:16:15 -0700",
+    "category": "FortiSIEM",
+    "End of Order": "2020-11-30",
+    "Last Service Extension": "2024-11-30",
+    "End of Support": "2025-11-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSIEM-3500G",
+    "guid": "cc50bafef4eb774ec7bcac190d4758413ece8dcd86f660638fcee17a18370259",
+    "pubDate": "Sun, 31 Mar 2024 06:16:02 -0700",
+    "category": "FortiSIEM",
+    "End of Order": "2024-06-29",
+    "Last Service Extension": "2028-06-29",
+    "End of Support": "2029-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSIEM-500F",
+    "guid": "78d6b73365e478f30cc40eb6638512211a9e4f1c0ae368a3849a630e69178d77",
+    "pubDate": "Fri, 01 Mar 2024 06:15:18 -0800",
+    "category": "FortiSIEM",
+    "End of Order": "2024-05-30",
+    "Last Service Extension": "2028-05-30",
+    "End of Support": "2029-05-30",
+    "Last Supported Software Version": "N/A"
+  }
+]

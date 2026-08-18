@@ -1,0 +1,362 @@
+[
+  {
+    "title": "FortiWeb Cloud",
+    "guid": "802a0b1910cd505c997d38a52b9008884b2295bd1b8257c980c244e10805f615",
+    "pubDate": "Wed, 03 Apr 2019 14:58:02 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2019-06-27",
+    "Last Service Extension": "2019-06-27",
+    "End of Support": "2020-06-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-1000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2010-12-13",
+    "Last Service Extension": "2014-12-13",
+    "End of Support": "2015-12-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2013-11-20",
+    "Last Service Extension": "2017-11-20",
+    "End of Support": "2018-11-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-1000D",
+    "guid": "1570054cf4941a5a8a2e690d3d76fc8a5755ac1c61c6216cdf827feafc6fecc5",
+    "pubDate": "Thu, 16 Jan 2020 06:17:24 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-1000D-USG",
+    "guid": "8f4d194887d4097c58151cb2983d3f51de916cc5657dd46fb6690a111c6580f4",
+    "pubDate": "Sun, 16 Apr 2023 06:15:24 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-1000E",
+    "guid": "fbb0066be55a5d4a669d8710e1c3e74ac0e1a792444d079600a4ff819965b09e",
+    "pubDate": "Fri, 07 Apr 2023 06:15:51 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2023-07-06",
+    "Last Service Extension": "2027-07-06",
+    "End of Support": "2028-07-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-100D",
+    "guid": "739a8b40181532a9692c5fafa464ba71092b91160103ef15d9fb66a92fd5893e",
+    "pubDate": "Fri, 16 Oct 2020 06:15:15 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-100E",
+    "guid": "b992f38eafcdd27f8482d0dad1fd1e961caaabc0d43bd767b5d04cbbd013df42",
+    "pubDate": "Fri, 01 Mar 2024 06:15:12 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2024-05-30",
+    "Last Service Extension": "2028-05-30",
+    "End of Support": "2029-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-2000E",
+    "guid": "aeedf10a47219febec961b069d47c7a11abc520cece57bbe0854ba4a70280f71",
+    "pubDate": "Fri, 15 Oct 2021 06:15:56 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2022-01-13",
+    "Last Service Extension": "2026-01-13",
+    "End of Support": "2027-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-2000E-USG",
+    "guid": "fedfc740c49b84178cc183733ec346b12c618c049319c537fb46a4c945ec5143",
+    "pubDate": "Tue, 01 Mar 2022 06:15:45 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2015-10-16",
+    "Last Service Extension": "2019-10-16",
+    "End of Support": "2020-10-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000C-FSX",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2015-10-16",
+    "Last Service Extension": "2019-10-16",
+    "End of Support": "2020-10-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000D",
+    "guid": "f794c0589e5c8025cfcb7e61d4b22090a75cebba4874467ef637b936e3f9b028",
+    "pubDate": "Mon, 30 Jan 2017 13:19:45 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000D-FSX",
+    "guid": "bf3c1e6e508053791c647b1708a9dbb09fe03f09f8635eb2dee9a801848da8d9",
+    "pubDate": "Mon, 30 Jan 2017 13:19:53 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000D-FSX-USG",
+    "guid": "a023481d260d2342636913fe8bfee894e3abd01687abf37acc5f2e5a3f558b49",
+    "pubDate": "Thu, 31 Aug 2017 06:15:32 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000E",
+    "guid": "b680e389c57b88154ad3932d26feb382d7d182f495bc0e7527b44b53f49f6e90",
+    "pubDate": "Fri, 15 Oct 2021 06:15:57 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2022-01-13",
+    "Last Service Extension": "2026-01-13",
+    "End of Support": "2027-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3000E-USG",
+    "guid": "b877900dcaa73f89c25b29147dbc14719a3287bb47a61406739053a7b1a9dc7b",
+    "pubDate": "Tue, 01 Mar 2022 06:15:46 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-3010E",
+    "guid": "17c4ddabbc4cfa5e4024e24433e8796633476fc27b60855efa0bdd76d6d6ad98",
+    "pubDate": "Wed, 31 Mar 2021 06:15:48 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2021-06-29",
+    "Last Service Extension": "2025-06-29",
+    "End of Support": "2026-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-4000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-4000D",
+    "guid": "d7cc582a8b2eeb4f1cc193fa6d5e62d94070e44570c2b3c61df263a8dfb6664b",
+    "pubDate": "Fri, 07 Aug 2020 11:48:48 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2017-01-31",
+    "Last Service Extension": "2021-01-31",
+    "End of Support": "2022-01-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-4000D-USG",
+    "guid": "77d48e8cbb14cb1b7315ae39d61746a51f841d22b45d69d2f7866351e177771b",
+    "pubDate": "Thu, 31 Aug 2017 06:15:07 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-4000E",
+    "guid": "b680e389c57b88154ad3932d26feb382d7d182f495bc0e7527b44b53f49f6e90",
+    "pubDate": "Fri, 15 Oct 2021 06:15:57 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2022-01-13",
+    "Last Service Extension": "2026-01-13",
+    "End of Support": "2027-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-4000E-USG",
+    "guid": "b877900dcaa73f89c25b29147dbc14719a3287bb47a61406739053a7b1a9dc7b",
+    "pubDate": "Tue, 01 Mar 2022 06:15:46 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2012-06-13",
+    "Last Service Extension": "2016-06-13",
+    "End of Support": "2017-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2016-07-16",
+    "Last Service Extension": "2020-07-16",
+    "End of Support": "2021-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400C-USG",
+    "guid": "a45a92ca4f89e34c31043c671242fcd0c0522ee4ca98da5356806f8397f9ecc1",
+    "pubDate": "Thu, 31 Aug 2017 06:15:31 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400D",
+    "guid": "892db1fe12a88a25ab3f45f1e58b32f516b579c5c2b786302335dbd18fc4a4a6",
+    "pubDate": "Fri, 16 Oct 2020 06:15:16 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400D-USG",
+    "guid": "067f02a6d738b2374845c8e92c086f9acac4227594fde6531151ec61e294e277",
+    "pubDate": "Fri, 01 Jan 2021 06:15:03 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2021-04-01",
+    "Last Service Extension": "2025-04-01",
+    "End of Support": "2026-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400E",
+    "guid": "ecbd7b946f6ef9254966169d73c55361d1a4a3e96c35e297200fe580394f9044",
+    "pubDate": "Sun, 30 Jun 2024 06:15:35 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2024-09-28",
+    "Last Service Extension": "2028-09-28",
+    "End of Support": "2029-09-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-400E-USG",
+    "guid": "d5e89361a0692980174b989d318ea24a1d672cbe0db9fb5c1a1519277de659d2",
+    "pubDate": "Tue, 15 Oct 2024 06:15:26 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2025-01-13",
+    "Last Service Extension": "2029-01-13",
+    "End of Support": "2030-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-600D",
+    "guid": "1ec031d2c9c42d6e62e9a710b763e47ae7f7df96802ba7d0a780edacad3f6bdb",
+    "pubDate": "Wed, 21 Oct 2020 06:15:29 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2021-01-19",
+    "Last Service Extension": "2025-01-19",
+    "End of Support": "2026-01-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-600D-USG",
+    "guid": "60a36e5a25cf136fb8b512addf4b820760b9c77f0cb82e464d55d66a38ac21d3",
+    "pubDate": "Tue, 01 Mar 2022 06:15:44 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-600E",
+    "guid": "a4ce3372a9f5209cf5c34f2d3a7120a3de8b4a829ee0096d6ee20e870f2a2ca8",
+    "pubDate": "Mon, 30 Sep 2024 06:15:53 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2024-12-29",
+    "Last Service Extension": "2028-12-29",
+    "End of Support": "2029-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-Manager-AWS",
+    "guid": "e41e483995623dc4ba2fa6ac42c2a8c18b9ed96b00a1ef13d3acea997a47f9ed",
+    "pubDate": "Wed, 17 Jul 2024 06:15:13 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2024-10-15",
+    "Last Service Extension": "2028-10-15",
+    "End of Support": "2029-10-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-VM (Hypervisor-specific SKUs)",
+    "guid": "0815dc5fc86bea3444c97f7e231043d76e78f29c92010624c01ebad1744ba89e",
+    "pubDate": "Fri, 29 Jun 2018 06:15:04 -0700",
+    "category": "FortiWeb",
+    "End of Order": "2018-09-27",
+    "Last Service Extension": "2022-09-27",
+    "End of Support": "2023-09-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWeb-VM-USG",
+    "guid": "934cc42c4ba3b9a241f0e0b34eae3c63ea022550b0919436fd61c616ec63e68f",
+    "pubDate": "Mon, 16 Dec 2019 06:16:00 -0800",
+    "category": "FortiWeb",
+    "End of Order": "2020-03-15",
+    "Last Service Extension": "2024-03-15",
+    "End of Support": "2025-03-15",
+    "Last Supported Software Version": "N/A"
+  }
+]

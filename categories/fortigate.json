@@ -1,0 +1,4882 @@
+[
+  {
+    "title": "EOL_FG-VM_v-Series",
+    "guid": "ced89d904fdf80179af7915c93d1819b816ab15ee4ed1064a1c0616c2d911f8b",
+    "pubDate": "Tue, 01 Oct 2024 06:15:46 -0700",
+    "category": "FortiGate",
+    "End of Order": "2024-12-30",
+    "Last Service Extension": "2028-12-30",
+    "End of Support": "2029-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiController-5902D",
+    "guid": "5add27ce5a6bae6ad77780dad311eaf5dadbc44d1930fae2a9afd6661bebd43d",
+    "pubDate": "Wed, 10 May 2017 06:16:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-08-08",
+    "Last Service Extension": "2021-08-08",
+    "End of Support": "2022-08-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-12-31",
+    "Last Service Extension": "2008-12-31",
+    "End of Support": "2011-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-08-03",
+    "Last Service Extension": "2008-08-03",
+    "End of Support": "2011-08-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2010-02-25",
+    "Last Service Extension": "2014-02-25",
+    "End of Support": "2015-02-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000A-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-09-30",
+    "Last Service Extension": "2015-09-30",
+    "End of Support": "2016-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000AFA2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2010-02-25",
+    "Last Service Extension": "2014-02-25",
+    "End of Support": "2015-02-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000C",
+    "guid": "8a4d8c656a1213929f9dc56f32e8074f67b6178985b6d985a3182cd0eb2bf174",
+    "pubDate": "Mon, 30 Jan 2017 13:09:01 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000C-DC",
+    "guid": "440455327c9eb3686e0bc1b9a507eaf53ee86d5bd3fc6673127042fcd7b4f5b5",
+    "pubDate": "Mon, 30 Jan 2017 13:08:30 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000C-LENC",
+    "guid": "86d4547e8377d084481b3ec418a5bfda8a47bd8ccfe3a5687157924b44f6e1f1",
+    "pubDate": "Mon, 30 Jan 2017 13:12:51 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000C-USG",
+    "guid": "1ef285095b49520d49637d06f56ceffa5dc6eb2b30662126ae441dfd34e46b4a",
+    "pubDate": "Wed, 22 Mar 2017 08:27:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000D",
+    "guid": "c0a767af08030ca8fed3bb1960f87391f609baccb31f541388eef66a9f7ead48",
+    "pubDate": "Thu, 10 Apr 2025 14:00:26 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-1000D-LENC",
+    "guid": "f82b56af58059ba04e0063f9f68cf6902b6c69aa5c8fe9e920c936b9f26d8ace",
+    "pubDate": "Wed, 09 Apr 2025 18:04:50 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-06-29",
+    "Last Service Extension": "2029-06-29",
+    "End of Support": "2030-06-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000D-USG",
+    "guid": "9a56e9904c2fff38dc9634656262ddf177f107e956c846af91e10c807b7a1ff7",
+    "pubDate": "Sun, 16 Apr 2023 06:15:18 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000F",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000F-LENC",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000F-TAA-FGDUS",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1000F-USGF",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1001F",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1001F-TAA-FGDUS",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2009-04-15",
+    "Last Service Extension": "2013-04-15",
+    "End of Support": "2014-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100D",
+    "guid": "55da00f8f812617cfb1c047ae0d835a32ad468cd02c23a18453fe6540caf8f89",
+    "pubDate": "Fri, 27 Apr 2018 06:15:15 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-07-26",
+    "Last Service Extension": "2022-07-26",
+    "End of Support": "2023-07-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100D-G",
+    "guid": "bfe1df727b04e9a75d54d7b8405af7e180a5cedf2ce45673e4e00f93a58230d2",
+    "pubDate": "Wed, 31 May 2017 06:16:26 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-08-29",
+    "Last Service Extension": "2021-08-29",
+    "End of Support": "2022-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100D-LENC",
+    "guid": "b7f0a18162aa0001d5afa3f9bc8b297aa8232a045950f49eff639e11671125c8",
+    "pubDate": "Wed, 16 Oct 2019 06:15:16 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100E",
+    "guid": "037fa45a2f2cef932bf731db497dba014f70ca364fc56630df3ca7696d2fbac4",
+    "pubDate": "Wed, 19 May 2021 06:15:30 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-100E-LENC",
+    "guid": "22c5ba3b75886219648e0f2657d47cfe5abc1ae65619548a368333125335c8e3",
+    "pubDate": "Tue, 01 Mar 2022 06:15:48 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-100E-USG",
+    "guid": "c71713a9cea6f2a6beac50e2de135db12432277a0111087a869736a005543447",
+    "pubDate": "Sun, 16 Oct 2022 06:15:32 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-100EF",
+    "guid": "8edbfc7878369a74abbfb654974a51df27de390c4c376ed0ed01edc112565a52",
+    "pubDate": "Wed, 19 May 2021 06:15:31 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-100EF-USG",
+    "guid": "ac1ac68c86f0eb8fe609772e5c56643c38d0185747572c8bc0dfc253d26b6f12",
+    "pubDate": "Sun, 16 Oct 2022 06:15:38 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-100F",
+    "guid": "de41d715a616086d90f31d5597c0120bab4810440ce6072ae46556bdfef79a49",
+    "pubDate": "Mon, 09 Feb 2026 16:52:02 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-16",
+    "Last Service Extension": "2030-04-16",
+    "End of Support": "2031-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100F-LENC",
+    "guid": "23e2be6aef0c531d8dc543db11fc7ee23480100a9dcf0bd511dda77dfd442091",
+    "pubDate": "Fri, 16 Jan 2026 00:10:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-16",
+    "Last Service Extension": "2030-04-16",
+    "End of Support": "2031-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-100F-USG",
+    "guid": "67ce28bb7f032248aa01f8d22d667e008d519a5c58be7fcf0987f25857d15534",
+    "pubDate": "Fri, 16 Jan 2026 00:10:38 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-16",
+    "Last Service Extension": "2030-04-16",
+    "End of Support": "2031-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-101E",
+    "guid": "09d8fc9db23d5ad9188b5584a8a6e1d55d9d918985b3a86b2539ae58b122e14c",
+    "pubDate": "Fri, 16 Apr 2021 06:15:10 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-101E-LENC",
+    "guid": "9149a76d311385fece3b18055bf19aa910689027c0abdada3bd896d58b61f7c2",
+    "pubDate": "Tue, 01 Mar 2022 06:15:49 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-101E-USG",
+    "guid": "a23265e5cbf79cf8c4cc295bf15176806fd6bf8f66373b691a463b744dac2a4d",
+    "pubDate": "Tue, 01 Mar 2022 06:15:41 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-101F",
+    "guid": "107cce6ec36b65f24f2333de2dec4f55428067bfdfe0af1dca0263293eb95ecd",
+    "pubDate": "Mon, 09 Feb 2026 16:52:16 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-16",
+    "Last Service Extension": "2030-04-16",
+    "End of Support": "2031-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-101F-LENC",
+    "guid": "23e2be6aef0c531d8dc543db11fc7ee23480100a9dcf0bd511dda77dfd442091",
+    "pubDate": "Fri, 16 Jan 2026 00:10:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-16",
+    "Last Service Extension": "2030-04-16",
+    "End of Support": "2031-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-101F-USG",
+    "guid": "67ce28bb7f032248aa01f8d22d667e008d519a5c58be7fcf0987f25857d15534",
+    "pubDate": "Fri, 16 Jan 2026 00:10:38 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-16",
+    "Last Service Extension": "2030-04-16",
+    "End of Support": "2031-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1100E",
+    "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
+    "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-09-13",
+    "Last Service Extension": "2030-09-13",
+    "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1100E-DC",
+    "guid": "4dfd01976a92d0acf7688b8b5c4ea5105de7eeca08ed72fe7d2dc35ae06384e9",
+    "pubDate": "Fri, 15 May 2026 00:10:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-08-13",
+    "Last Service Extension": "2030-08-13",
+    "End of Support": "2031-08-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1100E-DC-USG",
+    "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
+    "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-09-13",
+    "Last Service Extension": "2030-09-13",
+    "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1100E-LENC",
+    "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
+    "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-09-13",
+    "Last Service Extension": "2030-09-13",
+    "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1101E",
+    "guid": "0470ceee6ef93d27c5ac6067e866e4238e53c2d438555a77bd5fac9d261c4226",
+    "pubDate": "Fri, 01 May 2026 00:10:51 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1101E-LENC",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1101E-USG",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-110C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2013-08-20",
+    "Last Service Extension": "2017-08-20",
+    "End of Support": "2018-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-110C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-111C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2013-08-20",
+    "Last Service Extension": "2017-08-20",
+    "End of Support": "2018-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-111C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1200D",
+    "guid": "111c9d63cb5d8297f53c64ef1df65d7325f5372eba7df3edaff4a5c158f6ad25",
+    "pubDate": "Sat, 16 Jan 2021 06:15:04 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "7.0.0"
+  },
+  {
+    "title": "FortiGate-1200D-LENC",
+    "guid": "55ab0c8ff85e217b11a12a87eca1fa8f3e40302ec50436ef616b94a92babd1ec",
+    "pubDate": "Sat, 16 Jan 2021 06:15:05 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "7.0.0"
+  },
+  {
+    "title": "FortiGate-1200D-USG",
+    "guid": "55ab0c8ff85e217b11a12a87eca1fa8f3e40302ec50436ef616b94a92babd1ec",
+    "pubDate": "Sat, 16 Jan 2021 06:15:05 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "7.0.0"
+  },
+  {
+    "title": "FortiGate-1240B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1240B-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1240B-G",
+    "guid": "c78a70ecff4e6d34690fc410ff5aa3482f10a2604f8216621f76aa0f73c8089f",
+    "pubDate": "Wed, 16 Oct 2019 06:15:17 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-1240B-LENC-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-140D",
+    "guid": "b5831ea1a2f050171beacca82fbab8ff5163b1775e736afed341e507982ea050",
+    "pubDate": "Wed, 07 Feb 2018 06:15:16 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-140D-POE",
+    "guid": "acbf9ed7331824ff669feb6b9343c145b555b2a1d06f31e6467bb4fa7b417db8",
+    "pubDate": "Wed, 07 Feb 2018 06:15:18 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-140D-POE-T1",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-140E",
+    "guid": "b8a3a5b27e8ec53870500c4a3a87a055a57129e40d8c55d2ec51a491115227e0",
+    "pubDate": "Fri, 14 Dec 2018 06:15:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2019-03-14",
+    "Last Service Extension": "2023-03-14",
+    "End of Support": "2024-03-14",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-140E-POE",
+    "guid": "d84f6d10848e73322ec35e23167508c6737151326c295565452396daf6b6883a",
+    "pubDate": "Fri, 16 Apr 2021 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-1500D",
+    "guid": "9b2724ca67f97454b7a8a9146c371f3bf240d51c60880868a0e33e7f55ac8524",
+    "pubDate": "Wed, 11 Jan 2023 16:42:00 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-12-31",
+    "Last Service Extension": "2025-12-31",
+    "End of Support": "2026-12-31",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-1500D-DC",
+    "guid": "6a16732659fc3046d6469dca3f516a2cee22a500bf5b4291a4a25198dd5d7238",
+    "pubDate": "Tue, 21 Jan 2020 14:34:35 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-10",
+    "Last Service Extension": "2024-04-10",
+    "End of Support": "2025-04-10",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-1500D-DC-USG",
+    "guid": "568d879fa8a51ef10a53ad21802f69701acb86ce2cf13fc3b7decb1ab944fc81",
+    "pubDate": "Wed, 16 Oct 2019 06:15:15 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-1500D-LENC",
+    "guid": "de519ec90623f0b9c40b2b8b975c0bd8245102265494ff17749d1f87da75330a",
+    "pubDate": "Sun, 16 Oct 2022 06:15:42 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-1500D-USG",
+    "guid": "c71713a9cea6f2a6beac50e2de135db12432277a0111087a869736a005543447",
+    "pubDate": "Sun, 16 Oct 2022 06:15:32 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-1500DT",
+    "guid": "87efc1f011dbbb32b6006bfd58cb272976c3ea132b904d75b973318b8b8b605a",
+    "pubDate": "Sat, 02 Oct 2021 06:15:53 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-12-31",
+    "Last Service Extension": "2025-12-31",
+    "End of Support": "2026-12-31",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-1500DT-USG",
+    "guid": "8e178bda359a6578a233ccc28704c08d18189cf61493969828e36c985f39353d",
+    "pubDate": "Tue, 01 Mar 2022 06:15:42 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.2.0"
+  },
+  {
+    "title": "FortiGate-200",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-12-31",
+    "Last Service Extension": "2010-12-31",
+    "End of Support": "2011-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200-HD",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-12-31",
+    "Last Service Extension": "2010-12-31",
+    "End of Support": "2011-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2000E",
+    "guid": "14f0c2602cda7776cd4b21ac80c23a5bd6f7dee153f1b756d2c5409cc5ba322d",
+    "pubDate": "Sat, 01 Feb 2025 06:15:21 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-05-02",
+    "Last Service Extension": "2029-05-02",
+    "End of Support": "2030-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2000E-LENC",
+    "guid": "14f0c2602cda7776cd4b21ac80c23a5bd6f7dee153f1b756d2c5409cc5ba322d",
+    "pubDate": "Sat, 01 Feb 2025 06:15:21 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-05-02",
+    "Last Service Extension": "2029-05-02",
+    "End of Support": "2030-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200A-HD",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-04-01",
+    "Last Service Extension": "2019-04-01",
+    "End of Support": "2020-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-04-01",
+    "Last Service Extension": "2019-04-01",
+    "End of Support": "2020-04-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200B-LENC-G",
+    "guid": "16ca2f23d4a6a16e4c569465d3399cb8046a136c61b5444168c8ca744c6f8c00",
+    "pubDate": "Wed, 19 Apr 2017 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-18",
+    "Last Service Extension": "2021-07-18",
+    "End of Support": "2022-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200B-POE",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200B-POE-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200D",
+    "guid": "ed220db5a9fa22ec909a72d5c2e269837010fe66eb9d77de05d4bf51ca7621e3",
+    "pubDate": "Wed, 21 Feb 2018 06:15:12 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-22",
+    "Last Service Extension": "2022-05-22",
+    "End of Support": "2023-05-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200D-LENC",
+    "guid": "e9fd7facbfde73ffad972115bcc918129819e5f57362a04e3df47c1493ca7e8e",
+    "pubDate": "Wed, 07 Feb 2018 06:15:22 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200D-POE",
+    "guid": "28577c77695cf2e19e83d4db9295d479661672531bfdddf3126df6d71a78b49c",
+    "pubDate": "Mon, 16 Apr 2018 06:15:39 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200D-POE-USG",
+    "guid": "3b307322f22a6e6c9b9174c6fe48614e7e90de805fcc594d3624aa84c160e638",
+    "pubDate": "Mon, 16 Apr 2018 06:15:41 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200E",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200E-LENC",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200E-USG",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200F",
+    "guid": "40289e006c70cfd21f77611a81083390c3839ec63fd4c3d18198e8e17c6b1ebb",
+    "pubDate": "Mon, 01 Dec 2025 00:10:53 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-03-01",
+    "Last Service Extension": "2030-03-01",
+    "End of Support": "2031-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-200F-USG",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-201E",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-201E-LENC",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-201E-USG",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-201F",
+    "guid": "40289e006c70cfd21f77611a81083390c3839ec63fd4c3d18198e8e17c6b1ebb",
+    "pubDate": "Mon, 01 Dec 2025 00:10:53 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-03-01",
+    "Last Service Extension": "2030-03-01",
+    "End of Support": "2031-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-201F-LENC",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-201F-USG",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-20C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-08-16",
+    "Last Service Extension": "2018-08-16",
+    "End of Support": "2019-08-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-20C-ADSL-A",
+    "guid": "af7d27fdba431e833b1dea9034b4a1ebbda29dcc2e535286ed89fb9aa12c4403",
+    "pubDate": "Wed, 07 Feb 2018 06:15:12 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-20C-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-06-16",
+    "Last Service Extension": "2020-06-16",
+    "End of Support": "2021-06-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-224B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-240D",
+    "guid": "62370938f1c66a2884c422de69697cfc22377d1c1393f94b94b4e9f41c6c780e",
+    "pubDate": "Thu, 16 Apr 2020 06:15:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-07-15",
+    "Last Service Extension": "2024-07-15",
+    "End of Support": "2025-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-240D-LENC",
+    "guid": "7bc3dd94f75c7d411f86ac4af1f714d7f51359944088808414bd041a60e65f3f",
+    "pubDate": "Wed, 16 Jan 2019 06:15:54 -0800",
+    "category": "FortiGate",
+    "End of Order": "2019-04-16",
+    "Last Service Extension": "2023-04-16",
+    "End of Support": "2024-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-240D-POE",
+    "guid": "4c418ef266337c5707c9815cabfd8f3eff1f10c356853dc2e68cc80bd3104284",
+    "pubDate": "Wed, 16 Jan 2019 06:15:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2019-04-16",
+    "Last Service Extension": "2023-04-16",
+    "End of Support": "2024-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-240D-POE-USG",
+    "guid": "e86d700780eb2595419fb712a1fb023a5df30e7bd3e3eaee8d643295f6f79bd1",
+    "pubDate": "Wed, 16 Jan 2019 06:15:56 -0800",
+    "category": "FortiGate",
+    "End of Order": "2019-04-16",
+    "Last Service Extension": "2023-04-16",
+    "End of Support": "2024-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-280D-POE",
+    "guid": "7380c74da5824f5db00dbb1afb807316291f25bbebcb4ff7938bca5ecc273fc8",
+    "pubDate": "Fri, 16 Dec 2022 11:56:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-280D-POE-USG",
+    "guid": "4401f4dfecacc01642725e25d6a6cedf37e840c2c872c73ad2a0561a805ce8ed",
+    "pubDate": "Mon, 17 Jul 2017 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-10-15",
+    "Last Service Extension": "2021-10-15",
+    "End of Support": "2022-10-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-12-31",
+    "Last Service Extension": "2011-12-31",
+    "End of Support": "2012-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-09-13",
+    "Last Service Extension": "2009-09-13",
+    "End of Support": "2012-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3000D",
+    "guid": "caae72b964528aa7938fc31a807713d9ad6e0836be0dfc068e593c3ef3108083",
+    "pubDate": "Fri, 08 May 2026 12:34:10 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3000D-DC",
+    "guid": "3d7175ec1e2faba1d1819622b31e46915274b1a24023889b236c802da21251c1",
+    "pubDate": "Fri, 08 May 2026 12:37:43 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3000D-DC-USG",
+    "guid": "da76cae809e84c8f8a4fc14a422ef59f2d55e99466c79e31ca7b24ca0d12c0dd",
+    "pubDate": "Fri, 08 May 2026 12:37:49 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3000D-USG",
+    "guid": "47a447cd4a5706899a1f51cc35f64ce9532c278930c8f6fe5fc0dc9ba1e16a1f",
+    "pubDate": "Fri, 08 May 2026 12:34:16 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-300A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-09-30",
+    "Last Service Extension": "2015-09-30",
+    "End of Support": "2016-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300A-HD",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-09-30",
+    "Last Service Extension": "2015-09-30",
+    "End of Support": "2016-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-08-20",
+    "Last Service Extension": "2020-08-20",
+    "End of Support": "2021-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-08-20",
+    "Last Service Extension": "2020-08-20",
+    "End of Support": "2021-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300C-G-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-08-20",
+    "Last Service Extension": "2020-08-20",
+    "End of Support": "2021-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300C-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-08-20",
+    "Last Service Extension": "2020-08-20",
+    "End of Support": "2021-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300D",
+    "guid": "acbc17dabcf43a838643432a5ec3e66c328445f548f566db9159ee83e728743b",
+    "pubDate": "Fri, 13 Jul 2018 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-11",
+    "Last Service Extension": "2022-10-11",
+    "End of Support": "2023-10-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300D-LENC",
+    "guid": "0e4627551b09528d18e7b2eae478657f6340aff35709e9968320101f546d1268",
+    "pubDate": "Fri, 13 Jul 2018 06:15:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-11",
+    "Last Service Extension": "2022-10-11",
+    "End of Support": "2023-10-11",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300D-USG",
+    "guid": "d67962b6f3a246021cbaef7f77b6a4db9a5b3f58de1f4c35804af22e3f99e3ce",
+    "pubDate": "Tue, 16 Oct 2018 06:15:01 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-300E",
+    "guid": "a3c2341f61062fbbb278960d5b6b5d9e845a49119f13f655a1489d1a6efc1045",
+    "pubDate": "Fri, 08 May 2026 12:40:52 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-300E-LENC",
+    "guid": "86037f918b9079fe25d82f42e0970cba85f1c291d5fb2be26afeea486307cc55",
+    "pubDate": "Fri, 08 May 2026 12:40:59 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-300E-USG",
+    "guid": "7b7ce7009e84809652ae262e078cf6780fb655aa6f52af14a3673e15fc7e326f",
+    "pubDate": "Fri, 08 May 2026 12:41:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3016B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2013-08-20",
+    "Last Service Extension": "2017-08-20",
+    "End of Support": "2018-08-20",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3016B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-301E",
+    "guid": "1b68806d44b3f764b275507526aad0b569d3d050c1fd03526cd47a13d19638d3",
+    "pubDate": "Fri, 08 May 2026 12:41:37 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-301E-LENC",
+    "guid": "c9559694c5c285ff280cd3811519703df42b58f7ffcae54a91811db50ee55910",
+    "pubDate": "Fri, 08 May 2026 12:41:43 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-301E-USG",
+    "guid": "c854a900afcdf1ef24164a8488950eb8ac0739b736a45f181d7a6818c3bf9aa1",
+    "pubDate": "Fri, 08 May 2026 12:41:48 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3040B",
+    "guid": "89c59c00c4c7998fdf6330c460889768da6b072221334e490f7fb2c2b97542ce",
+    "pubDate": "Fri, 21 Jul 2017 10:59:17 -0700",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3040B-DC",
+    "guid": "8420f139a514019c90e8fb2d7bcb4210db0c32edf5bfe866a0e4235bb00f66f5",
+    "pubDate": "Fri, 25 Aug 2017 06:15:06 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3040B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3040B-USG",
+    "guid": "cafcb50cc5a598c854278add75cd1e933791815d6a82ca336424ab53d6a2021b",
+    "pubDate": "Fri, 07 Apr 2017 06:15:04 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-06",
+    "Last Service Extension": "2021-07-06",
+    "End of Support": "2022-07-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30D",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-11-30",
+    "Last Service Extension": "2020-11-30",
+    "End of Support": "2021-11-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30D-POE",
+    "guid": "adee74a85a76dc8503136def1e41355d154249cdd80730f9acb77602cab14fe1",
+    "pubDate": "Mon, 17 Apr 2017 06:15:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30E",
+    "guid": "e1e8b6507facea718be60310a5edabb189f76b6e9c156c977ce3ece76ce922c7",
+    "pubDate": "Fri, 31 Dec 2021 06:15:12 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-03-31",
+    "Last Service Extension": "2026-03-31",
+    "End of Support": "2027-03-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30E-3G4G-GBL",
+    "guid": "35ed2cf190e8a0290cc3e844edb1295093fd17d859d407f4efb490b2f8aff60b",
+    "pubDate": "Fri, 31 Dec 2021 06:15:11 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-03-31",
+    "Last Service Extension": "2026-03-31",
+    "End of Support": "2027-03-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30E-3G4G-INTL",
+    "guid": "f4d4677dc1d35ae0e69a38724a88428b6cb6c6558b86472e1eb77420adb60097",
+    "pubDate": "Fri, 19 Apr 2019 06:19:37 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-07-18",
+    "Last Service Extension": "2023-07-18",
+    "End of Support": "2024-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30E-3G4G-NAM",
+    "guid": "469f7ca3b63c7b3181cbd1ed74fb983ca30bafa758551eae7149d0387b0da7ba",
+    "pubDate": "Thu, 18 Jul 2024 17:44:44 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-11-22",
+    "Last Service Extension": "2022-11-22",
+    "End of Support": "2023-11-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30E-LENC",
+    "guid": "4dc3398f10afee4c2053572c65e3fba1fc6663d8e473b46db47d5512eab4dc71",
+    "pubDate": "Sun, 16 Oct 2022 06:15:39 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-30E-USG",
+    "guid": "7d88ea0f98179718504a31d2410dcc74fe70a0067f011e871ec41b3f4e0b6225",
+    "pubDate": "Sat, 16 Jan 2021 06:15:06 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3100D",
+    "guid": "a9950773f99e8f8a19496327fba805fa8c661a2a692ea76405cea165312669ff",
+    "pubDate": "Fri, 08 May 2026 12:44:57 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3100D-DC",
+    "guid": "30ae419e824916b3599eb3518c3ed8a2e5ebc042e5a63490a9c554fd1c6f5372",
+    "pubDate": "Fri, 08 May 2026 12:45:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3100D-USG",
+    "guid": "693ebc61458e4d5bbea330e5282cc180d07fe2a50d528a4d51541797a16b885b",
+    "pubDate": "Fri, 08 May 2026 12:45:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-310B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-310B-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-310B-DC-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-310B-G",
+    "guid": "a3af3f1a11bf6daf2c1bd2cc9593efe0ed42a15e244db4ce19310dcbaead8ff7",
+    "pubDate": "Wed, 19 Apr 2017 06:15:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-18",
+    "Last Service Extension": "2021-07-18",
+    "End of Support": "2022-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-310B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-310B-LENC-G",
+    "guid": "d85e12dfa01bc3f045dd2237495cd870c82e4f43b73828c122fe0ea4c1bd892b",
+    "pubDate": "Wed, 19 Apr 2017 06:15:11 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-18",
+    "Last Service Extension": "2021-07-18",
+    "End of Support": "2022-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-311B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-311B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3140B",
+    "guid": "9c96ac2b184d7eb36d8ec2280ffd7e8022ff8249efbcdd40b48bfc531857e58f",
+    "pubDate": "Thu, 01 Jun 2017 12:20:58 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-01-15",
+    "Last Service Extension": "2021-01-15",
+    "End of Support": "2022-01-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3140B-DC",
+    "guid": "ee0147a0585997a867063784dd638f0d65a4256ee215741627d4c77cb72c2d23",
+    "pubDate": "Thu, 01 Jun 2017 12:21:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-01-15",
+    "Last Service Extension": "2021-01-15",
+    "End of Support": "2022-01-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3140B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3140B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3200D",
+    "guid": "cf40373152cadccb68edab870c1657539829afcd8f37f3614d59963c97e29c3e",
+    "pubDate": "Fri, 08 May 2026 12:46:15 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3200D-DC",
+    "guid": "625cb6ad12061748aa5e1f37e9688c0cd472fae7ce8a07550815885315435509",
+    "pubDate": "Fri, 08 May 2026 12:46:20 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3200D-USG",
+    "guid": "2c5c1993bc066b45d0d22385989f0e2224f2729864ca8d27b4a1d8023ff9b924",
+    "pubDate": "Fri, 08 May 2026 12:46:27 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3240C",
+    "guid": "e84e588707103fc5f03fccd8cf56249d1bf54b09db2f2c26de4a9c8c2ead1a0d",
+    "pubDate": "Mon, 30 Jan 2017 13:12:31 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3240C-DC",
+    "guid": "8d9211912b497f3a9464488d87e1b4dfc126964f28c4993322ce31d0e7060a94",
+    "pubDate": "Mon, 30 Jan 2017 13:16:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3400E",
+    "guid": "aeff8a663497f37e67db799dc28da1ec3bea66f37a0371b232ae6f2dacc907bc",
+    "pubDate": "Thu, 16 Jan 2025 06:15:05 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3400E-DC",
+    "guid": "139da7f1dbd22108cfa67c691660f13a6ee78c99843887072fdba4a670d500ef",
+    "pubDate": "Thu, 16 Jan 2025 06:15:06 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3400E-LENC",
+    "guid": "139da7f1dbd22108cfa67c691660f13a6ee78c99843887072fdba4a670d500ef",
+    "pubDate": "Thu, 16 Jan 2025 06:15:06 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3400E-USG",
+    "guid": "77c4dba206b6a9e9302c03b203a5bcc321b11e86ab86f7111d4b5e19b45dacc2",
+    "pubDate": "Thu, 16 Jan 2025 06:15:07 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3401E",
+    "guid": "77c4dba206b6a9e9302c03b203a5bcc321b11e86ab86f7111d4b5e19b45dacc2",
+    "pubDate": "Thu, 16 Jan 2025 06:15:07 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3401E-DC",
+    "guid": "77c4dba206b6a9e9302c03b203a5bcc321b11e86ab86f7111d4b5e19b45dacc2",
+    "pubDate": "Thu, 16 Jan 2025 06:15:07 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3401E-LENC",
+    "guid": "23c0625d29007a3eb6b6fe898ef0a5b99249c0a2e5755dd5746d61700cd27dc5",
+    "pubDate": "Thu, 16 Jan 2025 06:15:08 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3401E-USG",
+    "guid": "23c0625d29007a3eb6b6fe898ef0a5b99249c0a2e5755dd5746d61700cd27dc5",
+    "pubDate": "Thu, 16 Jan 2025 06:15:08 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2013-05-17",
+    "Last Service Extension": "2017-05-17",
+    "End of Support": "2018-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2013-05-17",
+    "Last Service Extension": "2017-05-17",
+    "End of Support": "2018-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600C",
+    "guid": "d9139ac8ef59f75eacd9f5720bfdbf80db9e12b7c5d912410ee3947342922c5c",
+    "pubDate": "Mon, 30 Jan 2017 13:12:39 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600C-DC",
+    "guid": "078632174df4a0189db2bd3a3c2a33a4801516256780b3d54ebab191a2041a77",
+    "pubDate": "Mon, 30 Jan 2017 13:17:04 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600C-LENC",
+    "guid": "3191f8157ec624d3760ab1ddd3cd19e1d7c8f76c6ce5d3adfd5193a776bd8573",
+    "pubDate": "Mon, 30 Jan 2017 13:15:13 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600E",
+    "guid": "6024c143aa24c1bf7a4f9f67d81bd3794a91d314fcd78bcd0f9fbc44ffc66077",
+    "pubDate": "Tue, 16 Jan 2024 06:15:24 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600E-DC",
+    "guid": "81d2f36c22cf17e2ccfffabf0efe82e011e034c91dd61647a0936534b0b7931f",
+    "pubDate": "Tue, 16 Jan 2024 06:15:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600E-USG",
+    "guid": "7fe6ab76fd652c7324de6f647f615ed12279683eb4f24e21395f90134acd6d6d",
+    "pubDate": "Tue, 16 Jan 2024 06:15:26 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600LX2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-06-19",
+    "Last Service Extension": "2015-06-19",
+    "End of Support": "2016-06-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3600LX4",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-06-19",
+    "Last Service Extension": "2015-06-19",
+    "End of Support": "2016-06-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3601E",
+    "guid": "7fe6ab76fd652c7324de6f647f615ed12279683eb4f24e21395f90134acd6d6d",
+    "pubDate": "Tue, 16 Jan 2024 06:15:26 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3601E-LENC",
+    "guid": "a0136372d944dfca4c23005093a9f7d1a8a883c660d168f3ca4bee4adb1162e6",
+    "pubDate": "Tue, 16 Jan 2024 06:15:27 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3601E-USG",
+    "guid": "ef0caf7bd5fd77d61fe5c8fe2324fe5c77be25aca2b7274deac056e5eca6224e",
+    "pubDate": "Tue, 16 Jan 2024 06:15:28 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3700D",
+    "guid": "e5a2dbf7ad625f73d51e635e6d134c9308f15292f83708192fb35ee9d4ac9a8c",
+    "pubDate": "Fri, 08 May 2026 13:41:01 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700D-DC",
+    "guid": "2893e7b6be3a5765863f9078efb4d80f81a9897e5bc809c3a17c05bb0f17aa6e",
+    "pubDate": "Fri, 08 May 2026 13:39:43 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700D-DC-NEBS",
+    "guid": "461dbab89be0b395b8d1b9640f1dd167a3c2b2774808bedd2ce0c2eeabceb6bb",
+    "pubDate": "Fri, 08 May 2026 12:52:26 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-02-28",
+    "Last Service Extension": "2023-02-28",
+    "End of Support": "2024-02-28",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700D-DC-NEBS-USG",
+    "guid": "949362817b94cd00f9fab2a007ee66fe68bdd205515bf181bfc22384f8503089",
+    "pubDate": "Fri, 08 May 2026 12:51:06 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-02-28",
+    "Last Service Extension": "2023-02-28",
+    "End of Support": "2024-02-28",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700D-LENC",
+    "guid": "46ae0a624b224352c2a7d52e5989b143b843d0fc1f6e8f70b73c0cfa237f3f68",
+    "pubDate": "Fri, 08 May 2026 12:51:18 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700D-NEBS",
+    "guid": "9bad08a84cc1d16cdda27476aeea4e875c770b8f6ab231ebb3876e27d78639c6",
+    "pubDate": "Fri, 08 May 2026 12:51:24 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-02-28",
+    "Last Service Extension": "2023-02-28",
+    "End of Support": "2024-02-28",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700D-USG",
+    "guid": "5dd626e2cd40ef095fb049c0458208ea6813fc4957590c6df616a76e0b012b87",
+    "pubDate": "Fri, 08 May 2026 12:51:35 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-3700DX",
+    "guid": "735c6aa5856a587272e9e3186100233d4291b69842886ac369fafcf61351e5ad",
+    "pubDate": "Fri, 24 Aug 2018 06:15:14 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-11-22",
+    "Last Service Extension": "2022-11-22",
+    "End of Support": "2023-11-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3800D",
+    "guid": "892db1fe12a88a25ab3f45f1e58b32f516b579c5c2b786302335dbd18fc4a4a6",
+    "pubDate": "Fri, 16 Oct 2020 06:15:16 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "7.0.0"
+  },
+  {
+    "title": "FortiGate-3800D-DC",
+    "guid": "2af7653f02b3b3d1abdd46ba8e6b1ef8337215ed9f4806e7071a93f7fee3f666",
+    "pubDate": "Fri, 16 Oct 2020 06:15:17 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "7.0.0"
+  },
+  {
+    "title": "FortiGate-3810A-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810A-DC-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810A-E4",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810A-E4-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810A-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-07-01",
+    "Last Service Extension": "2019-07-01",
+    "End of Support": "2020-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810D",
+    "guid": "f91c39c2b68dcafe81ef8ef011a659d053c86894c0d359f0f49a263574153cd9",
+    "pubDate": "Tue, 16 Oct 2018 06:15:02 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810D-DC",
+    "guid": "f91c39c2b68dcafe81ef8ef011a659d053c86894c0d359f0f49a263574153cd9",
+    "pubDate": "Tue, 16 Oct 2018 06:15:02 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810D-DC-NEBS",
+    "guid": "6017eefc94256d3b27fdf7b882f36550d6096ecff748f72d4bb2ab1f8778a4de",
+    "pubDate": "Tue, 16 Oct 2018 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810D-NEBS",
+    "guid": "6017eefc94256d3b27fdf7b882f36550d6096ecff748f72d4bb2ab1f8778a4de",
+    "pubDate": "Tue, 16 Oct 2018 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3810D-USG",
+    "guid": "6017eefc94256d3b27fdf7b882f36550d6096ecff748f72d4bb2ab1f8778a4de",
+    "pubDate": "Tue, 16 Oct 2018 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3815D",
+    "guid": "7cbff1f18b3ff4b2494b4578589ddc37525a0dd3c7cfec820c61793e13cad33c",
+    "pubDate": "Wed, 16 Oct 2019 06:15:11 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3815D-DC",
+    "guid": "fca9d00a5da0aedadb7d2be80e3ac2cee16c46bf4149e2310f919d30ffdb59c9",
+    "pubDate": "Tue, 16 Oct 2018 06:15:04 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3815D-DC-NEBS",
+    "guid": "fca9d00a5da0aedadb7d2be80e3ac2cee16c46bf4149e2310f919d30ffdb59c9",
+    "pubDate": "Tue, 16 Oct 2018 06:15:04 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3815D-NEBS",
+    "guid": "fca9d00a5da0aedadb7d2be80e3ac2cee16c46bf4149e2310f919d30ffdb59c9",
+    "pubDate": "Tue, 16 Oct 2018 06:15:04 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3815D-USG",
+    "guid": "02ad543522faaf85b9526cd3405d3ac0e866a03c34288fddb3bc96e241a3411d",
+    "pubDate": "Fri, 16 Oct 2020 06:15:14 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B-DC",
+    "guid": "6fb1714d185cf67b4bbf40ac1452814b1e0973486484818daed80e92b96a9fe1",
+    "pubDate": "Mon, 29 Jun 2020 15:41:00 -0700",
+    "category": "FortiGate",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B-DC-R",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B-R",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-10-01",
+    "Last Service Extension": "2020-10-01",
+    "End of Support": "2021-10-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3950B-USG",
+    "guid": "af566c74b32c43038a21338a71295105937ede3e14302b1bea2b55df7bd68313",
+    "pubDate": "Thu, 16 Apr 2020 06:15:37 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-07-15",
+    "Last Service Extension": "2024-07-15",
+    "End of Support": "2025-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3951B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3951B-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3960E",
+    "guid": "14d98f69b5da94414f1554235ab6feb366f1abcfbd46135f5ac02b00238b8b1c",
+    "pubDate": "Sat, 30 Sep 2023 06:15:51 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-12-29",
+    "Last Service Extension": "2027-12-29",
+    "End of Support": "2028-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3960E-ACDC",
+    "guid": "ae5eb0c196b486530730224aa3baf7a856af030a7b44e89f3a105aad17a8e5ab",
+    "pubDate": "Sat, 30 Sep 2023 06:15:52 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-12-29",
+    "Last Service Extension": "2027-12-29",
+    "End of Support": "2028-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3960E-DC",
+    "guid": "ae5eb0c196b486530730224aa3baf7a856af030a7b44e89f3a105aad17a8e5ab",
+    "pubDate": "Sat, 30 Sep 2023 06:15:52 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-12-29",
+    "Last Service Extension": "2027-12-29",
+    "End of Support": "2028-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3960E-LENC",
+    "guid": "12e4fc6e51861dc3e357f334530ff305edf5e1f4bf8df034d40815cd61ca51cc",
+    "pubDate": "Sat, 15 Mar 2025 00:10:35 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-06-13",
+    "Last Service Extension": "2029-06-13",
+    "End of Support": "2030-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3960E-USG",
+    "guid": "69134c11e672298e7e90767a04b7de6bac7b2a952fc6627d575a7c07429e601f",
+    "pubDate": "Sat, 30 Sep 2023 06:15:53 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-12-29",
+    "Last Service Extension": "2027-12-29",
+    "End of Support": "2028-12-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3980E",
+    "guid": "60bde4f20a5b184b505984d3bde7d43dfed86f0104c5351c422dd45cc546e4e6",
+    "pubDate": "Thu, 29 Feb 2024 06:15:15 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-05-29",
+    "Last Service Extension": "2028-05-29",
+    "End of Support": "2029-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3980E-DC",
+    "guid": "47bb7ca51ec46bb6aedb9fa7e66fb06a402ea4ea91a504559e93e0b9fa2671ef",
+    "pubDate": "Thu, 29 Feb 2024 06:15:18 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-05-29",
+    "Last Service Extension": "2028-05-29",
+    "End of Support": "2029-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3980E-LENC",
+    "guid": "7ebed663f9685829637548e1245837ef45f9b86149b6c2cc2a5959f58c886e78",
+    "pubDate": "Thu, 29 Feb 2024 06:15:16 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-05-29",
+    "Last Service Extension": "2028-05-29",
+    "End of Support": "2029-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-3980E-USG",
+    "guid": "7ea41b0a6f43631b4f370520d7d8e18bd1d105ee44813e7b3038825c0b7bb54e",
+    "pubDate": "Thu, 29 Feb 2024 06:15:17 -0800",
+    "category": "FortiGate",
+    "End of Order": "2024-05-29",
+    "Last Service Extension": "2028-05-29",
+    "End of Support": "2029-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-12-31",
+    "Last Service Extension": "2008-12-31",
+    "End of Support": "2011-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-4000P",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-02-03",
+    "Last Service Extension": "2008-02-03",
+    "End of Support": "2011-02-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-4000S",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-02-03",
+    "Last Service Extension": "2008-02-03",
+    "End of Support": "2011-02-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400A-HD",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-09-30",
+    "Last Service Extension": "2015-09-30",
+    "End of Support": "2016-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400D",
+    "guid": "8331c635e03cbc1202a6a7ae91327664884c3d17ac4029e819f72548213db443",
+    "pubDate": "Tue, 20 Mar 2018 11:43:21 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400D-LENC",
+    "guid": "2f0956140086bff8ae04c6281357dad713f6cdf5da136a874ba5117ec961d36d",
+    "pubDate": "Tue, 20 Mar 2018 11:43:29 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400D-USG",
+    "guid": "4ac5d0f92ce7cbfbe9729b3a70f99f82afd6f1a27df453c7ae9ad2b51c557914",
+    "pubDate": "Wed, 28 Feb 2018 06:15:19 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400E",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-400E-BYPASS",
+    "guid": "72a62fb1e467d4f47b409a4399fcd517faed82793537ee7374c9df6634c77922",
+    "pubDate": "Fri, 01 May 2026 00:10:50 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-07-30",
+    "Last Service Extension": "2030-07-30",
+    "End of Support": "2031-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-4010B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-02-03",
+    "Last Service Extension": "2008-02-03",
+    "End of Support": "2011-02-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-401E",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-401E-DC",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-401E-LENC",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-401E-USG",
+    "guid": "e37b11d1bc979028a789777a53135affc92395f31b3e6a1044573a8b2d6c756b",
+    "pubDate": "Fri, 18 Jul 2025 11:25:55 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-10-13",
+    "Last Service Extension": "2029-10-13",
+    "End of Support": "2030-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-40C",
+    "guid": "665d9bb6ce3a2f05a799bdd34a8d2a1bc21305acb8664ceff9f1a0c998c3017b",
+    "pubDate": "Mon, 27 Nov 2017 16:22:23 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-01-14",
+    "Last Service Extension": "2022-01-14",
+    "End of Support": "2023-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-40C-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-06-16",
+    "Last Service Extension": "2020-06-16",
+    "End of Support": "2021-06-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2004-06-01",
+    "Last Service Extension": "2006-06-01",
+    "End of Support": "2009-06-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2006-12-31",
+    "Last Service Extension": "2008-12-31",
+    "End of Support": "2011-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001 SX",
+    "guid": "cc4d635b3bd8d38457361a77c0299a2da975da4ede10e6450e10f8ab8a835951",
+    "pubDate": "Mon, 30 Jan 2017 13:20:40 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-04-15",
+    "Last Service Extension": "2021-04-15",
+    "End of Support": "2022-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001-FA2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001-SX-G",
+    "guid": "bace4ceff8c899b107029ed1066a4d6fea59faf8fc930d3fabc6aba6408f3959",
+    "pubDate": "Wed, 19 Apr 2017 06:15:08 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-18",
+    "Last Service Extension": "2021-07-18",
+    "End of Support": "2022-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001A-DW",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001A-DW-G",
+    "guid": "b86787ec446fb6cdd86004b73e7af70a13a17a8146c9d59387eca074733fa17c",
+    "pubDate": "Sat, 15 Apr 2017 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001A-DW-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001A-SW",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001A-SW-G",
+    "guid": "db16032411fd305efcc042ce95f6f3025c026f48394b8e99a4770d472f0f2365",
+    "pubDate": "Sat, 15 Apr 2017 06:15:11 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001B-USG",
+    "guid": "3a9c98d3320e3f18ed372ad784b63a71e597e8ae72693ae4ce7dec7303fc5fa3",
+    "pubDate": "Sat, 15 Apr 2017 06:15:12 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001C",
+    "guid": "47751d825e32c8c0da1b80c02c57d83def56f2ec27ee6a283e4fe087e70494ef",
+    "pubDate": "Thu, 16 Jan 2020 06:17:28 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001C-USG",
+    "guid": "1dd6f24527fdd89161182e6ee673f3dd3fad6e7d2d89215ad8b3d8851446dfb1",
+    "pubDate": "Thu, 31 Aug 2017 06:15:34 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001D",
+    "guid": "2f4a3546167d66acc5792217987c9145a53b1570165078187303a530a977ecde",
+    "pubDate": "Thu, 16 Jul 2020 06:15:28 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-10-14",
+    "Last Service Extension": "2024-10-14",
+    "End of Support": "2025-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001D-LENC",
+    "guid": "7a1adf02fc4af1256ec4f6b5f38a672b2aa9cb636f6069a219345b1f76c09745",
+    "pubDate": "Thu, 16 Jul 2020 06:15:29 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-10-14",
+    "Last Service Extension": "2024-10-14",
+    "End of Support": "2025-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001D-USG",
+    "guid": "161f479e7655bc69980519bc9389643c98ab559c13fe96dadd2c97581594d6b5",
+    "pubDate": "Thu, 16 Jul 2020 06:15:30 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-10-14",
+    "Last Service Extension": "2024-10-14",
+    "End of Support": "2025-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5001E",
+    "guid": "43f47230ab3b7ee33acbbdea19dca96da89aaf584009173da98878a987360a18",
+    "pubDate": "Fri, 08 May 2026 13:06:02 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-5001E1",
+    "guid": "7834c69189961924ff512333cb0ce7d4d87bb85d055bc1809af825d949cab842",
+    "pubDate": "Fri, 08 May 2026 13:06:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-04-16",
+    "Last Service Extension": "2026-04-16",
+    "End of Support": "2027-04-16",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-5001E1-USG",
+    "guid": "4b3276319a3957253cbda511da1552a0b9567b1179f85408e09fe2aacbffe887",
+    "pubDate": "Fri, 08 May 2026 13:06:23 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.6.0"
+  },
+  {
+    "title": "FortiGate-5001FA2-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5002FB2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-04-15",
+    "Last Service Extension": "2011-12-31",
+    "End of Support": "2012-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5005FA2",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2012-06-13",
+    "Last Service Extension": "2016-06-13",
+    "End of Support": "2017-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500A-HD",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-09-30",
+    "Last Service Extension": "2015-09-30",
+    "End of Support": "2016-09-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500D",
+    "guid": "4fd7f6a9e1302db37b32ed6464e4523dbaf81d278ddec7be85b36d855490d4a5",
+    "pubDate": "Wed, 07 Feb 2018 06:15:23 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500D-LENC",
+    "guid": "ec997e304e1c246ff34c16cdddc9f2e981d01aac650e1ed09e406fef846db6a0",
+    "pubDate": "Wed, 07 Feb 2018 06:15:24 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500D-USG",
+    "guid": "79fd4a6c37db746cf21d253c9d5046f7ddf9c76f44fe87b6bc2056e11b6fe44e",
+    "pubDate": "Fri, 16 Oct 2020 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-01-14",
+    "Last Service Extension": "2025-01-14",
+    "End of Support": "2026-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500E",
+    "guid": "a443b38de7f53f3c295a655eae3b82f60b2c80f257181f518059f4a6ceb72024",
+    "pubDate": "Fri, 16 Apr 2021 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500E-LENC",
+    "guid": "cbadf62057d0cc528a6ab2a7667e8299e16cd2e953ed7fdb21479a4dc664ce3a",
+    "pubDate": "Tue, 01 Mar 2022 06:15:51 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-500E-USG",
+    "guid": "1173358070e60aa320d065be50965b6654b7a8eaa7d95206eb7455269b4af3c6",
+    "pubDate": "Fri, 01 May 2026 17:10:38 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-501E",
+    "guid": "d76fea5d72ba430e6a215e817c2416d83c8f2541ad8cacee93a82cd671abefb8",
+    "pubDate": "Fri, 16 Apr 2021 06:15:04 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-501E-LENC",
+    "guid": "8b9b7aa002308822d31cbcd8654fc4617c9f60e90c6ef02f8d3c3f55560caa4b",
+    "pubDate": "Sun, 16 Oct 2022 06:15:41 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-501E-USG",
+    "guid": "beccee0bbe115316719164131d569a6782a4631cabe37eeecff8f02e64d6092e",
+    "pubDate": "Fri, 01 May 2026 17:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5050-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5050-DC-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5050FA",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5050SAP",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5050SM",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-04-17",
+    "Last Service Extension": "2009-04-17",
+    "End of Support": "2012-04-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50E",
+    "guid": "b0c4e5d0f517a652f1c35ea8f70ea482b15d515ba2595bbbafca67aca5cd18d9",
+    "pubDate": "Fri, 31 Dec 2021 06:15:14 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-03-31",
+    "Last Service Extension": "2026-03-31",
+    "End of Support": "2027-03-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-50E-USG",
+    "guid": "7d88ea0f98179718504a31d2410dcc74fe70a0067f011e871ec41b3f4e0b6225",
+    "pubDate": "Sat, 16 Jan 2021 06:15:06 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5101C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5101C-G",
+    "guid": "e25a050d4aaa5137339e537adb005f23f087cf5953a4554955d7472fc363d4ca",
+    "pubDate": "Sat, 15 Apr 2017 06:15:17 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-14",
+    "Last Service Extension": "2021-07-14",
+    "End of Support": "2022-07-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5101C-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-09-13",
+    "Last Service Extension": "2020-09-13",
+    "End of Support": "2021-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-5140-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-51B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-12-31",
+    "Last Service Extension": "2018-12-31",
+    "End of Support": "2019-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-51B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-12-30",
+    "Last Service Extension": "2015-12-30",
+    "End of Support": "2016-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-51E",
+    "guid": "5278a0bea7b2011903dfec30c0733282c0654642c392b2a701d3e2bc8876ee17",
+    "pubDate": "Sat, 16 Apr 2022 06:15:28 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-07-15",
+    "Last Service Extension": "2026-07-15",
+    "End of Support": "2027-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-52E",
+    "guid": "47751d825e32c8c0da1b80c02c57d83def56f2ec27ee6a283e4fe087e70494ef",
+    "pubDate": "Thu, 16 Jan 2020 06:17:28 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-52E-USG",
+    "guid": "1a0de3d2538a922ae7dad4666e4a1b70ef41826995e3df5850f2d25abd67873b",
+    "pubDate": "Wed, 16 Oct 2019 06:15:18 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2008-11-21",
+    "Last Service Extension": "2012-11-21",
+    "End of Support": "2013-11-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6001F",
+    "guid": "9a16e347e86f131a84b6dfbedc56bbe4a43fe48fa614a853309177613f6f0f41",
+    "pubDate": "Fri, 30 Jan 2026 00:10:36 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-30",
+    "Last Service Extension": "2030-04-30",
+    "End of Support": "2031-04-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600C",
+    "guid": "2922a76ab7cc0c9ba2632b97ea56ca9f99677ae40e94a11c70bea7eb81cdc20f",
+    "pubDate": "Mon, 30 Jan 2017 13:12:19 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600C-DC",
+    "guid": "5bb18ece0cc666847254c7a5dacb17f17c4430fc31600eb900f55267841257cf",
+    "pubDate": "Mon, 30 Jan 2017 13:12:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600C-DC-G",
+    "guid": "29b2aa9eae7e3b582cb92352cd7c3adbb48cd84dc0c2a101b5b844c9f2606c45",
+    "pubDate": "Mon, 30 Jan 2017 13:16:47 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600C-LENC",
+    "guid": "b71e6f4d2c152af2c982b60144fc08bd46d680b2e82eca74e61345e86801b114",
+    "pubDate": "Mon, 30 Jan 2017 13:13:04 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600C-USG",
+    "guid": "589e138a6d1ca140cc083d9a38fbd8df7a5289fbc08f841f35bc094fb087bad6",
+    "pubDate": "Wed, 22 Mar 2017 08:27:54 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600D",
+    "guid": "7b4948ae714942472d4a34791aae21b2aa802f5646de8e5a229923242b6074cd",
+    "pubDate": "Thu, 18 Jul 2019 08:37:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-10-14",
+    "Last Service Extension": "2023-10-14",
+    "End of Support": "2024-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600F",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600F-LENC",
+    "guid": "3cd1c171c277ab43613a8fc331322d17781a8da2a2b25c01be95f28fc3f133b7",
+    "pubDate": "Sat, 31 Jan 2026 00:10:26 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-600F-TAA-FGDUS",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-601F",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-601F-TAA-FGDUS",
+    "guid": "3cd1c171c277ab43613a8fc331322d17781a8da2a2b25c01be95f28fc3f133b7",
+    "pubDate": "Sat, 31 Jan 2026 00:10:26 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60ADSL",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-11-29",
+    "Last Service Extension": "2011-11-29",
+    "End of Support": "2012-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2010-10-06",
+    "Last Service Extension": "2014-10-06",
+    "End of Support": "2015-10-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-01-21",
+    "Last Service Extension": "2019-01-21",
+    "End of Support": "2020-01-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-06-16",
+    "Last Service Extension": "2020-06-16",
+    "End of Support": "2021-06-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60C-POE",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-06-16",
+    "Last Service Extension": "2020-06-16",
+    "End of Support": "2021-06-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60C-SFP",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-12-31",
+    "Last Service Extension": "2018-12-31",
+    "End of Support": "2019-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60D",
+    "guid": "3400f90e3fec3c468f3755ef3fbe7ff3b6cdbf7030ca9673fa5d38bdc6009e43",
+    "pubDate": "Mon, 25 Jun 2018 06:15:02 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-09-23",
+    "Last Service Extension": "2022-09-23",
+    "End of Support": "2023-09-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60D-3G4G-VZW",
+    "guid": "a0e21ef5752c852aa162c22a91bd45b34af96b7d38cb7a9021d6e8216d227864",
+    "pubDate": "Mon, 16 Jul 2018 06:15:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60D-LENC",
+    "guid": "313ae8991c9eed773270189530b42e6fec2d9522d68b15c05a7d09e329fea9b4",
+    "pubDate": "Fri, 29 Jun 2018 06:15:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-09-27",
+    "Last Service Extension": "2022-09-27",
+    "End of Support": "2023-09-27",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60D-POE",
+    "guid": "b2b3128e45426d628add6b6156034071c841764d6edf0d260ef448f80c599d07",
+    "pubDate": "Wed, 28 Feb 2018 06:15:20 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60D-POE-USG",
+    "guid": "4557a5f19fbf17ea6cffb557dafeb2ee46aa452e8ce71f08c4142c30d1a52a9e",
+    "pubDate": "Wed, 28 Feb 2018 06:15:21 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60D-USG",
+    "guid": "f91c39c2b68dcafe81ef8ef011a659d053c86894c0d359f0f49a263574153cd9",
+    "pubDate": "Tue, 16 Oct 2018 06:15:02 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-60E",
+    "guid": "a245fb253761ea2fe5178b746c4cb4511b2058d7a430539304caa4278fca3ee3",
+    "pubDate": "Thu, 30 Sep 2021 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-12-29",
+    "Last Service Extension": "2025-12-29",
+    "End of Support": "2026-12-29",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60E-DSL",
+    "guid": "14451cbb85d0bab58b20a15fa7fbda9bb1f0313308aa0cafecd705b91e18a577",
+    "pubDate": "Thu, 16 Feb 2023 06:15:11 -0800",
+    "category": "FortiGate",
+    "End of Order": "2023-05-17",
+    "Last Service Extension": "2027-05-17",
+    "End of Support": "2028-05-17",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60E-DSLJ",
+    "guid": "a943cb3e4e2fb0cda3c2b4be786ea4e4e3fbc6d84500a42bbb0fddb23fdab639",
+    "pubDate": "Tue, 01 Feb 2022 06:15:29 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60E-LENC",
+    "guid": "cbd749047c882bf94a255b9bd4ccf516ba373d55e16f83a4ddd9a6bcc4d813f8",
+    "pubDate": "Sun, 16 Oct 2022 06:15:40 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60E-POE",
+    "guid": "4d81e56cc0dc2017ce8b3709fa0145fdb2b75366c1ad821068cc76933fb8be46",
+    "pubDate": "Sat, 16 Jul 2022 06:15:38 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-10-14",
+    "Last Service Extension": "2026-10-14",
+    "End of Support": "2027-10-14",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60E-POE-USG",
+    "guid": "e758e606e1a276e98ccb7cace9e8319428ae52622c196ac916205ddfc6c3b7f9",
+    "pubDate": "Mon, 16 Oct 2023 06:15:16 -0700",
+    "category": "FortiGate",
+    "End of Order": "2024-01-14",
+    "Last Service Extension": "2028-01-14",
+    "End of Support": "2029-01-14",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60E-USG",
+    "guid": "047e56f3293a71735b73c6b322367311c9364f6ec00f879ad6ea315d7ab4fd9c",
+    "pubDate": "Thu, 21 Mar 2024 12:43:52 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-60M",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-04-17",
+    "Last Service Extension": "2009-04-17",
+    "End of Support": "2012-04-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-61E",
+    "guid": "20f69081f9ffded3871d85ab0442e28f71882a976616336d01377013b8a892a7",
+    "pubDate": "Fri, 16 Apr 2021 06:15:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-61E-USG",
+    "guid": "5ab88109cfbf7313b35b2bafe0a240c56b00498a42706d872150c53972081f05",
+    "pubDate": "Sun, 16 Apr 2023 06:15:22 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-620B",
+    "guid": "750360cc45a54ab0f863901467362415deabd1423e46c6dfd0d11508d96c8842",
+    "pubDate": "Wed, 14 Feb 2018 13:18:17 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-08-02",
+    "Last Service Extension": "2020-08-02",
+    "End of Support": "2021-08-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-620B-DC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-620B-DC-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-620B-G",
+    "guid": "3d02429dd856fe4a3bc6674571e93aa1d3f408e7c6b959e7eee9b83d554dcc8b",
+    "pubDate": "Wed, 19 Apr 2017 06:15:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-18",
+    "Last Service Extension": "2021-07-18",
+    "End of Support": "2022-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-620B-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-621B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-621B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6300F",
+    "guid": "6c617c207f702e24c7436799ce645996305cbef5a83cb1d326e477da3ecf05a2",
+    "pubDate": "Thu, 15 Jan 2026 00:10:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-15",
+    "Last Service Extension": "2030-04-15",
+    "End of Support": "2031-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6300F-DC",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6300F-USG",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6301F",
+    "guid": "6c617c207f702e24c7436799ce645996305cbef5a83cb1d326e477da3ecf05a2",
+    "pubDate": "Thu, 15 Jan 2026 00:10:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-04-15",
+    "Last Service Extension": "2030-04-15",
+    "End of Support": "2031-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6301F-DC",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6301F-LENC",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6301F-USG",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6500F",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6500F-DC",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6500F-DC-TAA-FGDUS",
+    "guid": "82e377b24c2b0a92c0db02ed6922024f9a96de6ac0452006a148e67e647cd357",
+    "pubDate": "Wed, 24 Dec 2025 00:10:57 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-03-24",
+    "Last Service Extension": "2030-03-24",
+    "End of Support": "2031-03-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6500F-USG",
+    "guid": "8cc0b890036a26eeb74e0c899a6ded79c41436c21dcd6c6f81a0b735caf48885",
+    "pubDate": "Wed, 15 Oct 2025 00:10:46 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6501F",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6501F-DC",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6501F-DC-TAA-FGDUS",
+    "guid": "82e377b24c2b0a92c0db02ed6922024f9a96de6ac0452006a148e67e647cd357",
+    "pubDate": "Wed, 24 Dec 2025 00:10:57 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-03-24",
+    "Last Service Extension": "2030-03-24",
+    "End of Support": "2031-03-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6501F-LENC",
+    "guid": "13e8b72f2cd140dd75e260e933d39e69e80a9195eb96c851b98f8dfa8b463c18",
+    "pubDate": "Wed, 15 Oct 2025 00:10:45 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-6501F-USG",
+    "guid": "8cc0b890036a26eeb74e0c899a6ded79c41436c21dcd6c6f81a0b735caf48885",
+    "pubDate": "Wed, 15 Oct 2025 00:10:46 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-01-13",
+    "Last Service Extension": "2030-01-13",
+    "End of Support": "2031-01-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-1",
+    "guid": "ee487228b6c9238b554661d5a826235f0f4bbb94436f853ac21e10e7ef8a1134",
+    "pubDate": "Fri, 01 May 2020 10:36:18 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-1/2/3/4/5/6-USG",
+    "guid": "2792a1698b510da3871fe0594629eb2bbd665ac77020296ea3952c35dcb5450c",
+    "pubDate": "Fri, 01 May 2020 10:32:42 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-2",
+    "guid": "984b4ebb20f6db75ade7c953a155ee118a4557f728326d3e2c052bd4fda9f3e1",
+    "pubDate": "Fri, 01 May 2020 10:36:24 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-3",
+    "guid": "f8ef1ef3981f6166a3bf6b1ff9bafe7c894740a4b2a52a59af4b3188226e7dfd",
+    "pubDate": "Fri, 01 May 2020 10:36:29 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-4",
+    "guid": "cef44e24ce2131fa1ec111141d98d596d68242be5d885f81eaa8747d554e5465",
+    "pubDate": "Fri, 01 May 2020 10:36:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-5",
+    "guid": "d71fc685c13619a85016d50599e627061c7c4fe4cf48304c06c36bfde7990fcb",
+    "pubDate": "Fri, 01 May 2020 10:36:41 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7040E-6",
+    "guid": "de99eb56444f304e342d1a7456386d221ea856da96e501ea26f72339f2e4d33a",
+    "pubDate": "Fri, 01 May 2020 10:36:46 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-12-14",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7060E-1",
+    "guid": "d11f17b6fef2733c917f6246679ef555a0e310ac08d6110db2414fd9d31bfb36",
+    "pubDate": "Fri, 01 May 2020 10:37:27 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-10-15",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-7060E-3",
+    "guid": "c14cc875b85151b35cce96811f08dd87b567eee520e022e20a950bc3760732e9",
+    "pubDate": "Fri, 01 May 2020 10:37:33 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-10-15",
+    "Last Service Extension": "2023-12-31",
+    "End of Support": "2024-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-70D",
+    "guid": "c7e24d305619d6b60d7d5d4c0068c0c82901cd42dc817ec87e70483943e90541",
+    "pubDate": "Mon, 17 Apr 2017 06:15:10 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-70D-LENC",
+    "guid": "b8eb7540b8bb0f28f50c8ededc1066a70f09ef057c9a982d136563f0d1ef844b",
+    "pubDate": "Mon, 17 Apr 2017 13:06:34 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-70D-POE",
+    "guid": "2267c4d47540615aa5ca9c47cd84d15ef6242367d7b3070aa8b5858e158a15ea",
+    "pubDate": "Mon, 16 Apr 2018 06:15:14 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-70F",
+    "guid": "ee42919de767898f06b3a70459c5db37b56b81a547ef33caeaa77c288092aa87",
+    "pubDate": "Mon, 16 Feb 2026 00:10:44 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-17",
+    "Last Service Extension": "2030-05-17",
+    "End of Support": "2031-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-70F-TAA-FGDUS",
+    "guid": "ee42919de767898f06b3a70459c5db37b56b81a547ef33caeaa77c288092aa87",
+    "pubDate": "Mon, 16 Feb 2026 00:10:44 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-17",
+    "Last Service Extension": "2030-05-17",
+    "End of Support": "2031-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800C",
+    "guid": "c48631895d4bb99f0890576aec7313f035922df98f7b384d5f8a886be861673a",
+    "pubDate": "Mon, 30 Jan 2017 13:12:07 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800C-DC",
+    "guid": "c3d75219f7b850ba5f18727f98abd36a9381c00983eadc2289ae84a0bba52275",
+    "pubDate": "Mon, 30 Jan 2017 13:12:13 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800C-LENC",
+    "guid": "564b2a70ca8001d45544f2daf1116a0bf881b0521bc09d6475d2ce8d28b401b6",
+    "pubDate": "Wed, 22 Mar 2017 08:27:37 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800C-USG",
+    "guid": "0ea0e62462c32989afba4a87b4b2a368d07e97273efb3a783cbca4bc1b23a148",
+    "pubDate": "Mon, 30 Jan 2017 13:13:09 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800D",
+    "guid": "499585174637fc6df114308ad11d8815bdd8ba76e95c3e799105daadb8fc8a99",
+    "pubDate": "Mon, 16 Jan 2023 06:16:05 -0800",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800D-LENC",
+    "guid": "12e4fc6e51861dc3e357f334530ff305edf5e1f4bf8df034d40815cd61ca51cc",
+    "pubDate": "Sat, 15 Mar 2025 00:10:35 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-06-13",
+    "Last Service Extension": "2029-06-13",
+    "End of Support": "2030-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800D-USG",
+    "guid": "b4d4e53d98a532d62f7af8cb0f42a769ce1638d63d578384b69b7ad5c60a6c62",
+    "pubDate": "Sun, 16 Apr 2023 06:15:23 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-800F",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80C",
+    "guid": "80b38c16a77df9132603053db3784235d863172383bd67e0ab158303b925e723",
+    "pubDate": "Mon, 16 Oct 2017 06:15:05 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-01-14",
+    "Last Service Extension": "2022-01-14",
+    "End of Support": "2023-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80C-G",
+    "guid": "6e7b39e1178f78ec6b95bbf0fdea9211f1bbd27e4122f280d4ea88dedf13820a",
+    "pubDate": "Mon, 17 Apr 2017 13:06:42 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80C-LENC",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-06-16",
+    "Last Service Extension": "2020-06-16",
+    "End of Support": "2021-06-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80CM",
+    "guid": "d56e3e02cc6d23a4d10ab77cd9a2486703725653b9ba7d7e943c38720ba5568f",
+    "pubDate": "Mon, 16 Oct 2017 06:15:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-01-14",
+    "Last Service Extension": "2022-01-14",
+    "End of Support": "2023-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80CM-G",
+    "guid": "d52babf6d0149107c579c8106ad55999f730b21bd08645c8a7d58ab8f578de09",
+    "pubDate": "Fri, 25 Aug 2017 06:15:27 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80D",
+    "guid": "f01601df2a4110ef7f62f54969a9c86da99f8757b3a6c5fcca04421b6e639ccc",
+    "pubDate": "Tue, 16 Jan 2018 06:15:16 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-80E",
+    "guid": "854b673274ec266cc6f98de2d525d642ea7a4f428e493f0b70c177b9f92a5872",
+    "pubDate": "Wed, 19 May 2021 06:15:29 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-08-17",
+    "Last Service Extension": "2025-08-17",
+    "End of Support": "2026-08-17",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-80E-POE",
+    "guid": "92afc28d080d60db65f16340287cc17ac186d9c42f971e5f4dec9096881f951d",
+    "pubDate": "Sat, 16 Apr 2022 06:15:29 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-07-15",
+    "Last Service Extension": "2026-07-15",
+    "End of Support": "2027-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-80E-POE-USG",
+    "guid": "e47bf43f490339ee2e772729afedf52caa9939c889413bbd60dd892dbe57f46d",
+    "pubDate": "Fri, 17 Jul 2026 14:47:40 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-01-14",
+    "Last Service Extension": "2027-01-14",
+    "End of Support": "2028-01-14",
+    "Last Supported Software Version": "7.4"
+  },
+  {
+    "title": "FortiGate-80E-USG",
+    "guid": "2301306c26e8b90f12c15e7e299c5e1f414100278a95d65ff6d24b100b616c02",
+    "pubDate": "Tue, 01 Mar 2022 06:15:36 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-80F-Bypass-Gen2",
+    "guid": "ee42919de767898f06b3a70459c5db37b56b81a547ef33caeaa77c288092aa87",
+    "pubDate": "Mon, 16 Feb 2026 00:10:44 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-17",
+    "Last Service Extension": "2030-05-17",
+    "End of Support": "2031-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-81E",
+    "guid": "8b7ebe6ed6221cb6aee82d4edd80a6e5f56ae76fb43f89ced5efea588bf6d3a8",
+    "pubDate": "Mon, 16 Aug 2021 06:15:54 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-11-14",
+    "Last Service Extension": "2025-11-14",
+    "End of Support": "2026-11-14",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-81E-POE",
+    "guid": "b660e7ac2121a7a7b0ca45c138d1ca7ae6f61be886a6168148ca2b56cf457dec",
+    "pubDate": "Sat, 16 Apr 2022 06:15:30 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-07-15",
+    "Last Service Extension": "2026-07-15",
+    "End of Support": "2027-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-81E-POE-USG",
+    "guid": "17aaeb61ba762548150ef3b6e4083a8e504f639c8ae523ee746f129d3dbb104b",
+    "pubDate": "Sat, 16 Apr 2022 06:15:31 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-07-15",
+    "Last Service Extension": "2026-07-15",
+    "End of Support": "2027-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-81E-USG",
+    "guid": "923597f8d65b29566d688d6fdf2d47b8f500a47405b2bfc36e6659fff2e8c240",
+    "pubDate": "Tue, 01 Mar 2022 06:15:40 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-82C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2011-07-17",
+    "Last Service Extension": "2015-07-17",
+    "End of Support": "2016-07-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-900D",
+    "guid": "c73ebb71e53d8c008af407b759cdecb1eff2a5dc0485e0be5da8175a20f1e602",
+    "pubDate": "Mon, 16 Jan 2023 06:16:06 -0800",
+    "category": "FortiGate",
+    "End of Order": "2023-04-16",
+    "Last Service Extension": "2027-04-16",
+    "End of Support": "2028-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-900D-LENC",
+    "guid": "12e4fc6e51861dc3e357f334530ff305edf5e1f4bf8df034d40815cd61ca51cc",
+    "pubDate": "Sat, 15 Mar 2025 00:10:35 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-06-13",
+    "Last Service Extension": "2029-06-13",
+    "End of Support": "2030-06-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-900D-USG",
+    "guid": "934ebcc124ef18e4b7fc05202ca8d382031798b12a299770327cc4346aa841e9",
+    "pubDate": "Sun, 16 Apr 2023 06:15:17 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-90D",
+    "guid": "78b160a172d2652afb758934e4562506dcb6a06e6e16945e427ce2a40ce10c27",
+    "pubDate": "Thu, 19 Jul 2018 15:02:44 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-90D-LENC",
+    "guid": "5c997053a4e48d7c64c0ab650efff7fa25b50eddbf189d276e6302a52c3adafe",
+    "pubDate": "Mon, 16 Jul 2018 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-90D-POE",
+    "guid": "674f05ef22cb7d0e5d374e0f091bb38ad5b46514268e26cd0d96c7f001bbb96a",
+    "pubDate": "Fri, 31 Jan 2020 06:15:10 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-30",
+    "Last Service Extension": "2024-04-30",
+    "End of Support": "2025-04-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-90D-USG",
+    "guid": "1c14b7fe76cae94d3f2fc8b8f81c5bbe498f69475e3f05e6987e54d5bc57fc39",
+    "pubDate": "Thu, 31 Aug 2017 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-90E",
+    "guid": "90b9cebe9aab243d038d5d198d47a2bd000b048a00c17e3f4e4b7551619a7990",
+    "pubDate": "Thu, 16 Jan 2020 06:17:26 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-91E",
+    "guid": "136e155983e2039f8aa7210d31393d22c1af87aa4e928db41d75c77ae974da5c",
+    "pubDate": "Wed, 28 Feb 2018 06:15:12 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-91E-USG",
+    "guid": "ac16a2e6956111d16c0367e701b4e98d6271c038172b1c75314e2fb73ec6244d",
+    "pubDate": "Wed, 16 Oct 2019 06:15:19 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-01-14",
+    "Last Service Extension": "2024-01-14",
+    "End of Support": "2025-01-14",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiGate-92D",
+    "guid": "4c4c770a127e46c230a35c920becfb04407be6d1d381ccc909084b43562e8749",
+    "pubDate": "Mon, 17 Apr 2017 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-94D-POE",
+    "guid": "f2d0dbf3ca842fd1bd2386e2d92878069fdd56414b7853f2e40e1b1729a63d0f",
+    "pubDate": "Tue, 16 Oct 2018 06:15:00 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-01-14",
+    "Last Service Extension": "2023-01-14",
+    "End of Support": "2024-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-98D-POE",
+    "guid": "1570054cf4941a5a8a2e690d3d76fc8a5755ac1c61c6216cdf827feafc6fecc5",
+    "pubDate": "Thu, 16 Jan 2020 06:17:24 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-04-15",
+    "Last Service Extension": "2024-04-15",
+    "End of Support": "2025-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-Rugged-30D",
+    "guid": "4e5c31f31e860105ec396f926befab4938b5be45a6ec1b3a6757079abef05444",
+    "pubDate": "Sun, 02 Oct 2022 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-12-31",
+    "Last Service Extension": "2026-12-31",
+    "End of Support": "2027-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-Rugged-35D",
+    "guid": "aeff8a663497f37e67db799dc28da1ec3bea66f37a0371b232ae6f2dacc907bc",
+    "pubDate": "Thu, 16 Jan 2025 06:15:05 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-04-16",
+    "Last Service Extension": "2029-04-16",
+    "End of Support": "2030-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-Rugged-60D",
+    "guid": "a443b38de7f53f3c295a655eae3b82f60b2c80f257181f518059f4a6ceb72024",
+    "pubDate": "Fri, 16 Apr 2021 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-Rugged-60D-LENC",
+    "guid": "c6e6038b170449020f6ddd310f57eada5756796826f01f49214b3711e9f66025",
+    "pubDate": "Tue, 01 Mar 2022 06:15:39 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-Rugged-60D-USG",
+    "guid": "3311d5a8b061da442eef6c1e9f9be1a2313e4a1c54cb1f96bceabce14652e73d",
+    "pubDate": "Tue, 01 Mar 2022 06:15:38 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VM",
+    "guid": "8aea5386cca8629daacd0d5251ef436a5e2a916d86f0a955fb6911258352a0cf",
+    "pubDate": "Fri, 06 Feb 2026 16:44:18 -0800",
+    "category": "FortiGate",
+    "End of Order": "2025-09-29",
+    "Last Service Extension": "2029-09-29",
+    "End of Support": "2030-09-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VM (Hypervisor-specific SKUs)",
+    "guid": "b7c9b07ea49ba946da9f88db65132925ace651df2b6a1401ad87fea3c7d6c622",
+    "pubDate": "Tue, 15 Aug 2017 15:40:49 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-10-31",
+    "Last Service Extension": "2021-10-31",
+    "End of Support": "2022-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VM USG (Hypervisor-specific SKUs)",
+    "guid": "6489f2e3f9a92f8b570a09b6a0542d9f66384bea899de1586083338ac8ea6f0d",
+    "pubDate": "Fri, 29 Dec 2017 06:15:12 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-03-29",
+    "Last Service Extension": "2022-03-29",
+    "End of Support": "2023-03-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VM_MSSP_Bandwidth",
+    "guid": "fb329136c5b2f8fe5680d5e51da232361e650a181ddb74696354c4833570e6a2",
+    "pubDate": "Sun, 31 May 2026 00:10:06 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-08-29",
+    "Last Service Extension": "2030-08-29",
+    "End of Support": "2031-08-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VM00",
+    "guid": "b363b7eaee395810aae1d21f7fac2620abe8ff618f0abf9981f2fa2546fc3b49",
+    "pubDate": "Fri, 01 Oct 2021 06:15:06 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-12-30",
+    "Last Service Extension": "2025-12-30",
+    "End of Support": "2026-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VMX",
+    "guid": "d9f54c3cbf56ada626d481a1c95985e8988cb481cb270728326cccabfa3bcda3",
+    "pubDate": "Tue, 31 Jan 2023 06:15:41 -0800",
+    "category": "FortiGate",
+    "End of Order": "2023-05-01",
+    "Last Service Extension": "2027-05-01",
+    "End of Support": "2028-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VMX v2 for NSX",
+    "guid": "bfda5c108592b06ebe34c2485e3fc5b05ba4e374688b8999f72f7847e2fc1c59",
+    "pubDate": "Tue, 06 Mar 2018 11:59:24 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-22",
+    "Last Service Extension": "2022-05-22",
+    "End of Support": "2023-05-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-VMX-USG",
+    "guid": "177f1d524b028540f6de670f97c37106dea3579235968398c4c20c85a7806bfc",
+    "pubDate": "Fri, 28 Feb 2020 06:15:07 -0800",
+    "category": "FortiGate",
+    "End of Order": "2020-05-28",
+    "Last Service Extension": "2024-05-28",
+    "End of Support": "2025-05-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateRugged 90D",
+    "guid": "4661861d5cde09bc9f52dcbfd5d512753e0a80f032199d8346021a75dc66f915",
+    "pubDate": "Fri, 16 Apr 2021 06:15:15 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateRugged 90D-LENC",
+    "guid": "923597f8d65b29566d688d6fdf2d47b8f500a47405b2bfc36e6659fff2e8c240",
+    "pubDate": "Tue, 01 Mar 2022 06:15:40 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateRugged-100C",
+    "guid": "9cc9be0cd8c13229d8031e268eddbfce3705cbed58830c1afcb76531171ffc1b",
+    "pubDate": "Mon, 30 Jan 2017 13:22:40 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-04-16",
+    "Last Service Extension": "2021-04-16",
+    "End of Support": "2022-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateRugged-60F",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateRugged-60F-LENC",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGateRugged-60F-USG",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiOS-VM",
+    "guid": "9061a0e5fe3bba0617203b732f73c17ce663c1329870d032dcc27ecf6bc9b4bc",
+    "pubDate": "Wed, 30 Mar 2022 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-06-28",
+    "Last Service Extension": "2026-06-28",
+    "End of Support": "2027-06-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-5203B",
+    "guid": "d924dec2d246887dd097b571b3539635af91a4fd7db9183b1f4cbd6e821e1cb0",
+    "pubDate": "Tue, 16 Jan 2018 06:15:21 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-20C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-08-16",
+    "Last Service Extension": "2018-08-16",
+    "End of Support": "2019-08-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-20C-ADSL-A",
+    "guid": "821422cf51458e853d0fb5ed2b90347cf8acf5441330184896424bfcda8c0a8b",
+    "pubDate": "Wed, 07 Feb 2018 06:15:14 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-30B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWifi-30D",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2016-11-30",
+    "Last Service Extension": "2020-11-30",
+    "End of Support": "2021-11-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-30D-POE",
+    "guid": "3e901751add1cf34dcfd8bc9db37e028d92d7f3951892bb2575df0166f2ff70e",
+    "pubDate": "Mon, 17 Apr 2017 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-30E",
+    "guid": "b9227bcc0e250cfc398f72f469111f33288a5408e227252814b26cc0e1f92012",
+    "pubDate": "Sat, 17 Jul 2021 06:15:56 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-10-15",
+    "Last Service Extension": "2025-10-15",
+    "End of Support": "2026-10-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-30E-3G4G-INTL",
+    "guid": "f4d4677dc1d35ae0e69a38724a88428b6cb6c6558b86472e1eb77420adb60097",
+    "pubDate": "Fri, 19 Apr 2019 06:19:37 -0700",
+    "category": "FortiGate",
+    "End of Order": "2019-07-18",
+    "Last Service Extension": "2023-07-18",
+    "End of Support": "2024-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-30E-3G4G-NAM",
+    "guid": "fd0214a46414ad287ad891fa5d011e2b8fbf8617f267d7195544bbddf556c817",
+    "pubDate": "Fri, 24 Aug 2018 06:15:13 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-11-22",
+    "Last Service Extension": "2022-11-22",
+    "End of Support": "2023-11-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-40C",
+    "guid": "aac1eeb8b8535821d3fab60c2ea1d6e5c6a22f358808fd9b6d1f842e26a3c539",
+    "pubDate": "Tue, 16 Jan 2018 06:15:10 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-40F",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-40F-3G4G",
+    "guid": "42c53e40da0993761ec77574c5623e3971f7040178cce0f6c7a27dff19f32bf4",
+    "pubDate": "Thu, 15 May 2025 00:10:53 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-08-13",
+    "Last Service Extension": "2029-08-13",
+    "End of Support": "2030-08-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-40F-3G4G-TAA-FGDUS",
+    "guid": "42c53e40da0993761ec77574c5623e3971f7040178cce0f6c7a27dff19f32bf4",
+    "pubDate": "Thu, 15 May 2025 00:10:53 -0700",
+    "category": "FortiGate",
+    "End of Order": "2025-08-13",
+    "Last Service Extension": "2029-08-13",
+    "End of Support": "2030-08-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-50B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-50B-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-07-09",
+    "Last Service Extension": "2018-07-09",
+    "End of Support": "2019-07-09",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-50E",
+    "guid": "3ccfbd30adb9c9af7b70c042e9f334de8a2bc04b8fe4149ad8ff40a740802a6f",
+    "pubDate": "Sat, 16 Apr 2022 06:15:27 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-07-15",
+    "Last Service Extension": "2026-07-15",
+    "End of Support": "2027-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-50E-2R",
+    "guid": "161f479e7655bc69980519bc9389643c98ab559c13fe96dadd2c97581594d6b5",
+    "pubDate": "Thu, 16 Jul 2020 06:15:30 -0700",
+    "category": "FortiGate",
+    "End of Order": "2020-10-14",
+    "Last Service Extension": "2024-10-14",
+    "End of Support": "2025-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-50E-USG",
+    "guid": "291ebdeffcd9e165135f855d96087de6ba809ae3e8f86b459e9640edc51050d3",
+    "pubDate": "Sat, 16 Jan 2021 06:15:07 -0800",
+    "category": "FortiGate",
+    "End of Order": "2021-04-16",
+    "Last Service Extension": "2025-04-16",
+    "End of Support": "2026-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-51E",
+    "guid": "5278a0bea7b2011903dfec30c0733282c0654642c392b2a701d3e2bc8876ee17",
+    "pubDate": "Sat, 16 Apr 2022 06:15:28 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-07-15",
+    "Last Service Extension": "2026-07-15",
+    "End of Support": "2027-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-51E-LENC",
+    "guid": "691b4bd6b65599a250b953b686214765d2ef471ad8af3dd3de19bd717c142526",
+    "pubDate": "Tue, 01 Mar 2022 06:15:47 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-07-17",
+    "Last Service Extension": "2009-07-17",
+    "End of Support": "2012-07-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-11-29",
+    "Last Service Extension": "2011-12-31",
+    "End of Support": "2012-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60AM",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2007-10-16",
+    "Last Service Extension": "2011-12-31",
+    "End of Support": "2012-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2010-10-06",
+    "Last Service Extension": "2014-10-06",
+    "End of Support": "2015-10-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2015-01-21",
+    "Last Service Extension": "2019-01-21",
+    "End of Support": "2020-01-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60C-G",
+    "guid": "410d85707a939a3066a16aa962fafa6c9d448e73f6156ff38ee6aec0f3112b10",
+    "pubDate": "Wed, 19 Apr 2017 06:15:03 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-18",
+    "Last Service Extension": "2021-07-18",
+    "End of Support": "2022-07-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60CM",
+    "guid": "27580c62833ddb1ae115ae92d56e5d52d79df52dad3950769446df1cec9e41a2",
+    "pubDate": "Tue, 28 Feb 2017 06:15:04 -0800",
+    "category": "FortiGate",
+    "End of Order": "2017-05-29",
+    "Last Service Extension": "2021-05-29",
+    "End of Support": "2022-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60CM-3G4G-B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2014-12-31",
+    "Last Service Extension": "2018-12-31",
+    "End of Support": "2019-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60CM-G",
+    "guid": "7dbc0240a1886ebedfc8f475c45bbab053b215531a5168fa1d2a9fa14452713f",
+    "pubDate": "Fri, 25 Aug 2017 06:15:10 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60CX-ADSL-A",
+    "guid": "210c4804282a7e66012f278ee52423abf453ee64f63e91f309645845b7645fd1",
+    "pubDate": "Mon, 17 Apr 2017 06:15:04 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60CX-ADSL-A-G",
+    "guid": "048aa398e13b2afb0fd912e0e4a76896ab4346d9c44378029aafc3f5d6f4037c",
+    "pubDate": "Mon, 17 Apr 2017 06:15:06 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-07-16",
+    "Last Service Extension": "2021-07-16",
+    "End of Support": "2022-07-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60D",
+    "guid": "d02019c82d35bf315e25e56887eabe0b8ffc226edd70b2b67a8042292ad8ac51",
+    "pubDate": "Wed, 07 Feb 2018 06:15:26 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-08",
+    "Last Service Extension": "2022-05-08",
+    "End of Support": "2023-05-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60D-3G4G-VZW",
+    "guid": "c3455e8c06e4c11fe988fa2dfe02ebd8e5638f18396096fe0502d952e21d00bc",
+    "pubDate": "Mon, 16 Jul 2018 06:15:06 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60D-3G4G-VZW-USG",
+    "guid": "a0e21ef5752c852aa162c22a91bd45b34af96b7d38cb7a9021d6e8216d227864",
+    "pubDate": "Mon, 16 Jul 2018 06:15:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60D-USG",
+    "guid": "7eb7b31faeb97106bb40bf104f1fa453c5b5d467df8b34d3527618f405d57f3f",
+    "pubDate": "Wed, 28 Feb 2018 06:15:17 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-29",
+    "Last Service Extension": "2022-05-29",
+    "End of Support": "2023-05-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-60E",
+    "guid": "4661861d5cde09bc9f52dcbfd5d512753e0a80f032199d8346021a75dc66f915",
+    "pubDate": "Fri, 16 Apr 2021 06:15:15 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiWifi-60E-DSL",
+    "guid": "7c1d0de0c2505dac15b9b3c229a554e498c49287f10d4008fd7320d0f8ffd373",
+    "pubDate": "Thu, 16 Feb 2023 06:15:12 -0800",
+    "category": "FortiGate",
+    "End of Order": "2023-05-17",
+    "Last Service Extension": "2027-05-17",
+    "End of Support": "2028-05-17",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiWifi-60E-DSLJ",
+    "guid": "3cf1953bb9339f2418431fec7e5b4ce3dd643772d9a09ce0a4a417d99d6c1acf",
+    "pubDate": "Tue, 01 Feb 2022 06:15:30 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiWiFi-60E-USG",
+    "guid": "e37cb00fdf697df2ab252cbf9734950e855ce55574eb35542d596ed716de074a",
+    "pubDate": "Thu, 21 Mar 2024 19:26:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiWiFi-60F",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-61E",
+    "guid": "af1fcdf6195541b3521d4dc3ded8317f9bb96a7bade29cff25d42b8349c83122",
+    "pubDate": "Fri, 16 Apr 2021 06:15:09 -0700",
+    "category": "FortiGate",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiWiFi-61E-USG",
+    "guid": "4a0c36c356a6db3dfbab2690fb8e5228a49183d751c81e99990ea23a0c8321ed",
+    "pubDate": "Tue, 01 Mar 2022 06:15:37 -0800",
+    "category": "FortiGate",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "7.4.0"
+  },
+  {
+    "title": "FortiWiFi-61F",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-61F-USG",
+    "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
+    "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-01",
+    "Last Service Extension": "2030-05-01",
+    "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-80CM",
+    "guid": "c90d81e8081d2302ae4d7429a7ae7bf10009f699f3c66032fafa83e97b6f203c",
+    "pubDate": "Tue, 16 Jan 2018 06:15:17 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-04-16",
+    "Last Service Extension": "2022-04-16",
+    "End of Support": "2023-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-80CM-G",
+    "guid": "c91aa53e09eb0edd2d6846f6c9b0682dd155c2cc1a630e55e36d618d3b82665c",
+    "pubDate": "Fri, 25 Aug 2017 06:15:28 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-23",
+    "Last Service Extension": "2021-11-23",
+    "End of Support": "2022-11-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81CM",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiGate",
+    "End of Order": "2012-02-17",
+    "Last Service Extension": "2016-02-17",
+    "End of Support": "2017-02-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81F-2R",
+    "guid": "ee42919de767898f06b3a70459c5db37b56b81a547ef33caeaa77c288092aa87",
+    "pubDate": "Mon, 16 Feb 2026 00:10:44 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-17",
+    "Last Service Extension": "2030-05-17",
+    "End of Support": "2031-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81F-2R-3G4G-DSL",
+    "guid": "ee42919de767898f06b3a70459c5db37b56b81a547ef33caeaa77c288092aa87",
+    "pubDate": "Mon, 16 Feb 2026 00:10:44 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-17",
+    "Last Service Extension": "2030-05-17",
+    "End of Support": "2031-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81F-2R-3G4G-PoE",
+    "guid": "8e85ac65a5ba60c03dd29a4d768abc135efcbbe776ef305c8999eef0ec44dfdd",
+    "pubDate": "Wed, 01 Apr 2026 00:10:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-06-30",
+    "Last Service Extension": "2030-06-30",
+    "End of Support": "2031-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81F-2R-3G4G-PoE-TAA-FGDUS",
+    "guid": "8e85ac65a5ba60c03dd29a4d768abc135efcbbe776ef305c8999eef0ec44dfdd",
+    "pubDate": "Wed, 01 Apr 2026 00:10:07 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-06-30",
+    "Last Service Extension": "2030-06-30",
+    "End of Support": "2031-06-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81F-2R-PoE",
+    "guid": "ee42919de767898f06b3a70459c5db37b56b81a547ef33caeaa77c288092aa87",
+    "pubDate": "Mon, 16 Feb 2026 00:10:44 -0800",
+    "category": "FortiGate",
+    "End of Order": "2026-05-17",
+    "Last Service Extension": "2030-05-17",
+    "End of Support": "2031-05-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-81F-2R-TAA-FGDUS",
+    "guid": "1432c6497f57567aaf62cf7b2d26467c83bc4cfd8fd6a3a54f9d47d3522ba774",
+    "pubDate": "Wed, 15 Jul 2026 00:10:36 -0700",
+    "category": "FortiGate",
+    "End of Order": "2026-10-13",
+    "Last Service Extension": "2030-10-13",
+    "End of Support": "2031-10-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-90D",
+    "guid": "2dbeeee8621ad5cb11a96335e6b99c12c29f3bbae7402705817fabdd6ee4f1f4",
+    "pubDate": "Thu, 19 Jul 2018 15:02:52 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-90D-I",
+    "guid": "6b0df14ac5327b202ebca8ce24879e1167568ae9c9e849b2ca4b6185401a06c2",
+    "pubDate": "Mon, 16 Jul 2018 06:15:10 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-90D-J",
+    "guid": "d67c3b821bfbb73ebe4afb451c8a336fe2d1d55027ee95ff6b694af69edff362",
+    "pubDate": "Fri, 16 Dec 2022 12:04:58 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-90D-K",
+    "guid": "6b0df14ac5327b202ebca8ce24879e1167568ae9c9e849b2ca4b6185401a06c2",
+    "pubDate": "Mon, 16 Jul 2018 06:15:10 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-90D-POE",
+    "guid": "0190c8da2bfe736ce46a7c77fbf9214f1636e3f0291218211519214280eac941",
+    "pubDate": "Sun, 16 Apr 2023 06:15:15 -0700",
+    "category": "FortiGate",
+    "End of Order": "2023-07-15",
+    "Last Service Extension": "2027-07-15",
+    "End of Support": "2028-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-90D-USG",
+    "guid": "faea1ee3cd9f915c2196bee65355d9ddada63a4ae9e5389a982328bc4ed7d7a3",
+    "pubDate": "Thu, 31 Aug 2017 06:15:11 -0700",
+    "category": "FortiGate",
+    "End of Order": "2017-11-29",
+    "Last Service Extension": "2021-11-29",
+    "End of Support": "2022-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWiFi-92D",
+    "guid": "7953292caa76626ae11a6eb9b2dbed81948bf7a24ca43b224b516bdb83b7cb78",
+    "pubDate": "Mon, 16 Apr 2018 06:15:16 -0700",
+    "category": "FortiGate",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "Legacy VDOM SKUs",
+    "guid": "b9ad26acc42e1a7e3971c6da214d00143c13bae3ab4f6687ef25f761607c64cb",
+    "pubDate": "Wed, 21 Feb 2018 06:15:14 -0800",
+    "category": "FortiGate",
+    "End of Order": "2018-05-22",
+    "Last Service Extension": "2022-05-22",
+    "End of Support": "2023-05-22",
+    "Last Supported Software Version": "N/A"
+  }
+]

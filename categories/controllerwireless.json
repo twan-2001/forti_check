@@ -1,0 +1,332 @@
+[
+  {
+    "title": "ANT-A08O-NM-2",
+    "guid": "24cdd9d6c3d4c62dc250c009701dd5b821599dde74e8d00b8e336c7ce7677612",
+    "pubDate": "Tue, 01 Feb 2022 06:15:25 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ANT-BG08O-NM",
+    "guid": "efe89405e35f6c5e5ce96fa4565f8c08896fda92bd67cc62c6f6073f3d0d73f0",
+    "pubDate": "Tue, 01 Feb 2022 06:15:26 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ANT-I2ABGN-0304-O",
+    "guid": "efe89405e35f6c5e5ce96fa4565f8c08896fda92bd67cc62c6f6073f3d0d73f0",
+    "pubDate": "Tue, 01 Feb 2022 06:15:26 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ANT-O6ABGN-0606-O",
+    "guid": "af1fcdf6195541b3521d4dc3ded8317f9bb96a7bade29cff25d42b8349c83122",
+    "pubDate": "Fri, 16 Apr 2021 06:15:09 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2021-07-15",
+    "Last Service Extension": "2025-07-15",
+    "End of Support": "2026-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "ANT-O6ABGN-0607-PT",
+    "guid": "9aab5b23af05055a625cf871c99e474c1b2455e734023908e324d84e01f073f1",
+    "pubDate": "Mon, 02 Aug 2021 06:15:11 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2021-10-31",
+    "Last Service Extension": "2025-10-31",
+    "End of Support": "2026-10-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP-PWR02-XX",
+    "guid": "4f54267e5dd38d1c6e6db073d76773ea431fffebb6f3f64a5eaa308de0593820",
+    "pubDate": "Sun, 01 Dec 2024 06:15:21 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2025-03-01",
+    "Last Service Extension": "2029-03-01",
+    "End of Support": "2030-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP122",
+    "guid": "5baf367ee96984d47ddb06e5df23a5a21b4c46aa6f78c46dcbe655238489ef4a",
+    "pubDate": "Mon, 03 Aug 2020 06:17:47 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP822i(integrated antenna), AP822e (external)",
+    "guid": "24ae46f156ff34818fbe58190c4e8e2b5f2b8b7e267d87846e0e5393b7a7076d",
+    "pubDate": "Fri, 04 Dec 2020 06:15:04 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2021-03-04",
+    "Last Service Extension": "2025-03-04",
+    "End of Support": "2026-03-04",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AP832",
+    "guid": "2aca203f46430b7b9749139b8c2a5aa5db7403bfac305ff7e07478b59d8f7ab5",
+    "pubDate": "Fri, 10 Jan 2020 10:53:30 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2018-10-14",
+    "Last Service Extension": "2022-10-14",
+    "End of Support": "2023-10-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U221EV",
+    "guid": "a6fb49c09bb56520a29a06908ceabf060ef12541ead5e5eff7a2deb9c0ddb48e",
+    "pubDate": "Fri, 04 Jun 2021 06:15:54 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2021-09-02",
+    "Last Service Extension": "2025-09-02",
+    "End of Support": "2026-09-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U223EV",
+    "guid": "085aacdca2cf0755e2e100a37a6337efdf614d58e4ee8844fb00cfc7db6e91c5",
+    "pubDate": "Fri, 04 Jun 2021 06:15:55 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2021-09-02",
+    "Last Service Extension": "2025-09-02",
+    "End of Support": "2026-09-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U24JEV",
+    "guid": "d166eb6577d56dc973c7f18a1d568bc770c1cf26148576880d8d297bf61a8cce",
+    "pubDate": "Wed, 31 Aug 2022 06:15:46 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2022-11-29",
+    "Last Service Extension": "2026-11-29",
+    "End of Support": "2027-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U421EV",
+    "guid": "be1c76b94f801ae0977a95188ba92ffb8ad2b4bcf8ca0f0f1ebf022de7dd9158",
+    "pubDate": "Tue, 01 Feb 2022 06:15:28 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U422EV",
+    "guid": "a1de30fec4ec2994cd43ae5c4cea0748b529373f1874a6a64cb5089b164eed42",
+    "pubDate": "Mon, 27 Nov 2023 06:16:01 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2024-02-25",
+    "Last Service Extension": "2028-02-25",
+    "End of Support": "2029-02-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U423EV",
+    "guid": "c68621dc2a7dc481ea757721c22ef4863fa35a32a1c73b2aadd71addb061cbb8",
+    "pubDate": "Mon, 02 May 2022 06:15:12 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2022-07-31",
+    "Last Service Extension": "2026-07-31",
+    "End of Support": "2027-07-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FAP-U431F",
+    "guid": "5548293abb80e99241a13f86b350ea81163f42072193f8bd9b5f49da4aa4a281",
+    "pubDate": "Fri, 24 Oct 2025 16:33:43 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U231F",
+    "guid": "e639529f6cfa8146af1a8d83b310cbb5c01d01f236c6d541e84e8a8698909ce4",
+    "pubDate": "Fri, 24 Oct 2025 13:54:00 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U231G",
+    "guid": "3f5968d4f080138b3adaca2bd3bf60f965c169e0ec6f7383f62b3f83acb3ceee",
+    "pubDate": "Wed, 05 Apr 2023 09:16:42 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2023-06-19",
+    "Last Service Extension": "2027-06-19",
+    "End of Support": "2028-06-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U234F",
+    "guid": "9ddb20bb5fb14153e7838b268d78fdbe21c41dfaa18ab5213594f6fce287b4fe",
+    "pubDate": "Fri, 24 Oct 2025 13:54:16 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U321EV",
+    "guid": "cac0d6caecea9b421eb1037fd3a450b3cb0a77f3d5f8fbddf429c8d794cd0511",
+    "pubDate": "Wed, 24 Aug 2022 06:15:46 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2022-11-22",
+    "Last Service Extension": "2026-11-22",
+    "End of Support": "2027-11-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U323EV",
+    "guid": "39b646a5efc49f64f185ac84a5d989fdf9a2b38789c1697f3fe48c3ee7ba167f",
+    "pubDate": "Tue, 01 Feb 2022 06:15:27 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U431F-USG",
+    "guid": "16b3276842c3837faa32fea92d83be3722754db622aeb962da5f5ae98fd80143",
+    "pubDate": "Mon, 16 Oct 2023 06:15:18 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2024-01-14",
+    "Last Service Extension": "2028-01-14",
+    "End of Support": "2029-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U432F",
+    "guid": "7b28601fbbb3ce3b68bda72bbae77aa34016051ace36b16b39907874725598ab",
+    "pubDate": "Fri, 24 Oct 2025 16:33:53 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U432F-TAA",
+    "guid": "965fa4dec24888ffedd9e19492af39d3fa73b0a7b3bad215118d133fb7a26b75",
+    "pubDate": "Fri, 24 Oct 2025 16:34:09 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiAP-U433F",
+    "guid": "3a62188fe7b4f085f46e0672923747e8d60b382c92cb68faf1e8f1e87bb0eb16",
+    "pubDate": "Fri, 24 Oct 2025 16:34:21 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2025-10-23",
+    "Last Service Extension": "2029-10-23",
+    "End of Support": "2030-10-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLC-1000D",
+    "guid": "31210ec0fef57276ea22d936114eaeb63cf7046281f37a4675d81e328399a11b",
+    "pubDate": "Thu, 18 Feb 2021 09:14:22 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2021-05-18",
+    "Last Service Extension": "2025-05-18",
+    "End of Support": "2026-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLC-200D",
+    "guid": "83df4c5f2e3d5422004b500e0b23485487f4ca134e3dcc95df2ef7a6108bf58d",
+    "pubDate": "Mon, 03 Aug 2020 06:17:49 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLC-3000D",
+    "guid": "836d23837267646f63e1440a6aecceb6240102cdfd4177b9d06e95c455c4c8ae",
+    "pubDate": "Thu, 18 Feb 2021 09:14:26 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2021-05-18",
+    "Last Service Extension": "2025-05-18",
+    "End of Support": "2026-05-18",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLC-500D",
+    "guid": "8601c5f528af298c6682276f246a6c2842c5c4b33dc133f3add852defae18d76",
+    "pubDate": "Mon, 03 Aug 2020 06:17:50 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLC-50D",
+    "guid": "90386d35d6acf08f9cb45d83b682f02cfede1c5a730aceb1d26e2c4d2f38d8cf",
+    "pubDate": "Mon, 03 Aug 2020 06:17:48 -0700",
+    "category": "ControllerWireless",
+    "End of Order": "2020-11-01",
+    "Last Service Extension": "2024-11-01",
+    "End of Support": "2025-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWLC-VM",
+    "guid": "46bb25189bfc680f29bab96b27313fb4bf095d0db9962979df0e1701081c70f1",
+    "pubDate": "Tue, 01 Feb 2022 06:15:24 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC155-PS",
+    "guid": "bb16f7e4c1ca32330b92e8d438c2ef0c2ad56b03b5ed5cf983c15c0ea2a77ae6",
+    "pubDate": "Wed, 10 Mar 2021 18:17:34 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2021-06-03",
+    "Last Service Extension": "2025-06-03",
+    "End of Support": "2026-06-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "MC4200-PS",
+    "guid": "c89bcf0a158d1a38b0019c9d4b975c5b48b5d553f1683e16db57e1560f931fb1",
+    "pubDate": "Wed, 10 Mar 2021 18:17:41 -0800",
+    "category": "ControllerWireless",
+    "End of Order": "2021-06-03",
+    "Last Service Extension": "2025-06-03",
+    "End of Support": "2026-06-03",
+    "Last Supported Software Version": "N/A"
+  }
+]

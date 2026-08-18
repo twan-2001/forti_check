@@ -1,0 +1,452 @@
+[
+  {
+    "title": "FortiManager-100",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2011-11-17",
+    "Last Service Extension": "2015-11-17",
+    "End of Support": "2016-11-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-1000C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2014-01-08",
+    "Last Service Extension": "2018-01-08",
+    "End of Support": "2019-01-08",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-1000C-G",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2014-04-14",
+    "Last Service Extension": "2018-04-14",
+    "End of Support": "2019-04-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-1000D",
+    "guid": "abbbf66584e144e37731138e123c8aea01cdb05b9bcd6fbc9ec169bc98716495",
+    "pubDate": "Mon, 30 Jan 2017 13:14:23 -0800",
+    "category": "FortiManager",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-1000D-USG",
+    "guid": "3e1a47c8e85106f0e6245ce899a9071c8db45d3f7270785b88508c9ecf37887b",
+    "pubDate": "Mon, 30 Jan 2017 13:18:24 -0800",
+    "category": "FortiManager",
+    "End of Order": "2017-02-02",
+    "Last Service Extension": "2021-02-02",
+    "End of Support": "2022-02-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-1000F",
+    "guid": "d06e1f3e7f5c270df4570df1efe080c8dc85e7a94f3694e7de55c87204345b59",
+    "pubDate": "Fri, 01 Dec 2023 06:15:21 -0800",
+    "category": "FortiManager",
+    "End of Order": "2024-02-29",
+    "Last Service Extension": "2028-02-29",
+    "End of Support": "2029-03-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-1000F-USG",
+    "guid": "4dfb712f6abb44b8053471df3bbec1d25c937123517cada98e6e4ee0e8afff26",
+    "pubDate": "Tue, 16 Jan 2024 06:15:29 -0800",
+    "category": "FortiManager",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-100C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2012-10-25",
+    "Last Service Extension": "2016-10-25",
+    "End of Support": "2017-10-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-2000E",
+    "guid": "1225c8009d19ed93e3e309ef9bcf11efce0aa2d9712fcdccec711058f6036081",
+    "pubDate": "Thu, 23 Dec 2021 06:15:43 -0800",
+    "category": "FortiManager",
+    "End of Order": "2022-03-23",
+    "Last Service Extension": "2026-03-23",
+    "End of Support": "2027-03-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-2000E-USG",
+    "guid": "0d21e97fa09c761a7e1573b5ab6eea11866b77cfff76e68aab110b050d4a9191",
+    "pubDate": "Mon, 16 Apr 2018 06:15:18 -0700",
+    "category": "FortiManager",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-200D",
+    "guid": "25bbbf73bae0f8a2b9911c95cd947ad642118450b39ed9ef8868267e829e24bf",
+    "pubDate": "Wed, 04 Sep 2019 06:18:41 -0700",
+    "category": "FortiManager",
+    "End of Order": "2019-12-03",
+    "Last Service Extension": "2023-12-03",
+    "End of Support": "2024-12-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-200F",
+    "guid": "c35ea8e16f3112f22c7f3d1125a70d40313159ae22626924fa250f1d9bb819cd",
+    "pubDate": "Fri, 02 Apr 2021 06:15:08 -0700",
+    "category": "FortiManager",
+    "End of Order": "2021-07-01",
+    "Last Service Extension": "2025-07-01",
+    "End of Support": "2026-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-200G",
+    "guid": "14043b58ce52e7f0caa55891e1109aaf0d2ec5832b267f860c27b849daebeed2",
+    "pubDate": "Mon, 03 Aug 2026 00:10:07 -0700",
+    "category": "FortiManager",
+    "End of Order": "2026-11-01",
+    "Last Service Extension": "2030-11-01",
+    "End of Support": "2031-11-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2008-10-16",
+    "Last Service Extension": "2012-10-16",
+    "End of Support": "2013-10-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2010-10-06",
+    "Last Service Extension": "2014-10-06",
+    "End of Support": "2015-10-06",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000C",
+    "guid": "4ae4523bd67e88b78374ad18258fcb9553ddfe852beb3c45083876daf33c0d6f",
+    "pubDate": "Wed, 28 Jun 2017 06:15:34 -0700",
+    "category": "FortiManager",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000F",
+    "guid": "478fe907061c8125a5a09fa2763d7df6a5462c35f835900654da89b294b168f9",
+    "pubDate": "Fri, 02 Apr 2021 06:15:09 -0700",
+    "category": "FortiManager",
+    "End of Order": "2021-07-01",
+    "Last Service Extension": "2025-07-01",
+    "End of Support": "2026-07-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000F-USG",
+    "guid": "c409b9cef424d637122fc7ef14b05cf50fcc5b9477025df758f596473560d121",
+    "pubDate": "Mon, 16 Apr 2018 06:15:19 -0700",
+    "category": "FortiManager",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000G",
+    "guid": "c5194549d840ad67df5378cbfd20c588959eddba39739e64cd56f1c7384b7903",
+    "pubDate": "Sat, 01 Jun 2024 06:15:16 -0700",
+    "category": "FortiManager",
+    "End of Order": "2024-08-30",
+    "Last Service Extension": "2028-08-30",
+    "End of Support": "2029-08-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3000G-TAA-FGDUS",
+    "guid": "127eda18b1f12c531989bdcc8f6c522c2e5148e50126a0019233e479c7208936",
+    "pubDate": "Thu, 20 Mar 2025 09:56:18 -0700",
+    "category": "FortiManager",
+    "End of Order": "2025-05-30",
+    "Last Service Extension": "2029-05-30",
+    "End of Support": "2030-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-300D",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2016-09-01",
+    "Last Service Extension": "2020-09-01",
+    "End of Support": "2021-09-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-300D-USG",
+    "guid": "647e657283ef0ebeaf4d52776a3be0c6f3d610e2316ab818c13a37976c697f68",
+    "pubDate": "Mon, 30 Jan 2017 13:14:37 -0800",
+    "category": "FortiManager",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-300E",
+    "guid": "15b140682c97e60181d1b71b93a1a7fc7dbde41a61e1ccb38ea3963c664a33e7",
+    "pubDate": "Tue, 05 May 2020 06:17:46 -0700",
+    "category": "FortiManager",
+    "End of Order": "2020-08-03",
+    "Last Service Extension": "2024-08-03",
+    "End of Support": "2025-08-03",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-300E-USG",
+    "guid": "8a48783135c026635cfe9d7f78398c3b2e1acbf00971654182859cd9b8741116",
+    "pubDate": "Mon, 16 Apr 2018 06:15:20 -0700",
+    "category": "FortiManager",
+    "End of Order": "2018-07-15",
+    "Last Service Extension": "2022-07-15",
+    "End of Support": "2023-07-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-300F",
+    "guid": "62cd0bdbcbac501fa15169ab1d5051e70cbf63dca9ce03f71338baee4ffecdce",
+    "pubDate": "Fri, 01 Oct 2021 06:15:05 -0700",
+    "category": "FortiManager",
+    "End of Order": "2021-12-30",
+    "Last Service Extension": "2025-12-30",
+    "End of Support": "2026-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-300F-USG",
+    "guid": "637b7a0a15c48459fc88797a8faf74e7dd3a00ab741a8fd02dcfb89bf8049ac9",
+    "pubDate": "Thu, 21 Mar 2024 19:24:14 -0700",
+    "category": "FortiManager",
+    "End of Order": "2022-05-02",
+    "Last Service Extension": "2026-05-02",
+    "End of Support": "2027-05-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3700F",
+    "guid": "de8ba329b86d301ba134cb30a1c5c99d02895663641ebb79404f772677796d20",
+    "pubDate": "Tue, 01 Jun 2021 06:15:26 -0700",
+    "category": "FortiManager",
+    "End of Order": "2021-08-30",
+    "Last Service Extension": "2025-08-30",
+    "End of Support": "2026-08-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3700F-USG",
+    "guid": "fbabe4d2063c3b5c4a96dea7d3e9e6e1038b6983b137a6cd8d74630f8a282853",
+    "pubDate": "Thu, 21 Mar 2024 16:30:40 -0700",
+    "category": "FortiManager",
+    "End of Order": "2022-05-30",
+    "Last Service Extension": "2026-05-30",
+    "End of Support": "2027-05-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3700G",
+    "guid": "71bc1ad39bb09ae7681fa8d1196e940c9df982b9dbed9c331ea30f7da5036b90",
+    "pubDate": "Fri, 23 Jan 2026 00:10:30 -0800",
+    "category": "FortiManager",
+    "End of Order": "2026-04-23",
+    "Last Service Extension": "2030-04-23",
+    "End of Support": "2031-04-23",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-3900E",
+    "guid": "e8a5dd8f0ba9750876890d86cc6d42afce6483638762466e914a5d87ec7c2c41",
+    "pubDate": "Wed, 28 Mar 2018 06:15:16 -0700",
+    "category": "FortiManager",
+    "End of Order": "2018-06-26",
+    "Last Service Extension": "2022-06-26",
+    "End of Support": "2023-06-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2005-04-15",
+    "Last Service Extension": "2007-04-15",
+    "End of Support": "2008-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-4000D",
+    "guid": "49fa8debcb234ef231222ef444d1bcc219ed2aa07bc18fc21e6029d1d5b2b625",
+    "pubDate": "Tue, 20 Jul 2021 11:40:54 -0700",
+    "category": "FortiManager",
+    "End of Order": "2016-03-31",
+    "Last Service Extension": "2020-03-31",
+    "End of Support": "2021-03-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-4000D-USG",
+    "guid": "a9713d45047e0a198a4ae63d9a8a4b98c36893bb625fe1685e19f102d8112b0b",
+    "pubDate": "Mon, 30 Jan 2017 13:18:36 -0800",
+    "category": "FortiManager",
+    "End of Order": "2017-02-02",
+    "Last Service Extension": "2021-02-02",
+    "End of Support": "2022-02-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-4000E",
+    "guid": "3318be6a0b0d8e14bfbdfd1b0c1459d69f9e759b5f9bdeff1cb11778d7151cbf",
+    "pubDate": "Mon, 30 Jan 2017 13:14:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2017-01-17",
+    "Last Service Extension": "2021-01-17",
+    "End of Support": "2022-01-17",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-4000E-USG",
+    "guid": "3e2206cbffffe16219ce585983dc63d9cad8a783de7f50d70f0178d9c60a35bb",
+    "pubDate": "Mon, 30 Jan 2017 13:18:49 -0800",
+    "category": "FortiManager",
+    "End of Order": "2017-02-02",
+    "Last Service Extension": "2021-02-02",
+    "End of Support": "2022-02-02",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2011-06-19",
+    "Last Service Extension": "2015-06-19",
+    "End of Support": "2016-06-19",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400B",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2012-06-21",
+    "Last Service Extension": "2016-06-21",
+    "End of Support": "2017-06-21",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400C",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2013-07-25",
+    "Last Service Extension": "2017-07-25",
+    "End of Support": "2018-07-25",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400E",
+    "guid": "8fd222fd9a3e11e39960ab83b47b7adb883e2d899c45027122f337e116c20945",
+    "pubDate": "Wed, 01 May 2019 06:15:28 -0700",
+    "category": "FortiManager",
+    "End of Order": "2019-07-30",
+    "Last Service Extension": "2023-07-30",
+    "End of Support": "2024-07-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400G",
+    "guid": "f787fbd1d5872037689028660fc89d09f172636251fe26b9df982da816ddb117",
+    "pubDate": "Tue, 16 Jan 2024 06:15:32 -0800",
+    "category": "FortiManager",
+    "End of Order": "2024-04-15",
+    "Last Service Extension": "2028-04-15",
+    "End of Support": "2029-04-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-400G-TAA-FGDUS",
+    "guid": "51446a4bb7e9d9cea4910bb3c5a251aacdef143b2a1d1cb8baf51c49deb44907",
+    "pubDate": "Sat, 16 Dec 2023 06:15:03 -0800",
+    "category": "FortiManager",
+    "End of Order": "2024-03-15",
+    "Last Service Extension": "2028-03-15",
+    "End of Support": "2029-03-15",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-5001A",
+    "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
+    "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
+    "category": "FortiManager",
+    "End of Order": "2014-08-16",
+    "Last Service Extension": "2018-08-16",
+    "End of Support": "2019-08-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-VM (Hypervisor-specific SKUs)",
+    "guid": "a82fb39111528ebe84cd4a33ea3933dd2014d6fff98cc98f675aac078aa2b16e",
+    "pubDate": "Fri, 30 Mar 2018 06:15:13 -0700",
+    "category": "FortiManager",
+    "End of Order": "2018-06-28",
+    "Last Service Extension": "2022-06-28",
+    "End of Support": "2023-06-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-VM-AWS-USG",
+    "guid": "b6a5c5ca515b7a08280aebb828a37632986a4a4823253eef85a0cbf12fe4de5e",
+    "pubDate": "Wed, 28 Jun 2017 06:15:22 -0700",
+    "category": "FortiManager",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiManager-VM-USG",
+    "guid": "b3a4c67ba32a688a761c9d3020db5517d8f09e9ec642f10127e499565593ffd7",
+    "pubDate": "Wed, 28 Jun 2017 06:15:26 -0700",
+    "category": "FortiManager",
+    "End of Order": "2017-09-26",
+    "Last Service Extension": "2021-09-26",
+    "End of Support": "2022-09-26",
+    "Last Supported Software Version": "N/A"
+  }
+]

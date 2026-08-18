@@ -1,0 +1,92 @@
+[
+  {
+    "title": "FortiWAN-1000B",
+    "guid": "d5fde0e9f10224a2971af5c6f4b339d94ab820dd24a3cccabc122fef33dee18c",
+    "pubDate": "Fri, 24 May 2019 06:17:50 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-1000E",
+    "guid": "f1ace8d9c5aa0674387a732cf9cdde3249bb8ffefa7976485b90e1eab0c8c3d1",
+    "pubDate": "Tue, 28 May 2019 06:18:15 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-26",
+    "Last Service Extension": "2023-08-26",
+    "End of Support": "2024-08-26",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-200B",
+    "guid": "d5fde0e9f10224a2971af5c6f4b339d94ab820dd24a3cccabc122fef33dee18c",
+    "pubDate": "Fri, 24 May 2019 06:17:50 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-200E",
+    "guid": "20225421434e0e0de8e48ab7103b1e649e8042c3c41e20a1bec982255d4052ab",
+    "pubDate": "Fri, 24 May 2019 06:17:51 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-3000B",
+    "guid": "d7e80123def5728430b0ce7c3cfbda21b18c205329b4b2669c6b64c2e6d4de3d",
+    "pubDate": "Fri, 24 May 2019 06:17:52 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-30E",
+    "guid": "7e3eec80ac95a06772bcc9a04cf8d8e91d3b07f14acefc4eb7dc48ab8df8ec2a",
+    "pubDate": "Fri, 24 May 2019 06:17:53 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-Manager",
+    "guid": "7e3eec80ac95a06772bcc9a04cf8d8e91d3b07f14acefc4eb7dc48ab8df8ec2a",
+    "pubDate": "Fri, 24 May 2019 06:17:53 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-VM02",
+    "guid": "dcda4496781c8f82a9ca79be7d78e5d0364c1811a649cf34e626b1b3024e2f62",
+    "pubDate": "Fri, 24 May 2019 06:17:54 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiWAN-VM04",
+    "guid": "f197af980ac0c3f77698acf6a90cc63d97381f3887bfae43f0c6865736447c63",
+    "pubDate": "Fri, 24 May 2019 06:17:55 -0700",
+    "category": "FortiWAN",
+    "End of Order": "2019-08-22",
+    "Last Service Extension": "2023-08-22",
+    "End of Support": "2024-08-22",
+    "Last Supported Software Version": "N/A"
+  }
+]
