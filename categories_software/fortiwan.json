@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiWAN 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2015-03-24",
+    "End of Engineering Support": "2018-03-24",
+    "End of Support": "2019-09-24"
+  },
+  {
+    "title": "FortiWAN 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2015-10-14",
+    "End of Engineering Support": "2018-10-14",
+    "End of Support": "2020-04-14"
+  },
+  {
+    "title": "FortiWAN 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2016-02-18",
+    "End of Engineering Support": "2019-02-18",
+    "End of Support": "2020-08-18"
+  },
+  {
+    "title": "FortiWAN 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2016-11-16",
+    "End of Engineering Support": "2019-11-16",
+    "End of Support": "2021-05-16"
+  },
+  {
+    "title": "FortiWAN 4.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2017-05-04",
+    "End of Engineering Support": "2020-05-03",
+    "End of Support": "2021-11-03"
+  },
+  {
+    "title": "FortiWAN 4.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2017-10-06",
+    "End of Engineering Support": "2020-10-06",
+    "End of Support": "2022-04-06"
+  },
+  {
+    "title": "FortiWAN 5.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWAN",
+    "Release": "2018-10-30",
+    "End of Engineering Support": "2021-10-30",
+    "End of Support": "2023-04-30"
+  },
+  {
+    "title": "FortiWAN 5.2",
+    "guid": "5fd2a13e5f426593a47893601e38f2df7de850394743eab5a8d2092768522dd4",
+    "pubDate": "Wed, 21 Sep 2022 05:38:38 -0700",
+    "category": "FortiWAN",
+    "Release": "2019-04-04",
+    "End of Engineering Support": "2022-04-04",
+    "End of Support": "2023-10-04"
+  }
+]

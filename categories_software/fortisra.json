@@ -1,0 +1,29 @@
+[
+  {
+    "title": "FortiSRA 1.4.0",
+    "guid": "6e84ec512ec756d2e1ada48c05b7998b4ae5720f9a27e84127f800aa23479f71",
+    "pubDate": "Tue, 06 Aug 2024 11:16:00 -0700",
+    "category": "FortiSRA",
+    "Release": "2024-08-05",
+    "End of Engineering Support": "2027-08-05",
+    "End of Support": "2029-02-05"
+  },
+  {
+    "title": "FortiSRA 1.5",
+    "guid": "201345473c3ddc98086e3a23a3c76494f55101578b9de2831e3fbbe423b680f2",
+    "pubDate": "Fri, 20 Dec 2024 12:43:35 -0800",
+    "category": "FortiSRA",
+    "Release": "2024-12-20",
+    "End of Engineering Support": "2027-12-20",
+    "End of Support": "2029-06-20"
+  },
+  {
+    "title": "FortiSRA 1.6",
+    "guid": "4937c4c332f6bf137d5322b415b2ae11b7de2cc10e567fea2bf59669fc04854f",
+    "pubDate": "Tue, 29 Apr 2025 11:49:57 -0700",
+    "category": "FortiSRA",
+    "Release": "2025-04-29",
+    "End of Engineering Support": "2028-04-29",
+    "End of Support": "2029-10-29"
+  }
+]

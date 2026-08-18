@@ -1,0 +1,92 @@
+[
+  {
+    "title": "FortiWLC-SD 6.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2013-06-30",
+    "End of Engineering Support": "2018-03-31",
+    "End of Support": "2018-09-30"
+  },
+  {
+    "title": "FortiWLC-SD 6.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "N/A",
+    "End of Engineering Support": "2018-03-31",
+    "End of Support": "2018-09-30"
+  },
+  {
+    "title": "FortiWLC-SD 7.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2015-08-31",
+    "End of Engineering Support": "2020-03-31",
+    "End of Support": "2020-09-30"
+  },
+  {
+    "title": "FortiWLC-SD 8.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2016-09-06",
+    "End of Engineering Support": "2019-09-06",
+    "End of Support": "2021-03-06"
+  },
+  {
+    "title": "FortiWLC-SD 8.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2016-11-06",
+    "End of Engineering Support": "2019-11-06",
+    "End of Support": "2021-05-06"
+  },
+  {
+    "title": "FortiWLC-SD 8.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2016-09-23",
+    "End of Engineering Support": "2019-09-23",
+    "End of Support": "2021-03-23"
+  },
+  {
+    "title": "FortiWLC-SD 8.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2017-04-04",
+    "End of Engineering Support": "2020-04-04",
+    "End of Support": "2021-10-04"
+  },
+  {
+    "title": "FortiWLC-SD 8.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2018-03-12",
+    "End of Engineering Support": "2021-03-12",
+    "End of Support": "2022-09-12"
+  },
+  {
+    "title": "FortiWLC-SD 8.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2018-12-05",
+    "End of Engineering Support": "2021-12-05",
+    "End of Support": "2023-06-05"
+  },
+  {
+    "title": "FortiWLC-SD 8.6",
+    "guid": "24a9de3b187f98b8904751d9d39028727f9832e137956829d9d7d54367fdda0d",
+    "pubDate": "Tue, 12 Jan 2021 12:50:19 -0800",
+    "category": "FortiWLC-SD",
+    "Release": "2021-01-06",
+    "End of Engineering Support": "2024-01-06",
+    "End of Support": "2025-07-06"
+  }
+]

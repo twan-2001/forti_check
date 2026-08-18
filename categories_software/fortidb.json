@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiDB 3.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2008-12-19",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-12-19"
+  },
+  {
+    "title": "FortiDB 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2009-10-30",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-10-30"
+  },
+  {
+    "title": "FortiDB 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2010-08-03",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-08-03"
+  },
+  {
+    "title": "FortiDB 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2011-01-26",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-01-26"
+  },
+  {
+    "title": "FortiDB 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2011-07-29",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-07-29"
+  },
+  {
+    "title": "FortiDB 4.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2012-01-23",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-01-23"
+  },
+  {
+    "title": "FortiDB 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2013-06-03",
+    "End of Engineering Support": "2016-06-03",
+    "End of Support": "2017-12-03"
+  },
+  {
+    "title": "FortiDB 5.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDB",
+    "Release": "2013-07-29",
+    "End of Engineering Support": "2016-07-29",
+    "End of Support": "2018-01-29"
+  }
+]

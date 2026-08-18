@@ -1,0 +1,110 @@
+[
+  {
+    "title": "FortiWeb Manager 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2015-09-29",
+    "End of Engineering Support": "2018-09-29",
+    "End of Support": "2020-03-29"
+  },
+  {
+    "title": "FortiWeb Manager 5.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2016-02-04",
+    "End of Engineering Support": "2019-02-04",
+    "End of Support": "2020-08-04"
+  },
+  {
+    "title": "FortiWeb Manager 5.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2016-11-02",
+    "End of Engineering Support": "2019-11-02",
+    "End of Support": "2021-05-02"
+  },
+  {
+    "title": "FortiWeb Manager 5.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2017-02-08",
+    "End of Engineering Support": "2020-02-08",
+    "End of Support": "2021-08-08"
+  },
+  {
+    "title": "FortiWeb Manager 5.8",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2017-06-14",
+    "End of Engineering Support": "2020-06-14",
+    "End of Support": "2021-12-14"
+  },
+  {
+    "title": "FortiWeb Manager 6.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2018-10-12",
+    "End of Engineering Support": "2021-10-12",
+    "End of Support": "2023-04-12"
+  },
+  {
+    "title": "FortiWeb Manager 6.2",
+    "guid": "3e28d70df93ac442d1d0cbb497236416776414aba05de602094bacb1dd1b3f77",
+    "pubDate": "Fri, 28 Jan 2022 13:08:02 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2020-03-26",
+    "End of Engineering Support": "2023-03-26",
+    "End of Support": "2024-09-26"
+  },
+  {
+    "title": "FortiWeb Manager 6.3",
+    "guid": "89cd2fee06f89da47d22fc1901a310b08cee440e7bf2ac593760df170e772a99",
+    "pubDate": "Tue, 08 Feb 2022 05:28:08 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2022-02-07",
+    "End of Engineering Support": "2025-02-07",
+    "End of Support": "2026-08-07"
+  },
+  {
+    "title": "FortiWeb Manager 7.0",
+    "guid": "b7abfb013ba300315a20660a3b53df2824db98c7d31bbcec49be7a7b1762c118",
+    "pubDate": "Thu, 17 Feb 2022 07:24:30 -0800",
+    "category": "FortiWeb Manager",
+    "Release": "2022-02-16",
+    "End of Engineering Support": "2025-02-16",
+    "End of Support": "2026-08-16"
+  },
+  {
+    "title": "FortiWeb Manager 7.2",
+    "guid": "25a97d34fa2ecdfdce8fa247db4bcbd5e37e6e0dac774ff1e6602522d41bad55",
+    "pubDate": "Fri, 07 Jul 2023 12:33:53 -0700",
+    "category": "FortiWeb Manager",
+    "Release": "2023-07-07",
+    "End of Engineering Support": "2026-07-07",
+    "End of Support": "2028-01-07"
+  },
+  {
+    "title": "FortiWeb Manager 7.4",
+    "guid": "ddc88ac0db1970ad5f6d8d2009bd9f582e5f0a8a9e9fd2ae8fd1610420c8e0cf",
+    "pubDate": "Wed, 01 Nov 2023 11:50:01 -0700",
+    "category": "FortiWeb Manager",
+    "Release": "2023-11-01",
+    "End of Engineering Support": "2026-11-01",
+    "End of Support": "2028-05-01"
+  },
+  {
+    "title": "FortiWeb Manager 7.6",
+    "guid": "54aa55a133ada61909b82adf6c76396c7c006d46665f045ec251744f08a0c07a",
+    "pubDate": "Mon, 23 Sep 2024 13:12:21 -0700",
+    "category": "FortiWeb Manager",
+    "Release": "2024-09-23",
+    "End of Engineering Support": "2027-09-23",
+    "End of Support": "2029-03-23"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 5.2",
+    "guid": "ea8079d70f88ea5580af6854fa7966ee62fcc015a43053e2531df41888a7e2f1",
+    "pubDate": "Tue, 30 Apr 2019 08:31:08 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2019-03-01",
+    "End of Engineering Support": "2022-03-01",
+    "End of Support": "2023-09-01"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2016-08-30",
+    "End of Engineering Support": "2019-08-30",
+    "End of Support": "2021-02-28"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2016-10-03",
+    "End of Engineering Support": "2019-10-03",
+    "End of Support": "2021-04-03"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 3.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2016-12-22",
+    "End of Engineering Support": "2019-12-22",
+    "End of Support": "2021-06-22"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 4.0",
+    "guid": "0123176e21e1c10cce55c3fd288663952b8e5ed11f083f81975e9237046ebd95",
+    "pubDate": "Wed, 15 Apr 2020 08:32:58 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2017-03-31",
+    "End of Engineering Support": "2020-03-31",
+    "End of Support": "2021-09-30"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2017-09-18",
+    "End of Engineering Support": "2020-09-18",
+    "End of Support": "2022-03-18"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2017-12-27",
+    "End of Engineering Support": "2020-12-27",
+    "End of Support": "2022-06-27"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2018-06-01",
+    "End of Engineering Support": "2021-06-01",
+    "End of Support": "2022-12-01"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 5.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2018-10-03",
+    "End of Engineering Support": "2021-10-03",
+    "End of Support": "2023-04-03"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 5.3",
+    "guid": "87b5f3a96ede3b0137eaac5e1e9f2aa057b0b2d0e0d75731119432ba8507c5c1",
+    "pubDate": "Tue, 15 Oct 2019 08:04:43 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2019-10-10",
+    "End of Engineering Support": "2022-10-10",
+    "End of Support": "2024-04-10"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 6.0",
+    "guid": "81e66b459a52539bf6e50735e17d720721bbced68d40d950bb29baab5d2eac43",
+    "pubDate": "Mon, 06 Jul 2020 07:09:21 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2020-07-02",
+    "End of Engineering Support": "2023-07-02",
+    "End of Support": "2025-01-02"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 7.0",
+    "guid": "0ebb6d7a618c5c08ea62a0849912a731c5a26af622890c30419140dd6d809f34",
+    "pubDate": "Tue, 05 Jul 2022 06:42:00 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2022-07-04",
+    "End of Engineering Support": "2025-07-04",
+    "End of Support": "2027-01-04"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 7.2",
+    "guid": "c71508719f4020b7dbfb426e99c4b0b7f7b730a88bf236cc17407a44223335f7",
+    "pubDate": "Tue, 01 Oct 2024 05:10:19 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2023-06-12",
+    "End of Engineering Support": "2026-06-12",
+    "End of Support": "2027-12-12"
+  },
+  {
+    "title": "FortiPortal (Formerly FortiPrivateCloud) 7.4",
+    "guid": "5c05340bf15fa971ef4e11618c5ba50692dc0943a748895ba0f8c29e489a7bfc",
+    "pubDate": "Tue, 01 Oct 2024 05:08:48 -0700",
+    "category": "FortiPortal (Formerly FortiPrivateCloud)",
+    "Release": "2024-06-12",
+    "End of Engineering Support": "2027-06-12",
+    "End of Support": "2028-12-12"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "FortiBridge-S 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBridge-S",
+    "Release": "2015-01-27",
+    "End of Engineering Support": "2018-01-27",
+    "End of Support": "2019-07-27"
+  },
+  {
+    "title": "FortiBridge-S 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBridge-S",
+    "Release": "2015-04-29",
+    "End of Engineering Support": "2018-04-29",
+    "End of Support": "2019-10-29"
+  },
+  {
+    "title": "FortiBridge-S 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBridge-S",
+    "Release": "2015-10-01",
+    "End of Engineering Support": "2018-10-01",
+    "End of Support": "2020-04-01"
+  },
+  {
+    "title": "FortiBridge-S 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBridge-S",
+    "Release": "2016-03-04",
+    "End of Engineering Support": "2019-03-04",
+    "End of Support": "2020-09-04"
+  },
+  {
+    "title": "FortiBridge-S 4.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBridge-S",
+    "Release": "2016-06-30",
+    "End of Engineering Support": "2019-06-30",
+    "End of Support": "2020-12-30"
+  }
+]

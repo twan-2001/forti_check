@@ -1,0 +1,20 @@
+[
+  {
+    "title": "FortiGate-One 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiGate-One",
+    "Release": "2010-05-06",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-05-06"
+  },
+  {
+    "title": "FortiGate-One 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiGate-One",
+    "Release": "2011-11-10",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-11-10"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "title": "FortiConverter 5.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2017-07-26",
+    "End of Engineering Support": "2020-07-26",
+    "End of Support": "2022-01-26"
+  },
+  {
+    "title": "FortiConverter 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2013-07-23",
+    "End of Engineering Support": "2016-07-23",
+    "End of Support": "2018-01-23"
+  },
+  {
+    "title": "FortiConverter 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2013-09-03",
+    "End of Engineering Support": "2016-09-03",
+    "End of Support": "2018-03-03"
+  },
+  {
+    "title": "FortiConverter 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2014-01-15",
+    "End of Engineering Support": "2017-01-15",
+    "End of Support": "2018-07-15"
+  },
+  {
+    "title": "FortiConverter 4.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2014-07-18",
+    "End of Engineering Support": "2017-07-18",
+    "End of Support": "2019-01-18"
+  },
+  {
+    "title": "FortiConverter 4.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2014-10-06",
+    "End of Engineering Support": "2017-10-06",
+    "End of Support": "2019-04-06"
+  },
+  {
+    "title": "FortiConverter 4.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2015-01-07",
+    "End of Engineering Support": "2018-01-07",
+    "End of Support": "2019-07-07"
+  },
+  {
+    "title": "FortiConverter 4.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2015-07-07",
+    "End of Engineering Support": "2018-07-07",
+    "End of Support": "2020-01-07"
+  },
+  {
+    "title": "FortiConverter 4.9",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2016-01-07",
+    "End of Engineering Support": "2019-01-07",
+    "End of Support": "2020-07-07"
+  },
+  {
+    "title": "FortiConverter 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2016-04-12",
+    "End of Engineering Support": "2019-04-12",
+    "End of Support": "2020-10-12"
+  },
+  {
+    "title": "FortiConverter 5.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2016-07-21",
+    "End of Engineering Support": "2019-07-21",
+    "End of Support": "2021-01-21"
+  },
+  {
+    "title": "FortiConverter 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2016-10-13",
+    "End of Engineering Support": "2019-10-13",
+    "End of Support": "2021-04-13"
+  },
+  {
+    "title": "FortiConverter 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConverter",
+    "Release": "2017-12-20",
+    "End of Engineering Support": "2020-12-20",
+    "End of Support": "2022-06-20"
+  },
+  {
+    "title": "FortiConverter 5.5",
+    "guid": "4fc6145efd5cc110e8dea48636f282d076093e7c204859091c6dcd332c2be0ae",
+    "pubDate": "Wed, 28 Oct 2020 06:56:13 -0700",
+    "category": "FortiConverter",
+    "Release": "2018-09-20",
+    "End of Engineering Support": "2021-09-20",
+    "End of Support": "2023-03-20"
+  },
+  {
+    "title": "FortiConverter 5.6",
+    "guid": "ec2a2f02c51734328e6bac30209ea0fc493b4bddb01257dff6a7bcf6cfb5e34c",
+    "pubDate": "Wed, 28 Oct 2020 06:56:40 -0700",
+    "category": "FortiConverter",
+    "Release": "2019-02-11",
+    "End of Engineering Support": "2022-02-11",
+    "End of Support": "2023-08-11"
+  },
+  {
+    "title": "FortiConverter 6.0",
+    "guid": "77a14d88a2ea65c0fe5bda6d63a0c41ed54ad6ca40463f08fdbf3131a1ba714f",
+    "pubDate": "Wed, 28 Oct 2020 06:57:01 -0700",
+    "category": "FortiConverter",
+    "Release": "2020-04-14",
+    "End of Engineering Support": "2023-04-14",
+    "End of Support": "2024-10-14"
+  },
+  {
+    "title": "FortiConverter 6.2",
+    "guid": "9ace3392e00223c5accd11ca6fa6b8d4e886ebdaebb3f39ecb1e8e3e20bd362b",
+    "pubDate": "Mon, 26 Apr 2021 10:18:55 -0700",
+    "category": "FortiConverter",
+    "Release": "2021-04-16",
+    "End of Engineering Support": "2024-04-16",
+    "End of Support": "2025-10-16"
+  },
+  {
+    "title": "FortiConverter 7.0",
+    "guid": "7028c7025a204c269f3821424017e4a8d3c67e00b0f72999beb85b538d667edf",
+    "pubDate": "Wed, 29 Jun 2022 12:23:39 -0700",
+    "category": "FortiConverter",
+    "Release": "2022-06-29",
+    "End of Engineering Support": "2025-06-29",
+    "End of Support": "2026-12-29"
+  }
+]

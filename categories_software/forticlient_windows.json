@@ -1,0 +1,182 @@
+[
+  {
+    "title": "FortiClient (Windows) 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2007-01-31",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-01-31"
+  },
+  {
+    "title": "FortiClient (Windows) 3.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2007-06-18",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-06-18"
+  },
+  {
+    "title": "FortiClient (Windows) 3.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2008-02-08",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-02-08"
+  },
+  {
+    "title": "FortiClient (Windows) 3.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2008-08-12",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-08-12"
+  },
+  {
+    "title": "FortiClient (Windows) 3.8",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2010-06-22",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-06-22"
+  },
+  {
+    "title": "FortiClient (Windows) 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2009-01-23",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-01-23"
+  },
+  {
+    "title": "FortiClient (Windows) 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2009-09-02",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-09-02"
+  },
+  {
+    "title": "FortiClient (Windows) 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2010-05-14",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-05-14"
+  },
+  {
+    "title": "FortiClient (Windows) 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2011-06-08",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-06-08"
+  },
+  {
+    "title": "FortiClient (Windows) 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2012-11-02",
+    "End of Engineering Support": "2015-11-02",
+    "End of Support": "2017-05-02"
+  },
+  {
+    "title": "FortiClient (Windows) 5.2",
+    "guid": "a1f6596d27dfdf08879d376db7417c5796aa549804af8af98856e1fa351d951f",
+    "pubDate": "Wed, 15 Apr 2020 08:18:11 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2014-06-16",
+    "End of Engineering Support": "2017-06-16",
+    "End of Support": "2018-12-16"
+  },
+  {
+    "title": "FortiClient (Windows) 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2015-10-09",
+    "End of Engineering Support": "2018-10-09",
+    "End of Support": "2020-04-09"
+  },
+  {
+    "title": "FortiClient (Windows) 5.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2017-06-15",
+    "End of Engineering Support": "2020-06-15",
+    "End of Support": "2021-12-15"
+  },
+  {
+    "title": "FortiClient (Windows) 6.0",
+    "guid": "18313809b79de979672088487d3f320914cacc81db0b9612a672e936468057cc",
+    "pubDate": "Wed, 13 May 2020 12:29:30 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2018-05-31",
+    "End of Engineering Support": "2021-05-31",
+    "End of Support": "2022-11-30"
+  },
+  {
+    "title": "FortiClient (Windows) 6.2",
+    "guid": "ace9df4a27f7a28289f381490af0e87356ba76956a73ad9e0057fd90e69d021d",
+    "pubDate": "Tue, 30 Apr 2019 10:28:54 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2019-04-16",
+    "End of Engineering Support": "2022-04-16",
+    "End of Support": "2023-10-16"
+  },
+  {
+    "title": "FortiClient (Windows) 6.4",
+    "guid": "19f5caa86f77603c799d43198e74d6bbe1ef2795f48c1834d0d3d90fc3c840f1",
+    "pubDate": "Wed, 13 May 2020 12:29:44 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2020-05-12",
+    "End of Engineering Support": "2023-05-12",
+    "End of Support": "2024-11-12"
+  },
+  {
+    "title": "FortiClient (Windows) 7.0",
+    "guid": "0c9f96204bed932f82225a4877a18d7a02ba74ea85631869498213a481350981",
+    "pubDate": "Wed, 28 Apr 2021 03:54:07 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2021-04-27",
+    "End of Engineering Support": "2024-04-27",
+    "End of Support": "2025-10-27"
+  },
+  {
+    "title": "FortiClient (Windows) 7.2",
+    "guid": "70f212634b9d8761520b01842f19d7315f4604a063b8e3cbea50f61d1db40f2a",
+    "pubDate": "Wed, 01 Feb 2023 05:10:27 -0800",
+    "category": "FortiClient (Windows)",
+    "Release": "2023-02-01",
+    "End of Engineering Support": "2026-02-01",
+    "End of Support": "2027-08-01"
+  },
+  {
+    "title": "FortiClient (Windows) 7.4",
+    "guid": "7982260a7b865cfd60a53c42e728268fdc39f19547fb0c2cdf4316b16a340a29",
+    "pubDate": "Tue, 04 Jun 2024 04:51:54 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2024-06-03",
+    "End of Engineering Support": "2027-06-03",
+    "End of Support": "2028-12-03"
+  },
+  {
+    "title": "FortiClient (Windows) 8.0",
+    "guid": "25f0aceac80573bb50d7abd2354ec3c0f75f26268faf8ca5a48c0c40d930bc4c",
+    "pubDate": "Thu, 02 Jul 2026 12:29:46 -0700",
+    "category": "FortiClient (Windows)",
+    "Release": "2026-07-02",
+    "End of Engineering Support": "2029-07-02",
+    "End of Support": "2031-01-02"
+  }
+]

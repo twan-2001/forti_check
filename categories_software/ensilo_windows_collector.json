@@ -1,0 +1,20 @@
+[
+  {
+    "title": "enSilo Windows Collector 3.0",
+    "guid": "53c55a955ae3d641e01caa5aee04cdc0f2e18bab44eec226b10dddfcb3703de3",
+    "pubDate": "Wed, 29 Jul 2020 05:49:25 -0700",
+    "category": "enSilo Windows Collector",
+    "Release": "2018-06-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2020-10-01"
+  },
+  {
+    "title": "enSilo Windows Collector 3.1",
+    "guid": "bf74979f3749729a47bbe65231415ad19ec92a379a1973680b2f910de1baee8c",
+    "pubDate": "Wed, 29 Jul 2020 05:51:03 -0700",
+    "category": "enSilo Windows Collector",
+    "Release": "2018-10-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2020-10-01"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "AscenLink LinkOS 7.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "AscenLink LinkOS",
+    "Release": "2013-08-05",
+    "End of Engineering Support": "2016-08-05",
+    "End of Support": "2018-02-05"
+  },
+  {
+    "title": "AscenLink LinkOS 7.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "AscenLink LinkOS",
+    "Release": "2014-01-20",
+    "End of Engineering Support": "2017-01-20",
+    "End of Support": "2018-07-20"
+  },
+  {
+    "title": "AscenLink LinkOS 7.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "AscenLink LinkOS",
+    "Release": "2014-12-12",
+    "End of Engineering Support": "2017-12-12",
+    "End of Support": "2019-06-12"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "title": "FortiAP 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAP",
+    "Release": "2011-04-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-04-01"
+  },
+  {
+    "title": "FortiAP 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAP",
+    "Release": "2012-11-01",
+    "End of Engineering Support": "2015-11-01",
+    "End of Support": "2017-05-01"
+  },
+  {
+    "title": "FortiAP 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAP",
+    "Release": "2014-06-16",
+    "End of Engineering Support": "2017-06-16",
+    "End of Support": "2018-12-16"
+  },
+  {
+    "title": "FortiAP 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAP",
+    "Release": "2016-01-08",
+    "End of Engineering Support": "2019-01-08",
+    "End of Support": "2020-07-08"
+  },
+  {
+    "title": "FortiAP 5.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAP",
+    "Release": "2017-04-13",
+    "End of Engineering Support": "2020-04-13",
+    "End of Support": "2021-10-13"
+  },
+  {
+    "title": "FortiAP 6.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAP",
+    "Release": "2018-04-11",
+    "End of Engineering Support": "2021-04-11",
+    "End of Support": "2022-10-11"
+  },
+  {
+    "title": "FortiAP 6.2",
+    "guid": "eafb417bbb900ce9c19feb0e135de90481267cd015b58694e9aa8f505a4ac8b2",
+    "pubDate": "Thu, 16 Apr 2020 11:34:12 -0700",
+    "category": "FortiAP",
+    "Release": "2019-05-14",
+    "End of Engineering Support": "2022-05-14",
+    "End of Support": "2023-11-14"
+  },
+  {
+    "title": "FortiAP 6.4",
+    "guid": "4e8595526f1327b85bfcc73576dff78537ed376830fafb9c7e8a6fc5f1a867cc",
+    "pubDate": "Thu, 16 Apr 2020 11:29:57 -0700",
+    "category": "FortiAP",
+    "Release": "2020-04-14",
+    "End of Engineering Support": "2023-04-14",
+    "End of Support": "2024-10-14"
+  },
+  {
+    "title": "FortiAP 7.0",
+    "guid": "69d04d47d67f0f3148801a872ea9229cc2813c226d0c468e3c467eb23bca0c9b",
+    "pubDate": "Wed, 21 Apr 2021 05:21:49 -0700",
+    "category": "FortiAP",
+    "Release": "2021-04-20",
+    "End of Engineering Support": "2024-04-20",
+    "End of Support": "2025-10-20"
+  },
+  {
+    "title": "FortiAP 7.2",
+    "guid": "64ab5d174eedbd33c831c6090f37bb33fef26ada220007ebe085427c2a57a009",
+    "pubDate": "Mon, 18 Apr 2022 09:17:06 -0700",
+    "category": "FortiAP",
+    "Release": "2022-04-14",
+    "End of Engineering Support": "2025-04-14",
+    "End of Support": "2026-10-14"
+  },
+  {
+    "title": "FortiAP 7.4",
+    "guid": "abbf19c2ab1367b604fa7b097a8becf3d5d107807d27ae5b1ed2d2cee87f8a2f",
+    "pubDate": "Thu, 01 Jun 2023 12:14:04 -0700",
+    "category": "FortiAP",
+    "Release": "2023-06-01",
+    "End of Engineering Support": "2026-06-01",
+    "End of Support": "2027-12-01"
+  },
+  {
+    "title": "FortiAP 7.6.0",
+    "guid": "4eacaf743fc9bea978233e3b02d23f846be2eeb8e2331db6d3aadf94117c8045",
+    "pubDate": "Fri, 09 Aug 2024 06:37:43 -0700",
+    "category": "FortiAP",
+    "Release": "2024-08-09",
+    "End of Engineering Support": "2027-08-09",
+    "End of Support": "2029-02-09"
+  },
+  {
+    "title": "FortiAP 8.0",
+    "guid": "849bf95ea17de6fc8714beff147f137bcda92e32e11f0b35842151206b891e97",
+    "pubDate": "Fri, 19 Jun 2026 10:01:33 -0700",
+    "category": "FortiAP",
+    "Release": "2026-06-19",
+    "End of Engineering Support": "2029-06-19",
+    "End of Support": "2030-12-19"
+  }
+]

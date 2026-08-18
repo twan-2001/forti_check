@@ -1,0 +1,83 @@
+[
+  {
+    "title": "FortiDDoS-F 6.1",
+    "guid": "36f17395c75466d897ca143c670a91cbe9f7c2ea79eef908967bfe2f286481ca",
+    "pubDate": "Mon, 28 Feb 2022 13:40:58 -0800",
+    "category": "FortiDDoS-F",
+    "Release": "2020-12-02",
+    "End of Engineering Support": "2023-12-02",
+    "End of Support": "2025-06-02"
+  },
+  {
+    "title": "FortiDDoS-F 6.2",
+    "guid": "e3f5727ee4dd11bddabe1550b84c21f3f7db726df838efe067c8d9ba7bec1843",
+    "pubDate": "Mon, 28 Feb 2022 13:40:20 -0800",
+    "category": "FortiDDoS-F",
+    "Release": "2021-08-09",
+    "End of Engineering Support": "2024-08-09",
+    "End of Support": "2026-02-09"
+  },
+  {
+    "title": "FortiDDoS-F 6.3",
+    "guid": "e0b956eb72fbb21dd1393705fe5f777b9161f7e08733f2872a3b49d1ee2e352b",
+    "pubDate": "Mon, 28 Feb 2022 13:41:19 -0800",
+    "category": "FortiDDoS-F",
+    "Release": "2022-02-28",
+    "End of Engineering Support": "2025-02-28",
+    "End of Support": "2026-08-28"
+  },
+  {
+    "title": "FortiDDoS-F 6.4",
+    "guid": "99bfb40d65d3432f2ce7c87c56d2b1a345d59809fc15b5141cb41ce6a01f12b9",
+    "pubDate": "Mon, 24 Oct 2022 10:18:46 -0700",
+    "category": "FortiDDoS-F",
+    "Release": "2022-10-24",
+    "End of Engineering Support": "2025-10-24",
+    "End of Support": "2027-04-24"
+  },
+  {
+    "title": "FortiDDoS-F 6.5",
+    "guid": "f0917742ddc2e22b8de3017a8c7e80107144d8da24b2fc8d396c26cb9228c284",
+    "pubDate": "Mon, 06 Mar 2023 11:12:42 -0800",
+    "category": "FortiDDoS-F",
+    "Release": "2023-03-06",
+    "End of Engineering Support": "2026-03-06",
+    "End of Support": "2027-09-06"
+  },
+  {
+    "title": "FortiDDoS-F 6.6",
+    "guid": "dba6cdd0b2ecd56433440360752d75f0b7df90b28d0862ff9c6f9fe201cf6a23",
+    "pubDate": "Mon, 17 Jul 2023 05:06:04 -0700",
+    "category": "FortiDDoS-F",
+    "Release": "2023-07-14",
+    "End of Engineering Support": "2026-07-14",
+    "End of Support": "2028-01-14"
+  },
+  {
+    "title": "FortiDDoS-F 7.0",
+    "guid": "94b54aa2625362c60512b7b67138ddc6f822156374cd6038750fbb07ea90d524",
+    "pubDate": "Fri, 15 Dec 2023 12:43:46 -0800",
+    "category": "FortiDDoS-F",
+    "Release": "2023-12-15",
+    "End of Engineering Support": "2026-12-15",
+    "End of Support": "2028-06-15"
+  },
+  {
+    "title": "FortiDDoS-F 7.2",
+    "guid": "6ce01c0362948ea410b760b2a85737372b6d8d99386e68968f57be296748ce4b",
+    "pubDate": "Thu, 18 Dec 2025 10:30:30 -0800",
+    "category": "FortiDDoS-F",
+    "Release": "2025-06-18",
+    "End of Engineering Support": "2028-06-18",
+    "End of Support": "2029-12-18"
+  },
+  {
+    "title": "FortiDDoS-F 8.0",
+    "guid": "347f83615a9108f3d407cb9145ef82f73ae5f16e5554eb9335fc25b391a43924",
+    "pubDate": "Mon, 27 Apr 2026 10:55:21 -0700",
+    "category": "FortiDDoS-F",
+    "Release": "2026-04-27",
+    "End of Engineering Support": "2029-04-27",
+    "End of Support": "2030-10-27"
+  }
+]

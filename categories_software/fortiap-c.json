@@ -1,0 +1,20 @@
+[
+  {
+    "title": "FortiAP-C 5.2",
+    "guid": "5d21a785c9d8bdccbadb693ae8a16f94f282f29c1284fff8a3dd4d215fe69ccd",
+    "pubDate": "Fri, 29 Apr 2022 05:14:08 -0700",
+    "category": "FortiAP-C",
+    "Release": "2016-03-22",
+    "End of Engineering Support": "2019-03-22",
+    "End of Support": "2020-09-22"
+  },
+  {
+    "title": "FortiAP-C 5.4",
+    "guid": "242884164d418688f80be8aa3074ae4b75cece5d6e3d05ec760bde1274523a08",
+    "pubDate": "Fri, 29 Apr 2022 05:14:33 -0700",
+    "category": "FortiAP-C",
+    "Release": "2018-01-04",
+    "End of Engineering Support": "2021-01-04",
+    "End of Support": "2022-07-04"
+  }
+]

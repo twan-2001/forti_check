@@ -1,0 +1,38 @@
+[
+  {
+    "title": "FortiInsight 6.2",
+    "guid": "c16e883177ff0c38957748840f323bedce90cb4f0fd6bf38522d8d4d1f2975d0",
+    "pubDate": "Fri, 05 Feb 2021 01:14:23 -0800",
+    "category": "FortiInsight",
+    "Release": "2020-09-14",
+    "End of Engineering Support": "2023-09-14",
+    "End of Support": "2025-03-14"
+  },
+  {
+    "title": "FortiInsight 6.4",
+    "guid": "5490b82af64f5be78d8f887b9614d366751648acfb22c5966b0177a106ad1f96",
+    "pubDate": "Wed, 25 May 2022 01:16:06 -0700",
+    "category": "FortiInsight",
+    "Release": "2021-02-04",
+    "End of Engineering Support": "2024-02-04",
+    "End of Support": "2025-08-04"
+  },
+  {
+    "title": "FortiInsight 6.6",
+    "guid": "e28b68922a24e2fc78a1b29ddc8e1f74a6cc8133a7e5b9cb098e11c3912afaf6",
+    "pubDate": "Wed, 25 May 2022 01:15:42 -0700",
+    "category": "FortiInsight",
+    "Release": "2021-04-05",
+    "End of Engineering Support": "2024-04-05",
+    "End of Support": "2025-10-05"
+  },
+  {
+    "title": "FortiInsight 7.0",
+    "guid": "00647020c819d525af9e00d9aba19c2bd644fd53c7df77ed75bd17d6d14672e4",
+    "pubDate": "Wed, 25 May 2022 01:15:28 -0700",
+    "category": "FortiInsight",
+    "Release": "2021-10-26",
+    "End of Engineering Support": "2024-10-26",
+    "End of Support": "2026-04-26"
+  }
+]

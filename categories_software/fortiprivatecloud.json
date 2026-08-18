@@ -1,0 +1,47 @@
+[
+  {
+    "title": "FortiPrivateCloud 2.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPrivateCloud",
+    "Release": "2015-03-31",
+    "End of Engineering Support": "2018-03-31",
+    "End of Support": "2019-10-01"
+  },
+  {
+    "title": "FortiPrivateCloud 2.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPrivateCloud",
+    "Release": "2015-07-31",
+    "End of Engineering Support": "2018-07-31",
+    "End of Support": "2020-01-31"
+  },
+  {
+    "title": "FortiPrivateCloud 2.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPrivateCloud",
+    "Release": "2016-01-29",
+    "End of Engineering Support": "2019-01-29",
+    "End of Support": "2020-07-29"
+  },
+  {
+    "title": "FortiPrivateCloud 2.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPrivateCloud",
+    "Release": "2016-05-09",
+    "End of Engineering Support": "2019-05-09",
+    "End of Support": "2020-11-09"
+  },
+  {
+    "title": "FortiPrivateCloud 2.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiPrivateCloud",
+    "Release": "2016-06-30",
+    "End of Engineering Support": "2019-06-30",
+    "End of Support": "2020-12-30"
+  }
+]

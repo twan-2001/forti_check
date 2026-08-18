@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiScan 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiScan",
+    "Release": "2009-05-28",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-05-28"
+  },
+  {
+    "title": "FortiScan 3.1",
+    "guid": "5c89e92fe3214af45444c198611e37ea8ef606e38b7efc8f0e52ea6e6967e336",
+    "pubDate": "Fri, 23 Jul 2021 08:13:42 -0700",
+    "category": "FortiScan",
+    "Release": "2009-09-28",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-03-28"
+  },
+  {
+    "title": "FortiScan 4.0",
+    "guid": "b5362855b65485b05af01b4dfbd372834b9d74ac900e80c36b56959760484aca",
+    "pubDate": "Fri, 23 Jul 2021 08:14:02 -0700",
+    "category": "FortiScan",
+    "Release": "2010-07-07",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-07-07"
+  },
+  {
+    "title": "FortiScan 4.1",
+    "guid": "e2ec26a7b553d25b79c448d921b774dde05f1efcb92cc8319a074a962f78b46c",
+    "pubDate": "Fri, 23 Jul 2021 08:15:14 -0700",
+    "category": "FortiScan",
+    "Release": "2010-10-05",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-10-05"
+  },
+  {
+    "title": "FortiScan 4.2",
+    "guid": "b96628371f1da67e50ddafcdcc0a9824961a2fb5f9154768bdf06e40d61334d3",
+    "pubDate": "Fri, 23 Jul 2021 08:15:23 -0700",
+    "category": "FortiScan",
+    "Release": "2012-06-30",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-06-30"
+  },
+  {
+    "title": "FortiScan 4.3",
+    "guid": "cac4c94ca2de27441401770e58b947025940eb8f2b8bd92fd61402f3b7c2194a",
+    "pubDate": "Fri, 23 Jul 2021 08:15:33 -0700",
+    "category": "FortiScan",
+    "Release": "2012-04-10",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-04-10"
+  },
+  {
+    "title": "FortiScan 5.0",
+    "guid": "133bbfcf8eeabb2110baa46711871dca09acd3d6414289303ac4d9b7b55b34c0",
+    "pubDate": "Fri, 23 Jul 2021 08:15:42 -0700",
+    "category": "FortiScan",
+    "Release": "2013-02-19",
+    "End of Engineering Support": "2016-02-19",
+    "End of Support": "2017-08-19"
+  },
+  {
+    "title": "FortiScan 5.1",
+    "guid": "4e722a7ff428accaac154859d38f3b3474a7e2f8ea03070c740eaa6063c865e7",
+    "pubDate": "Fri, 23 Jul 2021 08:15:51 -0700",
+    "category": "FortiScan",
+    "Release": "2013-08-14",
+    "End of Engineering Support": "2016-08-14",
+    "End of Support": "2018-02-14"
+  }
+]

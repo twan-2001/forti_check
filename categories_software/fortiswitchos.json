@@ -1,0 +1,146 @@
+[
+  {
+    "title": "FortiSwitchOS 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSwitchOS",
+    "Release": "2011-12-29",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-12-29"
+  },
+  {
+    "title": "FortiSwitchOS 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSwitchOS",
+    "Release": "2013-04-22",
+    "End of Engineering Support": "2016-04-22",
+    "End of Support": "2017-10-22"
+  },
+  {
+    "title": "FortiSwitchOS 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSwitchOS",
+    "Release": "2014-09-15",
+    "End of Engineering Support": "2017-09-15",
+    "End of Support": "2019-03-15"
+  },
+  {
+    "title": "FortiSwitchOS 3.2",
+    "guid": "661fd5934813b5367e98213168f10443cd601fbc698e9046c76d7529c7f8acab",
+    "pubDate": "Wed, 15 Apr 2020 08:30:07 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2015-02-17",
+    "End of Engineering Support": "2018-02-17",
+    "End of Support": "2019-08-17"
+  },
+  {
+    "title": "FortiSwitchOS 3.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSwitchOS",
+    "Release": "2015-07-22",
+    "End of Engineering Support": "2018-07-22",
+    "End of Support": "2020-01-22"
+  },
+  {
+    "title": "FortiSwitchOS 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSwitchOS",
+    "Release": "2016-03-15",
+    "End of Engineering Support": "2019-03-15",
+    "End of Support": "2020-09-15"
+  },
+  {
+    "title": "FortiSwitchOS 3.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSwitchOS",
+    "Release": "2016-09-13",
+    "End of Engineering Support": "2019-09-13",
+    "End of Support": "2021-03-13"
+  },
+  {
+    "title": "FortiSwitchOS 3.6",
+    "guid": "ea1b6f16a4d3950adbf7e79c953cc3ed4bb2f74286c3d6f1f1bc66ba74ef9f00",
+    "pubDate": "Wed, 15 Apr 2020 08:31:08 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2017-06-06",
+    "End of Engineering Support": "2020-06-06",
+    "End of Support": "2021-12-06"
+  },
+  {
+    "title": "FortiSwitchOS 6.0",
+    "guid": "315cd633c1ad2417ca5255ba9eda602e00c1af427f467b39b883eec9f4db49a2",
+    "pubDate": "Wed, 15 Apr 2020 08:33:31 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2018-05-31",
+    "End of Engineering Support": "2021-05-31",
+    "End of Support": "2022-11-30"
+  },
+  {
+    "title": "FortiSwitchOS 6.2",
+    "guid": "6d43f4cd234e48f09c4a5db0fd6994d3bd3f0dd4a611b2b4f93b2f8d7f413141",
+    "pubDate": "Tue, 30 Apr 2019 10:29:40 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2019-04-16",
+    "End of Engineering Support": "2022-04-16",
+    "End of Support": "2023-10-16"
+  },
+  {
+    "title": "FortiSwitchOS 6.4",
+    "guid": "5f8197ae0ad6fb8faf593101970f21d9fde5b28572619bcbfb348d71bd1084fb",
+    "pubDate": "Fri, 03 Apr 2020 05:20:02 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2020-04-02",
+    "End of Engineering Support": "2023-04-02",
+    "End of Support": "2024-10-02"
+  },
+  {
+    "title": "FortiSwitchOS 7.0",
+    "guid": "f2d27032fc0600b168f48cc21e3fa3a514b501939b743b9634d3b94d65d3c2ce",
+    "pubDate": "Fri, 16 Apr 2021 07:48:37 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2021-04-15",
+    "End of Engineering Support": "2024-04-15",
+    "End of Support": "2025-10-15"
+  },
+  {
+    "title": "FortiSwitchOS 7.2",
+    "guid": "f7a9c24021741a6390c36edae79ee33a54a3fbdba0972b3d0047fce620120350",
+    "pubDate": "Thu, 14 Apr 2022 10:36:16 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2022-04-13",
+    "End of Engineering Support": "2025-04-13",
+    "End of Support": "2026-10-13"
+  },
+  {
+    "title": "FortiSwitchOS 7.4",
+    "guid": "8a2e422cd0dc14f71146d36ce45fab0c7ac64cdf18e85eb36a9c381f72384021",
+    "pubDate": "Fri, 08 Sep 2023 12:28:54 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2023-06-02",
+    "End of Engineering Support": "2026-06-02",
+    "End of Support": "2027-12-02"
+  },
+  {
+    "title": "FortiSwitchOS 7.6",
+    "guid": "3895bd1d9fec061c16caa412ff24eabed65f4c0730ba6d89b833a36a722dc967",
+    "pubDate": "Tue, 13 Aug 2024 04:40:20 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2024-08-13",
+    "End of Engineering Support": "2027-08-13",
+    "End of Support": "2029-02-13"
+  },
+  {
+    "title": "FortiSwitchOS 8.0",
+    "guid": "058633e204ee3217e339c7140e43f52920d4561e15ba5150ead9796f62cf92fc",
+    "pubDate": "Tue, 19 May 2026 06:35:09 -0700",
+    "category": "FortiSwitchOS",
+    "Release": "2026-05-15",
+    "End of Engineering Support": "2029-05-15",
+    "End of Support": "2030-11-15"
+  }
+]

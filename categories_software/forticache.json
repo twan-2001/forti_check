@@ -1,0 +1,92 @@
+[
+  {
+    "title": "FortiCache 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2011-04-20",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-04-20"
+  },
+  {
+    "title": "FortiCache 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2011-11-02",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-11-02"
+  },
+  {
+    "title": "FortiCache 2.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2012-05-08",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-05-08"
+  },
+  {
+    "title": "FortiCache 2.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2012-11-28",
+    "End of Engineering Support": "2015-11-28",
+    "End of Support": "2017-05-28"
+  },
+  {
+    "title": "FortiCache 2.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2013-10-03",
+    "End of Engineering Support": "2016-10-03",
+    "End of Support": "2018-04-03"
+  },
+  {
+    "title": "FortiCache 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2014-08-20",
+    "End of Engineering Support": "2017-08-20",
+    "End of Support": "2019-02-20"
+  },
+  {
+    "title": "FortiCache 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2015-11-17",
+    "End of Engineering Support": "2018-11-17",
+    "End of Support": "2020-05-17"
+  },
+  {
+    "title": "FortiCache 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2016-02-25",
+    "End of Engineering Support": "2019-02-25",
+    "End of Support": "2020-08-25"
+  },
+  {
+    "title": "FortiCache 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2016-07-26",
+    "End of Engineering Support": "2019-07-26",
+    "End of Support": "2021-01-26"
+  },
+  {
+    "title": "FortiCache 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCache",
+    "Release": "2017-01-24",
+    "End of Engineering Support": "2020-01-24",
+    "End of Support": "2021-07-24"
+  }
+]

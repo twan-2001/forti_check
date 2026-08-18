@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Coyote Point 8.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "Coyote Point",
+    "Release": "2009-06-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-06-01"
+  },
+  {
+    "title": "Coyote Point 8.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "Coyote Point",
+    "Release": "2010-09-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-09-01"
+  },
+  {
+    "title": "Coyote Point 10.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "Coyote Point",
+    "Release": "2011-02-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-02-01"
+  },
+  {
+    "title": "Coyote Point 10.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "Coyote Point",
+    "Release": "2013-05-01",
+    "End of Engineering Support": "2016-05-01",
+    "End of Support": "2017-11-01"
+  },
+  {
+    "title": "Coyote Point 10.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "Coyote Point",
+    "Release": "2013-11-01",
+    "End of Engineering Support": "2016-11-01",
+    "End of Support": "2018-05-01"
+  },
+  {
+    "title": "Coyote Point 10.3",
+    "guid": "f217471072548ed8b094fba7087174ee7d8666e813ad5bb4e8cef9df290b92f1",
+    "pubDate": "Thu, 05 Nov 2020 06:25:47 -0800",
+    "category": "Coyote Point",
+    "Release": "2014-11-10",
+    "End of Engineering Support": "2017-11-10",
+    "End of Support": "2019-05-10"
+  }
+]

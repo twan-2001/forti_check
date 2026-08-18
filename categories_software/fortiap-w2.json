@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiAP-W2 5.4",
+    "guid": "b53729444fb91fb6d1ba49332a68db2a00668c7afd7c82368f346e8b79f028cc",
+    "pubDate": "Fri, 29 Apr 2022 05:13:44 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2017-01-13",
+    "End of Engineering Support": "2020-01-13",
+    "End of Support": "2021-07-13"
+  },
+  {
+    "title": "FortiAP-W2 5.6",
+    "guid": "5255e8562a9f73670b5c95332ae3016796188adb06a35822b9cea113bd0ee921",
+    "pubDate": "Fri, 29 Apr 2022 05:14:46 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2017-04-21",
+    "End of Engineering Support": "2020-04-21",
+    "End of Support": "2021-10-21"
+  },
+  {
+    "title": "FortiAP-W2 6.0",
+    "guid": "89b725af740d7768a3bf56b824ff62da39efeacb534e660d944d33ece7fabe17",
+    "pubDate": "Fri, 29 Apr 2022 05:16:31 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2018-05-16",
+    "End of Engineering Support": "2021-05-16",
+    "End of Support": "2022-11-16"
+  },
+  {
+    "title": "FortiAP-W2 6.2",
+    "guid": "4b9277f29dd6a51e14b62ba9975776c03a2f64bdb1011dcfe34c7c6b8aa4fedd",
+    "pubDate": "Fri, 29 Apr 2022 05:16:51 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2019-04-23",
+    "End of Engineering Support": "2022-04-23",
+    "End of Support": "2023-10-23"
+  },
+  {
+    "title": "FortiAP-W2 6.4",
+    "guid": "ebef6f118e20333dc036c30e933619e32cc88ac9362b3f011648d2c2169020c5",
+    "pubDate": "Wed, 04 Oct 2023 10:34:45 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2020-04-14",
+    "End of Engineering Support": "2023-04-14",
+    "End of Support": "2026-06-14"
+  },
+  {
+    "title": "FortiAP-W2 7.0",
+    "guid": "1bfad0eabd459ddbf9c32c6401b849f2cd3f4991c0ff2abfe76daedf9057f23e",
+    "pubDate": "Fri, 29 Apr 2022 05:11:57 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2021-04-27",
+    "End of Engineering Support": "2024-04-27",
+    "End of Support": "2025-10-27"
+  },
+  {
+    "title": "FortiAP-W2 7.2",
+    "guid": "7a6bc17650ccf57ffe8b8c3a8f0fffcd7999372e9d0397c2d6eccdbb442e4512",
+    "pubDate": "Fri, 29 Apr 2022 05:12:34 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2022-04-28",
+    "End of Engineering Support": "2025-04-28",
+    "End of Support": "2026-10-28"
+  },
+  {
+    "title": "FortiAP-W2 7.4",
+    "guid": "813810c553661e37a2e8bcaf670973e3211fbec31443954cea1ddd042342e006",
+    "pubDate": "Thu, 05 Sep 2024 06:39:05 -0700",
+    "category": "FortiAP-W2",
+    "Release": "2023-06-08",
+    "End of Engineering Support": "2026-06-08",
+    "End of Support": "2027-12-08"
+  }
+]

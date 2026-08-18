@@ -1,0 +1,173 @@
+[
+  {
+    "title": "FortiSIEM 4.9",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSIEM",
+    "Release": "2017-05-16",
+    "End of Engineering Support": "2020-05-16",
+    "End of Support": "2021-11-16"
+  },
+  {
+    "title": "FortiSIEM 4.10",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiSIEM",
+    "Release": "2017-09-12",
+    "End of Engineering Support": "2020-09-12",
+    "End of Support": "2022-03-12"
+  },
+  {
+    "title": "FortiSIEM 5.0",
+    "guid": "e7bfb9a84a99cf4f29ac5a27783b2d63b1ac81bcacde138e1b7685c563bee80e",
+    "pubDate": "Fri, 21 Jan 2022 05:23:12 -0800",
+    "category": "FortiSIEM",
+    "Release": "2018-04-04",
+    "End of Engineering Support": "2021-04-04",
+    "End of Support": "2022-10-04"
+  },
+  {
+    "title": "FortiSIEM 5.1",
+    "guid": "91854d8a38f2126e2f27e7c3fc8ec9fdff59795ed1ec668b8c54fe31d6d6ac8d",
+    "pubDate": "Fri, 21 Jan 2022 05:22:58 -0800",
+    "category": "FortiSIEM",
+    "Release": "2018-09-05",
+    "End of Engineering Support": "2021-09-05",
+    "End of Support": "2023-03-05"
+  },
+  {
+    "title": "FortiSIEM 5.2",
+    "guid": "51b979a9933454d8d0783ffd59b2f1d9bafbc1da59c1205d79684c0a8350a845",
+    "pubDate": "Fri, 21 Jan 2022 05:23:28 -0800",
+    "category": "FortiSIEM",
+    "Release": "2019-03-19",
+    "End of Engineering Support": "2022-03-19",
+    "End of Support": "2023-09-19"
+  },
+  {
+    "title": "FortiSIEM 5.3",
+    "guid": "0d5d3a0a6246e41076823f655d5db63fc5d6ded7e23135a54209d1e4b1c402b9",
+    "pubDate": "Wed, 28 Oct 2020 06:25:05 -0700",
+    "category": "FortiSIEM",
+    "Release": "2020-04-20",
+    "End of Engineering Support": "2023-04-20",
+    "End of Support": "2024-10-20"
+  },
+  {
+    "title": "FortiSIEM 5.4",
+    "guid": "95588854a0b6d8a77ff91f7bbdc933e24d5f0922c89844afaa7cc304e6bbbce0",
+    "pubDate": "Wed, 28 Oct 2020 06:25:19 -0700",
+    "category": "FortiSIEM",
+    "Release": "2020-10-12",
+    "End of Engineering Support": "2023-10-12",
+    "End of Support": "2025-04-12"
+  },
+  {
+    "title": "FortiSIEM 6.1",
+    "guid": "3a6209d6d5cb05bbc207605be081edddc35d6f025e5b232ee46bca501a0b8003",
+    "pubDate": "Fri, 09 Jul 2021 05:29:57 -0700",
+    "category": "FortiSIEM",
+    "Release": "2020-09-08",
+    "End of Engineering Support": "2023-09-08",
+    "End of Support": "2025-03-08"
+  },
+  {
+    "title": "FortiSIEM 6.2",
+    "guid": "6c486ac834f248f4b793ffbdf6753ff5df710d322f8e8b24346f040088bea1a6",
+    "pubDate": "Tue, 23 Mar 2021 02:19:58 -0700",
+    "category": "FortiSIEM",
+    "Release": "2021-03-22",
+    "End of Engineering Support": "2024-03-22",
+    "End of Support": "2025-09-22"
+  },
+  {
+    "title": "FortiSIEM 6.3",
+    "guid": "bf1b85993e19fb03eb1b6504cc4c283396115dbfc35bb37738408a5d1126fa19",
+    "pubDate": "Fri, 09 Jul 2021 05:30:07 -0700",
+    "category": "FortiSIEM",
+    "Release": "2021-07-08",
+    "End of Engineering Support": "2024-07-08",
+    "End of Support": "2026-01-08"
+  },
+  {
+    "title": "FortiSIEM 6.4",
+    "guid": "f9acf36a5736fb828cb739cdf17cbcc5418918384dfa5427711db0552d8fe9f2",
+    "pubDate": "Fri, 21 Jan 2022 05:22:37 -0800",
+    "category": "FortiSIEM",
+    "Release": "2022-01-18",
+    "End of Engineering Support": "2025-01-18",
+    "End of Support": "2026-07-18"
+  },
+  {
+    "title": "FortiSIEM 6.5",
+    "guid": "724adc543e28164c752902e69c8bcb2ac6b50db46e722ac2ffb6e7330ede4d53",
+    "pubDate": "Tue, 10 May 2022 11:32:15 -0700",
+    "category": "FortiSIEM",
+    "Release": "2022-05-09",
+    "End of Engineering Support": "2025-05-09",
+    "End of Support": "2026-11-09"
+  },
+  {
+    "title": "FortiSIEM 6.6",
+    "guid": "4c7b31debf3767677e21c15faa02c8207de434272a9f8ef2fd02a89674036814",
+    "pubDate": "Wed, 31 Aug 2022 05:21:04 -0700",
+    "category": "FortiSIEM",
+    "Release": "2022-07-26",
+    "End of Engineering Support": "2025-07-26",
+    "End of Support": "2027-01-26"
+  },
+  {
+    "title": "FortiSIEM 6.7",
+    "guid": "a5c49fcd66237942a6eacfa98fcdb6eaff202f2defd8b7d9704d3058c1777b5c",
+    "pubDate": "Tue, 03 Jan 2023 11:00:00 -0800",
+    "category": "FortiSIEM",
+    "Release": "2023-01-03",
+    "End of Engineering Support": "2026-01-03",
+    "End of Support": "2027-07-03"
+  },
+  {
+    "title": "FortiSIEM 7.0",
+    "guid": "b574984b486a58aa36a4917ec7e3e343587eb37beb1e9a10822aa82bc8802292",
+    "pubDate": "Wed, 07 Jun 2023 05:11:39 -0700",
+    "category": "FortiSIEM",
+    "Release": "2023-06-05",
+    "End of Engineering Support": "2026-06-05",
+    "End of Support": "2027-12-05"
+  },
+  {
+    "title": "FortiSIEM 7.1",
+    "guid": "2356e5b62852423ae27a83c130cd263fa7010b20944351105b8e66357ded21a9",
+    "pubDate": "Wed, 28 May 2025 06:01:31 -0700",
+    "category": "FortiSIEM",
+    "Release": "2023-10-15",
+    "End of Engineering Support": "2026-10-15",
+    "End of Support": "2028-04-15"
+  },
+  {
+    "title": "FortiSIEM 7.2",
+    "guid": "8d822edffc183c4e7ed56948e63d11059ac45a906b7ac20d73ab8bc3fd83fa16",
+    "pubDate": "Fri, 07 Jun 2024 10:59:41 -0700",
+    "category": "FortiSIEM",
+    "Release": "2024-06-07",
+    "End of Engineering Support": "2027-06-07",
+    "End of Support": "2028-12-07"
+  },
+  {
+    "title": "FortiSIEM 7.3",
+    "guid": "251576a1f271936ce2de746a069dcb02d35557e3dfa2cd0552ed61410471a144",
+    "pubDate": "Mon, 16 Dec 2024 13:15:21 -0800",
+    "category": "FortiSIEM",
+    "Release": "2024-12-16",
+    "End of Engineering Support": "2027-12-16",
+    "End of Support": "2029-06-16"
+  },
+  {
+    "title": "FortiSIEM 7.4",
+    "guid": "fffb009d16fc1cca6cc84eba53b956cbd2dc3d48f3e80cbbd7bc29ff0a85a70c",
+    "pubDate": "Wed, 11 Jun 2025 11:46:13 -0700",
+    "category": "FortiSIEM",
+    "Release": "2025-06-11",
+    "End of Engineering Support": "2028-06-11",
+    "End of Support": "2029-12-11"
+  }
+]

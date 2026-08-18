@@ -1,0 +1,65 @@
+[
+  {
+    "title": "FortiPlanner 2.0",
+    "guid": "16b8abd77cef373fb0f183da81cdb10da6525786f7685fab482097693fe023d8",
+    "pubDate": "Tue, 20 Jul 2021 13:15:46 -0700",
+    "category": "FortiPlanner",
+    "Release": "2015-04-07",
+    "End of Engineering Support": "2018-04-07",
+    "End of Support": "2019-10-07"
+  },
+  {
+    "title": "FortiPlanner 2.1",
+    "guid": "5eaacfcb9bb614deeeafc5c706437e115ea6297c3681f5ad8304e81fcafdcaf6",
+    "pubDate": "Tue, 20 Jul 2021 13:16:19 -0700",
+    "category": "FortiPlanner",
+    "Release": "2015-05-06",
+    "End of Engineering Support": "2018-05-06",
+    "End of Support": "2019-11-06"
+  },
+  {
+    "title": "FortiPlanner 2.2",
+    "guid": "46e7ebe2aaaa89d8fd1d047f516b346a583fb3f74926a889d16e72911b1bed0f",
+    "pubDate": "Tue, 20 Jul 2021 13:17:40 -0700",
+    "category": "FortiPlanner",
+    "Release": "2015-08-11",
+    "End of Engineering Support": "2018-08-11",
+    "End of Support": "2020-02-11"
+  },
+  {
+    "title": "FortiPlanner 2.3",
+    "guid": "9687bf84cc0e3e41dc55d31d8245ecc94e9b3875c94adb6bbdb0a497cae14943",
+    "pubDate": "Tue, 20 Jul 2021 13:18:13 -0700",
+    "category": "FortiPlanner",
+    "Release": "2015-09-18",
+    "End of Engineering Support": "2018-09-18",
+    "End of Support": "2020-03-18"
+  },
+  {
+    "title": "FortiPlanner 2.4",
+    "guid": "9bdc6f28f2018ebd44075588023f899bcb097ea1ef9c623c9e249e3e7b24ec29",
+    "pubDate": "Tue, 20 Jul 2021 13:18:46 -0700",
+    "category": "FortiPlanner",
+    "Release": "2016-01-26",
+    "End of Engineering Support": "2019-01-26",
+    "End of Support": "2020-07-26"
+  },
+  {
+    "title": "FortiPlanner 2.5",
+    "guid": "d98a18aa071bfc17d1e47ac9e03ea595677bd9f744b28bedbc6d3e3334f71085",
+    "pubDate": "Tue, 20 Jul 2021 13:20:21 -0700",
+    "category": "FortiPlanner",
+    "Release": "2016-04-20",
+    "End of Engineering Support": "2019-04-20",
+    "End of Support": "2020-10-20"
+  },
+  {
+    "title": "FortiPlanner 2.6",
+    "guid": "0da1dd8640df593dc90ccc53c437f4d7ff4cd7ca6c5aaf536d07c30ad5fe5673",
+    "pubDate": "Tue, 20 Jul 2021 13:20:46 -0700",
+    "category": "FortiPlanner",
+    "Release": "2017-01-31",
+    "End of Engineering Support": "2020-01-31",
+    "End of Support": "2021-07-31"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiIsolator 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiIsolator",
+    "Release": "2018-10-05",
+    "End of Engineering Support": "2021-10-05",
+    "End of Support": "2023-04-05"
+  },
+  {
+    "title": "FortiIsolator 1.1",
+    "guid": "cf6b1a9285b4589c0aa0484347d5b018c8cc470e8f4bd3ee9322f54b92888d58",
+    "pubDate": "Wed, 25 May 2022 01:22:59 -0700",
+    "category": "FortiIsolator",
+    "Release": "2019-03-13",
+    "End of Engineering Support": "2022-03-13",
+    "End of Support": "2023-09-13"
+  },
+  {
+    "title": "FortiIsolator 1.2",
+    "guid": "5bcdc2d9b76feed3a57fedb2690df4ea6206fc6e3896aeb9ac4476dad608e16b",
+    "pubDate": "Wed, 25 May 2022 01:23:18 -0700",
+    "category": "FortiIsolator",
+    "Release": "2020-06-03",
+    "End of Engineering Support": "2023-06-03",
+    "End of Support": "2024-12-03"
+  },
+  {
+    "title": "FortiIsolator 2.0",
+    "guid": "93a89ad50c0e95f70fb12dcd4150099d5c4478ffbefbe7357fbba834c67615dc",
+    "pubDate": "Wed, 25 May 2022 01:23:41 -0700",
+    "category": "FortiIsolator",
+    "Release": "2020-01-03",
+    "End of Engineering Support": "2023-01-03",
+    "End of Support": "2024-07-03"
+  },
+  {
+    "title": "FortiIsolator 2.1",
+    "guid": "6023fa868c2170a9bd6f4ebb1513caa888b5a44a255d4cd33b98bc986a101e97",
+    "pubDate": "Wed, 25 May 2022 01:23:58 -0700",
+    "category": "FortiIsolator",
+    "Release": "2020-05-06",
+    "End of Engineering Support": "2023-05-06",
+    "End of Support": "2024-11-06"
+  },
+  {
+    "title": "FortiIsolator 2.2",
+    "guid": "83b6368ffb484d7a327261c6acce803552b6e5fff3da3d1d6d59891b38697a92",
+    "pubDate": "Wed, 03 Feb 2021 02:41:09 -0800",
+    "category": "FortiIsolator",
+    "Release": "2021-02-02",
+    "End of Engineering Support": "2024-02-02",
+    "End of Support": "2025-08-02"
+  },
+  {
+    "title": "FortiIsolator 2.3",
+    "guid": "93b1bd7fd5af3a0e1b8db2ab59503a57079ca3ce32fbdd1cb15196346dc43744",
+    "pubDate": "Mon, 26 Apr 2021 10:17:14 -0700",
+    "category": "FortiIsolator",
+    "Release": "2021-04-20",
+    "End of Engineering Support": "2024-04-20",
+    "End of Support": "2025-10-20"
+  },
+  {
+    "title": "FortiIsolator 2.4",
+    "guid": "66a4de22a8e2b433b2daca3d5a511496b75ac43baf3cf904a79e9902104f3ce6",
+    "pubDate": "Tue, 05 Apr 2022 06:25:48 -0700",
+    "category": "FortiIsolator",
+    "Release": "2022-04-04",
+    "End of Engineering Support": "2025-04-04",
+    "End of Support": "2026-10-04"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "title": "FortiDDoS-B/E 3.1",
+    "guid": "a266d72a133807d97674d10c276707eea09b5ae11834b13116c313bc932e6bcf",
+    "pubDate": "Wed, 15 Apr 2020 08:24:49 -0700",
+    "category": "FortiDDoS-B/E",
+    "Release": "2012-08-16",
+    "End of Engineering Support": "2015-08-16",
+    "End of Support": "2017-02-16"
+  },
+  {
+    "title": "FortiDDoS-B/E 3.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2013-05-23",
+    "End of Engineering Support": "2016-05-23",
+    "End of Support": "2017-11-23"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.0",
+    "guid": "1b4347fda8d27da46a98852b56d015d917885a340bec085842a6bfe8a473c8fb",
+    "pubDate": "Fri, 06 Nov 2020 03:40:35 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2014-02-19",
+    "End of Engineering Support": "2017-02-19",
+    "End of Support": "2018-08-19"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.1",
+    "guid": "f494e8d7413270b6f492c22433fbe26dc84dc397126cd863d6bb046747c9cc5a",
+    "pubDate": "Fri, 06 Nov 2020 03:40:57 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2014-06-03",
+    "End of Engineering Support": "2017-06-03",
+    "End of Support": "2018-12-03"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.2",
+    "guid": "3f1cb9b4602c93bd5137f8ca53714ec96417dc9a36149e0d4002de5614af5f71",
+    "pubDate": "Fri, 06 Nov 2020 03:41:16 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2016-03-01",
+    "End of Engineering Support": "2019-03-01",
+    "End of Support": "2020-09-01"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.3",
+    "guid": "7a10afc1bbf4153c202c638e4b18ba40e442da4250c3891824d705d95401f1b5",
+    "pubDate": "Fri, 06 Nov 2020 03:41:27 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2017-03-09",
+    "End of Engineering Support": "2020-03-09",
+    "End of Support": "2021-09-09"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.4",
+    "guid": "d664de3cd5cf41c0f31e23c4dd9d411cf5f119e2eb31d0a6566a642a71b99e83",
+    "pubDate": "Fri, 06 Nov 2020 03:41:40 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2017-08-18",
+    "End of Engineering Support": "2020-08-18",
+    "End of Support": "2022-02-18"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.5",
+    "guid": "06b29794f77f866e9162173933b87c87fdac5f4fb2f80132d394a99d5a669e3a",
+    "pubDate": "Fri, 06 Nov 2020 03:41:52 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2018-03-14",
+    "End of Engineering Support": "2021-03-14",
+    "End of Support": "2022-09-14"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.6",
+    "guid": "2af81014cb105c641550790a64a2fbfc97e43acd58637a7282106ec5f8935c78",
+    "pubDate": "Fri, 06 Nov 2020 03:42:06 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2018-06-25",
+    "End of Engineering Support": "2021-06-25",
+    "End of Support": "2022-12-25"
+  },
+  {
+    "title": "FortiDDoS-B/E 4.7",
+    "guid": "ed10675a43549f98f73e442e50e62d5d07b8ced046a88148de3271ef7a11279c",
+    "pubDate": "Fri, 06 Nov 2020 03:42:26 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2018-12-28",
+    "End of Engineering Support": "2021-12-28",
+    "End of Support": "2023-06-28"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.0",
+    "guid": "52b0be5991b7aea7b482c565f42a3c92a351f5866cfad2d494e263f036954fa5",
+    "pubDate": "Fri, 06 Nov 2020 03:36:11 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2018-12-28",
+    "End of Engineering Support": "2021-12-28",
+    "End of Support": "2023-06-28"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.1",
+    "guid": "1ba4f92fe5b5f31507c17623b6441f80d26eaf288c27ba07cea7f00b6c4335e4",
+    "pubDate": "Fri, 06 Nov 2020 03:36:26 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2019-04-26",
+    "End of Engineering Support": "2022-04-26",
+    "End of Support": "2023-10-26"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.2",
+    "guid": "37de423170dfdfd96e7789bfc3b7ce7b40307a1568b769d91fa0c32f0f016145",
+    "pubDate": "Fri, 06 Nov 2020 03:37:00 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2019-09-13",
+    "End of Engineering Support": "2022-09-13",
+    "End of Support": "2024-03-13"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.3",
+    "guid": "9e8960318c13a18a2521150f462d9ce0a86d390831c21dc39a0ee7d27fec3cb5",
+    "pubDate": "Fri, 06 Nov 2020 03:37:13 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2020-09-03",
+    "End of Engineering Support": "2023-09-03",
+    "End of Support": "2025-03-03"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.4",
+    "guid": "e7cc122f2b01ca5ee3c42f9e1c9b1899f265ba9b7115c2d84f897e367992b552",
+    "pubDate": "Fri, 06 Nov 2020 03:37:34 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2020-11-05",
+    "End of Engineering Support": "2023-11-05",
+    "End of Support": "2025-05-05"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.5",
+    "guid": "78c12a9b55a49c85a8eb9c31a0e8425c6706f2e7be9f0573f03ac0e894013658",
+    "pubDate": "Thu, 02 Sep 2021 05:51:30 -0700",
+    "category": "FortiDDoS-B/E",
+    "Release": "2021-09-01",
+    "End of Engineering Support": "2024-09-01",
+    "End of Support": "2026-03-01"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.6",
+    "guid": "f43c2dd6acc8d795ace7d99aaad7415c8606c3532f9c4510cb7b3b55077a0a17",
+    "pubDate": "Wed, 11 May 2022 13:48:55 -0700",
+    "category": "FortiDDoS-B/E",
+    "Release": "2022-05-11",
+    "End of Engineering Support": "2025-05-11",
+    "End of Support": "2026-11-11"
+  },
+  {
+    "title": "FortiDDoS-B/E 5.7",
+    "guid": "fe697bf8643d447db5d3beb991a4b7542cdce539fa8bf31333bb1d05f7187a26",
+    "pubDate": "Mon, 27 Feb 2023 13:08:43 -0800",
+    "category": "FortiDDoS-B/E",
+    "Release": "2023-02-27",
+    "End of Engineering Support": "2026-02-27",
+    "End of Support": "2027-08-27"
+  }
+]

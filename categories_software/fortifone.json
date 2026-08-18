@@ -1,0 +1,29 @@
+[
+  {
+    "title": "FortiFone 3.0",
+    "guid": "bed91a238222a02af3c300f2831d56327a450c519251b1c72887373265149324",
+    "pubDate": "Mon, 26 Jul 2021 12:21:34 -0700",
+    "category": "FortiFone",
+    "Release": "2020-07-16",
+    "End of Engineering Support": "2023-07-16",
+    "End of Support": "2025-01-16"
+  },
+  {
+    "title": "FortiFone 7.0",
+    "guid": "3ec9c68230eb2abed639dba9024a70f420b7387cc42500d0ab722dcec9729f42",
+    "pubDate": "Thu, 12 Dec 2024 04:38:28 -0800",
+    "category": "FortiFone",
+    "Release": "2024-12-11",
+    "End of Engineering Support": "2027-12-11",
+    "End of Support": "2029-06-11"
+  },
+  {
+    "title": "FortiFone 8.0",
+    "guid": "8c3b494c44802859c08d1eea2f6e070c1aca9feedb453268cfb407159d626e4d",
+    "pubDate": "Thu, 30 Jul 2026 05:02:35 -0700",
+    "category": "FortiFone",
+    "Release": "2026-07-29",
+    "End of Engineering Support": "2029-07-29",
+    "End of Support": "2031-01-29"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "enSilo Linux/MacOS Collector 2.7",
+    "guid": "e10b500906e06b6cc9cb58276247cac8ea4957ba4d328c7cb5fd38513300ea43",
+    "pubDate": "Tue, 28 Jul 2020 07:24:40 -0700",
+    "category": "enSilo Linux/MacOS Collector",
+    "Release": "2018-06-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2020-10-01"
+  },
+  {
+    "title": "enSilo Linux/MacOS Collector 3.0",
+    "guid": "34ea51c461b626137e61fc95a526b3d4f00fa3523b106d732f0a4ab7497acdc0",
+    "pubDate": "Thu, 30 Jul 2020 09:25:29 -0700",
+    "category": "enSilo Linux/MacOS Collector",
+    "Release": "2018-08-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2020-10-01"
+  }
+]

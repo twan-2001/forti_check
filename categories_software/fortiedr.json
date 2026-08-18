@@ -1,0 +1,29 @@
+[
+  {
+    "title": "FortiEDR 4.0",
+    "guid": "e51018f5bcc16a39df3ddc20e3d2d634e791861bdec4e1be5918277e3b67964f",
+    "pubDate": "Tue, 28 Jul 2020 07:32:43 -0700",
+    "category": "FortiEDR",
+    "Release": "2019-11-01",
+    "End of Engineering Support": "2022-11-01",
+    "End of Support": "2024-05-01"
+  },
+  {
+    "title": "FortiEDR 5.0",
+    "guid": "3d78f373615fe0278e97e069b51ab3f0b0481c5cc537ed967efb149ad4ecaac5",
+    "pubDate": "Fri, 12 Aug 2022 10:20:49 -0700",
+    "category": "FortiEDR",
+    "Release": "2020-11-01",
+    "End of Engineering Support": "2023-11-01",
+    "End of Support": "2025-05-01"
+  },
+  {
+    "title": "FortiEDR 6.0",
+    "guid": "1f07cfbf6423bcc7c6af4a4ea60c26f7ea3e6fd790578568d6718f71d6435f3d",
+    "pubDate": "Fri, 02 Jun 2023 07:38:38 -0700",
+    "category": "FortiEDR",
+    "Release": "2023-05-31",
+    "End of Engineering Support": "2026-05-31",
+    "End of Support": "2027-11-30"
+  }
+]

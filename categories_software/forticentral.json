@@ -1,0 +1,119 @@
+[
+  {
+    "title": "FortiCentral 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2014-11-28",
+    "End of Engineering Support": "2017-11-28",
+    "End of Support": "2019-05-28"
+  },
+  {
+    "title": "FortiCentral 1.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2015-03-02",
+    "End of Engineering Support": "2018-03-02",
+    "End of Support": "2019-09-02"
+  },
+  {
+    "title": "FortiCentral 1.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2015-07-06",
+    "End of Engineering Support": "2018-07-06",
+    "End of Support": "2020-01-06"
+  },
+  {
+    "title": "FortiCentral 1.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2016-02-17",
+    "End of Engineering Support": "2019-02-17",
+    "End of Support": "2020-08-17"
+  },
+  {
+    "title": "FortiCentral 1.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2016-06-09",
+    "End of Engineering Support": "2019-06-09",
+    "End of Support": "2020-12-09"
+  },
+  {
+    "title": "FortiCentral 1.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2016-12-21",
+    "End of Engineering Support": "2019-12-21",
+    "End of Support": "2021-06-21"
+  },
+  {
+    "title": "FortiCentral 1.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2017-04-21",
+    "End of Engineering Support": "2020-04-21",
+    "End of Support": "2021-10-21"
+  },
+  {
+    "title": "FortiCentral 1.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiCentral",
+    "Release": "2018-02-09",
+    "End of Engineering Support": "2021-02-09",
+    "End of Support": "2022-08-09"
+  },
+  {
+    "title": "FortiCentral 6.4",
+    "guid": "08eb4b99b8e72ef226d36a8364d4ab6b1f4c4d82e375bde28f93d351d1eedaf3",
+    "pubDate": "Tue, 27 Jul 2021 05:27:01 -0700",
+    "category": "FortiCentral",
+    "Release": "2021-07-26",
+    "End of Engineering Support": "2024-07-26",
+    "End of Support": "2026-01-26"
+  },
+  {
+    "title": "FortiCentral 6.0",
+    "guid": "ec8e00c401e73e950e34a2419cc9702261cc63433145b1051d957e225e17d7d2",
+    "pubDate": "Fri, 13 Mar 2020 06:07:39 -0700",
+    "category": "FortiCentral",
+    "Release": "2020-03-12",
+    "End of Engineering Support": "2023-03-12",
+    "End of Support": "2024-09-12"
+  },
+  {
+    "title": "FortiCentral 1.8",
+    "guid": "0719c1cf44b1155fd8226844d2c12a83ea6ab64089a6172a29240bbc7bf3b78d",
+    "pubDate": "Tue, 18 Jun 2019 11:13:47 -0700",
+    "category": "FortiCentral",
+    "Release": "2019-01-30",
+    "End of Engineering Support": "2022-01-30",
+    "End of Support": "2023-07-30"
+  },
+  {
+    "title": "FortiCentral 1.9",
+    "guid": "e469ab9fe6a88f2bc995a7879060115a861fc767eb31d5b3b3926aaf5861e31c",
+    "pubDate": "Tue, 18 Jun 2019 11:14:38 -0700",
+    "category": "FortiCentral",
+    "Release": "2019-05-31",
+    "End of Engineering Support": "2022-05-31",
+    "End of Support": "2023-11-30"
+  },
+  {
+    "title": "FortiCentral 7.4",
+    "guid": "9d25aa0aeb9114625b3baf7b688b54917c6d4e1c37937de46445972031190124",
+    "pubDate": "Thu, 23 Apr 2026 12:09:02 -0700",
+    "category": "FortiCentral",
+    "Release": "2026-04-23",
+    "End of Engineering Support": "2029-04-23",
+    "End of Support": "2030-10-23"
+  }
+]

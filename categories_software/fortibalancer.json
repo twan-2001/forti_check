@@ -1,0 +1,56 @@
+[
+  {
+    "title": "FortiBalancer 8.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBalancer",
+    "Release": "2011-05-20",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-05-20"
+  },
+  {
+    "title": "FortiBalancer 8.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBalancer",
+    "Release": "2011-07-26",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-07-26"
+  },
+  {
+    "title": "FortiBalancer 8.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBalancer",
+    "Release": "2012-07-25",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-07-25"
+  },
+  {
+    "title": "FortiBalancer 8.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBalancer",
+    "Release": "2013-03-22",
+    "End of Engineering Support": "2016-03-22",
+    "End of Support": "2017-09-22"
+  },
+  {
+    "title": "FortiBalancer 8.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBalancer",
+    "Release": "2015-04-24",
+    "End of Engineering Support": "2018-04-24",
+    "End of Support": "2019-10-24"
+  },
+  {
+    "title": "FortiBalancer 8.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiBalancer",
+    "Release": "2016-08-10",
+    "End of Engineering Support": "2019-08-10",
+    "End of Support": "2021-02-10"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "FortiADC Manager 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiADC Manager",
+    "Release": "2019-01-01",
+    "End of Engineering Support": "2022-01-01",
+    "End of Support": "2023-07-01"
+  },
+  {
+    "title": "FortiADC Manager 5.3",
+    "guid": "8636ea935a81770450f6a8ec32c114c69249511899ade310d3d7fbe8f927e849",
+    "pubDate": "Thu, 05 Nov 2020 06:18:48 -0800",
+    "category": "FortiADC Manager",
+    "Release": "2019-09-03",
+    "End of Engineering Support": "2022-09-03",
+    "End of Support": "2024-03-03"
+  },
+  {
+    "title": "FortiADC Manager 5.4",
+    "guid": "04d25ee7a216e02d8f84592ed29696bf548e8936d2050ddeea5475d0a8803e05",
+    "pubDate": "Thu, 05 Nov 2020 06:19:48 -0800",
+    "category": "FortiADC Manager",
+    "Release": "2020-05-18",
+    "End of Engineering Support": "2023-05-18",
+    "End of Support": "2024-11-18"
+  },
+  {
+    "title": "FortiADC Manager 6.0",
+    "guid": "aca4b7011754e913cc113dc53ec33e198253af2974d74c20deab4ff7c7f6a922",
+    "pubDate": "Thu, 05 Nov 2020 06:20:15 -0800",
+    "category": "FortiADC Manager",
+    "Release": "2020-09-20",
+    "End of Engineering Support": "2023-09-20",
+    "End of Support": "2025-03-20"
+  },
+  {
+    "title": "FortiADC Manager 6.1",
+    "guid": "0961042132cb27a809b670ebeb888fcfa78d85b0126c9a4cf6530a9d4cca9865",
+    "pubDate": "Thu, 01 Apr 2021 02:04:02 -0700",
+    "category": "FortiADC Manager",
+    "Release": "2021-03-31",
+    "End of Engineering Support": "2024-03-31",
+    "End of Support": "2025-09-30"
+  },
+  {
+    "title": "FortiADC Manager 6.2",
+    "guid": "a133c10ed6bb290d99ccf631a8daa74aaa6d38ad43555147b5783d9891bb72a0",
+    "pubDate": "Tue, 26 Oct 2021 06:25:52 -0700",
+    "category": "FortiADC Manager",
+    "Release": "2021-10-25",
+    "End of Engineering Support": "2024-10-25",
+    "End of Support": "2026-04-25"
+  },
+  {
+    "title": "FortiADC Manager 7.0",
+    "guid": "1283f2fbb9c62c5ba3d53690ef32c8dde27909082ff9265ed854857a49dd28c5",
+    "pubDate": "Tue, 26 Jul 2022 10:38:16 -0700",
+    "category": "FortiADC Manager",
+    "Release": "2022-07-26",
+    "End of Engineering Support": "2025-07-26",
+    "End of Support": "2027-01-26"
+  },
+  {
+    "title": "FortiADC Manager 7.1",
+    "guid": "07fad2d835e256d105d47615b2db9154a150437f1549bca07e2ca06753f271d8",
+    "pubDate": "Thu, 01 Sep 2022 13:27:01 -0700",
+    "category": "FortiADC Manager",
+    "Release": "2022-09-01",
+    "End of Engineering Support": "2025-09-01",
+    "End of Support": "2027-03-01"
+  },
+  {
+    "title": "FortiADC Manager 7.2",
+    "guid": "8ec1ab236931df1d0d1387f4e4cd81b4d9ea85bf77df84c1358ddcc1b41726a2",
+    "pubDate": "Fri, 02 Jun 2023 11:10:25 -0700",
+    "category": "FortiADC Manager",
+    "Release": "2023-06-02",
+    "End of Engineering Support": "2026-06-02",
+    "End of Support": "2027-12-02"
+  },
+  {
+    "title": "FortiADC Manager 7.4",
+    "guid": "89c88db22d37d4b234836aecc9968bf8db9d2aa895831c3a77be9ed11ad6e6e0",
+    "pubDate": "Wed, 06 Sep 2023 12:02:04 -0700",
+    "category": "FortiADC Manager",
+    "Release": "2023-09-06",
+    "End of Engineering Support": "2026-09-06",
+    "End of Support": "2028-03-06"
+  }
+]

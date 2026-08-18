@@ -1,0 +1,56 @@
+[
+  {
+    "title": "FortiWLM 8.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWLM",
+    "Release": "2016-07-13",
+    "End of Engineering Support": "2019-07-13",
+    "End of Support": "2021-01-13"
+  },
+  {
+    "title": "FortiWLM 8.2",
+    "guid": "16cd1055f396c4b802ef2c790f8f1cbdd6471627b2da0969663b50f3aa26f5b8",
+    "pubDate": "Wed, 21 Sep 2022 05:34:26 -0700",
+    "category": "FortiWLM",
+    "Release": "2016-09-19",
+    "End of Engineering Support": "2019-09-19",
+    "End of Support": "2021-03-19"
+  },
+  {
+    "title": "FortiWLM 8.3",
+    "guid": "8e551b4c4cc95073eb096375daac93308889dfe495c05ce44db0a83ec2ef0ae7",
+    "pubDate": "Wed, 21 Sep 2022 05:34:34 -0700",
+    "category": "FortiWLM",
+    "Release": "2017-03-03",
+    "End of Engineering Support": "2020-03-03",
+    "End of Support": "2021-09-03"
+  },
+  {
+    "title": "FortiWLM 8.4",
+    "guid": "3dd09fe7075176d3d66d2ba8fbc5adb799c17548880b11fc4297056796ec36a0",
+    "pubDate": "Wed, 21 Sep 2022 05:34:47 -0700",
+    "category": "FortiWLM",
+    "Release": "2018-05-11",
+    "End of Engineering Support": "2021-05-11",
+    "End of Support": "2022-11-11"
+  },
+  {
+    "title": "FortiWLM 8.5",
+    "guid": "5eacd500c7b7774855c4b47f2c5bbe547938120906054eb7d44c597178dcee6a",
+    "pubDate": "Wed, 21 Sep 2022 05:34:56 -0700",
+    "category": "FortiWLM",
+    "Release": "2019-11-12",
+    "End of Engineering Support": "2022-11-12",
+    "End of Support": "2024-05-12"
+  },
+  {
+    "title": "FortiWLM 8.6",
+    "guid": "a4591853314b8d4815c73d66c418c0d6910a67e54950b0329d867481c09b9423",
+    "pubDate": "Wed, 21 Sep 2022 05:35:06 -0700",
+    "category": "FortiWLM",
+    "Release": "2020-12-21",
+    "End of Engineering Support": "2023-12-21",
+    "End of Support": "2025-06-21"
+  }
+]

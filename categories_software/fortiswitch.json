@@ -1,0 +1,20 @@
+[
+  {
+    "title": "FortiSwitch 1.0",
+    "guid": "21bb7b99234df91cb171d5ffb0f98cb0931314527004fbd8cc09961a22fa970e",
+    "pubDate": "Thu, 22 Jul 2021 09:52:13 -0700",
+    "category": "FortiSwitch",
+    "Release": "2012-06-19",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2016-12-19"
+  },
+  {
+    "title": "FortiSwitch 5.2",
+    "guid": "4e61116e9431f43f9af5b2d58dece53eec00367f5c08f7d86590bec8c4965c07",
+    "pubDate": "Thu, 22 Jul 2021 09:52:52 -0700",
+    "category": "FortiSwitch",
+    "Release": "2013-02-28",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2017-08-28"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "FortiWANManager 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWANManager",
+    "Release": "2016-03-29",
+    "End of Engineering Support": "2019-03-29",
+    "End of Support": "2020-09-29"
+  },
+  {
+    "title": "FortiWANManager 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWANManager",
+    "Release": "2017-02-22",
+    "End of Engineering Support": "2020-02-22",
+    "End of Support": "2021-08-22"
+  },
+  {
+    "title": "FortiWANManager 4.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWANManager",
+    "Release": "2017-05-17",
+    "End of Engineering Support": "2020-05-17",
+    "End of Support": "2021-11-17"
+  },
+  {
+    "title": "FortiWANManager 4.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWANManager",
+    "Release": "2017-11-21",
+    "End of Engineering Support": "2020-11-21",
+    "End of Support": "2022-05-21"
+  }
+]

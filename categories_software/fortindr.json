@@ -1,0 +1,92 @@
+[
+  {
+    "title": "FortiNDR 1.1",
+    "guid": "f96560ae4aed1c3686c86b4c81fa52ec6282e751fddd4b5d36cccc2b0051927f",
+    "pubDate": "Tue, 15 Apr 2025 06:01:38 -0700",
+    "category": "FortiNDR",
+    "Release": "2020-03-02",
+    "End of Engineering Support": "2023-01-20",
+    "End of Support": "2023-01-20"
+  },
+  {
+    "title": "FortiNDR 1.2",
+    "guid": "9eb15b2417f3643510db26ac892e40a2e333198a29ba46e9b8d4f10b399ce6a0",
+    "pubDate": "Tue, 15 Apr 2025 06:01:46 -0700",
+    "category": "FortiNDR",
+    "Release": "2020-03-09",
+    "End of Engineering Support": "2023-01-20",
+    "End of Support": "2023-01-20"
+  },
+  {
+    "title": "FortiNDR 1.3",
+    "guid": "cdb14a36ecb4b8c62774f070ef939cd79258a246a646b05d2324df94005b3c96",
+    "pubDate": "Tue, 15 Apr 2025 06:01:56 -0700",
+    "category": "FortiNDR",
+    "Release": "2020-06-23",
+    "End of Engineering Support": "2023-01-20",
+    "End of Support": "2023-01-20"
+  },
+  {
+    "title": "FortiNDR 1.4",
+    "guid": "948825d8b771e47ceedcf0c7ba8c40b27f7bb1dd0f49f3a919a6f0ff9c8d82ff",
+    "pubDate": "Tue, 15 Apr 2025 06:02:06 -0700",
+    "category": "FortiNDR",
+    "Release": "2020-11-23",
+    "End of Engineering Support": "2023-01-20",
+    "End of Support": "2023-01-20"
+  },
+  {
+    "title": "FortiNDR 1.5",
+    "guid": "03ac9dd0aab411a5d57bfc30f85d4bd92e609ef6c3316a7b953e3be80abb63dc",
+    "pubDate": "Tue, 15 Apr 2025 06:01:27 -0700",
+    "category": "FortiNDR",
+    "Release": "2021-04-20",
+    "End of Engineering Support": "2023-01-20",
+    "End of Support": "2023-01-20"
+  },
+  {
+    "title": "FortiNDR 7.0",
+    "guid": "74ea9746589c35270aef724de5404475b98ca89d177df33eeca0c2088ec3cff9",
+    "pubDate": "Mon, 25 Apr 2022 11:15:56 -0700",
+    "category": "FortiNDR",
+    "Release": "2022-04-21",
+    "End of Engineering Support": "2025-04-21",
+    "End of Support": "2026-10-21"
+  },
+  {
+    "title": "FortiNDR 7.1",
+    "guid": "676fb261ef619cf11ef5f6f920afb8c77fe760540ae40cd137bfdc8c986d719a",
+    "pubDate": "Tue, 15 Apr 2025 06:00:10 -0700",
+    "category": "FortiNDR",
+    "Release": "2022-10-24",
+    "End of Engineering Support": "2024-12-01",
+    "End of Support": "2024-12-01"
+  },
+  {
+    "title": "FortiNDR 7.2",
+    "guid": "6f1fc80a3314662b99b0a71f0c3216c71c36cd52e470a08798f1d48f4adca861",
+    "pubDate": "Mon, 10 Apr 2023 08:18:14 -0700",
+    "category": "FortiNDR",
+    "Release": "2023-03-09",
+    "End of Engineering Support": "2026-03-09",
+    "End of Support": "2027-09-09"
+  },
+  {
+    "title": "FortiNDR 7.4",
+    "guid": "34cfff603caee3548a9c9a038b4bdd4756885372beda513e3171a0ae50c7de77",
+    "pubDate": "Tue, 02 Jan 2024 05:12:50 -0800",
+    "category": "FortiNDR",
+    "Release": "2023-09-18",
+    "End of Engineering Support": "2026-09-18",
+    "End of Support": "2028-03-18"
+  },
+  {
+    "title": "FortiNDR 7.6",
+    "guid": "b37e3406032e6a12dea3df8221ca227f0f268e54f70c7dc06c9ef5a6f0da2849",
+    "pubDate": "Wed, 23 Oct 2024 05:09:37 -0700",
+    "category": "FortiNDR",
+    "Release": "2024-10-22",
+    "End of Engineering Support": "2027-10-22",
+    "End of Support": "2029-04-22"
+  }
+]

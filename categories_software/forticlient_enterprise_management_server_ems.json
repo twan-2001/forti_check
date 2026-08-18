@@ -1,0 +1,83 @@
+[
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2015-10-09",
+    "End of Engineering Support": "2018-10-09",
+    "End of Support": "2020-04-09"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 1.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2017-06-15",
+    "End of Engineering Support": "2020-06-15",
+    "End of Support": "2021-12-15"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 6.0",
+    "guid": "007ba9b7330348303b213e277ac73e88d134daabf1c9bcb35134b2e7c4aa8cc2",
+    "pubDate": "Wed, 13 May 2020 12:28:37 -0700",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2018-05-31",
+    "End of Engineering Support": "2021-05-31",
+    "End of Support": "2022-11-30"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 6.2",
+    "guid": "c6027bdd0a719afa943b365fb65c233bc7a37afe5550f1febf1223ea86fdaac9",
+    "pubDate": "Tue, 30 Apr 2019 10:31:42 -0700",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2019-04-16",
+    "End of Engineering Support": "2022-04-16",
+    "End of Support": "2023-10-16"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 6.4",
+    "guid": "b82ce7e5b8108be9e4aa80ad7470f07d8a6153b15fbf46701581cf5a829ff3f4",
+    "pubDate": "Wed, 13 May 2020 12:28:14 -0700",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2020-05-12",
+    "End of Engineering Support": "2023-05-12",
+    "End of Support": "2024-11-12"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 7.0",
+    "guid": "881a30c479559036ad2332a75c861d956bd78c545fd08a44d2a23d4d9ba273b9",
+    "pubDate": "Wed, 28 Apr 2021 03:52:18 -0700",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2021-04-27",
+    "End of Engineering Support": "2024-04-27",
+    "End of Support": "2025-10-27"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 7.2",
+    "guid": "1d87d513e03a87a0357d47db11511c46bc38b164c35d4e1a93430520c7d29409",
+    "pubDate": "Wed, 01 Feb 2023 05:10:47 -0800",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2023-02-01",
+    "End of Engineering Support": "2026-02-01",
+    "End of Support": "2027-08-01"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 7.4",
+    "guid": "a7a7d561fb0bc58d24e460edf48daeb1f4490dfe87e58b479977376fe4dbdd6e",
+    "pubDate": "Tue, 04 Jun 2024 04:48:41 -0700",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2024-06-03",
+    "End of Engineering Support": "2027-06-03",
+    "End of Support": "2028-12-03"
+  },
+  {
+    "title": "FortiClient Enterprise Management Server (EMS) 8.0",
+    "guid": "f2727c14a633259c2f8ff3924537c5e1b9b755ed9f5c7c2b754823e95a11fca1",
+    "pubDate": "Thu, 02 Jul 2026 11:27:51 -0700",
+    "category": "FortiClient Enterprise Management Server (EMS)",
+    "Release": "2026-07-02",
+    "End of Engineering Support": "2029-07-02",
+    "End of Support": "2031-01-02"
+  }
+]

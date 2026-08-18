@@ -1,0 +1,182 @@
+[
+  {
+    "title": "FortiDeceptor 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiDeceptor",
+    "Release": "2018-08-31",
+    "End of Engineering Support": "2021-08-31",
+    "End of Support": "2023-02-28"
+  },
+  {
+    "title": "FortiDeceptor 1.1",
+    "guid": "ac951c2c75f4e17ed0ea981236e86c9d2220a3d7e4f7d55313c1c3b563dc2f13",
+    "pubDate": "Wed, 25 May 2022 01:19:21 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2018-12-20",
+    "End of Engineering Support": "2021-12-20",
+    "End of Support": "2023-06-20"
+  },
+  {
+    "title": "FortiDeceptor 2.0",
+    "guid": "9384f3cb05af3e276865e325559fda99ca5c9c597dcb815c2c59864a6d083cc2",
+    "pubDate": "Wed, 25 May 2022 01:19:43 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2019-04-02",
+    "End of Engineering Support": "2022-04-02",
+    "End of Support": "2023-10-02"
+  },
+  {
+    "title": "FortiDeceptor 2.1",
+    "guid": "872a5368211ff007210e22cf0bf46343393158fac06be29a32149287ae84b6b9",
+    "pubDate": "Wed, 25 May 2022 01:20:15 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2019-07-30",
+    "End of Engineering Support": "2022-07-30",
+    "End of Support": "2024-01-30"
+  },
+  {
+    "title": "FortiDeceptor 3.0",
+    "guid": "0335755a6a0a1c55e3b3fa4fff25700eca4c9c1a446688d58bd8447511b5f8d7",
+    "pubDate": "Tue, 31 Dec 2019 10:13:13 -0800",
+    "category": "FortiDeceptor",
+    "Release": "2019-12-24",
+    "End of Engineering Support": "2022-12-24",
+    "End of Support": "2024-06-24"
+  },
+  {
+    "title": "FortiDeceptor 3.1",
+    "guid": "1a89bc3cdf38563f547c753e9fb1f167786b8ccd1df5522eb7e34975132ebdc4",
+    "pubDate": "Mon, 01 Jun 2020 07:13:15 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2020-05-29",
+    "End of Engineering Support": "2023-05-29",
+    "End of Support": "2024-11-29"
+  },
+  {
+    "title": "FortiDeceptor 3.2",
+    "guid": "d55ff9e596e38c9d018be53f5aa56c0a2d11f365fc24545743850004af213cbd",
+    "pubDate": "Fri, 30 Oct 2020 05:15:19 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2020-10-29",
+    "End of Engineering Support": "2023-10-29",
+    "End of Support": "2025-04-29"
+  },
+  {
+    "title": "FortiDeceptor 3.3",
+    "guid": "138ff6c9411f10fe58d86bca28b8be51382a4e6b48c2cf539ba3de044f0e98e7",
+    "pubDate": "Thu, 01 Apr 2021 02:01:53 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2021-03-31",
+    "End of Engineering Support": "2024-03-31",
+    "End of Support": "2025-09-30"
+  },
+  {
+    "title": "FortiDeceptor 4.0",
+    "guid": "d9b9528e7342da2b637d2b24413f5a4757e6394091bd4ba816d30a58e8c4779a",
+    "pubDate": "Mon, 02 Aug 2021 00:33:29 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2021-07-30",
+    "End of Engineering Support": "2024-07-30",
+    "End of Support": "2026-01-30"
+  },
+  {
+    "title": "FortiDeceptor 4.1",
+    "guid": "b8c0054994f872f1ac40c7f08d8d7eea354cdc5661c983fca9a886a3dc598a35",
+    "pubDate": "Fri, 17 Dec 2021 05:16:34 -0800",
+    "category": "FortiDeceptor",
+    "Release": "2021-12-16",
+    "End of Engineering Support": "2024-12-16",
+    "End of Support": "2026-06-16"
+  },
+  {
+    "title": "FortiDeceptor 4.2",
+    "guid": "719390b98eac0f02fd70569ccdb67da9d26a402925a8c168c105c02ffa62871e",
+    "pubDate": "Fri, 29 Apr 2022 05:10:59 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2022-04-28",
+    "End of Engineering Support": "2025-04-28",
+    "End of Support": "2026-10-28"
+  },
+  {
+    "title": "FortiDeceptor 4.3",
+    "guid": "23fbb3e13822f30a9b119b6046e86c5442e1aa6753970195b9405f4f596b8686",
+    "pubDate": "Thu, 01 Sep 2022 05:08:06 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2022-08-30",
+    "End of Engineering Support": "2025-08-30",
+    "End of Support": "2027-02-28"
+  },
+  {
+    "title": "FortiDeceptor 5.0",
+    "guid": "efd850a99db75c8a65fde1d5bef7ad394c72704057522040466626c22d9c989f",
+    "pubDate": "Thu, 15 Dec 2022 05:29:02 -0800",
+    "category": "FortiDeceptor",
+    "Release": "2022-12-15",
+    "End of Engineering Support": "2025-12-15",
+    "End of Support": "2027-06-15"
+  },
+  {
+    "title": "FortiDeceptor 5.1",
+    "guid": "31079af09d872f3c134cfb3469108b3a603d60acd66f40390d3f471a782b57df",
+    "pubDate": "Thu, 27 Apr 2023 05:09:45 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2023-04-27",
+    "End of Engineering Support": "2026-04-27",
+    "End of Support": "2027-10-27"
+  },
+  {
+    "title": "FortiDeceptor 5.2",
+    "guid": "22c826059ac546a5fc27ac1b16cb2cf3743271636be08e341b5c4258eb93c559",
+    "pubDate": "Fri, 25 Aug 2023 06:20:23 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2023-08-25",
+    "End of Engineering Support": "2026-08-25",
+    "End of Support": "2028-02-25"
+  },
+  {
+    "title": "FortiDeceptor 5.3",
+    "guid": "2859be82a3c2c15a230c6d069b4f1f91ee88684eeebb4dec59062dd95b7e576b",
+    "pubDate": "Thu, 21 Dec 2023 06:07:03 -0800",
+    "category": "FortiDeceptor",
+    "Release": "2023-12-21",
+    "End of Engineering Support": "2026-12-21",
+    "End of Support": "2028-06-21"
+  },
+  {
+    "title": "FortiDeceptor 6.0",
+    "guid": "554190d149c19b34973df4d91c177cc8399a77f1d607929c10420f1787091e8c",
+    "pubDate": "Tue, 16 Jul 2024 10:51:46 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2024-07-16",
+    "End of Engineering Support": "2027-07-16",
+    "End of Support": "2029-01-16"
+  },
+  {
+    "title": "FortiDeceptor 6.1",
+    "guid": "2f7ba8d3b148674afbfd61929f47134464cdd6312820ad4c5bff744d104c30d7",
+    "pubDate": "Tue, 25 Feb 2025 04:43:16 -0800",
+    "category": "FortiDeceptor",
+    "Release": "2025-02-24",
+    "End of Engineering Support": "2028-02-24",
+    "End of Support": "2029-08-24"
+  },
+  {
+    "title": "FortiDeceptor 6.2",
+    "guid": "8fbe297569af5569fdfd5bd2c373380664d673f5fba1ce704aeeab96d25ffb2c",
+    "pubDate": "Tue, 14 Jul 2026 05:56:11 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2025-10-08",
+    "End of Engineering Support": "2028-10-08",
+    "End of Support": "2030-04-08"
+  },
+  {
+    "title": "FortiDeceptor 6.3",
+    "guid": "5a785f37bb36caaddc7dcc90cd85e711f3903b09dd66dd3c1b1e264dde7745d5",
+    "pubDate": "Tue, 14 Jul 2026 05:04:24 -0700",
+    "category": "FortiDeceptor",
+    "Release": "2026-07-13",
+    "End of Engineering Support": "2029-07-13",
+    "End of Support": "2031-01-13"
+  }
+]

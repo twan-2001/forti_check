@@ -1,0 +1,110 @@
+[
+  {
+    "title": "FortiClient (Mac) 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Mac)",
+    "Release": "2011-06-30",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-06-30"
+  },
+  {
+    "title": "FortiClient (Mac) 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Mac)",
+    "Release": "2012-11-01",
+    "End of Engineering Support": "2015-11-01",
+    "End of Support": "2017-05-01"
+  },
+  {
+    "title": "FortiClient (Mac) 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Mac)",
+    "Release": "2014-06-16",
+    "End of Engineering Support": "2017-06-16",
+    "End of Support": "2018-12-16"
+  },
+  {
+    "title": "FortiClient (Mac) 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Mac)",
+    "Release": "2015-10-09",
+    "End of Engineering Support": "2018-10-09",
+    "End of Support": "2020-04-09"
+  },
+  {
+    "title": "FortiClient (Mac) 5.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiClient (Mac)",
+    "Release": "2017-06-15",
+    "End of Engineering Support": "2020-06-15",
+    "End of Support": "2021-12-15"
+  },
+  {
+    "title": "FortiClient (Mac) 6.0",
+    "guid": "376bfcf6119ebf869633d5a634048c661514dbe281387f748dad0c54d250d600",
+    "pubDate": "Wed, 13 May 2020 12:30:48 -0700",
+    "category": "FortiClient (Mac)",
+    "Release": "2018-05-31",
+    "End of Engineering Support": "2021-05-31",
+    "End of Support": "2022-11-30"
+  },
+  {
+    "title": "FortiClient (Mac) 6.2",
+    "guid": "1bc4968d74cf3c7241278ac4d9214574a14009c4b9204650468e3d2df71db1dd",
+    "pubDate": "Wed, 13 May 2020 12:29:13 -0700",
+    "category": "FortiClient (Mac)",
+    "Release": "2019-04-16",
+    "End of Engineering Support": "2022-04-16",
+    "End of Support": "2023-10-16"
+  },
+  {
+    "title": "FortiClient (Mac) 6.4",
+    "guid": "96a0669744b1590b448a2d88183ff7fc06be2992f63a7138e7f0376927323b12",
+    "pubDate": "Wed, 13 May 2020 12:26:59 -0700",
+    "category": "FortiClient (Mac)",
+    "Release": "2020-05-12",
+    "End of Engineering Support": "2023-05-12",
+    "End of Support": "2024-11-12"
+  },
+  {
+    "title": "FortiClient (Mac) 7.0",
+    "guid": "7ebae6d7cc0f67b1641567711adcd988dbd3e7d6d14955acc4a31c7af71d7eac",
+    "pubDate": "Wed, 28 Apr 2021 03:55:41 -0700",
+    "category": "FortiClient (Mac)",
+    "Release": "2021-04-27",
+    "End of Engineering Support": "2024-04-27",
+    "End of Support": "2025-10-27"
+  },
+  {
+    "title": "FortiClient (Mac) 7.2",
+    "guid": "29b02cd284c49b4f07b034e6cbf2ac321f7a627af68c56168353bb28b5dbe1e7",
+    "pubDate": "Wed, 01 Feb 2023 05:09:19 -0800",
+    "category": "FortiClient (Mac)",
+    "Release": "2023-02-01",
+    "End of Engineering Support": "2026-02-01",
+    "End of Support": "2027-08-01"
+  },
+  {
+    "title": "FortiClient (Mac) 7.4",
+    "guid": "c6ee9df9381df6fd4e03c31a4563771afe9c670da02512ed8ee0b78cf829c3a5",
+    "pubDate": "Tue, 04 Jun 2024 04:50:34 -0700",
+    "category": "FortiClient (Mac)",
+    "Release": "2024-06-03",
+    "End of Engineering Support": "2027-06-03",
+    "End of Support": "2028-12-03"
+  },
+  {
+    "title": "FortiClient (Mac) 8.0",
+    "guid": "44e9dbb2fcee6fe35961eab901e9623286482439928033a4d7bed8503b147f1b",
+    "pubDate": "Thu, 02 Jul 2026 10:45:58 -0700",
+    "category": "FortiClient (Mac)",
+    "Release": "2026-07-02",
+    "End of Engineering Support": "2029-07-02",
+    "End of Support": "2031-01-02"
+  }
+]

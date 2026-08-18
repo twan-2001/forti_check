@@ -1,0 +1,191 @@
+[
+  {
+    "title": "FortiAnalyzer 3.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2006-10-02",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2009-10-02"
+  },
+  {
+    "title": "FortiAnalyzer 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2007-01-12",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-01-12"
+  },
+  {
+    "title": "FortiAnalyzer 3.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2007-07-12",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-07-12"
+  },
+  {
+    "title": "FortiAnalyzer 3.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2008-02-04",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-02-04"
+  },
+  {
+    "title": "FortiAnalyzer 3.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2008-08-06",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-08-06"
+  },
+  {
+    "title": "FortiAnalyzer 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2009-02-25",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-02-25"
+  },
+  {
+    "title": "FortiAnalyzer 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2009-08-24",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-08-24"
+  },
+  {
+    "title": "FortiAnalyzer 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2010-04-07",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-04-07"
+  },
+  {
+    "title": "FortiAnalyzer 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2011-06-30",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-06-30"
+  },
+  {
+    "title": "FortiAnalyzer 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2012-11-01",
+    "End of Engineering Support": "2015-11-01",
+    "End of Support": "2017-05-01"
+  },
+  {
+    "title": "FortiAnalyzer 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2014-09-04",
+    "End of Engineering Support": "2017-09-04",
+    "End of Support": "2019-03-04"
+  },
+  {
+    "title": "FortiAnalyzer 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2016-02-17",
+    "End of Engineering Support": "2019-02-17",
+    "End of Support": "2020-08-17"
+  },
+  {
+    "title": "FortiAnalyzer 5.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2017-07-27",
+    "End of Engineering Support": "2020-07-27",
+    "End of Support": "2022-01-27"
+  },
+  {
+    "title": "FortiAnalyzer 6.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2018-04-18",
+    "End of Engineering Support": "2021-04-18",
+    "End of Support": "2022-10-18"
+  },
+  {
+    "title": "FortiAnalyzer 6.2",
+    "guid": "c4d46c0eeaddf276168ee2053684482e1e756e494c6c86699147a50a9e67f70b",
+    "pubDate": "Tue, 30 Apr 2019 10:26:46 -0700",
+    "category": "FortiAnalyzer",
+    "Release": "2019-04-11",
+    "End of Engineering Support": "2022-04-11",
+    "End of Support": "2023-10-11"
+  },
+  {
+    "title": "FortiAnalyzer 6.4",
+    "guid": "2fe4ae6fce27aaa9d79e5c42428bbe511195ee363c06b8479591b6ff27a398b7",
+    "pubDate": "Mon, 16 Dec 2024 06:55:16 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2020-04-09",
+    "End of Engineering Support": "2023-04-09",
+    "End of Support": "2024-10-09"
+  },
+  {
+    "title": "FortiAnalyzer 7.0",
+    "guid": "b5cafe1fce4ff242c360c96c8f78f8b0ee7d894c12dddf1abe3f401d6f7bd64b",
+    "pubDate": "Fri, 23 Apr 2021 08:54:59 -0700",
+    "category": "FortiAnalyzer",
+    "Release": "2021-04-22",
+    "End of Engineering Support": "2024-04-22",
+    "End of Support": "2025-10-22"
+  },
+  {
+    "title": "FortiAnalyzer 7.2",
+    "guid": "918577421cdafc48ea66f101cf6c38b80303b3ed9e5c66ebb3c2c199d8a666cc",
+    "pubDate": "Mon, 16 Dec 2024 06:55:33 -0800",
+    "category": "FortiAnalyzer",
+    "Release": "2022-04-11",
+    "End of Engineering Support": "2025-04-11",
+    "End of Support": "2026-10-11"
+  },
+  {
+    "title": "FortiAnalyzer 7.4",
+    "guid": "97ca68e8d7b8bb912c903520e61c3416e4cc8c15607152df3fb936f8ae6268f3",
+    "pubDate": "Fri, 27 Mar 2026 11:40:02 -0700",
+    "category": "FortiAnalyzer",
+    "Release": "2023-05-15",
+    "End of Engineering Support": "2027-05-15",
+    "End of Support": "2028-11-15"
+  },
+  {
+    "title": "FortiAnalyzer 7.6",
+    "guid": "e3ecfac95a8251197626790c38cd3c4a14b3dd15f8fc3cde45e34668465c64c0",
+    "pubDate": "Wed, 10 Jun 2026 14:59:36 -0700",
+    "category": "FortiAnalyzer",
+    "Release": "2024-07-29",
+    "End of Engineering Support": "2028-07-29",
+    "End of Support": "2030-01-29"
+  },
+  {
+    "title": "FortiAnalyzer 8.0",
+    "guid": "a32f0289485a34b9ae7f0cc45386352338c73c666d01fc5e0aaae90c5c9b6ba3",
+    "pubDate": "Tue, 21 Apr 2026 11:06:26 -0700",
+    "category": "FortiAnalyzer",
+    "Release": "2026-04-21",
+    "End of Engineering Support": "2029-04-21",
+    "End of Support": "2030-10-21"
+  }
+]

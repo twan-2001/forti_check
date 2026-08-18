@@ -1,0 +1,110 @@
+[
+  {
+    "title": "FortiVoiceOS 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2013-02-06",
+    "End of Engineering Support": "2016-02-06",
+    "End of Support": "2017-08-06"
+  },
+  {
+    "title": "FortiVoiceOS 2.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2013-02-06",
+    "End of Engineering Support": "2016-02-06",
+    "End of Support": "2017-08-06"
+  },
+  {
+    "title": "FortiVoiceOS 2.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2013-10-18",
+    "End of Engineering Support": "2016-10-18",
+    "End of Support": "2018-04-18"
+  },
+  {
+    "title": "FortiVoiceOS 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2014-03-11",
+    "End of Engineering Support": "2017-03-11",
+    "End of Support": "2018-09-11"
+  },
+  {
+    "title": "FortiVoiceOS 4.0",
+    "guid": "d4a834985f1f8dbf0136ce31b7106479a981726dc1595da233e03e18ec48872f",
+    "pubDate": "Thu, 05 Nov 2020 06:44:57 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2015-02-13",
+    "End of Engineering Support": "2018-02-13",
+    "End of Support": "2019-08-13"
+  },
+  {
+    "title": "FortiVoiceOS 5.0",
+    "guid": "cf72e61bdb8e728470650bd918919be0702465d0ad6a0afa224f871555de47b4",
+    "pubDate": "Thu, 05 Nov 2020 06:46:18 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2015-08-18",
+    "End of Engineering Support": "2018-08-18",
+    "End of Support": "2020-02-18"
+  },
+  {
+    "title": "FortiVoiceOS 5.3",
+    "guid": "26464af5f15884d883c965f267115667273351d503d2cb1119dd641c9ee4aad4",
+    "pubDate": "Thu, 05 Nov 2020 06:46:35 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2016-07-13",
+    "End of Engineering Support": "2019-07-13",
+    "End of Support": "2021-01-13"
+  },
+  {
+    "title": "FortiVoiceOS 6.0",
+    "guid": "421043ef855f0ab9ddfa65c107e5af76b844d52e1ca6ea72a1c04b6d60118ba6",
+    "pubDate": "Thu, 05 Nov 2020 06:47:17 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2019-08-08",
+    "End of Engineering Support": "2022-08-08",
+    "End of Support": "2024-02-08"
+  },
+  {
+    "title": "FortiVoiceOS 6.4",
+    "guid": "aa0698e5ecf9ccec20b3d80c730c1b743b112c2cb843bb61cce69c2cb5712e23",
+    "pubDate": "Thu, 05 Nov 2020 06:48:40 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2020-09-10",
+    "End of Engineering Support": "2023-09-10",
+    "End of Support": "2025-03-10"
+  },
+  {
+    "title": "FortiVoiceOS 7.0",
+    "guid": "305aa812b3fc0015ec4e4129a5467fc693388843c02dbd17e2cef26a889754c0",
+    "pubDate": "Tue, 02 Jan 2024 12:13:37 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2023-07-27",
+    "End of Engineering Support": "2026-07-27",
+    "End of Support": "2028-01-27"
+  },
+  {
+    "title": "FortiVoiceOS 7.2",
+    "guid": "a816d49e17f912868d2f53ce90b7666bea83cf4964adb0755d91346ed0be3b91",
+    "pubDate": "Fri, 20 Dec 2024 08:13:03 -0800",
+    "category": "FortiVoiceOS",
+    "Release": "2024-12-19",
+    "End of Engineering Support": "2027-12-19",
+    "End of Support": "2029-06-19"
+  },
+  {
+    "title": "FortiVoiceOS 8.0",
+    "guid": "a269260a3328d56a8b10ff85337796f9b441e45127086ffe241bd3bd91f3e0ab",
+    "pubDate": "Mon, 06 Jul 2026 12:29:34 -0700",
+    "category": "FortiVoiceOS",
+    "Release": "2026-07-06",
+    "End of Engineering Support": "2029-07-06",
+    "End of Support": "2031-01-06"
+  }
+]

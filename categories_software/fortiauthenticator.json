@@ -1,0 +1,263 @@
+[
+  {
+    "title": "FortiAuthenticator 5.0",
+    "guid": "d7fc256fb219a395916838d1923b0d61a1bcfe9bda2b892807a4f34ddb930521",
+    "pubDate": "Thu, 05 Nov 2020 06:34:38 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2017-06-30",
+    "End of Engineering Support": "2020-06-30",
+    "End of Support": "2021-12-30"
+  },
+  {
+    "title": "FortiAuthenticator 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2011-07-08",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-07-08"
+  },
+  {
+    "title": "FortiAuthenticator 1.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2011-09-21",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-09-21"
+  },
+  {
+    "title": "FortiAuthenticator 1.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2012-01-11",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-01-11"
+  },
+  {
+    "title": "FortiAuthenticator 1.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2012-05-14",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-05-14"
+  },
+  {
+    "title": "FortiAuthenticator 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2012-10-24",
+    "End of Engineering Support": "2015-10-24",
+    "End of Support": "2017-04-24"
+  },
+  {
+    "title": "FortiAuthenticator 2.1",
+    "guid": "232b4610d20567f47e71584b976af4fb59b4a030cf1845798a528a86e656a43a",
+    "pubDate": "Thu, 05 Nov 2020 06:30:15 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2013-02-28",
+    "End of Engineering Support": "2016-02-28",
+    "End of Support": "2017-08-28"
+  },
+  {
+    "title": "FortiAuthenticator 2.2",
+    "guid": "f4f98614986f7b1fc70b39bacaf6118b4572f6420c5bde60eb58a70481837615",
+    "pubDate": "Thu, 05 Nov 2020 06:31:31 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2013-04-19",
+    "End of Engineering Support": "2016-04-19",
+    "End of Support": "2017-10-19"
+  },
+  {
+    "title": "FortiAuthenticator 3.0",
+    "guid": "92e5d65acf4d1c23cd8db98a36e1bedfe1e4eae346c738b00f22edbf9d0611de",
+    "pubDate": "Thu, 05 Nov 2020 06:29:29 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2013-10-22",
+    "End of Engineering Support": "2016-10-22",
+    "End of Support": "2018-04-22"
+  },
+  {
+    "title": "FortiAuthenticator 3.1",
+    "guid": "3b6fa1b1a829465bb14f30482aeef851ce710b34326823c8f9a9662f84f33cf0",
+    "pubDate": "Thu, 05 Nov 2020 06:31:52 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2014-06-17",
+    "End of Engineering Support": "2017-06-17",
+    "End of Support": "2018-12-17"
+  },
+  {
+    "title": "FortiAuthenticator 3.2",
+    "guid": "8a6c3d82ea0c20ceba2fbb51f5609e246983609a359cd4703571eeafdf04e6d3",
+    "pubDate": "Thu, 05 Nov 2020 06:32:20 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2014-10-22",
+    "End of Engineering Support": "2017-10-22",
+    "End of Support": "2019-04-22"
+  },
+  {
+    "title": "FortiAuthenticator 3.3",
+    "guid": "155839686692b14e523d37d8e4e4916fef56ea9382c4a419b6cef9fca83021bc",
+    "pubDate": "Thu, 05 Nov 2020 06:32:36 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2015-02-05",
+    "End of Engineering Support": "2018-02-05",
+    "End of Support": "2019-08-05"
+  },
+  {
+    "title": "FortiAuthenticator 4.0",
+    "guid": "c4f597fc38780eed975369888415919bfd815920e7758afb5b96d7275804b164",
+    "pubDate": "Thu, 05 Nov 2020 06:32:54 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2015-07-30",
+    "End of Engineering Support": "2018-07-30",
+    "End of Support": "2020-01-30"
+  },
+  {
+    "title": "FortiAuthenticator 4.1",
+    "guid": "46dfcf40ad76ab97eea65279cacc395d4602995105eebefdb46b06b3e5164a7e",
+    "pubDate": "Thu, 05 Nov 2020 06:33:35 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2016-03-31",
+    "End of Engineering Support": "2019-03-31",
+    "End of Support": "2020-09-30"
+  },
+  {
+    "title": "FortiAuthenticator 4.2",
+    "guid": "902675ff074d7ae27d3b1a5cd0cd5c2c1378805dc96042bfb79a4f46ba792e4f",
+    "pubDate": "Thu, 05 Nov 2020 06:33:59 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2016-11-10",
+    "End of Engineering Support": "2019-11-10",
+    "End of Support": "2021-05-10"
+  },
+  {
+    "title": "FortiAuthenticator 4.3",
+    "guid": "eb8e45496cff8fbefcf3d8489eb8db7aa61379a4417a24ec15624ed1d46cd757",
+    "pubDate": "Thu, 05 Nov 2020 06:34:11 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2017-03-10",
+    "End of Engineering Support": "2020-03-10",
+    "End of Support": "2021-09-10"
+  },
+  {
+    "title": "FortiAuthenticator 5.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2017-11-03",
+    "End of Engineering Support": "2020-11-03",
+    "End of Support": "2022-05-30"
+  },
+  {
+    "title": "FortiAuthenticator 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2018-01-05",
+    "End of Engineering Support": "2021-01-05",
+    "End of Support": "2022-07-05"
+  },
+  {
+    "title": "FortiAuthenticator 5.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2018-05-07",
+    "End of Engineering Support": "2021-05-07",
+    "End of Support": "2022-11-07"
+  },
+  {
+    "title": "FortiAuthenticator 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2018-08-15",
+    "End of Engineering Support": "2021-08-15",
+    "End of Support": "2023-02-15"
+  },
+  {
+    "title": "FortiAuthenticator 5.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiAuthenticator",
+    "Release": "2018-11-19",
+    "End of Engineering Support": "2021-11-19",
+    "End of Support": "2023-05-19"
+  },
+  {
+    "title": "FortiAuthenticator 6.0",
+    "guid": "a42ad4517edd6f91f02c163a27762ae1774e4b8b99e4596d50c43dbb0100c0c5",
+    "pubDate": "Fri, 23 Apr 2021 08:51:17 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2019-03-14",
+    "End of Engineering Support": "2022-03-14",
+    "End of Support": "2023-09-14"
+  },
+  {
+    "title": "FortiAuthenticator 6.1",
+    "guid": "6f86309f29d6a494b2516dbdd6f84503529755f60334e5813ebd26e4caa99040",
+    "pubDate": "Fri, 25 Sep 2020 06:37:13 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2020-03-30",
+    "End of Engineering Support": "2023-03-30",
+    "End of Support": "2024-09-30"
+  },
+  {
+    "title": "FortiAuthenticator 6.2",
+    "guid": "5d91cbd0298ec2132c810d80cad561a80b9091fa3d17ae3cfdc6e6977b45ce8c",
+    "pubDate": "Fri, 25 Sep 2020 06:37:19 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2020-09-16",
+    "End of Engineering Support": "2023-09-16",
+    "End of Support": "2025-03-16"
+  },
+  {
+    "title": "FortiAuthenticator 6.3",
+    "guid": "76ed3bfcac4163212dda03205f745fb30bb27cf793d5820cc1a2f97c3fc3b36b",
+    "pubDate": "Fri, 23 Apr 2021 08:52:21 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2021-04-22",
+    "End of Engineering Support": "2024-04-22",
+    "End of Support": "2025-10-22"
+  },
+  {
+    "title": "FortiAuthenticator 6.4",
+    "guid": "5485e477500d8a0f52c99dd29dc0b33e98326cf3b29b3ffa567b8a99eba09dda",
+    "pubDate": "Fri, 06 Aug 2021 09:03:10 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2021-08-06",
+    "End of Engineering Support": "2024-08-06",
+    "End of Support": "2026-02-06"
+  },
+  {
+    "title": "FortiAuthenticator 6.5",
+    "guid": "2bad63174c65d10548fb879ed2dc8ec6be389ccb8fb459df9183c299985ef7e3",
+    "pubDate": "Wed, 17 Jun 2026 05:59:29 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2022-02-14",
+    "End of Engineering Support": "2025-02-14",
+    "End of Support": "2026-06-30"
+  },
+  {
+    "title": "FortiAuthenticator 6.6",
+    "guid": "f98dc2a8db98c19278c9998ca97dc55b1e4df5d7514e845bfd5edcd40df7c9b2",
+    "pubDate": "Tue, 01 Oct 2024 05:06:03 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2023-12-11",
+    "End of Engineering Support": "2026-12-11",
+    "End of Support": "2028-06-11"
+  },
+  {
+    "title": "FortiAuthenticator 8.0",
+    "guid": "fbb0fecbf532904d61776978598576cd674648134ca0284aa30fa0d651ab840f",
+    "pubDate": "Thu, 25 Jun 2026 05:14:36 -0700",
+    "category": "FortiAuthenticator",
+    "Release": "2025-10-02",
+    "End of Engineering Support": "2028-10-02",
+    "End of Support": "2030-04-02"
+  }
+]

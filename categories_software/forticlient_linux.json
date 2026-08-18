@@ -1,0 +1,65 @@
+[
+  {
+    "title": "FortiClient (Linux) 6.0",
+    "guid": "86b795424e8f276a1eaa4a7a982e04ad8022603cb0bda86a5632129e3101edaf",
+    "pubDate": "Thu, 08 Jan 2026 05:51:08 -0800",
+    "category": "FortiClient (Linux)",
+    "Release": "2018-05-23",
+    "End of Engineering Support": "2021-05-23",
+    "End of Support": "2022-11-23"
+  },
+  {
+    "title": "FortiClient (Linux) 6.2",
+    "guid": "b3343f0232569432c23e07ea542e49cd677cfadec3d7e83d05ce6b9577f67177",
+    "pubDate": "Thu, 08 Jan 2026 05:45:24 -0800",
+    "category": "FortiClient (Linux)",
+    "Release": "2019-04-09",
+    "End of Engineering Support": "2022-04-09",
+    "End of Support": "2023-10-09"
+  },
+  {
+    "title": "FortiClient (Linux) 6.4",
+    "guid": "dcc4576953ec3d5680c0a37444d06d5cbb1e10991fae0915efdb9bda0fa93eda",
+    "pubDate": "Thu, 08 Jan 2026 05:44:51 -0800",
+    "category": "FortiClient (Linux)",
+    "Release": "2020-05-11",
+    "End of Engineering Support": "2023-05-11",
+    "End of Support": "2024-11-11"
+  },
+  {
+    "title": "FortiClient (Linux) 7.0",
+    "guid": "96ff9864095a15395af2af88639df2291bb4b66840432775ae27281ce33df8c7",
+    "pubDate": "Thu, 08 Jan 2026 05:44:04 -0800",
+    "category": "FortiClient (Linux)",
+    "Release": "2021-04-21",
+    "End of Engineering Support": "2024-04-21",
+    "End of Support": "2025-10-21"
+  },
+  {
+    "title": "FortiClient (Linux) 7.2",
+    "guid": "bb2741360d7fb9c59ca8225c42056c24df3c041f47743714971fff6853995af4",
+    "pubDate": "Thu, 08 Jan 2026 05:43:19 -0800",
+    "category": "FortiClient (Linux)",
+    "Release": "2023-01-24",
+    "End of Engineering Support": "2026-01-24",
+    "End of Support": "2027-07-24"
+  },
+  {
+    "title": "FortiClient (Linux) 7.4",
+    "guid": "727856436ad6d7b7dcae0aeb5b87b249b0dcf083172346a7f0d9259de7f67fce",
+    "pubDate": "Thu, 08 Jan 2026 05:42:21 -0800",
+    "category": "FortiClient (Linux)",
+    "Release": "2025-05-24",
+    "End of Engineering Support": "2028-05-24",
+    "End of Support": "2029-11-24"
+  },
+  {
+    "title": "FortiClient (Linux) 8.0",
+    "guid": "3e70776d678faa98eac6adddfe84f88f4d8edaf21c84631db9ec9e4a24725449",
+    "pubDate": "Thu, 02 Jul 2026 11:26:42 -0700",
+    "category": "FortiClient (Linux)",
+    "Release": "2026-07-02",
+    "End of Engineering Support": "2029-07-02",
+    "End of Support": "2031-01-02"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "title": "FortiManager 3.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2007-01-31",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-01-31"
+  },
+  {
+    "title": "FortiManager 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2007-03-09",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-03-09"
+  },
+  {
+    "title": "FortiManager 3.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2007-07-11",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-07-11"
+  },
+  {
+    "title": "FortiManager 3.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2008-02-11",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-02-11"
+  },
+  {
+    "title": "FortiManager 3.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2008-07-23",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-07-23"
+  },
+  {
+    "title": "FortiManager 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2009-03-12",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-03-12"
+  },
+  {
+    "title": "FortiManager 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2009-09-11",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-09-11"
+  },
+  {
+    "title": "FortiManager 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2010-04-03",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-04-03"
+  },
+  {
+    "title": "FortiManager 4.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2011-06-30",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-06-30"
+  },
+  {
+    "title": "FortiManager 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2012-11-01",
+    "End of Engineering Support": "2015-11-01",
+    "End of Support": "2017-05-01"
+  },
+  {
+    "title": "FortiManager 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2014-08-23",
+    "End of Engineering Support": "2017-08-23",
+    "End of Support": "2019-02-23"
+  },
+  {
+    "title": "FortiManager 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2016-02-17",
+    "End of Engineering Support": "2019-02-17",
+    "End of Support": "2020-08-17"
+  },
+  {
+    "title": "FortiManager 5.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2017-07-27",
+    "End of Engineering Support": "2020-07-27",
+    "End of Support": "2022-01-27"
+  },
+  {
+    "title": "FortiManager 6.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiManager",
+    "Release": "2018-04-18",
+    "End of Engineering Support": "2021-04-18",
+    "End of Support": "2022-10-18"
+  },
+  {
+    "title": "FortiManager 6.2",
+    "guid": "00ba5f19f16ea25be742b6bcd5d027c946f5d1837c95e017cfc457dec21a3942",
+    "pubDate": "Thu, 16 Jan 2020 06:56:03 -0800",
+    "category": "FortiManager",
+    "Release": "2019-04-11",
+    "End of Engineering Support": "2022-04-11",
+    "End of Support": "2023-10-11"
+  },
+  {
+    "title": "FortiManager 6.4",
+    "guid": "48b39cf4fd70195405eabbcd9f15cd86d227ffa0ebf4209e27a74a12617e2b96",
+    "pubDate": "Mon, 16 Dec 2024 06:54:49 -0800",
+    "category": "FortiManager",
+    "Release": "2020-04-09",
+    "End of Engineering Support": "2023-04-09",
+    "End of Support": "2024-10-09"
+  },
+  {
+    "title": "FortiManager 7.0",
+    "guid": "a9fd59e4c21db9b40d08931b5fb3258e9d518210f5ca2e091940781f636c7b97",
+    "pubDate": "Fri, 23 Apr 2021 08:53:53 -0700",
+    "category": "FortiManager",
+    "Release": "2021-04-22",
+    "End of Engineering Support": "2024-04-22",
+    "End of Support": "2025-10-22"
+  },
+  {
+    "title": "FortiManager 7.2",
+    "guid": "308b5974c81435eebf851ee2caa08fcb0e8bdab58c3f5720e346e117400ac139",
+    "pubDate": "Mon, 16 Dec 2024 06:55:03 -0800",
+    "category": "FortiManager",
+    "Release": "2022-04-11",
+    "End of Engineering Support": "2025-04-11",
+    "End of Support": "2026-10-11"
+  },
+  {
+    "title": "FortiManager 7.4",
+    "guid": "066fc2d113172f412510b312b11a15adb67c034b55ad0f15845f1f172a1b42f3",
+    "pubDate": "Fri, 27 Mar 2026 11:41:28 -0700",
+    "category": "FortiManager",
+    "Release": "2023-05-15",
+    "End of Engineering Support": "2027-05-15",
+    "End of Support": "2028-11-15"
+  },
+  {
+    "title": "FortiManager 7.6",
+    "guid": "599a8d920082f7e9c0f8ecf466e66888eb40400786588a669c2a3462c0ebd9ac",
+    "pubDate": "Wed, 10 Jun 2026 14:59:12 -0700",
+    "category": "FortiManager",
+    "Release": "2024-07-29",
+    "End of Engineering Support": "2028-07-29",
+    "End of Support": "2030-01-29"
+  },
+  {
+    "title": "FortiManager 8.0",
+    "guid": "9e6f2a25c3f735859aafca748bc1648ed7033cb0111607e20e784cf187d078ea",
+    "pubDate": "Tue, 21 Apr 2026 11:08:14 -0700",
+    "category": "FortiManager",
+    "Release": "2026-04-21",
+    "End of Engineering Support": "2029-04-21",
+    "End of Support": "2030-10-21"
+  }
+]

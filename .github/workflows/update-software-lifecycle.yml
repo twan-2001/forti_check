@@ -1,4 +1,4 @@
-name: Update Hardware Lifecycle Data
+name: Update Software Lifecycle Data
 
 on:
   schedule:
@@ -31,17 +31,17 @@ jobs:
 
       - name: Run fetch script
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_HARDWARE }}
-        run: python fetch_hardware_lifecycle.py
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_SOFTWARE }}
+        run: python fetch_software_lifecycle.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add categories/ state/
+          git add categories_software/ state_software/
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update hardware lifecycle data [skip ci]"
+            git commit -m "chore: update software lifecycle data [skip ci]"
             git push
           fi

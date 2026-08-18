@@ -1,0 +1,227 @@
+[
+  {
+    "title": "FortiTester 2.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2015-08-21",
+    "End of Engineering Support": "2018-08-21",
+    "End of Support": "2020-02-21"
+  },
+  {
+    "title": "FortiTester 2.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2016-03-15",
+    "End of Engineering Support": "2019-03-15",
+    "End of Support": "2020-09-15"
+  },
+  {
+    "title": "FortiTester 2.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2016-06-29",
+    "End of Engineering Support": "2019-06-29",
+    "End of Support": "2020-12-29"
+  },
+  {
+    "title": "FortiTester 2.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2016-09-02",
+    "End of Engineering Support": "2019-09-02",
+    "End of Support": "2021-03-02"
+  },
+  {
+    "title": "FortiTester 2.8",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2016-12-22",
+    "End of Engineering Support": "2019-12-22",
+    "End of Support": "2021-06-22"
+  },
+  {
+    "title": "FortiTester 2.9",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2017-03-17",
+    "End of Engineering Support": "2020-03-17",
+    "End of Support": "2021-09-17"
+  },
+  {
+    "title": "FortiTester 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2017-06-26",
+    "End of Engineering Support": "2020-06-26",
+    "End of Support": "2021-12-26"
+  },
+  {
+    "title": "FortiTester 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2017-09-15",
+    "End of Engineering Support": "2020-09-15",
+    "End of Support": "2022-03-15"
+  },
+  {
+    "title": "FortiTester 3.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2018-01-04",
+    "End of Engineering Support": "2021-01-04",
+    "End of Support": "2022-07-04"
+  },
+  {
+    "title": "FortiTester 3.3",
+    "guid": "3412b214f006691337626e630b0de4983d071e35c8d6248fbf9ad8cd43012711",
+    "pubDate": "Wed, 15 Apr 2020 08:31:32 -0700",
+    "category": "FortiTester",
+    "Release": "2018-05-15",
+    "End of Engineering Support": "2021-05-15",
+    "End of Support": "2022-11-15"
+  },
+  {
+    "title": "FortiTester 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiTester",
+    "Release": "2018-11-13",
+    "End of Engineering Support": "2021-11-13",
+    "End of Support": "2023-05-13"
+  },
+  {
+    "title": "FortiTester 4.1",
+    "guid": "93d44119c796fa9a4273f91ca66786e16043bbf800ddc7770641e9d732ddab05",
+    "pubDate": "Wed, 25 Nov 2020 01:20:24 -0800",
+    "category": "FortiTester",
+    "Release": "2020-11-24",
+    "End of Engineering Support": "2023-11-24",
+    "End of Support": "2025-05-24"
+  },
+  {
+    "title": "FortiTester 3.5",
+    "guid": "5a93b3d1e72aa97e02e7b591ce561da64b603c8e4f567836828533c8167ca5c4",
+    "pubDate": "Wed, 28 Oct 2020 07:20:49 -0700",
+    "category": "FortiTester",
+    "Release": "2019-04-16",
+    "End of Engineering Support": "2022-04-16",
+    "End of Support": "2023-10-16"
+  },
+  {
+    "title": "FortiTester 3.6",
+    "guid": "82f8f2da260e37e1231ce79e0c93a0d0138b531f424079058311b903ce7d3dab",
+    "pubDate": "Wed, 28 Oct 2020 07:21:09 -0700",
+    "category": "FortiTester",
+    "Release": "2019-07-16",
+    "End of Engineering Support": "2022-07-16",
+    "End of Support": "2024-01-16"
+  },
+  {
+    "title": "FortiTester 3.7",
+    "guid": "538e270b2d6c42dd52f228bfd91cadf94eff7051384c26cff83a326a468e8c16",
+    "pubDate": "Wed, 28 Oct 2020 07:21:29 -0700",
+    "category": "FortiTester",
+    "Release": "2019-12-10",
+    "End of Engineering Support": "2022-12-10",
+    "End of Support": "2024-06-10"
+  },
+  {
+    "title": "FortiTester 3.8",
+    "guid": "63a0e7a60841cf4d1c954c7b3e74831681870d22848a3f9ab721c8d9280886ed",
+    "pubDate": "Wed, 28 Oct 2020 07:21:51 -0700",
+    "category": "FortiTester",
+    "Release": "2020-02-12",
+    "End of Engineering Support": "2023-02-12",
+    "End of Support": "2024-08-12"
+  },
+  {
+    "title": "FortiTester 3.9",
+    "guid": "afb250c45d8da7d37da59835e38d3dd6d16ac65f8f96fb61c1e0c9e443850eb7",
+    "pubDate": "Wed, 28 Oct 2020 07:22:15 -0700",
+    "category": "FortiTester",
+    "Release": "2020-05-18",
+    "End of Engineering Support": "2023-05-18",
+    "End of Support": "2024-11-18"
+  },
+  {
+    "title": "FortiTester 4.0",
+    "guid": "d7d4e05994f3b4c783d47867f9870246aae2e1ba42b02612c8157c61c8b98568",
+    "pubDate": "Wed, 28 Oct 2020 07:22:31 -0700",
+    "category": "FortiTester",
+    "Release": "2020-08-20",
+    "End of Engineering Support": "2023-08-20",
+    "End of Support": "2025-02-20"
+  },
+  {
+    "title": "FortiTester 4.2",
+    "guid": "846d3ded50241fc94193ef24c6afe45dbeecaef79e5e8d72a26bd6b33c421707",
+    "pubDate": "Tue, 27 Apr 2021 01:13:43 -0700",
+    "category": "FortiTester",
+    "Release": "2021-04-26",
+    "End of Engineering Support": "2024-04-26",
+    "End of Support": "2025-10-26"
+  },
+  {
+    "title": "FortiTester 7.0",
+    "guid": "4d561f454176efbfb519ec50b61dde40bbd61f97035ab944436c6fd7fb7427ce",
+    "pubDate": "Mon, 16 Aug 2021 06:54:21 -0700",
+    "category": "FortiTester",
+    "Release": "2021-08-13",
+    "End of Engineering Support": "2024-08-13",
+    "End of Support": "2026-02-13"
+  },
+  {
+    "title": "FortiTester 7.1",
+    "guid": "0f02763074eb6fe7927dc19c46af517348070c19df0934ad391c40d96e0f182a",
+    "pubDate": "Tue, 04 Jan 2022 08:48:02 -0800",
+    "category": "FortiTester",
+    "Release": "2021-12-21",
+    "End of Engineering Support": "2024-12-21",
+    "End of Support": "2026-06-21"
+  },
+  {
+    "title": "FortiTester 7.2",
+    "guid": "4c3e994152cbe937015fdcd18c7390a9fd579629d6f1cbfadb01d2a52f19d79e",
+    "pubDate": "Fri, 02 Sep 2022 08:36:40 -0700",
+    "category": "FortiTester",
+    "Release": "2022-09-01",
+    "End of Engineering Support": "2025-09-01",
+    "End of Support": "2027-03-01"
+  },
+  {
+    "title": "FortiTester 7.3",
+    "guid": "c3416b552228506c2d615004f3c1050d1df0cedef430a7d2535be9f214dfd07d",
+    "pubDate": "Tue, 04 Jul 2023 12:00:15 -0700",
+    "category": "FortiTester",
+    "Release": "2023-07-04",
+    "End of Engineering Support": "2026-07-04",
+    "End of Support": "2028-01-04"
+  },
+  {
+    "title": "FortiTester 7.4",
+    "guid": "bccc35f170ba5c5d0453a69d55990d51c99fa1dc0e7272ae8c344a90f149247f",
+    "pubDate": "Mon, 04 Mar 2024 11:41:54 -0800",
+    "category": "FortiTester",
+    "Release": "2024-03-04",
+    "End of Engineering Support": "2027-03-04",
+    "End of Support": "2028-09-04"
+  },
+  {
+    "title": "FortiTester 7.6",
+    "guid": "0e199d56f0ab00a661fa10a71d3f55acc674f47110d2301f9e94bbeb317b9f93",
+    "pubDate": "Mon, 15 Sep 2025 11:05:29 -0700",
+    "category": "FortiTester",
+    "Release": "2025-09-15",
+    "End of Engineering Support": "2028-09-15",
+    "End of Support": "2030-03-15"
+  }
+]

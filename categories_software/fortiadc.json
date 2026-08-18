@@ -1,0 +1,245 @@
+[
+  {
+    "title": "FortiADC 2.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiADC",
+    "Release": "2013-05-08",
+    "End of Engineering Support": "2016-05-08",
+    "End of Support": "2017-11-08"
+  },
+  {
+    "title": "FortiADC 3.0",
+    "guid": "66e39a464e8ef941715f73461c3e91b400418784e22f57f94f686e01c226dd09",
+    "pubDate": "Thu, 05 Nov 2020 06:52:40 -0800",
+    "category": "FortiADC",
+    "Release": "2013-07-19",
+    "End of Engineering Support": "2016-07-19",
+    "End of Support": "2018-01-19"
+  },
+  {
+    "title": "FortiADC 3.1",
+    "guid": "ece947a8730b163230429bd424c8f9b00d5ab17be2f287e202fae61453ee1f0e",
+    "pubDate": "Thu, 05 Nov 2020 06:51:23 -0800",
+    "category": "FortiADC",
+    "Release": "2013-12-05",
+    "End of Engineering Support": "2016-12-05",
+    "End of Support": "2018-06-05"
+  },
+  {
+    "title": "FortiADC 3.2",
+    "guid": "804bf17c9efea1ae9a1bbc929f7c71f1548f9d394df8a2041ed95985f69d0344",
+    "pubDate": "Thu, 05 Nov 2020 06:51:13 -0800",
+    "category": "FortiADC",
+    "Release": "2014-01-31",
+    "End of Engineering Support": "2017-01-31",
+    "End of Support": "2018-07-31"
+  },
+  {
+    "title": "FortiADC 4.0",
+    "guid": "bdc6cccdddfa3290069475ab992fb005b6a7345fd56429c0858cb71bd4651906",
+    "pubDate": "Thu, 05 Nov 2020 06:53:01 -0800",
+    "category": "FortiADC",
+    "Release": "2014-04-03",
+    "End of Engineering Support": "2017-04-03",
+    "End of Support": "2018-10-03"
+  },
+  {
+    "title": "FortiADC 4.1",
+    "guid": "148db145d04f9aa0b4b199b32dc7484c452ea72381da4216f279f1cd50cf46aa",
+    "pubDate": "Thu, 05 Nov 2020 06:53:13 -0800",
+    "category": "FortiADC",
+    "Release": "2014-06-09",
+    "End of Engineering Support": "2017-06-09",
+    "End of Support": "2018-12-09"
+  },
+  {
+    "title": "FortiADC 4.2",
+    "guid": "841861b3fd538269dcb748a9390f13817ecb0e9bdc1eadefc043f5c101f748de",
+    "pubDate": "Thu, 05 Nov 2020 06:53:22 -0800",
+    "category": "FortiADC",
+    "Release": "2015-01-22",
+    "End of Engineering Support": "2018-01-22",
+    "End of Support": "2019-07-22"
+  },
+  {
+    "title": "FortiADC 4.3",
+    "guid": "5a2fedeac348c266f0d199b2e0b40fe99a31e3b99df2f0324e5426bdce949744",
+    "pubDate": "Thu, 05 Nov 2020 06:53:34 -0800",
+    "category": "FortiADC",
+    "Release": "2015-07-31",
+    "End of Engineering Support": "2018-07-31",
+    "End of Support": "2020-01-31"
+  },
+  {
+    "title": "FortiADC 4.4",
+    "guid": "f7854fa5a10c9f80d22bcf28758a6934522fb299bbc19f9139c76967e7a99583",
+    "pubDate": "Thu, 05 Nov 2020 06:53:47 -0800",
+    "category": "FortiADC",
+    "Release": "2016-01-16",
+    "End of Engineering Support": "2019-01-16",
+    "End of Support": "2020-07-16"
+  },
+  {
+    "title": "FortiADC 4.5",
+    "guid": "a982301424673e9b13e61e18bc1124e683888587a163118d3cfe356022cfe761",
+    "pubDate": "Thu, 05 Nov 2020 06:53:55 -0800",
+    "category": "FortiADC",
+    "Release": "2016-04-16",
+    "End of Engineering Support": "2019-04-16",
+    "End of Support": "2020-10-16"
+  },
+  {
+    "title": "FortiADC 4.6",
+    "guid": "f838ce01c2e840ef7385ef72ec2baae4c1f72fc071bac4c98057caaf924e6655",
+    "pubDate": "Thu, 05 Nov 2020 06:54:05 -0800",
+    "category": "FortiADC",
+    "Release": "2016-09-21",
+    "End of Engineering Support": "2019-09-21",
+    "End of Support": "2021-03-21"
+  },
+  {
+    "title": "FortiADC 4.7",
+    "guid": "356bf3f7aee5650208755594b85c92cf35c5906c62d136e8449b65a486415e7a",
+    "pubDate": "Thu, 05 Nov 2020 06:54:13 -0800",
+    "category": "FortiADC",
+    "Release": "2017-01-23",
+    "End of Engineering Support": "2020-01-23",
+    "End of Support": "2021-07-23"
+  },
+  {
+    "title": "FortiADC 4.8",
+    "guid": "df3dcd80a607cc6e09cc742df5a9d3a436c5dcb5e2d2a1db015f7e6038dafe12",
+    "pubDate": "Thu, 05 Nov 2020 06:54:28 -0800",
+    "category": "FortiADC",
+    "Release": "2017-06-15",
+    "End of Engineering Support": "2020-06-15",
+    "End of Support": "2021-12-15"
+  },
+  {
+    "title": "FortiADC 5.0",
+    "guid": "2442c94fb5defdfc1babade29da82e973500dd47c104fd970f0e1b889963ea4e",
+    "pubDate": "Thu, 05 Nov 2020 06:52:04 -0800",
+    "category": "FortiADC",
+    "Release": "2018-02-01",
+    "End of Engineering Support": "2021-02-01",
+    "End of Support": "2022-08-01"
+  },
+  {
+    "title": "FortiADC 5.1",
+    "guid": "7b03bcd62a78ee5e5ae82c073d230f75dad1ff57fb0b76445c9de1e7e4126f34",
+    "pubDate": "Thu, 05 Nov 2020 06:51:52 -0800",
+    "category": "FortiADC",
+    "Release": "2018-07-09",
+    "End of Engineering Support": "2021-07-09",
+    "End of Support": "2023-01-09"
+  },
+  {
+    "title": "FortiADC 5.2",
+    "guid": "5f6657222f2d97632a3b0739e535ece2425146389464e4a4b1ab2940554452e9",
+    "pubDate": "Thu, 05 Nov 2020 06:50:16 -0800",
+    "category": "FortiADC",
+    "Release": "2018-12-29",
+    "End of Engineering Support": "2021-12-29",
+    "End of Support": "2023-06-29"
+  },
+  {
+    "title": "FortiADC 5.3",
+    "guid": "2faf55aa6bb074043eea454c05d81a4b12ee2f6846a09d07057573a0996fc5ef",
+    "pubDate": "Thu, 05 Nov 2020 06:49:51 -0800",
+    "category": "FortiADC",
+    "Release": "2019-07-15",
+    "End of Engineering Support": "2022-07-15",
+    "End of Support": "2024-01-15"
+  },
+  {
+    "title": "FortiADC 5.4",
+    "guid": "ab06c0640dcef789951275cfd6f8165cc98077109e42558a8ab7daa9f1260214",
+    "pubDate": "Wed, 31 Aug 2022 05:18:00 -0700",
+    "category": "FortiADC",
+    "Release": "2020-02-04",
+    "End of Engineering Support": "2023-02-04",
+    "End of Support": "2024-08-04"
+  },
+  {
+    "title": "FortiADC 6.0",
+    "guid": "b44950de52ad4d3f90517333ad69717ef00eb2cd02aff854847c448e6da97b8e",
+    "pubDate": "Wed, 31 Aug 2022 05:19:01 -0700",
+    "category": "FortiADC",
+    "Release": "2020-07-27",
+    "End of Engineering Support": "2023-07-27",
+    "End of Support": "2025-01-27"
+  },
+  {
+    "title": "FortiADC 6.1",
+    "guid": "0f0b664fab740d93282901cc495c20bb0a9a2359fddc191de831973f4dd4d8a1",
+    "pubDate": "Wed, 31 Aug 2022 05:19:16 -0700",
+    "category": "FortiADC",
+    "Release": "2020-12-30",
+    "End of Engineering Support": "2023-12-30",
+    "End of Support": "2025-06-30"
+  },
+  {
+    "title": "FortiADC 6.2",
+    "guid": "9ca1eeb581d2ad3b2d253d5cd5e39952e787b8517605790c0b325e5d6e2d6f45",
+    "pubDate": "Wed, 31 Aug 2022 05:19:26 -0700",
+    "category": "FortiADC",
+    "Release": "2021-08-04",
+    "End of Engineering Support": "2024-08-04",
+    "End of Support": "2026-02-04"
+  },
+  {
+    "title": "FortiADC 7.0",
+    "guid": "5167ead6dfdb67ed8345fb14c0b75921162608a121b214387c85e4edb51cdebf",
+    "pubDate": "Wed, 31 Aug 2022 05:19:38 -0700",
+    "category": "FortiADC",
+    "Release": "2022-02-01",
+    "End of Engineering Support": "2025-02-01",
+    "End of Support": "2026-08-01"
+  },
+  {
+    "title": "FortiADC 7.1",
+    "guid": "2eea9faf32fdea96dbe23e3576a6fa5c00d8a1eb909dbac237188fc5915c2719",
+    "pubDate": "Wed, 31 Aug 2022 05:19:50 -0700",
+    "category": "FortiADC",
+    "Release": "2022-08-01",
+    "End of Engineering Support": "2025-08-01",
+    "End of Support": "2027-02-01"
+  },
+  {
+    "title": "FortiADC 7.2",
+    "guid": "ab78587f9ae4f149a18b33c294155d58fd664240f1308615694eebfab0056398",
+    "pubDate": "Mon, 06 Feb 2023 11:36:52 -0800",
+    "category": "FortiADC",
+    "Release": "2023-02-03",
+    "End of Engineering Support": "2026-02-03",
+    "End of Support": "2027-08-03"
+  },
+  {
+    "title": "FortiADC 7.4",
+    "guid": "c533434be29c55b34173efa3f004cef34a92a09a60f5435c0e7cd8bf6875d803",
+    "pubDate": "Mon, 10 Jul 2023 13:17:20 -0700",
+    "category": "FortiADC",
+    "Release": "2023-07-10",
+    "End of Engineering Support": "2026-07-10",
+    "End of Support": "2028-01-10"
+  },
+  {
+    "title": "FortiADC 7.6",
+    "guid": "0daa37b4e03f7af9f71a935a2607ad5fbdab3ebc050e6d1cd1cdb95cdd51d056",
+    "pubDate": "Thu, 18 Jul 2024 06:33:41 -0700",
+    "category": "FortiADC",
+    "Release": "2024-07-17",
+    "End of Engineering Support": "2027-07-17",
+    "End of Support": "2029-01-17"
+  },
+  {
+    "title": "FortiADC 8.0",
+    "guid": "fa4398496a5df1e85175d0754323b5272da14e03af66a722cb99a318f843c0aa",
+    "pubDate": "Tue, 20 May 2025 12:47:27 -0700",
+    "category": "FortiADC",
+    "Release": "2025-05-20",
+    "End of Engineering Support": "2028-05-20",
+    "End of Support": "2029-11-20"
+  }
+]

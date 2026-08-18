@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiNAC 8.3",
+    "guid": "e8a69b7553833b1e2f0058fe2cbabd22bf3f5b5821e71074c80127d268d7f388",
+    "pubDate": "Wed, 22 Feb 2023 12:41:42 -0800",
+    "category": "FortiNAC",
+    "Release": "2018-08-31",
+    "End of Engineering Support": "2021-08-31",
+    "End of Support": "2023-02-28"
+  },
+  {
+    "title": "FortiNAC 8.5",
+    "guid": "f9f8103ee4e033c690e7edc1da83b061a5816436d9c2491d11d0dadb7e5cf26e",
+    "pubDate": "Wed, 14 Aug 2019 06:10:57 -0700",
+    "category": "FortiNAC",
+    "Release": "2019-06-24",
+    "End of Engineering Support": "2022-06-24",
+    "End of Support": "2023-12-24"
+  },
+  {
+    "title": "FortiNAC 8.6",
+    "guid": "01bdc3c12567c14d9b6ee892865019fb922caa41b800676ebbfd44eec7004ac7",
+    "pubDate": "Wed, 14 Aug 2019 06:19:51 -0700",
+    "category": "FortiNAC",
+    "Release": "2019-07-29",
+    "End of Engineering Support": "2022-07-29",
+    "End of Support": "2024-01-29"
+  },
+  {
+    "title": "FortiNAC 8.7",
+    "guid": "90f5bc440f8616d4963de48b240b40fb1f25d06fb7756e885306ed07af05c6e8",
+    "pubDate": "Wed, 28 Oct 2020 06:23:59 -0700",
+    "category": "FortiNAC",
+    "Release": "2020-01-01",
+    "End of Engineering Support": "2023-01-01",
+    "End of Support": "2024-07-01"
+  },
+  {
+    "title": "FortiNAC 8.8",
+    "guid": "e062f0132752bcf315a9be75a9bc9065fbe49880880156255f6758dbbfc40cb7",
+    "pubDate": "Wed, 28 Oct 2020 06:24:18 -0700",
+    "category": "FortiNAC",
+    "Release": "2020-06-11",
+    "End of Engineering Support": "2023-06-11",
+    "End of Support": "2024-12-11"
+  },
+  {
+    "title": "FortiNAC 9.1*",
+    "guid": "0d52e1a4942de31044b0c2a5d5d91b0df8e11e399cb0e9b8632483136e6ef308",
+    "pubDate": "Tue, 03 Oct 2023 10:27:12 -0700",
+    "category": "FortiNAC",
+    "Release": "2021-03-09",
+    "End of Engineering Support": "2024-03-09",
+    "End of Support": "2025-09-09"
+  },
+  {
+    "title": "FortiNAC 9.2",
+    "guid": "82fa2dae1913725fca01c09b43329673ddfe954a0673fda43371fe771d6f223c",
+    "pubDate": "Tue, 03 Oct 2023 10:19:28 -0700",
+    "category": "FortiNAC",
+    "Release": "2021-09-29",
+    "End of Engineering Support": "2024-09-29",
+    "End of Support": "2026-03-29"
+  },
+  {
+    "title": "FortiNAC 9.4",
+    "guid": "e9d5c7625162e98dd652ddbb0847fa587b777c2ea28c895325d578c7b3f4eebc",
+    "pubDate": "Tue, 03 Oct 2023 10:19:37 -0700",
+    "category": "FortiNAC",
+    "Release": "2022-05-13",
+    "End of Engineering Support": "2025-05-13",
+    "End of Support": "2026-11-13"
+  }
+]

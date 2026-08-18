@@ -1,0 +1,128 @@
+[
+  {
+    "title": "FortiExtender 4.1",
+    "guid": "674473330db64c7bd14c1c603ea7d99ee37da39ad6f38c8e1a202ca72f30a84f",
+    "pubDate": "Thu, 13 Jun 2019 06:11:09 -0700",
+    "category": "FortiExtender",
+    "Release": "2019-06-12",
+    "End of Engineering Support": "2022-06-12",
+    "End of Support": "2023-12-12"
+  },
+  {
+    "title": "FortiExtender 4.0",
+    "guid": "86b50ce2194f83b27818cac36c627858ec673af7d63d214c515979a2d8a0c0b2",
+    "pubDate": "Tue, 30 Apr 2019 10:21:50 -0700",
+    "category": "FortiExtender",
+    "Release": "2019-02-13",
+    "End of Engineering Support": "2022-02-13",
+    "End of Support": "2023-08-13"
+  },
+  {
+    "title": "FortiExtender 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiExtender",
+    "Release": "2014-06-27",
+    "End of Engineering Support": "2017-06-27",
+    "End of Support": "2018-12-27"
+  },
+  {
+    "title": "FortiExtender 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiExtender",
+    "Release": "2014-11-18",
+    "End of Engineering Support": "2017-11-18",
+    "End of Support": "2019-05-18"
+  },
+  {
+    "title": "FortiExtender 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiExtender",
+    "Release": "2016-03-24",
+    "End of Engineering Support": "2019-03-24",
+    "End of Support": "2020-09-24"
+  },
+  {
+    "title": "FortiExtender 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiExtender",
+    "Release": "2017-02-03",
+    "End of Engineering Support": "2020-02-03",
+    "End of Support": "2021-08-03"
+  },
+  {
+    "title": "FortiExtender 3.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiExtender",
+    "Release": "2017-11-16",
+    "End of Engineering Support": "2020-11-16",
+    "End of Support": "2022-05-16"
+  },
+  {
+    "title": "FortiExtender 3.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiExtender",
+    "Release": "2018-05-02",
+    "End of Engineering Support": "2021-05-02",
+    "End of Support": "2022-11-02"
+  },
+  {
+    "title": "FortiExtender 4.2",
+    "guid": "ede0b2a0f79dbcfcbd931bbcda8ae624162a371f2c41a27af9308d3a2afdeba2",
+    "pubDate": "Tue, 28 Apr 2020 06:52:58 -0700",
+    "category": "FortiExtender",
+    "Release": "2020-04-27",
+    "End of Engineering Support": "2023-04-27",
+    "End of Support": "2024-10-27"
+  },
+  {
+    "title": "FortiExtender 7.0",
+    "guid": "d16aa42324d910dbb5b1028469da9f8a79a55ce16f74367b686f4d327063ea05",
+    "pubDate": "Wed, 28 Apr 2021 03:59:03 -0700",
+    "category": "FortiExtender",
+    "Release": "2021-04-27",
+    "End of Engineering Support": "2024-04-27",
+    "End of Support": "2025-10-27"
+  },
+  {
+    "title": "FortiExtender 7.2",
+    "guid": "f417065213bbb77e26c6f7e9310833ce8abb372e314aa66ec0d4168f957f58f8",
+    "pubDate": "Wed, 13 Apr 2022 08:43:02 -0700",
+    "category": "FortiExtender",
+    "Release": "2022-04-12",
+    "End of Engineering Support": "2025-04-12",
+    "End of Support": "2026-10-12"
+  },
+  {
+    "title": "FortiExtender 7.4",
+    "guid": "0e0f6baa9975823c29b9049af37c9fdb4360c5a7a899765eddc2a5a1ec280d80",
+    "pubDate": "Mon, 17 Apr 2023 12:46:51 -0700",
+    "category": "FortiExtender",
+    "Release": "2023-04-17",
+    "End of Engineering Support": "2026-04-17",
+    "End of Support": "2027-10-17"
+  },
+  {
+    "title": "FortiExtender 7.6",
+    "guid": "e06687158b78d485dfb14c07f77198a534dd8afb6a2fff6da2f226fa6c85a4ba",
+    "pubDate": "Tue, 13 Aug 2024 12:37:27 -0700",
+    "category": "FortiExtender",
+    "Release": "2024-08-13",
+    "End of Engineering Support": "2027-08-13",
+    "End of Support": "2029-02-13"
+  },
+  {
+    "title": "FortiExtender 8.0",
+    "guid": "613a110cd27d01cadee0dbd99e01d34e5e3c81db3a5b281179ed30574c2291d7",
+    "pubDate": "Tue, 23 Jun 2026 04:57:20 -0700",
+    "category": "FortiExtender",
+    "Release": "2026-06-22",
+    "End of Engineering Support": "2029-06-22",
+    "End of Support": "2030-12-22"
+  }
+]

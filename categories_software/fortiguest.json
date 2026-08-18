@@ -1,0 +1,47 @@
+[
+  {
+    "title": "FortiGuest 1.0",
+    "guid": "c3b54dd8636b256dd3cae6a3f699dcea455c24324dcc1886774266857bbc6cbc",
+    "pubDate": "Mon, 25 Jul 2022 10:30:41 -0700",
+    "category": "FortiGuest",
+    "Release": "2022-07-25",
+    "End of Engineering Support": "2025-07-25",
+    "End of Support": "2027-01-25"
+  },
+  {
+    "title": "FortiGuest 1.1",
+    "guid": "70d56f8cae374493f2a75bd8eca7608e52cb24e8ffba5ac723fa1defcc88621d",
+    "pubDate": "Thu, 27 Apr 2023 09:49:59 -0700",
+    "category": "FortiGuest",
+    "Release": "2023-04-27",
+    "End of Engineering Support": "2026-04-27",
+    "End of Support": "2027-10-27"
+  },
+  {
+    "title": "FortiGuest 1.2",
+    "guid": "9a2ab203283bebf1aaebdbe58e30b64e41b6d8a87d222b5274b7ea1b9795d48d",
+    "pubDate": "Fri, 22 Dec 2023 05:12:10 -0800",
+    "category": "FortiGuest",
+    "Release": "2023-12-22",
+    "End of Engineering Support": "2026-12-22",
+    "End of Support": "2028-06-22"
+  },
+  {
+    "title": "FortiGuest 1.3",
+    "guid": "7e9418f31a39c0190c40cdf09f62d853dea0c54212f63c5d82a154d5652a310b",
+    "pubDate": "Wed, 31 Jul 2024 10:40:13 -0700",
+    "category": "FortiGuest",
+    "Release": "2024-07-31",
+    "End of Engineering Support": "2027-07-31",
+    "End of Support": "2029-01-31"
+  },
+  {
+    "title": "FortiGuest 2.2.0",
+    "guid": "2fe8867c48e41b6cb937bba37878761ec03355c5cef97f706f9ba07b6b49cc67",
+    "pubDate": "Wed, 07 May 2025 10:01:55 -0700",
+    "category": "FortiGuest",
+    "Release": "2025-05-07",
+    "End of Engineering Support": "2028-05-07",
+    "End of Support": "2029-11-07"
+  }
+]

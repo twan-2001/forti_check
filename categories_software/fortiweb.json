@@ -1,0 +1,254 @@
+[
+  {
+    "title": "FortiWeb 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiWeb",
+    "Release": "2009-04-20",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-04-20"
+  },
+  {
+    "title": "FortiWeb 3.2",
+    "guid": "db511682fda174f8e9974b4ad16a6fdb0d77e865f99123b725c955138e451895",
+    "pubDate": "Fri, 23 Jul 2021 08:42:08 -0700",
+    "category": "FortiWeb",
+    "Release": "2009-06-04",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-06-04"
+  },
+  {
+    "title": "FortiWeb 3.3",
+    "guid": "0d8440a171bafbd13950a29f2a5ebfe9fe6af0d30269e027399c0163bef44cd7",
+    "pubDate": "Fri, 23 Jul 2021 08:42:21 -0700",
+    "category": "FortiWeb",
+    "Release": "2009-09-03",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-09-03"
+  },
+  {
+    "title": "FortiWeb 4.0",
+    "guid": "ca5cb7f60d24c7054456852c6c1ccb7e7aa7313c37f769466fc31eba040b6e92",
+    "pubDate": "Fri, 23 Jul 2021 08:42:33 -0700",
+    "category": "FortiWeb",
+    "Release": "2010-03-12",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-03-12"
+  },
+  {
+    "title": "FortiWeb 4.1",
+    "guid": "ff081a743a0baff9faf7bcaf216bfc31511ede8f4e5bc3597423fe7f9566585f",
+    "pubDate": "Fri, 23 Jul 2021 08:42:42 -0700",
+    "category": "FortiWeb",
+    "Release": "2010-08-03",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-08-03"
+  },
+  {
+    "title": "FortiWeb 4.2",
+    "guid": "f796f89829342a7fd6db673ba957936c7a19a14047d242768e5c5dd2c7deafae",
+    "pubDate": "Fri, 23 Jul 2021 08:42:56 -0700",
+    "category": "FortiWeb",
+    "Release": "2011-02-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-02-01"
+  },
+  {
+    "title": "FortiWeb 4.3",
+    "guid": "b51618b69bba4638f3d3f201543edee2fe9ae1b6f4908647987d2fb3124c9d63",
+    "pubDate": "Fri, 23 Jul 2021 08:43:04 -0700",
+    "category": "FortiWeb",
+    "Release": "2011-08-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-08-01"
+  },
+  {
+    "title": "FortiWeb 4.4",
+    "guid": "7e6fd269f281cc6a40b161a73c869cd25778004d1207c605f7eab47d4007a2e0",
+    "pubDate": "Fri, 23 Jul 2021 08:43:13 -0700",
+    "category": "FortiWeb",
+    "Release": "2012-06-22",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2015-06-22"
+  },
+  {
+    "title": "FortiWeb 5.0",
+    "guid": "defc1175e27e44901b68d4ee0ed8abe856aa134bea4c034424ef6ac0a8bbe069",
+    "pubDate": "Fri, 23 Jul 2021 08:43:25 -0700",
+    "category": "FortiWeb",
+    "Release": "2013-05-17",
+    "End of Engineering Support": "2016-05-17",
+    "End of Support": "2017-11-17"
+  },
+  {
+    "title": "FortiWeb 5.1",
+    "guid": "5c4a00bc1a4020574465356ad4f415f4f897d27ae5360adc6ecd0405c5e0c98a",
+    "pubDate": "Fri, 23 Jul 2021 08:44:23 -0700",
+    "category": "FortiWeb",
+    "Release": "2014-01-20",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2017-07-20"
+  },
+  {
+    "title": "FortiWeb 5.2",
+    "guid": "d769f3cecbbe5e312b04de45ac6f7063dd71ca788a834f68bac939e80d137abf",
+    "pubDate": "Fri, 23 Jul 2021 08:44:32 -0700",
+    "category": "FortiWeb",
+    "Release": "2014-04-22",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2017-11-01"
+  },
+  {
+    "title": "FortiWeb 5.3",
+    "guid": "f5ee2fa7b71c4538b7982f364d3de0e3090faaa1e1310fc020e147865063d2d8",
+    "pubDate": "Fri, 23 Jul 2021 08:44:50 -0700",
+    "category": "FortiWeb",
+    "Release": "2014-09-02",
+    "End of Engineering Support": "2017-09-02",
+    "End of Support": "2018-03-02"
+  },
+  {
+    "title": "FortiWeb 5.4",
+    "guid": "3662b32cafba181639b4f0ae855305e4db298cc5ba8f472185c8ca21e5d482de",
+    "pubDate": "Fri, 23 Jul 2021 08:45:02 -0700",
+    "category": "FortiWeb",
+    "Release": "2015-08-14",
+    "End of Engineering Support": "2018-08-14",
+    "End of Support": "2018-08-14"
+  },
+  {
+    "title": "FortiWeb 5.5",
+    "guid": "5ad2305fb56cceca120275c6bc090586deac5c2b8cf0c91d816e6bff8444c1ae",
+    "pubDate": "Fri, 23 Jul 2021 08:45:13 -0700",
+    "category": "FortiWeb",
+    "Release": "2015-12-15",
+    "End of Engineering Support": "2018-12-15",
+    "End of Support": "2018-12-15"
+  },
+  {
+    "title": "FortiWeb 5.6",
+    "guid": "1fce03611e4ed2e7e4f20ed15cd1d7f11b74e1e6f9e879a14f216828ade90e90",
+    "pubDate": "Fri, 23 Jul 2021 08:45:26 -0700",
+    "category": "FortiWeb",
+    "Release": "2016-09-26",
+    "End of Engineering Support": "2019-09-26",
+    "End of Support": "2019-09-26"
+  },
+  {
+    "title": "FortiWeb 5.7",
+    "guid": "26b749873374662bf2ad5153f5878087026e8aa8ad4794ee7d43c3af77aeb5ab",
+    "pubDate": "Fri, 23 Jul 2021 08:45:34 -0700",
+    "category": "FortiWeb",
+    "Release": "2017-01-18",
+    "End of Engineering Support": "2020-01-18",
+    "End of Support": "2021-07-18"
+  },
+  {
+    "title": "FortiWeb 5.8",
+    "guid": "389646d2f397691920ece8e90fb0ccf99362d0c7e7169aef4de781b43ab2a095",
+    "pubDate": "Fri, 23 Jul 2021 08:45:42 -0700",
+    "category": "FortiWeb",
+    "Release": "2017-04-27",
+    "End of Engineering Support": "2020-04-27",
+    "End of Support": "2021-10-27"
+  },
+  {
+    "title": "FortiWeb 5.9",
+    "guid": "c6f79f724ad1644f43661ee7413cad0ed3f535989b2cad73d824ffcaa3ee99e4",
+    "pubDate": "Fri, 23 Jul 2021 08:45:51 -0700",
+    "category": "FortiWeb",
+    "Release": "2018-03-20",
+    "End of Engineering Support": "2021-03-20",
+    "End of Support": "2022-09-20"
+  },
+  {
+    "title": "FortiWeb 6.0",
+    "guid": "504842452df3114e4bf02c2ce03fee37592b8cc731929d6ef91beaebd8676f16",
+    "pubDate": "Fri, 23 Jul 2021 08:45:58 -0700",
+    "category": "FortiWeb",
+    "Release": "2018-05-23",
+    "End of Engineering Support": "2021-05-23",
+    "End of Support": "2022-11-23"
+  },
+  {
+    "title": "FortiWeb 6.1",
+    "guid": "680535e835c08d1cf0de4baad807a7271f86bf636cbec784b2f7b42297c7f3c0",
+    "pubDate": "Fri, 23 Jul 2021 08:46:06 -0700",
+    "category": "FortiWeb",
+    "Release": "2019-03-27",
+    "End of Engineering Support": "2022-03-27",
+    "End of Support": "2023-09-27"
+  },
+  {
+    "title": "FortiWeb 6.2",
+    "guid": "b2c5f848ffa8539c80bb6938db622b5bd7c8ecf1a3f68ddc8f8cd88199e36210",
+    "pubDate": "Fri, 23 Jul 2021 08:46:18 -0700",
+    "category": "FortiWeb",
+    "Release": "2019-09-30",
+    "End of Engineering Support": "2022-09-30",
+    "End of Support": "2024-03-30"
+  },
+  {
+    "title": "FortiWeb 6.3",
+    "guid": "887523cc8da0a8980f81926b96121b83410b6d736a136ba57baaec98e87c51af",
+    "pubDate": "Fri, 23 Jul 2021 08:46:27 -0700",
+    "category": "FortiWeb",
+    "Release": "2020-01-21",
+    "End of Engineering Support": "2023-01-21",
+    "End of Support": "2024-07-21"
+  },
+  {
+    "title": "FortiWeb 6.4",
+    "guid": "7fd82b28207a6e1276d83e20398e361a2f155bb26920ece3a9fc0923894b9ce5",
+    "pubDate": "Fri, 03 Feb 2023 06:34:00 -0800",
+    "category": "FortiWeb",
+    "Release": "2021-07-02",
+    "End of Engineering Support": "2023-04-01",
+    "End of Support": "2023-10-01"
+  },
+  {
+    "title": "FortiWeb 7.0",
+    "guid": "e285210d0941b15d046b216056700fa68661539920db88ab0ff60b33f80a14a2",
+    "pubDate": "Fri, 21 Jan 2022 05:21:14 -0800",
+    "category": "FortiWeb",
+    "Release": "2022-01-19",
+    "End of Engineering Support": "2025-01-19",
+    "End of Support": "2026-07-19"
+  },
+  {
+    "title": "FortiWeb 7.2",
+    "guid": "1031d2a49f4597412cd9414b03baea6ff03052c93cbb8dc43b21e265962dbbfa",
+    "pubDate": "Mon, 19 Dec 2022 08:24:13 -0800",
+    "category": "FortiWeb",
+    "Release": "2022-12-16",
+    "End of Engineering Support": "2025-12-16",
+    "End of Support": "2027-06-16"
+  },
+  {
+    "title": "FortiWeb 7.4",
+    "guid": "8f65343551b6409389e64cc7b6987a21c590be0b57a2b45784e535199a70972f",
+    "pubDate": "Wed, 26 Jul 2023 05:25:01 -0700",
+    "category": "FortiWeb",
+    "Release": "2023-07-25",
+    "End of Engineering Support": "2026-07-25",
+    "End of Support": "2028-01-25"
+  },
+  {
+    "title": "FortiWeb 7.6",
+    "guid": "1f4e92ec347f23954b79cfeceefc8632a6c72bffee521fca55673c36cf205c29",
+    "pubDate": "Wed, 26 Jun 2024 08:23:52 -0700",
+    "category": "FortiWeb",
+    "Release": "2024-06-25",
+    "End of Engineering Support": "2027-06-25",
+    "End of Support": "2028-12-25"
+  },
+  {
+    "title": "FortiWeb 8.0",
+    "guid": "809da6cd54dc8673dcc9050689a424cdb9eab838c8ac5f67164245c326498e51",
+    "pubDate": "Mon, 28 Jul 2025 11:57:11 -0700",
+    "category": "FortiWeb",
+    "Release": "2025-07-28",
+    "End of Engineering Support": "2028-07-28",
+    "End of Support": "2030-01-28"
+  }
+]

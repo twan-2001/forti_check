@@ -1,0 +1,38 @@
+[
+  {
+    "title": "FortiAP-U 5.4",
+    "guid": "5bccdb97203a0048f40f96d5ea8a825ac12451cb72223ab9f17d0d05a380be13",
+    "pubDate": "Fri, 29 Apr 2022 05:13:01 -0700",
+    "category": "FortiAP-U",
+    "Release": "2017-04-20",
+    "End of Engineering Support": "2020-04-20",
+    "End of Support": "2021-10-20"
+  },
+  {
+    "title": "FortiAP-U 6.0",
+    "guid": "0f18d40964843d6b8a5b2383513430f44737ecc9207de82af25db36c15ed4311",
+    "pubDate": "Fri, 29 Apr 2022 05:15:13 -0700",
+    "category": "FortiAP-U",
+    "Release": "2019-10-31",
+    "End of Engineering Support": "2022-10-31",
+    "End of Support": "2024-04-30"
+  },
+  {
+    "title": "FortiAP-U 6.2",
+    "guid": "06bf560078f5e3fc966adefcd6d312cdd434b025c31c12faf3f511d223e25b41",
+    "pubDate": "Fri, 29 Apr 2022 05:15:45 -0700",
+    "category": "FortiAP-U",
+    "Release": "2021-01-07",
+    "End of Engineering Support": "2024-01-07",
+    "End of Support": "2025-07-07"
+  },
+  {
+    "title": "FortiAP-U 7.0",
+    "guid": "be4bc2443873fee9bb88b922eb0cfd37cd7679dcb6eba0ebaaafb450ac98dd5a",
+    "pubDate": "Thu, 08 Dec 2022 11:24:41 -0800",
+    "category": "FortiAP-U",
+    "Release": "2022-12-08",
+    "End of Engineering Support": "2025-12-08",
+    "End of Support": "2027-06-08"
+  }
+]

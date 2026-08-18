@@ -1,0 +1,56 @@
+[
+  {
+    "title": "FortiSwitchATCA 4.0",
+    "guid": "f83c257c57ac3d041b26daf37556d995556c489309748bca86404d5a7fb0dda4",
+    "pubDate": "Thu, 22 Jul 2021 09:42:54 -0700",
+    "category": "FortiSwitchATCA",
+    "Release": "2009-02-27",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-02-27"
+  },
+  {
+    "title": "FortiSwitchATCA 4.1",
+    "guid": "b96cf7d0296fc1f8b639457ca6a7731e5563a5549c89e1ebf71cb5290762b0e2",
+    "pubDate": "Thu, 22 Jul 2021 09:45:23 -0700",
+    "category": "FortiSwitchATCA",
+    "Release": "2009-07-16",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-07-16"
+  },
+  {
+    "title": "FortiSwitchATCA 4.2",
+    "guid": "6cbc7ee65b83f319be11d97d08a8f57649bc4b248398f70f7285f0fbd3a2d3b8",
+    "pubDate": "Thu, 22 Jul 2021 09:50:04 -0700",
+    "category": "FortiSwitchATCA",
+    "Release": "2010-04-08",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-04-08"
+  },
+  {
+    "title": "FortiSwitchATCA 4.3",
+    "guid": "0ef05ab5a17ddb09228e8cfdc0aa5d06caf9ba1535a7203afd341276df2b913b",
+    "pubDate": "Thu, 22 Jul 2021 09:46:55 -0700",
+    "category": "FortiSwitchATCA",
+    "Release": "2011-09-22",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-09-22"
+  },
+  {
+    "title": "FortiSwitchATCA 5.0",
+    "guid": "05de9e66d18fd32051b6825f5c9e8c472c4f8b653f25600b8eebf080ef0684c4",
+    "pubDate": "Thu, 22 Jul 2021 09:47:14 -0700",
+    "category": "FortiSwitchATCA",
+    "Release": "2013-01-14",
+    "End of Engineering Support": "2016-01-14",
+    "End of Support": "2017-07-14"
+  },
+  {
+    "title": "FortiSwitchATCA 5.2",
+    "guid": "ce0052beeee15a699d26c09811dd347e4360515c7dfdc2bbc1a0f29226405692",
+    "pubDate": "Tue, 19 Sep 2023 10:46:30 -0700",
+    "category": "FortiSwitchATCA",
+    "Release": "2014-12-02",
+    "End of Engineering Support": "2017-12-02",
+    "End of Support": "2024-10-22"
+  }
+]

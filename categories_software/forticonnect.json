@@ -1,0 +1,38 @@
+[
+  {
+    "title": "FortiConnect 16.7",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConnect",
+    "Release": "2016-09-07",
+    "End of Engineering Support": "2019-09-07",
+    "End of Support": "2021-03-07"
+  },
+  {
+    "title": "FortiConnect 16.8",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConnect",
+    "Release": "2017-05-05",
+    "End of Engineering Support": "2020-05-05",
+    "End of Support": "2021-11-05"
+  },
+  {
+    "title": "FortiConnect 16.9",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiConnect",
+    "Release": "2018-04-18",
+    "End of Engineering Support": "2021-04-18",
+    "End of Support": "2022-10-18"
+  },
+  {
+    "title": "FortiConnect 17.0",
+    "guid": "d3f99354adf7f7ce3f519d1e10e4cfb18a99231ef5624896c6c2b899576a4606",
+    "pubDate": "Wed, 28 Oct 2020 07:23:53 -0700",
+    "category": "FortiConnect",
+    "Release": "2020-06-24",
+    "End of Engineering Support": "2023-06-24",
+    "End of Support": "2024-12-24"
+  }
+]

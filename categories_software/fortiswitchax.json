@@ -1,0 +1,56 @@
+[
+  {
+    "title": "FortiSwitchAX 2.3",
+    "guid": "a029493fefd685e872fa917afffb46daad5f6ab9f2a1ff43f1b9317d01bb8f53",
+    "pubDate": "Fri, 30 Jan 2026 05:23:02 -0800",
+    "category": "FortiSwitchAX",
+    "Release": "2023-08-01",
+    "End of Engineering Support": "2026-08-01",
+    "End of Support": "2028-02-01"
+  },
+  {
+    "title": "FortiSwitchAX 2.5",
+    "guid": "908c6df5c064173818d653f35a6c6e65d6b9232530a58f44f6937079dd80b699",
+    "pubDate": "Fri, 30 Jan 2026 05:24:42 -0800",
+    "category": "FortiSwitchAX",
+    "Release": "2024-05-22",
+    "End of Engineering Support": "2027-05-22",
+    "End of Support": "2028-11-22"
+  },
+  {
+    "title": "FortiSwitchAX 2.7",
+    "guid": "ad21625e102ea61af0fb30aa5737f373d7a53d2b8b0f34ca715c5b345ce95a5a",
+    "pubDate": "Tue, 24 Feb 2026 11:21:46 -0800",
+    "category": "FortiSwitchAX",
+    "Release": "2025-09-30",
+    "End of Engineering Support": "2028-09-30",
+    "End of Support": "2030-03-30"
+  },
+  {
+    "title": "FortiSwitchAX 2.8",
+    "guid": "d4d3c03b97c95c9e925ef8815bd5641d3624bed785d9edc3bf434bac81c89585",
+    "pubDate": "Tue, 24 Feb 2026 11:22:09 -0800",
+    "category": "FortiSwitchAX",
+    "Release": "2026-01-22",
+    "End of Engineering Support": "2029-01-22",
+    "End of Support": "2030-07-22"
+  },
+  {
+    "title": "FortiSwitchAX 12.1",
+    "guid": "f550f9513c5888dca29f3c4773575e000285c8e008b69ced4b4622e8501b111d",
+    "pubDate": "Fri, 30 Jan 2026 05:22:48 -0800",
+    "category": "FortiSwitchAX",
+    "Release": "2023-08-01",
+    "End of Engineering Support": "2026-08-01",
+    "End of Support": "2028-02-01"
+  },
+  {
+    "title": "FortiSwitchAX 12.2",
+    "guid": "bd345ed634b8be6937fbdbd8cb257f4fbc47265e329680d063d7d09497ee00d4",
+    "pubDate": "Tue, 24 Feb 2026 11:22:58 -0800",
+    "category": "FortiSwitchAX",
+    "Release": "2025-09-30",
+    "End of Engineering Support": "2028-09-30",
+    "End of Support": "2030-03-30"
+  }
+]

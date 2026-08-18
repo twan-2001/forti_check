@@ -1,0 +1,164 @@
+[
+  {
+    "title": "FortiRecorder 1.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2012-12-06",
+    "End of Engineering Support": "2015-12-06",
+    "End of Support": "2017-06-06"
+  },
+  {
+    "title": "FortiRecorder 1.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2013-01-15",
+    "End of Engineering Support": "2016-01-15",
+    "End of Support": "2017-07-15"
+  },
+  {
+    "title": "FortiRecorder 1.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2013-03-04",
+    "End of Engineering Support": "2016-03-04",
+    "End of Support": "2017-09-04"
+  },
+  {
+    "title": "FortiRecorder 1.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2013-07-05",
+    "End of Engineering Support": "2016-07-05",
+    "End of Support": "2018-01-05"
+  },
+  {
+    "title": "FortiRecorder 1.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2013-04-11",
+    "End of Engineering Support": "2016-04-11",
+    "End of Support": "2017-10-11"
+  },
+  {
+    "title": "FortiRecorder 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2014-12-02",
+    "End of Engineering Support": "2017-12-02",
+    "End of Support": "2019-06-02"
+  },
+  {
+    "title": "FortiRecorder 2.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2015-03-05",
+    "End of Engineering Support": "2018-03-05",
+    "End of Support": "2019-09-05"
+  },
+  {
+    "title": "FortiRecorder 2.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2015-07-10",
+    "End of Engineering Support": "2018-07-10",
+    "End of Support": "2020-01-10"
+  },
+  {
+    "title": "FortiRecorder 2.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2016-02-26",
+    "End of Engineering Support": "2019-02-26",
+    "End of Support": "2020-08-26"
+  },
+  {
+    "title": "FortiRecorder 2.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2016-06-15",
+    "End of Engineering Support": "2019-06-15",
+    "End of Support": "2020-12-15"
+  },
+  {
+    "title": "FortiRecorder 2.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2016-12-23",
+    "End of Engineering Support": "2019-12-23",
+    "End of Support": "2021-06-23"
+  },
+  {
+    "title": "FortiRecorder 2.6",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiRecorder",
+    "Release": "2018-02-09",
+    "End of Engineering Support": "2021-02-09",
+    "End of Support": "2022-08-09"
+  },
+  {
+    "title": "FortiRecorder 2.7",
+    "guid": "97a313c6b356def4c136a81931c2335cffc0e8570de25cdd92eafebe857c850c",
+    "pubDate": "Wed, 28 Oct 2020 07:25:19 -0700",
+    "category": "FortiRecorder",
+    "Release": "2019-01-30",
+    "End of Engineering Support": "2022-01-30",
+    "End of Support": "2023-07-30"
+  },
+  {
+    "title": "FortiRecorder 6.0",
+    "guid": "e5afc58bb5ae232cbdb90acd6f07a5ba3e30fb0f83bdbfd745ebcab1f8d90a8b",
+    "pubDate": "Mon, 20 Apr 2020 06:09:24 -0700",
+    "category": "FortiRecorder",
+    "Release": "2020-04-17",
+    "End of Engineering Support": "2023-04-17",
+    "End of Support": "2024-10-17"
+  },
+  {
+    "title": "FortiRecorder 6.4",
+    "guid": "f4ba5f2d38e8d708bd66934840c9128b505a2fa808b2301986383a30e1c9ed07",
+    "pubDate": "Fri, 23 Jul 2021 05:48:43 -0700",
+    "category": "FortiRecorder",
+    "Release": "2021-07-22",
+    "End of Engineering Support": "2024-07-22",
+    "End of Support": "2026-01-22"
+  },
+  {
+    "title": "FortiRecorder 7.0",
+    "guid": "9c1426f6a788381da7ae95518e8e54aaae59a14770cc6982271640e37ff81155",
+    "pubDate": "Wed, 01 Mar 2023 05:48:03 -0800",
+    "category": "FortiRecorder",
+    "Release": "2023-03-01",
+    "End of Engineering Support": "2026-03-01",
+    "End of Support": "2027-09-01"
+  },
+  {
+    "title": "FortiRecorder 7.2",
+    "guid": "bce4d0e52971f5a1423826f89b9dbb0c3c38c1fe659659cbda936dc0fd2421f9",
+    "pubDate": "Tue, 18 Nov 2025 06:07:25 -0800",
+    "category": "FortiRecorder",
+    "Release": "2024-03-27",
+    "End of Engineering Support": "2027-03-27",
+    "End of Support": "2028-09-27"
+  },
+  {
+    "title": "FortiRecorder 7.6",
+    "guid": "ad7f1f9fb5eb624344d1a6b67fd8a12fed6aaac3b50435d3f8ee41c0a8cf20c6",
+    "pubDate": "Thu, 02 Jul 2026 05:03:54 -0700",
+    "category": "FortiRecorder",
+    "Release": "2026-06-30",
+    "End of Engineering Support": "2029-06-30",
+    "End of Support": "2030-12-30"
+  }
+]

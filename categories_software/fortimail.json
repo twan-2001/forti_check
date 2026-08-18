@@ -1,0 +1,218 @@
+[
+  {
+    "title": "FortiMail 2.8",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2007-01-15",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-01-15"
+  },
+  {
+    "title": "FortiMail 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2007-08-03",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-08-03"
+  },
+  {
+    "title": "FortiMail 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2007-11-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-11-01"
+  },
+  {
+    "title": "FortiMail 3.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2007-12-24",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2010-12-24"
+  },
+  {
+    "title": "FortiMail 3.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2008-04-18",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-04-18"
+  },
+  {
+    "title": "FortiMail 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2008-08-01",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2011-08-01"
+  },
+  {
+    "title": "FortiMail 3.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2009-05-07",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-05-07"
+  },
+  {
+    "title": "FortiMail 4.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2009-11-24",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2012-11-24"
+  },
+  {
+    "title": "FortiMail 4.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2010-07-12",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2013-07-12"
+  },
+  {
+    "title": "FortiMail 4.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2011-03-11",
+    "End of Engineering Support": "N/A",
+    "End of Support": "2014-03-11"
+  },
+  {
+    "title": "FortiMail 4.3",
+    "guid": "6e2d2cdfbb699f5a5661144c8de594e6494b3741aaa602b2fecf6fceb9a19101",
+    "pubDate": "Wed, 15 Apr 2020 08:26:55 -0700",
+    "category": "FortiMail",
+    "Release": "2012-02-07",
+    "End of Engineering Support": "2015-02-07",
+    "End of Support": "2016-08-07"
+  },
+  {
+    "title": "FortiMail 5.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2013-02-28",
+    "End of Engineering Support": "2016-02-28",
+    "End of Support": "2017-08-28"
+  },
+  {
+    "title": "FortiMail 5.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2013-12-19",
+    "End of Engineering Support": "2016-12-19",
+    "End of Support": "2018-06-19"
+  },
+  {
+    "title": "FortiMail 5.2",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2014-08-25",
+    "End of Engineering Support": "2017-08-25",
+    "End of Support": "2019-02-25"
+  },
+  {
+    "title": "FortiMail 5.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2015-11-30",
+    "End of Engineering Support": "2018-11-30",
+    "End of Support": "2020-05-30"
+  },
+  {
+    "title": "FortiMail 5.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2017-07-25",
+    "End of Engineering Support": "2020-07-25",
+    "End of Support": "2022-01-25"
+  },
+  {
+    "title": "FortiMail 6.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMail",
+    "Release": "2018-05-29",
+    "End of Engineering Support": "2021-05-29",
+    "End of Support": "2022-11-29"
+  },
+  {
+    "title": "FortiMail 6.2",
+    "guid": "e8bd4730912b5667ec18bdf59d2b57a9438619852e2a89bfeed9c1ce685609d2",
+    "pubDate": "Mon, 12 Aug 2019 06:40:08 -0700",
+    "category": "FortiMail",
+    "Release": "2019-08-09",
+    "End of Engineering Support": "2022-08-09",
+    "End of Support": "2024-02-09"
+  },
+  {
+    "title": "FortiMail 6.4",
+    "guid": "0167165a7e166dbec385b6b3a4742ead8d5c240d96c184c02ddeeb148494b8d8",
+    "pubDate": "Mon, 11 May 2020 06:53:28 -0700",
+    "category": "FortiMail",
+    "Release": "2020-05-08",
+    "End of Engineering Support": "2023-05-08",
+    "End of Support": "2024-11-08"
+  },
+  {
+    "title": "FortiMail 7.0",
+    "guid": "849e91f128e30390c8b9246895d590845af74fc0d5ee20f6ed83a9629b2577db",
+    "pubDate": "Tue, 18 May 2021 00:26:10 -0700",
+    "category": "FortiMail",
+    "Release": "2021-05-17",
+    "End of Engineering Support": "2024-05-17",
+    "End of Support": "2025-11-17"
+  },
+  {
+    "title": "FortiMail 7.2",
+    "guid": "db73625f4f54b046a405d108cc3a935b4f2253cd41f57b45a01a53aca344c09b",
+    "pubDate": "Wed, 11 May 2022 05:40:18 -0700",
+    "category": "FortiMail",
+    "Release": "2022-05-10",
+    "End of Engineering Support": "2025-05-10",
+    "End of Support": "2026-11-10"
+  },
+  {
+    "title": "FortiMail 7.4",
+    "guid": "29e3dce13751a3b0ba32abd45e18737d712e13b2e524d04b72e0e58cab5eb38f",
+    "pubDate": "Tue, 04 Jul 2023 11:50:32 -0700",
+    "category": "FortiMail",
+    "Release": "2023-07-04",
+    "End of Engineering Support": "2026-07-04",
+    "End of Support": "2028-01-04"
+  },
+  {
+    "title": "FortiMail 7.6",
+    "guid": "53f1c729f92a402db085e99af9fae3832ca48d405ad3bb3dcee2290d893dc05b",
+    "pubDate": "Thu, 01 Aug 2024 12:20:52 -0700",
+    "category": "FortiMail",
+    "Release": "2024-08-01",
+    "End of Engineering Support": "2027-08-01",
+    "End of Support": "2029-02-01"
+  },
+  {
+    "title": "FortiMail 8.0",
+    "guid": "5f223b2472c54140af02fbed3e88a702f2574b4f0149aa51b14ebf8499c1a07a",
+    "pubDate": "Wed, 06 May 2026 09:41:15 -0700",
+    "category": "FortiMail",
+    "Release": "2026-05-06",
+    "End of Engineering Support": "2029-05-06",
+    "End of Support": "2030-11-06"
+  }
+]

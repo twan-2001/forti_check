@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiMonitor 2.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMonitor",
+    "Release": "2016-04-26",
+    "End of Engineering Support": "2019-04-26",
+    "End of Support": "2020-10-26"
+  },
+  {
+    "title": "FortiMonitor 3.0",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMonitor",
+    "Release": "2016-10-24",
+    "End of Engineering Support": "2019-10-24",
+    "End of Support": "2021-04-24"
+  },
+  {
+    "title": "FortiMonitor 3.1",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMonitor",
+    "Release": "2016-12-07",
+    "End of Engineering Support": "2019-12-07",
+    "End of Support": "2021-06-07"
+  },
+  {
+    "title": "FortiMonitor 3.2",
+    "guid": "ba068f88f6daab1cf6ba6344ef85117023edcc70cd57b7a2e623764233896ebb",
+    "pubDate": "Wed, 15 Apr 2020 08:27:25 -0700",
+    "category": "FortiMonitor",
+    "Release": "2017-03-27",
+    "End of Engineering Support": "2020-03-27",
+    "End of Support": "2021-09-27"
+  },
+  {
+    "title": "FortiMonitor 3.3",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMonitor",
+    "Release": "2017-07-04",
+    "End of Engineering Support": "2020-07-04",
+    "End of Support": "2022-01-04"
+  },
+  {
+    "title": "FortiMonitor 3.4",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMonitor",
+    "Release": "2017-12-05",
+    "End of Engineering Support": "2020-12-05",
+    "End of Support": "2022-06-05"
+  },
+  {
+    "title": "FortiMonitor 3.5",
+    "guid": "3734ae81b24dd1454b57e240c53c63b56ea58139ae1c83acb469bc96a65ba9fa",
+    "pubDate": "Wed, 16 Jan 2019 00:00:00 -0800",
+    "category": "FortiMonitor",
+    "Release": "2018-04-12",
+    "End of Engineering Support": "2021-04-12",
+    "End of Support": "2022-10-12"
+  },
+  {
+    "title": "FortiMonitor 7.2",
+    "guid": "e8f580e6c48a1ba38420515b46f1c490e278a4d2d8ecb6c1cb67e2f0c5464160",
+    "pubDate": "Wed, 01 Feb 2023 05:12:40 -0800",
+    "category": "FortiMonitor",
+    "Release": "2023-01-31",
+    "End of Engineering Support": "2026-01-31",
+    "End of Support": "2027-07-31"
+  }
+]

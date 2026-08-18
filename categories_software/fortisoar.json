@@ -1,0 +1,74 @@
+[
+  {
+    "title": "FortiSOAR 6.4",
+    "guid": "798418cca5525fb0c6de18f27e806319efc807a41ff150916d2e74def7d8f45b",
+    "pubDate": "Tue, 23 Jul 2024 06:13:25 -0700",
+    "category": "FortiSOAR",
+    "Release": "2020-05-07",
+    "End of Engineering Support": "2023-05-07",
+    "End of Support": "2024-07-04"
+  },
+  {
+    "title": "FortiSOAR 7.0",
+    "guid": "53d6f847482d425f9005c45b2a22f7d0e0d51ca42e7f7aa50bbe58a86a0acf2c",
+    "pubDate": "Tue, 23 Jul 2024 06:14:09 -0700",
+    "category": "FortiSOAR",
+    "Release": "2021-04-26",
+    "End of Engineering Support": "2024-04-26",
+    "End of Support": "2024-07-04"
+  },
+  {
+    "title": "FortiSOAR 7.2",
+    "guid": "a1b4f7b967477b2245720d831ab577316f1cba552b25220cd4d4e89f8ed9c2fb",
+    "pubDate": "Tue, 23 Jul 2024 06:16:12 -0700",
+    "category": "FortiSOAR",
+    "Release": "2022-04-22",
+    "End of Engineering Support": "2024-07-04",
+    "End of Support": "2024-07-04"
+  },
+  {
+    "title": "FortiSOAR 7.3",
+    "guid": "d42ad295aebe31fdba81e4c37164dc72d17201edf87f0e2324f5d5f9b07da56d",
+    "pubDate": "Wed, 09 Nov 2022 05:08:57 -0800",
+    "category": "FortiSOAR",
+    "Release": "2022-11-08",
+    "End of Engineering Support": "2025-11-08",
+    "End of Support": "2027-05-08"
+  },
+  {
+    "title": "FortiSOAR 7.4",
+    "guid": "f1798032df9f4a1befad07b63a1c640834e02ee339c508351312113a07d9dfa2",
+    "pubDate": "Tue, 28 Mar 2023 12:20:09 -0700",
+    "category": "FortiSOAR",
+    "Release": "2023-03-28",
+    "End of Engineering Support": "2026-03-28",
+    "End of Support": "2027-09-28"
+  },
+  {
+    "title": "FortiSOAR 7.5",
+    "guid": "dbc3b7be6078986fe15f1f0fb04b4b65dee5717cc5108d1c061e7b1442468764",
+    "pubDate": "Wed, 03 Apr 2024 12:52:26 -0700",
+    "category": "FortiSOAR",
+    "Release": "2024-04-03",
+    "End of Engineering Support": "2027-04-03",
+    "End of Support": "2028-10-03"
+  },
+  {
+    "title": "FortiSOAR 7.6",
+    "guid": "e9cfbd5abf58b548b4d7f4bc73b3743d34f5801b919117ed9150b0d5416fdffe",
+    "pubDate": "Thu, 01 Aug 2024 11:35:26 -0700",
+    "category": "FortiSOAR",
+    "Release": "2024-08-01",
+    "End of Engineering Support": "2027-08-01",
+    "End of Support": "2029-02-01"
+  },
+  {
+    "title": "FortiSOAR 8.0",
+    "guid": "bc77274bf5652a14d4a27199a49a3912a33c644f2b932e10b3ec42e8329de7a7",
+    "pubDate": "Mon, 22 Jun 2026 10:29:48 -0700",
+    "category": "FortiSOAR",
+    "Release": "2026-06-22",
+    "End of Engineering Support": "2029-06-22",
+    "End of Support": "2030-12-22"
+  }
+]
