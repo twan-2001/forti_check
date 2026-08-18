@@ -27,6 +27,7 @@ DISCORD_ORANGE = 0xE67E22
 DISCORD_RED = 0xE74C3C
 DATE_FIELDS = ("End of Order", "Last Service Extension", "End of Support")
 UPCOMING_WINDOW_DAYS = 30
+EXPIRED_WINDOW_DAYS = 30
 STATE_FILENAME = "notification_state.json"
 
 
@@ -82,8 +83,12 @@ def group_by_category(items: list[dict]) -> dict[str, list[dict]]:
     return grouped
 
 
-def load_existing_guids(grouped: dict[str, list[dict]], out_dir: Path) -> set[str]:
-    """Read guids already present on disk, before they get overwritten."""
+def load_existing_titles(grouped: dict[str, list[dict]], out_dir: Path) -> set[str]:
+    """Read titles already present on disk, before they get overwritten.
+
+    Title is used as the identity key instead of guid: Fortinet's feed reuses
+    the same guid across many unrelated entries, but titles are unique.
+    """
     existing: set[str] = set()
     for category in grouped:
         file_path = out_dir / f"{slugify(category)}.json"
@@ -92,14 +97,14 @@ def load_existing_guids(grouped: dict[str, list[dict]], out_dir: Path) -> set[st
         try:
             with file_path.open("r", encoding="utf-8") as f:
                 data = json.load(f)
-            existing.update(entry.get("guid") for entry in data)
+            existing.update(entry.get("title") for entry in data)
         except (json.JSONDecodeError, OSError):
             pass
     return existing
 
 
 def load_notification_state(state_path: Path) -> dict[str, str]:
-    """Maps "guid:field:kind" -> last-notified date, so alerts fire once per date value."""
+    """Maps "title:field:kind" -> last-notified date, so alerts fire once per date value."""
     if not state_path.exists():
         return {}
     try:
@@ -121,7 +126,7 @@ def filter_unnotified(
     """Drop entries already notified for this exact date value."""
     result = []
     for entry, field, when in candidates:
-        key = f"{entry.get('guid')}:{field}:{kind}"
+        key = f"{entry.get('title')}:{field}:{kind}"
         if state.get(key) == when.isoformat():
             continue
         result.append((entry, field, when))
@@ -210,24 +215,28 @@ def send_upcoming_notification(webhook_url: str, entry: dict, field: str, when: 
 
 
 def notify_upcoming_dates(
-    upcoming: list[tuple[dict, str, date]], webhook_url: str | None, state: dict[str, str]
+    upcoming: list[tuple[dict, str, date]], webhook_url: str | None, state: dict[str, str], mark_only: bool = False
 ) -> None:
     if not upcoming:
         return
+    if mark_only:
+        for entry, field, when in upcoming:
+            state[f"{entry.get('title')}:{field}:upcoming"] = when.isoformat()
+        print(f"Marked {len(upcoming)} upcoming dates as notified without sending (--mark-only).")
+        return
     if not webhook_url:
         print(f"{len(upcoming)} upcoming dates found but no webhook URL provided; skipping notifications.")
-        for entry, field, when in upcoming:
-            state[f"{entry.get('guid')}:{field}:upcoming"] = when.isoformat()
         return
     for entry, field, when in upcoming:
         send_upcoming_notification(webhook_url, entry, field, when)
-        state[f"{entry.get('guid')}:{field}:upcoming"] = when.isoformat()
+        state[f"{entry.get('title')}:{field}:upcoming"] = when.isoformat()
         time.sleep(5)  # stay well under Discord's rate limit
     print(f"Sent {len(upcoming)} upcoming-date notifications.")
 
 
-def find_expired_dates(items: list[dict]) -> list[tuple[dict, str, date]]:
+def find_expired_dates(items: list[dict], within_days: int = EXPIRED_WINDOW_DAYS) -> list[tuple[dict, str, date]]:
     today = date.today()
+    earliest = today - timedelta(days=within_days)
     expired = []
     for entry in items:
         for field in DATE_FIELDS:
@@ -238,7 +247,7 @@ def find_expired_dates(items: list[dict]) -> list[tuple[dict, str, date]]:
                 parsed = datetime.strptime(value, "%Y-%m-%d").date()
             except ValueError:
                 continue
-            if parsed < today:
+            if earliest <= parsed < today:
                 expired.append((entry, field, parsed))
     return expired
 
@@ -261,18 +270,21 @@ def send_expired_notification(webhook_url: str, entry: dict, field: str, when: d
 
 
 def notify_expired_dates(
-    expired: list[tuple[dict, str, date]], webhook_url: str | None, state: dict[str, str]
+    expired: list[tuple[dict, str, date]], webhook_url: str | None, state: dict[str, str], mark_only: bool = False
 ) -> None:
     if not expired:
         return
+    if mark_only:
+        for entry, field, when in expired:
+            state[f"{entry.get('title')}:{field}:expired"] = when.isoformat()
+        print(f"Marked {len(expired)} expired dates as notified without sending (--mark-only).")
+        return
     if not webhook_url:
         print(f"{len(expired)} expired dates found but no webhook URL provided; skipping notifications.")
-        for entry, field, when in expired:
-            state[f"{entry.get('guid')}:{field}:expired"] = when.isoformat()
         return
     for entry, field, when in expired:
         send_expired_notification(webhook_url, entry, field, when)
-        state[f"{entry.get('guid')}:{field}:expired"] = when.isoformat()
+        state[f"{entry.get('title')}:{field}:expired"] = when.isoformat()
         time.sleep(5)  # stay well under Discord's rate limit
     print(f"Sent {len(expired)} expired-date notifications.")
 
@@ -300,6 +312,11 @@ def main() -> int:
     parser.add_argument(
         "--state-dir", default=DEFAULT_STATE_DIR, help="Directory to store notification state"
     )
+    parser.add_argument(
+        "--mark-only",
+        action="store_true",
+        help="Record upcoming/expired dates as notified without sending Discord messages",
+    )
     args = parser.parse_args()
 
     items = fetch_items(args.url)
@@ -309,8 +326,8 @@ def main() -> int:
 
     out_dir = Path(args.out_dir)
     grouped = group_by_category(items)
-    existing_guids = load_existing_guids(grouped, out_dir)
-    new_entries = [item for item in items if item["guid"] not in existing_guids]
+    existing_titles = load_existing_titles(grouped, out_dir)
+    new_entries = [item for item in items if item["title"] not in existing_titles]
 
     state_path = Path(args.state_dir) / STATE_FILENAME
     state = load_notification_state(state_path)
@@ -319,8 +336,8 @@ def main() -> int:
 
     write_category_files(grouped, out_dir)
     notify_new_entries(new_entries, args.webhook_url)
-    notify_upcoming_dates(upcoming, args.webhook_url, state)
-    notify_expired_dates(expired, args.webhook_url, state)
+    notify_upcoming_dates(upcoming, args.webhook_url, state, args.mark_only)
+    notify_expired_dates(expired, args.webhook_url, state, args.mark_only)
     save_notification_state(state_path, state)
     return 0
 
