@@ -370,6 +370,26 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiSwitch-424E-Fiber",
+    "guid": "4f57bcadccceddda988f06ae69a6a6b6b08c338204b4a8cd3d2b25c21668655c",
+    "pubDate": "Mon, 31 Aug 2026 00:10:41 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-11-29",
+    "Last Service Extension": "2030-11-29",
+    "End of Support": "2031-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-424E-Fiber-TAA",
+    "guid": "4f57bcadccceddda988f06ae69a6a6b6b08c338204b4a8cd3d2b25c21668655c",
+    "pubDate": "Mon, 31 Aug 2026 00:10:41 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-11-29",
+    "Last Service Extension": "2030-11-29",
+    "End of Support": "2031-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiSwitch-424E-FPOE",
     "guid": "01789ba842a8e9ca1324c853999e858ae08f025025d70fb33d68655b5d1b388d",
     "pubDate": "Fri, 31 Jul 2026 00:10:37 -0700",
@@ -480,6 +500,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiSwitch-448E-FPOE-TAA",
+    "guid": "4f57bcadccceddda988f06ae69a6a6b6b08c338204b4a8cd3d2b25c21668655c",
+    "pubDate": "Mon, 31 Aug 2026 00:10:41 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-11-29",
+    "Last Service Extension": "2030-11-29",
+    "End of Support": "2031-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiSwitch-448E-POE",
     "guid": "8b6574e2f6855c56bbfb9deb8099424680e66cf0cfe91433418eabc1e7369592",
     "pubDate": "Mon, 15 Jun 2026 00:10:45 -0700",
@@ -487,6 +517,26 @@
     "End of Order": "2026-09-13",
     "Last Service Extension": "2030-09-13",
     "End of Support": "2031-09-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448E-POE-TAA",
+    "guid": "4f57bcadccceddda988f06ae69a6a6b6b08c338204b4a8cd3d2b25c21668655c",
+    "pubDate": "Mon, 31 Aug 2026 00:10:41 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-11-29",
+    "Last Service Extension": "2030-11-29",
+    "End of Support": "2031-11-29",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSwitch-448E-TAA",
+    "guid": "4f57bcadccceddda988f06ae69a6a6b6b08c338204b4a8cd3d2b25c21668655c",
+    "pubDate": "Mon, 31 Aug 2026 00:10:41 -0700",
+    "category": "FortiSwitch",
+    "End of Order": "2026-11-29",
+    "Last Service Extension": "2030-11-29",
+    "End of Support": "2031-11-29",
     "Last Supported Software Version": "N/A"
   },
   {
