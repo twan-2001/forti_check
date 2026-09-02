@@ -1,5 +1,15 @@
 [
   {
+    "title": "Advanced Services Technical Support",
+    "guid": "a8e4c17dce83d55e6f6c762590b96b2560ab4523dd0c8d56b7ea37ffb3cf21b5",
+    "pubDate": "Tue, 01 Sep 2026 00:10:29 -0700",
+    "category": "LicensesAndServices",
+    "End of Order": "2026-11-30",
+    "Last Service Extension": "2030-11-30",
+    "End of Support": "2031-11-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "EOL-FortiGuard-Premier-Services",
     "guid": "763bd16949463edf040053faf5c22b67da695eb005cc310049fc0b5534caab19",
     "pubDate": "Tue, 17 Jan 2017 06:15:03 -0800",
