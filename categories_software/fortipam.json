@@ -88,5 +88,14 @@
     "Release": "2026-05-05",
     "End of Engineering Support": "2029-05-05",
     "End of Support": "2030-11-05"
+  },
+  {
+    "title": "FortiPAM 7.0",
+    "guid": "cd1212e983ec6983b975612ec43b59176559c30e5c0692377bb2dfaf5e69c55d",
+    "pubDate": "Tue, 15 Sep 2026 13:46:12 -0700",
+    "category": "FortiPAM",
+    "Release": "2026-09-15",
+    "End of Engineering Support": "2029-09-15",
+    "End of Support": "2031-03-15"
   }
 ]
