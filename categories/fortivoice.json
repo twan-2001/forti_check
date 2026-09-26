@@ -270,6 +270,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiVoiceEnterprise-20E2",
+    "guid": "6d0c7eda835376137f76feeaecdb923359d4b41383b2781a08a68974373a1326",
+    "pubDate": "Fri, 25 Sep 2026 00:10:24 -0700",
+    "category": "FortiVoice",
+    "End of Order": "2026-12-24",
+    "Last Service Extension": "2030-12-24",
+    "End of Support": "2031-12-24",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiVoiceEnterprise-3000E",
     "guid": "a027652791a1573f172953be6657bd8816b97b47b022bf74d70337668cc7cb5f",
     "pubDate": "Tue, 25 Jun 2019 06:16:32 -0700",
