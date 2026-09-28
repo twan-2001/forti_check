@@ -48,5 +48,15 @@
     "Last Service Extension": "2028-05-30",
     "End of Support": "2029-05-30",
     "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiSIEM-AIO-2000-BASE",
+    "guid": "a0fb4ba9d5fba468f6590613475e3c6ae34a3c73e59461a72df8d8ab127235a1",
+    "pubDate": "Mon, 28 Sep 2026 00:10:50 -0700",
+    "category": "FortiSIEM",
+    "End of Order": "2026-12-27",
+    "Last Service Extension": "2030-12-27",
+    "End of Support": "2031-12-27",
+    "Last Supported Software Version": "N/A"
   }
 ]
