@@ -1,4 +1,5 @@
 {
+  "ANT-O6ABGN-0607-PT:End of Support:upcoming": "2026-10-31",
   "FAN-336R-60F-60:End of Order:upcoming": "2026-10-13",
   "FAP-U221EV:End of Support:expired": "2026-09-02",
   "FAP-U221EV:End of Support:upcoming": "2026-09-02",
@@ -29,6 +30,9 @@
   "FortiAnalyzer-3700F:End of Support:upcoming": "2026-08-30",
   "FortiAnalyzer-BigData-4500G-TAA-FGDUS:End of Order:expired": "2026-09-03",
   "FortiAnalyzer-BigData-4500G-TAA-FGDUS:End of Order:upcoming": "2026-09-03",
+  "FortiAntenna-664R:End of Support:upcoming": "2026-10-31",
+  "FortiAuthenticator-2000E:End of Support:upcoming": "2026-10-31",
+  "FortiAuthenticator-3000E:End of Support:upcoming": "2026-10-31",
   "FortiAuthenticator-3000F-TAA:End of Order:expired": "2026-07-30",
   "FortiAuthenticator-300F-TAA:End of Order:expired": "2026-07-30",
   "FortiAuthenticator-300F:End of Order:expired": "2026-07-30",
