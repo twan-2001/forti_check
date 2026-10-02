@@ -28,5 +28,6 @@
   "FortiWeb 7.0:End of Support:expired": "2026-07-19",
   "FortiWeb 7.4:End of Engineering Support:expired": "2026-07-25",
   "FortiWeb Manager 6.3:End of Support:expired": "2026-08-07",
-  "FortiWeb Manager 7.0:End of Support:expired": "2026-08-16"
+  "FortiWeb Manager 7.0:End of Support:expired": "2026-08-16",
+  "FortiWeb Manager 7.4:End of Engineering Support:upcoming": "2026-11-01"
 }
