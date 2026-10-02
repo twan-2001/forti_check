@@ -40,6 +40,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiMail Image Analysis add-on",
+    "guid": "962d37b152f2f2420fb34b89d4b2b9f7241e06355c5ccdaf0547aa78885ec0f5",
+    "pubDate": "Thu, 01 Oct 2026 00:10:20 -0700",
+    "category": "FortiMail",
+    "End of Order": "2026-12-30",
+    "Last Service Extension": "2030-12-30",
+    "End of Support": "2031-12-30",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiMail-100",
     "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
     "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
