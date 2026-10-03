@@ -50,6 +50,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiProxy-400G",
+    "guid": "ca3a3e6a8d3574c71d24bebd810cc45d8e3d50014501af9fc9bcc4f0a0e2477b",
+    "pubDate": "Fri, 02 Oct 2026 00:10:10 -0700",
+    "category": "FortiProxy",
+    "End of Order": "2026-12-31",
+    "Last Service Extension": "2030-12-31",
+    "End of Support": "2031-12-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "LIC-FPRXY-VM01",
     "guid": "0514229512f9f07500403908d2e31c11be83735a577812f5297dcc03be3b9bb0",
     "pubDate": "Mon, 01 Aug 2022 06:15:46 -0700",
