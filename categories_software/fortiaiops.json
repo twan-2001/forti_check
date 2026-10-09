@@ -1,0 +1,65 @@
+[
+  {
+    "title": "FortiAIOps 1.0",
+    "guid": "7984b3afb7f2718ee70ba7e5dd1f535de20264c38253b46312e608c252b5cc00",
+    "pubDate": "Fri, 09 Oct 2026 05:43:35 -0700",
+    "category": "FortiAIOps",
+    "Release": "2021-06-19",
+    "End of Engineering Support": "2024-06-19",
+    "End of Support": "2025-12-19"
+  },
+  {
+    "title": "FortiAIOps 1.1",
+    "guid": "b54f2a717151b996cab03b3b4b4dceaa217ff31461c931ba488ae30b7c244293",
+    "pubDate": "Fri, 09 Oct 2026 05:44:02 -0700",
+    "category": "FortiAIOps",
+    "Release": "2022-07-14",
+    "End of Engineering Support": "2025-07-14",
+    "End of Support": "2027-01-14"
+  },
+  {
+    "title": "FortiAIOps 2.0",
+    "guid": "7d219ed1f971e7fed2bafff00e6c20505c0e88c1e5ce7eb7ccaf058f0c9a57aa",
+    "pubDate": "Fri, 09 Oct 2026 05:44:51 -0700",
+    "category": "FortiAIOps",
+    "Release": "2023-11-15",
+    "End of Engineering Support": "2026-11-15",
+    "End of Support": "2028-05-15"
+  },
+  {
+    "title": "FortiAIOps 2.1",
+    "guid": "807be198ab360edb0da495a768184bb4117d76c0dda45584d83d418badd1e389",
+    "pubDate": "Fri, 09 Oct 2026 05:45:29 -0700",
+    "category": "FortiAIOps",
+    "Release": "2024-10-07",
+    "End of Engineering Support": "2027-10-07",
+    "End of Support": "2029-04-07"
+  },
+  {
+    "title": "FortiAIOps 3.0",
+    "guid": "ffa153212cff7ef39f0aade8c25a052f4857bda0f0aafddb21cb371e999d88b5",
+    "pubDate": "Fri, 09 Oct 2026 05:46:14 -0700",
+    "category": "FortiAIOps",
+    "Release": "2025-06-28",
+    "End of Engineering Support": "2028-06-28",
+    "End of Support": "2029-12-28"
+  },
+  {
+    "title": "FortiAIOps 3.2",
+    "guid": "6b2f29531febd7df14253692f347268b3f4e625325bcc2f3838ef4251fabf755",
+    "pubDate": "Fri, 09 Oct 2026 05:46:49 -0700",
+    "category": "FortiAIOps",
+    "Release": "2025-12-11",
+    "End of Engineering Support": "2028-12-11",
+    "End of Support": "2030-06-11"
+  },
+  {
+    "title": "FortiAIOps 3.4",
+    "guid": "537db64e9761597ddbc5aa8f5db575ce15ffebd4a4c783dce3d1843bd427561a",
+    "pubDate": "Fri, 09 Oct 2026 05:47:17 -0700",
+    "category": "FortiAIOps",
+    "Release": "2026-04-30",
+    "End of Engineering Support": "2029-04-30",
+    "End of Support": "2030-10-30"
+  }
+]
