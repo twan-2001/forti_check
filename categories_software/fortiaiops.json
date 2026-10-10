@@ -61,5 +61,14 @@
     "Release": "2026-04-30",
     "End of Engineering Support": "2029-04-30",
     "End of Support": "2030-10-30"
+  },
+  {
+    "title": "FortiAIOps 3.6",
+    "guid": "af5bc98e13c6e61f6d4a353afbf886ce14831512da853cd4c383198a381cd188",
+    "pubDate": "Fri, 09 Oct 2026 05:47:47 -0700",
+    "category": "FortiAIOps",
+    "Release": "2026-10-01",
+    "End of Engineering Support": "2029-10-01",
+    "End of Support": "2031-04-01"
   }
 ]
