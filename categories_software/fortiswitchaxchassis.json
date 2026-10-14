@@ -1,0 +1,20 @@
+[
+  {
+    "title": "FortiSwitchAXChassis 1.0",
+    "guid": "ea8d151bb23be5e675d744f3e1244c25ef80a794357eab90dc2adbf06be51c22",
+    "pubDate": "Tue, 13 Oct 2026 22:16:54 -0700",
+    "category": "FortiSwitchAXChassis",
+    "Release": "2025-11-06",
+    "End of Engineering Support": "2028-11-06",
+    "End of Support": "2030-05-06"
+  },
+  {
+    "title": "FortiSwitchAXChassis 1.1",
+    "guid": "6e7209eb5b7316751e888069d4aea23e5f240791ef43b319640640ce5eb563f9",
+    "pubDate": "Tue, 13 Oct 2026 22:17:31 -0700",
+    "category": "FortiSwitchAXChassis",
+    "Release": "2026-04-03",
+    "End of Engineering Support": "2029-04-03",
+    "End of Support": "2030-10-03"
+  }
+]

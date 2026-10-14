@@ -99,6 +99,15 @@
     "End of Support": "2029-06-19"
   },
   {
+    "title": "FortiVoiceOS 7.4",
+    "guid": "2a42efe8f123a3f5142f39e1660faad291370d7218d5779589a1bf2024993fb4",
+    "pubDate": "Tue, 13 Oct 2026 13:14:51 -0700",
+    "category": "FortiVoiceOS",
+    "Release": "2025-12-18",
+    "End of Engineering Support": "2028-12-18",
+    "End of Support": "2030-06-18"
+  },
+  {
     "title": "FortiVoiceOS 8.0",
     "guid": "a269260a3328d56a8b10ff85337796f9b441e45127086ffe241bd3bd91f3e0ab",
     "pubDate": "Mon, 06 Jul 2026 12:29:34 -0700",
