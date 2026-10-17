@@ -1,5 +1,15 @@
 [
   {
+    "title": "AX-2530-08P-B",
+    "guid": "abddfc3703b263fe5232dcd89a6790a2aac272742f54bc5c6707e44bea970eb7",
+    "pubDate": "Fri, 16 Oct 2026 00:10:19 -0700",
+    "category": "FortiSwitch-AX",
+    "End of Order": "2027-01-14",
+    "Last Service Extension": "2031-01-14",
+    "End of Support": "2032-01-14",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "AX-2530-08TC1-B",
     "guid": "9dce8fbef11c33f4c93ab6dae160629e04418b332fa55f7ff713a262ba360e67",
     "pubDate": "Fri, 16 Oct 2026 00:10:18 -0700",

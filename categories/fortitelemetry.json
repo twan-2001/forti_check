@@ -8,5 +8,15 @@
     "Last Service Extension": "2031-01-14",
     "End of Support": "2032-01-14",
     "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "AX-A1630-08TL",
+    "guid": "abddfc3703b263fe5232dcd89a6790a2aac272742f54bc5c6707e44bea970eb7",
+    "pubDate": "Fri, 16 Oct 2026 00:10:19 -0700",
+    "category": "FortiTelemetry",
+    "End of Order": "2027-01-14",
+    "Last Service Extension": "2031-01-14",
+    "End of Support": "2032-01-14",
+    "Last Supported Software Version": "N/A"
   }
 ]
