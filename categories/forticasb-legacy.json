@@ -1,12 +1,12 @@
 [
   {
-    "title": "FortiCASB",
-    "guid": "d5ebc5e825a2a6d60a38aa238d1714a26e2c7bc4fa9c757f8a9db1bacd38fd83",
-    "pubDate": "Fri, 04 Sep 2026 14:38:39 -0700",
+    "title": "FortiCASB-Legacy",
+    "guid": "958739da7b40b8d915494730f1939e5c47cec11d9a466994fbf5f38b28c88dc9",
+    "pubDate": "Fri, 23 Oct 2026 00:10:07 -0700",
     "category": "FortiCASB-Legacy",
-    "End of Order": "2026-11-01",
-    "Last Service Extension": "2026-11-01",
-    "End of Support": "2026-11-01",
+    "End of Order": "2027-01-21",
+    "Last Service Extension": "2031-01-21",
+    "End of Support": "2032-01-21",
     "Last Supported Software Version": "N/A"
   }
 ]
