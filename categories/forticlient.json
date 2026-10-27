@@ -48,5 +48,15 @@
     "Last Service Extension": "2027-12-31",
     "End of Support": "2028-12-31",
     "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiEndpoint-NFR",
+    "guid": "51fd1246dc77005fa5ca9b70ab47927d8a01892372e2ef3b0ee250a8da535f97",
+    "pubDate": "Mon, 26 Oct 2026 00:10:38 -0700",
+    "category": "FortiClient",
+    "End of Order": "2027-01-24",
+    "Last Service Extension": "2031-01-24",
+    "End of Support": "2032-01-24",
+    "Last Supported Software Version": "N/A"
   }
 ]
