@@ -300,6 +300,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiRecorder-400F",
+    "guid": "6e60a87da2b8266e74b31aad848eeec4a3999334dcc8cdc402add2d438224c1a",
+    "pubDate": "Fri, 30 Oct 2026 00:10:59 -0700",
+    "category": "FortiRecorder/Camera",
+    "End of Order": "2027-01-28",
+    "Last Service Extension": "2031-01-28",
+    "End of Support": "2032-01-28",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiRecorder-VM-USG",
     "guid": "951d6b4cce013f33c44403847be29fd4beda30488223ee4ca369d8d546200f7f",
     "pubDate": "Wed, 04 Dec 2019 06:15:26 -0800",
