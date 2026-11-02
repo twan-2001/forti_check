@@ -300,6 +300,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiMail-400F",
+    "guid": "0cbbfa93090d13f7738d00c61552d7dcffd78efa2e69d92f620b97490157f2df",
+    "pubDate": "Sun, 01 Nov 2026 23:11:01 -0800",
+    "category": "FortiMail",
+    "End of Order": "2027-01-31",
+    "Last Service Extension": "2031-01-31",
+    "End of Support": "2032-01-31",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiMail-5001A",
     "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
     "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
