@@ -220,6 +220,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiSwitch-224E",
+    "guid": "e9dd18f30211904f1ba740f6d3daf9419168af2c4261f2490c35c1e20a80ca8a",
+    "pubDate": "Sun, 08 Nov 2026 23:10:39 -0800",
+    "category": "FortiSwitch",
+    "End of Order": "2027-02-07",
+    "Last Service Extension": "2031-02-07",
+    "End of Support": "2032-02-07",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiSwitch-248B",
     "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
     "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
