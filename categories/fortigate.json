@@ -990,6 +990,36 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiGate-2200E",
+    "guid": "a2dc8a011bbe98c441aa3881f07a4d5057928145f98e9c7f9a498b3613f75211",
+    "pubDate": "Sat, 14 Nov 2026 23:10:30 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2201E",
+    "guid": "7e56a4ed032cbfb165e7fcb7807f7924d712c128370bf25941e9337510460851",
+    "pubDate": "Sat, 14 Nov 2026 23:10:31 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2201E-ACDC",
+    "guid": "7e56a4ed032cbfb165e7fcb7807f7924d712c128370bf25941e9337510460851",
+    "pubDate": "Sat, 14 Nov 2026 23:10:31 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiGate-224B",
     "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
     "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
@@ -1037,6 +1067,36 @@
     "End of Order": "2019-04-16",
     "Last Service Extension": "2023-04-16",
     "End of Support": "2024-04-16",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2500E",
+    "guid": "7e56a4ed032cbfb165e7fcb7807f7924d712c128370bf25941e9337510460851",
+    "pubDate": "Sat, 14 Nov 2026 23:10:31 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2500E-LENC",
+    "guid": "7e56a4ed032cbfb165e7fcb7807f7924d712c128370bf25941e9337510460851",
+    "pubDate": "Sat, 14 Nov 2026 23:10:31 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-2500E-USG",
+    "guid": "7e56a4ed032cbfb165e7fcb7807f7924d712c128370bf25941e9337510460851",
+    "pubDate": "Sat, 14 Nov 2026 23:10:31 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
     "Last Supported Software Version": "N/A"
   },
   {
@@ -2410,6 +2470,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiGate-400E-BYPASS-LENC",
+    "guid": "a2dc8a011bbe98c441aa3881f07a4d5057928145f98e9c7f9a498b3613f75211",
+    "pubDate": "Sat, 14 Nov 2026 23:10:30 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiGate-4010B",
     "guid": "50dddccb077d2b2fff2e78e8921a38bacc8a60644c21449e2911298aaea975ba",
     "pubDate": "Sat, 14 Jan 2017 17:05:55 -0800",
@@ -3100,6 +3170,16 @@
     "Last Supported Software Version": "N/A"
   },
   {
+    "title": "FortiGate-600E",
+    "guid": "a2dc8a011bbe98c441aa3881f07a4d5057928145f98e9c7f9a498b3613f75211",
+    "pubDate": "Sat, 14 Nov 2026 23:10:30 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
+    "Last Supported Software Version": "N/A"
+  },
+  {
     "title": "FortiGate-600F",
     "guid": "14c4658db9b11a1011784a25d9341496e75b08d19a0c48ea2934ebacc5e3be45",
     "pubDate": "Sat, 31 Jan 2026 00:10:25 -0800",
@@ -3127,6 +3207,16 @@
     "End of Order": "2026-05-01",
     "Last Service Extension": "2030-05-01",
     "End of Support": "2031-05-01",
+    "Last Supported Software Version": "N/A"
+  },
+  {
+    "title": "FortiGate-601E #1",
+    "guid": "a2dc8a011bbe98c441aa3881f07a4d5057928145f98e9c7f9a498b3613f75211",
+    "pubDate": "Sat, 14 Nov 2026 23:10:30 -0800",
+    "category": "FortiGate",
+    "End of Order": "2027-02-13",
+    "Last Service Extension": "2031-02-13",
+    "End of Support": "2032-02-13",
     "Last Supported Software Version": "N/A"
   },
   {
