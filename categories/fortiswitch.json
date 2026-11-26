@@ -640,16 +640,6 @@
     "Last Supported Software Version": "N/A"
   },
   {
-    "title": "FortiSwitchManager",
-    "guid": "01789ba842a8e9ca1324c853999e858ae08f025025d70fb33d68655b5d1b388d",
-    "pubDate": "Fri, 31 Jul 2026 00:10:37 -0700",
-    "category": "FortiSwitch",
-    "End of Order": "2026-10-29",
-    "Last Service Extension": "2030-10-29",
-    "End of Support": "2031-10-29",
-    "Last Supported Software Version": "N/A"
-  },
-  {
     "title": "FortiSwitchRugged-112D-POE",
     "guid": "e34887bada60040a0b767c3e884868c00815ada3fcd9187136fd588d0d975633",
     "pubDate": "Wed, 30 Apr 2025 00:10:05 -0700",
