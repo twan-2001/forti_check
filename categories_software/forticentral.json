@@ -115,5 +115,14 @@
     "Release": "2026-04-23",
     "End of Engineering Support": "2029-04-23",
     "End of Support": "2030-10-23"
+  },
+  {
+    "title": "FortiCentral 7.6",
+    "guid": "bbaffdebcaf0169edfeaa96ef8a55a1f01605db0a41ac32c5d02a0f2d32073c6",
+    "pubDate": "Fri, 27 Nov 2026 04:56:51 -0800",
+    "category": "FortiCentral",
+    "Release": "2026-11-26",
+    "End of Engineering Support": "2029-11-26",
+    "End of Support": "2031-05-26"
   }
 ]
